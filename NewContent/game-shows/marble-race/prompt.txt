@@ -1,0 +1,16 @@
+The scraped content is a detailed review of a slot-style game show called "Marble Race" by Evolution, focused on gameplay mechanics, features, RTP, betting limits, and player experience.
+
+Research prompt:
+
+Expand and update the current status and detailed profile of the game "Marble Race" by Evolution as available for Japanese players, including relevant regulatory and market considerations. Include answers to the following:
+
+- What is the latest official release date and version updates of "Marble Race"? Are there any new features or gameplay changes since the last update?
+- How is "Marble Race" integrated into Japanese-facing online casinos? Which licensed casinos accept JPY deposits and payout winnings for this game?
+- Provide detailed verified RTP statistics and volatility data as published by Evolution or authoritative regulatory bodies, with benchmarks against similar game shows targeting Japanese users.
+- What are the minimum and maximum betting limits typically offered for Japanese players, considering currency conversion and platform policies? Are there notable variations among casinos?
+- Analyze user engagement and popularity metrics for "Marble Race" in the Japanese market, including average session times and hit frequency if available.
+- Discuss the mobile platform compatibility and performance specific to Japan, including any localized app versions or browser optimizations.
+- Outline compliance and regulatory requirements impacting availability and play of such game shows in Japan, including any restrictions on advertising, payout caps, or licensing.
+- Compare "Marble Race" with competing game shows or slot games by other providers in terms of features, RTP, jackpot potential, and player experience relevant to Japanese customers.
+
+Use primarily authoritative English-language sources such as Evolution’s official site, global gambling regulators, and respected gaming industry analyses; incorporate authoritative Japanese sources only if necessary for Japan-specific market or regulatory data. Avoid low-quality or SEO-heavy websites.

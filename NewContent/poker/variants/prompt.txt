@@ -1,0 +1,23 @@
+Identify the page type of the scraped content from the Japanese online casino affiliate site on poker variants (most likely "info/explainer"). Then, construct a detailed research prompt to comprehensively update and expand this topic with accurate, current, Japan-relevant information. Ensure coverage of global and Japan-specific contexts, industry data, and regulatory compliance. The prompt should also guide exploration into types of poker games available for Japanese players, their gameplay mechanics, and casino platform support.
+
+Research Prompt:
+
+Please conduct thorough, up-to-date research on the varieties of poker games available to Japanese online casino players, focusing on the following points:
+
+- Provide an overview of major poker variants commonly offered online and in Japan: Texas Hold'em, Omaha (including Omaha Hi-Lo), Seven Card Stud, Five Card Draw, Caribbean Stud, Three Card Poker, Ultimate Texas Hold'em, and video poker. For each, detail their core gameplay mechanics, betting structures, and strategic complexity.
+
+- Detail the availability and popularity of these poker variants in Japanese-facing online casinos, including which licensed or offshore platforms offer them, especially those accepting JPY and Japanese players.
+
+- Examine any recent developments or shifts in poker game offerings targeting Japan, including trends in live dealer poker versus RNG and video poker, and note any new or emerging poker variants gaining traction.
+
+- Provide data-backed insights on house edge percentages, RTP values, typical volatility, and player demographics for these poker variants relevant to Japanese audiences.
+
+- Compare the competitive landscape by surveying major poker providers, software developers, and platforms accessible from Japan, highlighting differences in game quality, bonuses, and user experience.
+
+- Summarize workflow or beginner guides for Japanese players interested in learning or improving their poker skills online, including common pitfalls and terminology specific to each game variant.
+
+- Assess the legal and regulatory environment for online poker in Japan, covering licensing requirements, restrictions on real-money play, compliance issues, and how Japanese operators or offshore sites navigate these regulations.
+
+- Review security, fairness, and responsible gambling measures for poker games accessible to Japanese players, along with any consumer protections related to disputes or fraud.
+
+When researching, prioritize authoritative English-language sources such as global gambling regulators, software providers, industry reports, and reputable media outlets. Include Japanese sources only if they are official or highly credible. Exclude low-value SEO marketing pages. The response should be factual, neutral, and focused on practical Japan-relevant player guidance.

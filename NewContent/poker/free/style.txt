@@ -1,0 +1,23 @@
+- **Tone and POV; sentence/paragraph length; heading/formatting habits:**  
+  - Informal, friendly, and approachable tone with occasional playful/emotive expressions (e.g., emojis, casual interjections)  
+  - Mix of second-person ("あなた", "楽しめます") and first-person plural/feminine character POV at times ("紹介していくわね")  
+  - Short to medium sentence length, mostly concise paragraphs for easy scanning  
+  - Frequent use of bullet points, numbered lists, and tables for clarity  
+  - Clear hierarchical headings with numbered sections and descriptive subtitles, often including keywords and dates (e.g., "【2025年】オンラインポーカー無料ゲームベスト5！")  
+  - Bold text and emoji usage for emphasis and friendly engagement  
+  - Links and buttons prominently displayed for calls to action  
+
+- **Typical vocabulary/phrases to emulate (described, not copied):**  
+  - Casual Japanese language with a mix of simple, conversational expressions and some specialist gambling/casino terminology  
+  - Emphasis on ease of use, beginner friendliness, and encouragement to try free/demo versions  
+  - Use of popular Japanese internet/chat styling with emojis and casual nouns to create a welcoming vibe  
+  - Phrases that invite the reader directly (“遊んじゃおう”, “さっそく無料で遊んじゃお”, “まだ登録してないなんてもったいない”)  
+  - Friendly mascots or characters referenced for personification  
+  - Usage of specific game names and companies with brief, clear descriptions to build trust and authority  
+
+- **Reading level; regional/Japan-specific traits:**  
+  - Written in standard Japanese for a general adult audience, approachable to beginners in online gaming and poker  
+  - Contains Japan-specific references: casinos popular in Japan, Japanese katakana for loanwords, Japanese currency/cultural context implied  
+  - Use of Japanese emoji styles and casual speech that resonate with a younger, internet-savvy Japanese audience  
+  - Incorporates Japanese-style web UX elements like “まとめ” (summary), “もっと見る” (read more), and “今すぐプレイ！” (play now!)  
+  - Structured for mobile friendliness and quick reading typical in Japanese web content about gambling and gaming

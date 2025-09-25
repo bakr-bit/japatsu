@@ -1,0 +1,25 @@
+- **Tone and POV**
+  - Conversational and friendly with a playful, informal vibe (use of emojis and casual endings like "〜", "っ", "🎵")
+  - Second-person perspective engaging directly with readers ("あなた", "チェックしてくださいね〜")
+  - Enthusiastic and promotional, mixing explanatory content with marketing pitch
+
+- **Sentence/Paragraph Length; Heading/Formatting Habits**
+  - Sentences often short to medium, easy-to-read; paragraphs concise
+  - Frequent use of emojis and informal punctuation (exclamation marks, playful symbols)
+  - Headings use multi-level Markdown (#, ##, ###, ####), descriptive and often numbered lists for clarity
+  - Boldface for emphasis on keywords and phrases, inline links heavily employed
+  - Tables used to summarize ranked lists
+  - Images/charts placed near relevant content for visual engagement
+
+- **Typical Vocabulary/Phrases to Emulate**
+  - Casual Japanese expressions and slang soften technical or formal concepts
+  - Positive superlatives and enthusiasm ("優秀", "人気な理由", "盛りだくさん")
+  - Use of culturally familiar references ("ジャパカジ", "和"テーマ)
+  - Language encouraging action and involvement ("今すぐプレイ！", "チェック！", "見つけてプレイ！")
+  - Vocabulary tied to gaming and casino context, e.g., game variants, bonuses, providers
+
+- **Reading Level; Regional/Japan-Specific Traits**
+  - Easy to intermediate Japanese aimed at general adult audience interested in online casinos
+  - Japanese terms and cultural references integrated naturally (e.g., "パチンコ", emphasis on Japanese player preferences)
+  - Localization evident in expressions, polite casual style, and appeal to Japanese online casino market
+  - Mixing English loanwords with Japanese text common in gaming context (e.g., "ライブカジノ", "ボーナス")

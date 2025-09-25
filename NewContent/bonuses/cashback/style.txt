@@ -1,0 +1,24 @@
+- Tone & POV:
+  - Informal, friendly, and approachable with occasional casual emojis
+  - Uses direct address to readers (2nd person) to engage and guide them
+  - Mixes professional insight with playful phrasing (“紹介しちゃいます～♪”)
+- Sentence/Paragraph Length:
+  - Generally short sentences and paragraphs for easy scanning
+  - Uses bullet points and tables to condense complex info
+  - Headings are clear and functional, often including keywords and emotive icons
+- Heading/Formatting Habits:
+  - Utilizes numbered and bulleted lists for structure
+  - Includes emoji icons in headings and lists to increase appeal and emphasize points
+  - Use of bold text to highlight key terms and offers
+  - Tables used to organize detailed data clearly
+  - Links embedded in relevant text and calls to action are succinct and prominent
+- Typical Vocabulary/Phrases:
+  - Casual and promotional language with superlatives (“本命,” “充実,” “期待の”)
+  - Gambling-specific terms like “キャッシュバック,” “賭け条件,” “ボーナス”
+  - Japanese casino jargon blended with everyday expressions and a few English loanwords
+  - Guide-like, instructive phrasing to help readers make decisions (“探し方,” “解決方法”)
+- Reading Level & Regional/Japan Traits:
+  - Clear and simple Japanese designed for a wide audience including beginners
+  - Content tailored to Japanese users, referencing yen amounts and Japan-specific legal context
+  - Casual style reflects common web marketing tone in Japan, incorporating kawaii (cute) emoji culture
+  - Mix of formal structured info (tables, ratings) with informal tone reflects popular Japanese online content style

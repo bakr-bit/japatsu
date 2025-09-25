@@ -1,0 +1,21 @@
+- Tone and POV:
+  - Friendly, casual, and approachable with frequent emoticons and interjections (e.g., 😀, 😉, 💡, ♪, ～)
+  - Uses first-person plural ("ジャパカジでは") and direct address ("あなた", "ちゃいましょう") engaging the reader personally
+  - Mixes formal informational tone with conversational style and enthusiasm
+- Sentence/Paragraph Length; Headings/Formatting:
+  - Generally short to medium sentences, concise paragraphs, and segmented information blocks for easy scanning
+  - Frequent use of bullet lists, numbered steps, and tables to organize content clearly
+  - Headings structured hierarchically: main sections marked with "##", sub-sections with "###"
+  - Bold and emojis used to highlight key points and calls to action
+  - Hyperlinks integrated within text and buttons; repeated phrase "今すぐプレイ！" used as a call to action
+- Typical Vocabulary/Phrases:
+  - Simple everyday language mixed with industry-specific terms (e.g., "入出金", "カジノ", "手数料", "口座開設")
+  - Encouraging phrases focused on ease and safety ("超カンタン", "安全＆安心", "スムーズにできる")
+  - Informal expressions and sound effects (e.g., "グッと掴む", "いっちゃいますよ～", "要チェック！")
+  - Use of Japanese katakana for loanwords and product names combined with occasional English terms
+- Reading Level and Regional/Japan-Specific Traits:
+  - Written for a general Japanese adult audience with intermediate reading proficiency
+  - Utilizes Japanese kana and kanji with furigana-style clarifications embedded (e.g., ペイペイ（PayPay）)
+  - Strong Japan-centric context: references to Japanese banks, currency (JPY), and specific domestic payment services
+  - Regional focus on Japan’s online casino users, reflecting local compliance and legal considerations (mention of licenses,合法的)
+  - Includes culturally specific cues like emoji common in Japanese digital communication for friendliness and emphasis

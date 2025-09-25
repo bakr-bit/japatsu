@@ -1,0 +1,27 @@
+- Tone and POV  
+  - Conversational, informal, and friendly tone—often uses first-person ("ワタクシ") and direct address ("あなた")  
+  - Includes personal anecdotes and expressions of surprise or astonishment to engage readers  
+  - Uses rhetorical questions and onomatopoeic/emphatic phrases for emphasis  
+  - Mixes casual tone with expert advice and factual info  
+- Sentence and Paragraph Length  
+  - Generally short to medium sentences for readability  
+  - Paragraphs are brief, broken up for easy scanning, often one idea per paragraph  
+  - Frequent use of lists and bullet-like formatting, including emoji markers for tips  
+- Heading and Formatting Habits  
+  - Clear multi-level heading hierarchy (##, ###, #####, etc.) to organize content  
+  - Highlights key terms or game titles with bold formatting  
+  - Hyperlinks integrated naturally with anchor text, often leading to related guides or reviews  
+  - Incorporates emojis (e.g., 🤓) to signal tips or further information  
+  - Use of visual elements (images, rating stars) predominantly in external links, supporting authoritative appeal  
+- Typical Vocabulary and Phrases  
+  - Uses gambling and casino-specific jargon in Japanese context (e.g., ハイローラー, サロン・プリべ, MAXベット)  
+  - Friendly slang and casual expressions ("まぢっすか", "オーマイガッ！") to create relatable voice  
+  - Phrases that emphasize exclusivity and luxury (e.g., "ハイローラー専用", "独占テーブル")  
+  - Combines straightforward explanations with playful, hyperbolic language ("自殺行為だわ")  
+  - Terms acknowledge Japanese gambling culture, including references to whales and no land casinos in Japan  
+- Reading Level and Regional Traits  
+  - Written in natural, colloquial modern Japanese suited for adult gamblers or casino enthusiasts  
+  - Assumes basic familiarity with casino games, but provides accessible links for beginners  
+  - Incorporates Japanese yen currency and occasional USD amounts with local currency comparison  
+  - Reflects Japanese online gambling environment and terminology, mindful of Japan’s lack of land casinos  
+  - Mixes Western gambling terms and Japanese loanwords naturally adapted to local usage

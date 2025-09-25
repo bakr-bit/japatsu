@@ -1,0 +1,25 @@
+- Tone and POV:
+  - Friendly, casual, and enthusiastic tone with frequent emojis to engage readers
+  - First-person plural ("we," "our") from editorial perspective; occasionally directly addresses the reader ("皆さん," "みなさんも")
+  - Mix of informal expressions and promotional language with occasional playful phrases
+
+- Sentence/Paragraph Length; Headings/Formatting:
+  - Mostly short to medium sentences that are easy to scan
+  - Paragraphs are concise, often 2-4 lines max, conducive to online reading
+  - Headings use level 2 (##) and level 3 (###), clearly structured with numbering for lists/rankings
+  - Bold text frequently used for emphasis on key points or terms
+  - Use of bullet points, tables, and internal/external link anchors for navigation and clarity
+  - Emojis integrated into headings and body to maintain lively, approachable style  
+
+- Vocabulary/Phrases to Emulate:
+  - Common terms related to online casinos (e.g., ボーナス, 出金条件, オンラインカジノ, キャッシュバック)
+  - Positive adjectives and superlatives (e.g., 最大, うれしい, 人気)
+  - Phrases implying ease and benefit for the user (“賭け条件なし”, “夢が広がる”, “お得にプレイ”)
+  - Occasional onomatopoeic or conversational interjections (“っきゃない”, “〜！”)
+  - Use of regionally relevant currency (￥, $) and local brand names
+
+- Reading Level and Regional/Japan-Specific Traits:
+  - Reading level accessible to general Japanese online users familiar with gambling/online casino terms
+  - Mixes casual Japanese with industry-specific jargon
+  - Content specifically tailored for Japanese audience: references to 円 (JPY), Japanese named casinos, and usage of 日本語で遊べる
+  - Utilizes culturally relevant expressions and style conventions appropriate for Japanese web editorial content

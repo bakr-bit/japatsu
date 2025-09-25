@@ -1,0 +1,22 @@
+- Tone and POV:
+  - Casual, friendly, and conversational tone.
+  - Uses second-person POV ("あなた"/"you") to engage the reader directly.
+  - Includes informal expressions and rhetorical questions for relatability.
+- Sentence/Paragraph Length; Heading/Formatting:
+  - Mix of short and medium-length sentences for clarity and flow.
+  - Paragraphs generally short and digestible.
+  - Uses headings and subheadings (##, ###) to organize content logically.
+  - Lists and bullet points used for concise feature presentation.
+  - Occasional use of em dashes and parentheses for explanations or asides.
+- Vocabulary/Phrases:
+  - Everyday language with some gambling-specific terms explained simply.
+  - Frequently uses phrases that evoke excitement or ease ("簡単でしょ？", "かなり面白そう！").
+  - Uses Japanese loanwords and katakana for brand names and game titles.
+  - Includes Japanese-specific terminology relevant to gaming/gambling culture (e.g., "ボード", "フロップ", "ホールカード").
+  - Casual slang or conversational interjections ("ワタクシみたいに").
+- Reading Level and Regional Traits:
+  - Suitable for general adult Japanese readers, accessible vocabulary.
+  - Assumes some familiarity with poker but explains key terms for beginners.
+  - Incorporates Japan-specific regional context with Japanese-language navigation and casino references.
+  - Uses polite but informal Japanese appropriate for a consumer website targeting Japanese players.
+  - Mixes kanji, hiragana, and katakana naturally, adjusting for gaming terms and brand names.

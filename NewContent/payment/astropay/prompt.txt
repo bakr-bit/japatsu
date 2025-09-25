@@ -1,0 +1,12 @@
+Identify and update the current status and usability of AstroPay as an online casino payment method relevant to Japanese users, focusing on its withdrawal cutoff, market exit details, and current alternatives. Research should address the following:
+
+- What is the latest official status of AstroPay’s availability for Japanese online casino players, including withdrawal deadlines and reasons for Japan market exit?
+- How did AstroPay’s deposit and withdrawal flows work for Japanese users when active, including limits, supported currencies (JPY), fees, processing times, and verification/KYC requirements?
+- What security, fraud risks, and chargeback/refund policies applied to AstroPay within Japanese-facing casinos?
+- Which payment methods have effectively replaced AstroPay in the Japanese online casino market, especially those supporting JPY and crypto (e.g., BTC), and how do they compare in terms of reliability and convenience?
+- What are the regulatory and compliance considerations affecting prepaid virtual cards like AstroPay for online gambling in Japan, including recent changes or enforcement updates?
+- Are there notable differences in acceptance of AstroPay vs other e-wallets or prepaid cards across Japanese-facing casinos?
+- Provide recent data-backed facts or benchmarks on AstroPay’s market share decline and alternative payment growth in Japan.
+- Summarize any official statements or communications from AstroPay and major Japanese online casinos regarding the discontinuation and recommended alternatives.
+
+Use primarily authoritative English-language industry reports, regulatory announcements, and official AstroPay communications; include Japanese sources only if highly reputable. Avoid marketing or affiliate sites unless they provide verifiable data.

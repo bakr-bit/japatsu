@@ -1,0 +1,22 @@
+Research goal: Update and fact-check the 21.com (Japan-facing) review to 2025 standards, fill gaps, and validate all offers/terms.
+
+Key questions:
+- Status and ownership: Is 21.com still operating in Japan (2025)? Current operator/legal entity and group (PressEnter Group/Betpoint Group)? Active MGA license details (number, validity, responsible gambling policies, ADR).
+- Welcome offers: Current no-deposit/free spins and deposit bonuses for Japan. Are 1000 total free spins and the four-part up to $1,000 welcome still live? Confirm bonus codes (BON1–BON4), bonus structure, eligible games, spin value, expiry windows. Any changes to wagering (50x?), max bet ($3?), game contribution and prohibited games list (updated titles).
+- Ongoing promos: Monday 300 FS and Weekend Spins—still active? Terms, eligible games, turnover, opt-in rules, geo restrictions for JP.
+- Payments for Japan: Updated deposit/withdrawal methods (Visa, MasterCard, Payz, Venus Point, iWallet, bank transfer), availability by JP IP/KYC, limits, fees (Payz $1 deposit fee, $3 per withdrawal), processing times, min/max deposit/withdrawal (still $25/$50?), currency options (USD/JPY), bank transfer details (SWIFT fees, intermediary bank costs).
+- KYC/AML and withdrawals: Verification requirements for Japanese residents, typical approval times, max withdrawal caps, documents accepted, PEP/sanctions screening, source-of-funds triggers.
+- Game portfolio: Current provider list and game count for Japan (Evolution, Pragmatic Play Live, ELK, Quickspin, Microgaming availability in JP). Any exclusions by region. Notable JP-popular titles, Megaways, crash, game shows.
+- VIP/loyalty: Does 21.com have an active VIP/loyalty/comp points program? Entry criteria, tiers, rewards (cashback, rakeback, FS), terms and availability for JP.
+- UX/localization: Site language quality for Japanese, mobile performance, search/filter features, app availability (iOS/Android/PWA), translation accuracy improvements since prior review.
+- Support: Japanese-language support availability/hours (still irregular?), channels (live chat/email), response times, quality; any phone support added.
+- Fairness/compliance: RTP disclosure policy, game testing (e.g., iTech Labs/eCOGRA), reality checks, deposit/loss/time limits, self-exclusion/cooling-off, links to RG organizations for Japan.
+- Reputation: 2023–2025 player feedback from AskGamblers, CasinoGuru, Trustpilot, forums (complaints about confiscations, slow KYC, bonus voids), resolution rates.
+- Competitive context: Compare 21.com’s JP offer vs key competitors (e.g., Vera&John, Casumo JP, PlayOJO, Bons) on wagering, max bet, payment fees, withdrawal times, JP localization.
+
+Sources to check:
+- 21.com JP site (promotions, terms & conditions, bonus T&Cs, payments, RG pages)
+- PressEnter Group corporate/licensing pages, MGA register
+- Third-party review sites, complaint databases, and player forums
+- Payment provider availability notices for Japan (Payz, Venus Point, iWallet)
+- Wayback Machine snapshots to track promo changes over time.

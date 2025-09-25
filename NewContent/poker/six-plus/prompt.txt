@@ -1,0 +1,15 @@
+Infer the page type as "guide/how-to" focused on explaining and teaching the game Six-Plus (Short Deck) Poker.
+
+Research prompt:
+Please conduct an in-depth research update and expansion on the topic of Six-Plus (Short Deck) Poker with a focus on Japan-relevant information. Cover the following aspects:
+
+- Provide the latest overview of Six-Plus Poker’s rules, strategies, and differences from Texas Hold’em, citing up-to-date, authoritative sources.
+- What are the current popular Japanese-facing online casinos or poker platforms offering Six-Plus Poker? Include availability of Japanese language support, JPY deposits/withdrawals, and regional restrictions if any.
+- Include recent data-backed benchmarks such as return-to-player rates, house edges, and win probabilities specific to Six-Plus Poker compared to traditional Texas Hold’em.
+- Outline step-by-step beginner-friendly guides or glossaries for Japanese players new to Six-Plus, including common pitfalls and strategic tips.
+- Analyze the regulatory environment around online poker and specifically Six-Plus Poker in Japan, including legality, licensing requirements, and compliance considerations.
+- What alternatives or competing poker variants and platforms attract Japanese players interested in Six-Plus? How do these compare in terms of gameplay and user experience?
+- Investigate typical deposit/withdrawal flows, payment methods acceptable for poker sites hosting Six-Plus in Japan, and any recent updates or changes affecting Japanese users.
+- Assess responsible gambling resources, player protections, and community or official support channels available to Japanese users engaging with Six-Plus Poker.
+
+Prioritize English-language official gaming bodies, poker experts, and major global or Asia-Pacific poker operators, supplemented by authoritative Japanese sources if needed. Exclude low quality or purely SEO-driven content.

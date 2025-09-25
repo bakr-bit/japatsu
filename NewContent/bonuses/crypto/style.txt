@@ -1,0 +1,21 @@
+- Tone and POV:
+  - Informal and engaging, using conversational Japanese with casual enthusiasm.
+  - Mostly second-person perspective, directly addressing the reader (“ゼッタイもらって！”).
+  - Uses emotive punctuation and casual particles (e.g., "♪", "？！") to maintain a lively tone.
+- Sentence/Paragraph Length; Headings/Formatting:
+  - Sentences tend to be short to medium length; paragraphs are concise or broken up by bullet points and images.
+  - Frequent use of headings with clear hierarchy (H2 level for main sections).
+  - Use of bullet lists and numbered navigation breadcrumbs.
+  - Combination of text and multiple images with embedded links; bold text used to highlight dates and key info.
+- Typical Vocabulary/Phrases:
+  - Casual, promotional language with calls to action (“今すぐプレイ！”, “ゲット♪”).
+  - Includes gambling and crypto-specific terms (e.g., “フリスピ”, “賭け条件”, “匿名性”).
+  - Emphasis on benefits and exclusivity with superlatives and time-sensitive offers (“最大25,000ドル”, “2025年最新”).
+  - Some English terms integrated naturally, reflecting common usage in Japan’s iGaming and crypto context (“ボーナス”, “フリーベット”).
+- Reading Level:
+  - Accessible to a broad Japanese audience, likely at a junior high to high school level.
+  - Uses Kana and Kanji balanced with some loanwords and slang, keeping readability moderate.
+- Regional/Japan-Specific Traits:
+  - Content tailored for Japanese online casino users, referencing yen-based gift cards (“アマギフ”) and legal considerations specific to Japan.
+  - Navigation and content structured to accommodate Japanese reading habits (vertical spacing, line breaks).
+  - Cultural references to Japanese crypto trends and gambling terminology familiar to the local market.

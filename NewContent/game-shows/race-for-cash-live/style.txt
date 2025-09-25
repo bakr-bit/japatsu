@@ -1,0 +1,25 @@
+- Tone and POV:
+  - Casual, conversational, and friendly with frequent use of emojis and onomatopoeic expressions (e.g., "😆", "♫", "っ♪").
+  - First-person plural and inclusive ("楽しんじゃお！", "見ているだけでも楽しい").
+  - Encouraging and promotional, aiming to engage readers and invite them to play.
+- Sentence/Paragraph Length:
+  - Generally short to medium-length sentences.
+  - Paragraphs are brief and visually separated by headings, bullet points, and tables for easy scanning.
+- Heading/Formatting Habits:
+  - Clear hierarchical headings (##, ###) organizing content logically.
+  - Use of bold text for key terms and phrases.
+  - Frequent use of tables for structured information (e.g., bonuses, RTP, odds).
+  - Emojis integrated inline to add personality and emphasize points.
+  - Links embedded naturally with descriptive anchor text.
+- Typical Vocabulary/Phrase Style:
+  - Colloquial, enthusiastic words and phrases that create a sense of fun and excitement.
+  - Use of gambling and gaming-specific terminology (e.g., RTP, ボラティリティ, ベット, 配当倍率).
+  - Japanese honorific and polite expressions mixed with slang and casual interjections.
+  - Japanese-English mix for game titles, terms, and brand names.
+  - Playful expressions inviting reader participation and community feeling ("応援しよっ", "早速チェックしていこーっ♪").
+- Reading Level and Regional Traits:
+  - Targeted at Japanese-speaking readers familiar with online gaming and casino culture.
+  - Written at an accessible level for adults with some technical gaming vocabulary.
+  - Incorporates Japan-specific terms and examples (e.g., "競馬や競輪", "ジャパカジ限定ボーナス").
+  - Cultural nuance in phrasing and humor, reflecting Japanese digital media style.
+  - Use of katakana and kanji linked with explanatory context to accommodate a broad Japanese audience.

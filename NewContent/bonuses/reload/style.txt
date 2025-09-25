@@ -1,0 +1,27 @@
+- Tone and POV:  
+  - Friendly, conversational, and slightly informal with use of emojis and casual expressions  
+  - Primarily second-person direct address ("you"), engaging the reader personally  
+  - Occasionally playful and enthusiastic, adding emotional emphasis (e.g., "ワクワク", "熱い🔥")  
+- Sentence and Paragraph Length:  
+  - Mostly short to medium sentences for readability  
+  - Paragraphs are concise, often 2-4 sentences each  
+  - Frequent use of headings and subheadings to break content into manageable sections  
+- Heading and Formatting Habits:  
+  - Clear hierarchical structure with nested headings (##, ###)  
+  - Use of bold text for emphasis on key terms  
+  - Frequent use of bullet points, numbered lists, and tables to organize information  
+  - Incorporation of emojis and icons within headings or text to create visual appeal and highlight topics  
+- Typical Vocabulary/Phrases:  
+  - Casual, approachable vocabulary with occasional slang or onomatopoeic expressions (e.g., "お得", "ちゃう", "うる")  
+  - Frequent use of gambling- and casino-specific terms explained clearly (e.g., "リロードボーナス", "賭け条件")  
+  - Explanatory phrases; anticipates reader questions and concerns using phrases like "例えば", "重要なポイント"  
+  - Phrases encouraging verification or caution ("利用規約をチェック", "必ず確認")  
+- Reading Level:  
+  - Accessible language aimed at general adult readers, including those new to online casinos  
+  - Simple grammar with some technical terms explained in an easy-to-understand manner  
+  - Use of visual aids and mascots supports comprehension  
+- Regional / Japan-specific Traits:  
+  - Entirely in Japanese with Japan-specific currency and references to Japanese online casinos  
+  - Use of Japanese cultural emoji styles and mascots for localized appeal  
+  - Links and examples tailored to Japanese audience, featuring yen currency and local services  
+  - Politeness balanced with casual style typical in Japanese web marketing aimed at younger to middle-aged adults

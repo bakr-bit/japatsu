@@ -1,0 +1,10 @@
+Identify and analyze the use of USDT (Tether) as a payment method in Japanese online casinos, focusing on its current acceptance and practical use for Japanese players. Include in your research these points:
+
+- What are the typical deposit and withdrawal processes using USDT at major Japanese-facing online casinos? Include verification (KYC) requirements and typical processing times.
+- What are the current transaction limits, fees, and currency exchange considerations for using USDT in casinos accessible to Japan-based users? How do they compare to more established cryptocurrency methods like Bitcoin?
+- How reliable and secure is USDT as a payment method in online casinos popular with Japanese players? Discuss known fraud or chargeback risks.
+- Are there regulatory or legal considerations specific to Japan regarding the use of USDT in online gambling, including compliance with Japanese financial and gambling laws?
+- What are the available alternatives to USDT for Japanese players in terms of cryptocurrency payment methods, and how do they differ in usability and legal acceptance?
+- How recent and comprehensive is the data on USDT adoption in Japanese online casinos? Include official sources or benchmarks and note any significant updates or emerging trends from 2023–2024.
+- Are there any notable Japanese or international online casinos heavily promoting USDT payments, and what bonuses or unique features do they offer for using USDT?
+- How accessible is USDT for Japanese players given the current absence of USDT on major Japanese crypto exchanges? What are the implications for acquisition and usability?

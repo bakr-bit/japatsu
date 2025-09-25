@@ -1,0 +1,11 @@
+Research and update comprehensive information on the payment method "Tiger Pay" as used in Japanese online casinos, focusing on its current status, usability, and compliance for Japanese players. Include detailed exploration of the following points:
+
+- What are the current deposit and withdrawal flows using Tiger Pay at Japanese-facing online casinos, including supported currencies, especially JPY handling, and integration with popular casinos like Konibet, Joy Casino, and Casino-X?
+- What are the minimum and maximum transaction limits for deposits and withdrawals, including ATM withdrawal caps and monthly limits, and how do these limits impact high rollers in Japan?
+- What are the KYC and verification requirements for Tiger Pay accounts, especially regarding upgrading from Fast (email-only) to Personal accounts for full withdrawal options?
+- What are the processing times for deposits, withdrawals, and prepaid card loading? Are there any known delays or common issues reported by Japanese users?
+- What fees does Tiger Pay charge on deposits, withdrawals, currency exchanges, and prepaid card issuance? How do these compare to alternative payment methods accepted by Japanese online casinos?
+- How reliable and secure is Tiger Pay’s service in the Japanese market context? Include fraud risk assessments and any known chargeback or refund policies relevant to Japanese users.
+- How compliant is Tiger Pay with Japanese financial regulation, gambling laws, and data privacy standards (including considerations about international licenses like Curacao and Malta versus domestic rules)?
+- What are the major alternatives or competitors to Tiger Pay for Japanese players, especially those offering cryptocurrency support, multi-currency exchanges, or prepaid card functionalities?
+- Provide the most recent authoritative data and benchmarks on Tiger Pay’s market share, user satisfaction, and adoption trends among Japanese online casino players, referencing credible global and Japanese sources.

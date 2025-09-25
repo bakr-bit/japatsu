@@ -1,0 +1,29 @@
+- Tone and POV:
+  - Friendly, conversational, and encouraging; occasionally casual with emoji use to create a relaxed atmosphere
+  - Mix of first-person plural ("ワタシたち") and second-person direct address ("ご安心をっ！"), engaging the reader personally
+  - Informal expressions mixed with professional content, balancing reliability with approachability
+
+- Sentence and paragraph length:
+  - Generally short to medium-length sentences for easy readability
+  - Paragraphs are concise, often 1-4 sentences, with frequent use of lists and step-by-step instructions
+  - Frequent use of headings and subheadings breaks content into digestible sections
+
+- Heading and formatting habits:
+  - Clear hierarchical structure with multiple heading levels (## and ###), well segmented by topic
+  - Bold text highlights key terms or phrases; links often embedded in text and sometimes emphasized with bold and emojis
+  - Frequent use of emojis to reinforce tone and clarify points visually
+
+- Typical vocabulary and phrases:
+  - Japanese industry-specific terms related to online casinos and payment systems mixed with branded product names (e.g., マッチペイ, Match Coin)
+  - User-oriented, supportive phrases encouraging exploration and caution (e.g., "しっかり選びたい", "ご安心をっ！")
+  - Technical terms explained simply and sometimes supplemented with friendly character explanations (e.g., P2P explained via a mascot persona)
+
+- Reading level:
+  - Accessible for intermediate Japanese internet users interested in online gambling and finance-related content
+  - Mixes casual language with domain-specific jargon, explained in layman’s terms
+  - Intended for adult readers with some familiarity with online casinos and digital payments
+
+- Regional/Japan-specific traits:
+  - Content fully in Japanese with occasional English loanwords and branded terms common in Japan’s online casino space
+  - References to Japanese yen and local cultural preferences around gambling and payment security
+  - Use of Japanese-specific emoji styles and mascots (e.g., サポ美, オカ教授) for local cultural appeal and engagement

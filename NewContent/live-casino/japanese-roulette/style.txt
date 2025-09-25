@@ -1,0 +1,28 @@
+- Tone and POV:
+  - Friendly, approachable, and conversational tone.
+  - Uses casual, informal expressions with emoji to engage readers.
+  - Written in second-person POV directly addressing the reader (“あなた”, “遊べる”).
+  - Mixes expert/review voice and community-like encouragement.
+
+- Sentence/paragraph length; headings/formatting habits:
+  - Sentences are mostly short to medium length, easy to scan.
+  - Paragraphs are brief and focused.
+  - Frequent use of headings and subheadings with ## for section division.
+  - Uses bullet points, numbered lists, tables, and links liberally.
+  - Emphasis with bold, emoji, and Japanese exclamation marks for enthusiasm.
+  - Embeds calls to action like links/buttons ("今すぐプレイ！", "詳細を見る").
+  - Uses embedded images and star ratings as visual highlights.
+
+- Typical vocabulary/phrases to emulate:
+  - Casual gambling and gaming terms mixed with promotional language.
+  - Encouraging and reassuring phrases (“初心者さんもOK”, “ストレスフリーで遊べる”).
+  - Phrases indicating features and benefits clearly.
+  - Japanese phrases with a sprinkle of playful English loanwords and onomatopoeia.
+  - Use of Japanese live casino and roulette jargon tailored for Japanese players.
+
+- Reading level; regional/Japan-specific traits:
+  - Japanese language with simple and accessible vocabulary suitable for general adult audience.
+  - Contains Japan-specific terms and references (e.g., “ジャパニーズ・ルーレット”, “カジノ”, “ライブカジノ”).
+  - Uses polite and friendly Japanese appropriate for consumer internet content.
+  - Written for Japanese speakers interested in online casino entertainment and gaming culture.
+  - Includes localized examples and direct invitation to Japanese-targeted casino sites.

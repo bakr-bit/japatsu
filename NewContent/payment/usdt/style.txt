@@ -1,0 +1,31 @@
+- Tone and POV:
+  - Conversational and informal, often using first-person plural/plural "we" and first-person singular ("私") to create familiarity.
+  - Friendly, approachable, and supportive, occasionally inserting personal opinion or experience.
+  - Mix of explanatory and promotional tones.
+- Sentence/Paragraph Length:
+  - Sentences tend to be short to medium length for clarity.
+  - Paragraphs are generally brief, often 2-4 sentences, making content easy to scan.
+  - Use of bullet points and numbered lists to organize information effectively.
+- Heading/Formatting Habits:
+  - Clear, descriptive headings mostly at H2 level, organized by topic.
+  - Hyperlinks embedded naturally within phrases, often descriptive of the link content.
+  - Bold text used for emphasis on keywords or calls to action.
+  - Use of tables for presenting comparative or list data.
+  - Frequent use of mascots or emojis (illustrated with SVG images) to add character.
+  - Calls to action like "今すぐプレイ！" and “詳細を見る” repeated consistently.
+- Typical Vocabulary / Phrases:
+  - Everyday Japanese with casual expressions ("〜だよね", "〜だと思います").
+  - Terms related to cryptocurrency and online casinos but explained simply.
+  - Phrases that invite user engagement (“ちょっとチェックしてみてよね”).
+  - Promotional phrases are straightforward and persuasive, e.g., “最新オンラインカジノ”, “責任あるプレイ”.
+  - Use of technical terms like “仮想通貨”, “価格が固定されている”, “法定通貨” with plain definitions.
+  - Colloquial language that reduces complexity, sometimes using rhetorical questions.
+- Reading Level:
+  - Accessible to a general adult Japanese audience with basic knowledge of finance or online gaming.
+  - Explanations avoid jargon overload and include helpful descriptions.
+  - Suitable for readers with intermediate Japanese proficiency.
+- Regional / Japan-specific Traits:
+  - Content localized for Japanese users, with references to “日本円”, “日本国内の取引所” and casual instructional style suited to Japanese web audiences.
+  - Use of mascots (カジ子) and casual honorific speech patterns ("〜でしょうか？") typical of Japanese marketing.
+  - References to Japanese regulatory or market context (absence of domestic USDT exchanges).
+  - Polite but informal style aligning with Japanese web media conventions.

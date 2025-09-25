@@ -1,0 +1,29 @@
+- Tone & POV:  
+  - Conversational and approachable, often using rhetorical questions and casual interjections (e.g., "疑問があるでしょう", "って人、多いと思います", emoji usage)  
+  - First-person plural and singular ("みなさん", "ワタクシも") to create intimacy and relatability  
+  - Mix of formal and informal expressions, balancing credibility with friendliness  
+
+- Sentence & Paragraph Length:  
+  - Generally short to medium sentences for readability  
+  - Paragraphs are concise, usually 2-4 sentences, with frequent use of bullet points and numbered lists for clarity  
+  - Includes tables and emphasized texts (bold, emojis) to break information into accessible chunks  
+
+- Headings & Formatting Habits:  
+  - Clear hierarchical headings using Markdown H2 for main sections (e.g., "## なぜ仮想通貨を使うの？")  
+  - Use of links within text and in navigation lists  
+  - Emphasis through bold, emojis, and line breaks to add personality and highlight key points  
+  - Inclusion of product/casino promotional blocks with images, ratings, and call-to-actions  
+  - Use of Japanese quotation marks and punctuation alongside Western numbering and symbols  
+
+- Vocabulary & Phrases:  
+  - Everyday language explaining technical terms simply, often with analogies (e.g., "電子マネーはインターネット上のお財布", "イーサリアムはインターネット上の通貨")  
+  - Use of casual filler words ("さて", "つまり") to guide readers gently  
+  - Friendly, occasionally playful expressions and internet-style emoji to engage readers  
+  - Keywords related to cryptocurrency, online casinos, and gaming are repeatedly used in simple terms  
+  - Mix of Japanese and English terms relevant to the industry (e.g., "ウォレット", "ボーナス", "ETH")  
+
+- Reading Level & Regional Traits:  
+  - Suitable for general Japanese internet users with intermediate literacy; accessible explanations for beginners in finance/crypto  
+  - Japanese language tailored for a local audience: use of yen symbol, references to Japan-specific services and trends (e.g., bitFlyer, コインチェック, 日本円 vs 世界通貨)  
+  - Localization includes culturally relevant examples and polite but informal style common in Japanese web content  
+  - Use of emojis and markers common in Japanese casual writing and marketing content

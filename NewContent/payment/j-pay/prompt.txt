@@ -1,0 +1,14 @@
+Research prompt:
+
+Expand and update the topic of J-Pay as a payment method for online casinos accessible to Japanese players, focusing on its 2025 status and Japan-specific usage. Investigate current availability, features, and regulatory environment for Japanese users. Include the following points:
+
+- What are the current deposit and withdrawal workflows for J-Pay in Japanese online casinos, including any recent changes or updates in 2024–2025?
+- What are the limits, processing times, applicable fees (including bank transfer fees), and currency handling specifics (JPY support, FX considerations) when using J-Pay for casino transactions?
+- Detail the KYC and verification requirements linked to J-Pay deposits/withdrawals—does J-Pay require separate account registration or provide identity privacy advantages compared to other payment methods?
+- Assess reliability and common fraud or security risks associated with J-Pay usage in Japanese online casinos, along with any known dispute resolution or chargeback policies.
+- Compare J-Pay to alternative payment options popular in Japan’s online casino market (e.g., Payz, credit cards, cryptocurrency wallets, Ezeebill) focusing on cost, convenience, and acceptance rates.
+- Clarify the compliance and regulatory considerations in Japan related to online casino payments via J-Pay, including any legal restrictions or protections (consumer safeguards, AML measures, licensing impact).
+- Provide data-backed insights or benchmarks on J-Pay’s market adoption and user satisfaction among Japanese online casino players, supported by authoritative sources.
+- Identify key online casinos currently supporting J-Pay for Japanese users and any expected future integration trends or expansions. 
+
+Use primarily reputable English-language sources such as international payment providers, Japanese banking regulations, and global casino licensing authorities, supplemented by authoritative Japanese documents only if necessary. Avoid marketing-heavy or low-quality SEO content.

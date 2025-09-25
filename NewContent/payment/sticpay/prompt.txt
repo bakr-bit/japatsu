@@ -1,0 +1,12 @@
+Research the current status and features of STICPAY as a payment method for online casinos accessible to Japanese players, updating with the latest regional and regulatory context. Investigate the following points:
+
+- What are the up-to-date deposit and withdrawal processes using STICPAY in Japan, including transaction limits, verification (KYC) requirements, and typical processing times?
+- What fees are associated with STICPAY transactions for Japanese users, including FX fees, card issuance, ATM withdrawals, and the impact of using UnionPay vs. previous Mastercard branding?
+- How widely is STICPAY accepted among Japanese-facing online casinos, and how does its reliability and security compare to other payment methods popular in Japan (e.g., PayPay, Venus Point, Payz)?
+- What are the latest developments regarding cryptocurrency usage with STICPAY, specifically Bitcoin deposits, and their fee structures and user uptake in Japan?
+- How do STICPAY’s prepaid card features work for Japanese users, including ATM cashout capabilities in Japan and overseas, fee structures, and card limits?
+- Are there any recent regulatory or compliance considerations impacting the use of STICPAY for online gambling payments in Japan, including legal restrictions and anti-money laundering requirements?
+- Provide data-backed benchmarks or comparisons on transaction speeds, fees, and user satisfaction between STICPAY and alternative payment solutions available to Japanese online casino players.
+- Identify any notable competitors or alternatives to STICPAY gaining traction in Japan’s online gambling payment ecosystem, with references to reputable sources and recent updates.
+
+Prioritize information from English-language official STICPAY documents, global payment industry reports, Japan’s financial regulatory authorities, and authoritative casino payment reviews. Include Japanese-language sources only if highly credible. Avoid low-quality marketing or SEO-heavy pages.

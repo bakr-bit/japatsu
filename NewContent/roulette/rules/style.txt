@@ -1,0 +1,27 @@
+- **Tone and POV; sentence/paragraph length; heading/formatting habits**  
+  - Friendly and encouraging tone with motivational and approachable phrases (e.g., “勝てるチャンスを増やしていきましょう🔥”)  
+  - Primarily second-person POV, addressing the reader directly to build engagement and guide understanding  
+  - Sentences are concise to moderately long; paragraphs short for readability  
+  - Use of emojis to add friendliness and emphasis (😎, ✅, 🔥, 🦾)  
+  - Structured with clear hierarchical headings (H2, H3, H4) and bullet/numbered lists for clarity  
+  - Bold text used for key terms and important points  
+  - Frequent inline links to related content and references  
+  - Frequent usage of section/opening hooks (e.g., “💡ルーレットに興味があるけど…”)
+
+- **Typical vocabulary/phrases to emulate**  
+  - Casual yet informative language balancing expertise with accessibility  
+  - Phrases that motivate and reassure beginners (“初心者の方でもプレイしやすい,” “まずは始めてみない?”)  
+  - Use gambling-specific terms clearly defined with simple explanations  
+  - Technical terms followed by easy-to-understand definitions or parenthetical clarifications  
+  - Use of Japanese loanwords from gambling/casino context (e.g., クルーピエ, ハウスエッジ, インサイド・ベット)  
+  - Polite but approachable expressions, often ending on positive encouragement or calls to action  
+  - Use of comparative explanations emphasizing pros and cons (e.g., “ハイリスク・ハイリターン”, “ローリスクローリターン”)
+
+- **Reading level; regional/Japan-specific traits**  
+  - Suitable for general adult Japanese readers including beginners in gambling and online casino games  
+  - Uses standard Japanese with some gambling jargon explained clearly for wider comprehension  
+  - Incorporates Japan-specific preferences and context references (e.g., パチンコ, 和テーマのカジノ)  
+  - Emphasis on responsible play, reflecting local regulatory and cultural norms  
+  - Includes localized examples and trust signals (review scores with 評価点, Japanese-named casinos)  
+  - Uses Japanese numeric and measurement conventions, includes katakana for loanwords and terminology related to gambling and Western games  
+  - Style supports readers familiar with Japanese online culture and casual browsing habits

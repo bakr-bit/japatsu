@@ -1,0 +1,16 @@
+The scraped page is a slot game review (specifically a live roulette variant).
+
+Research prompt:
+
+Please provide a comprehensive, up-to-date review of Pragmatic Play’s Power Up Roulette for the Japanese online casino market as of 2025. Include the following points:
+
+- Confirm the game’s current availability on Japanese-facing online casinos, including handling of JPY deposits and withdrawals.
+- Detail game mechanics: layout, betting options, unique features like Power Up Bonus Spins, bet limits in JPY, RTP and volatility benchmarks citing official or reputable sources.
+- Provide maximum and minimum bet amounts and max payout multipliers, explaining any differences from traditional roulette variants.
+- Evaluate platform support including mobile compatibility and quality of graphics and sound.
+- Compare Power Up Roulette with competing live roulette games (e.g., Evolution’s offerings) in terms of popularity, features, and suitability for Japanese players.
+- Update on any Japan-specific regulatory or compliance considerations affecting playing or streaming this game legally.
+- Provide data-backed player feedback or industry performance metrics from reputable English-language or authoritative Japanese sources.
+- Include any recent updates or changes to the game since launch that affect gameplay or user experience.
+
+Use only authoritative English-language industry sources or official regulator/vendor documents; include Japanese sources only if they are highly credible. Avoid low-quality marketing or SEO sites.

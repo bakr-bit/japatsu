@@ -1,0 +1,26 @@
+- Tone and POV:  
+  - Casual, friendly, and enthusiastic tone with emoticons and playful language  
+  - Mix of 1st person plural ("いきましょっ") and 2nd person direct address ("狙うギャンブラーにおすすめ")  
+  - Occasionally uses mascot characters speaking in informal, conversational style  
+- Sentence/Paragraph length:  
+  - Generally short to medium sentences, simple and digestible  
+  - Paragraphs are brief and focused, often 1-3 sentences  
+- Heading/Formatting habits:  
+  - Clear hierarchical headings (##, ###) with Japanese titles  
+  - Tables used for structured info like specs and payout details  
+  - Bold text to highlight key terms, brands, and stats  
+  - Emoji and icons included for visual interest and emphasis  
+- Typical vocabulary/phrases:  
+  - Casual expressions with gaming slang (e.g., "爆発力満点", "一攫千金")  
+  - Descriptive action words ("スピン開始", "予想してベット")  
+  - Use of Japanese katakana loanwords related to gambling/game context  
+  - Friendly recommendations ("おすすめのゲーム", "遊べますよ")  
+  - Specific gambling/game terminology like "RTP", "マルチプライヤー", "ボラティリティ"  
+- Reading level:  
+  - Targeted at general adult audience familiar with online casinos  
+  - Straightforward language without heavy jargon, but assumes some gaming knowledge  
+- Regional/Japan-specific traits:  
+  - Japanese-English code switching in product names and terms  
+  - Use of yen currency equivalents alongside USD  
+  - References to popular Japanese gambling culture and live casinos  
+  - Inclusion of Japanese mascots and culturally relevant emoji/icons

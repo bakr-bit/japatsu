@@ -1,0 +1,30 @@
+- **Tone & POV**  
+  - Informal, conversational, and engaging with occasional playful or humorous remarks  
+  - First-person perspective is common, often sharing personal experience and reactions  
+  - Uses casual interjections and emotive expressions (e.g., "w", emoji, onomatopoeia) to build rapport  
+
+- **Sentence & Paragraph Length**  
+  - Mix of short and medium-length sentences for easy readability  
+  - Paragraphs are generally concise but may extend when narrating gameplay or describing processes  
+  - Frequent use of bullet points and numbered lists for step-by-step guides and features  
+
+- **Heading & Formatting Habits**  
+  - Clear hierarchical structure with multiple heading levels (##, ###, #####)  
+  - Bold text used to highlight key terms or important tips  
+  - Emojis sprinkled in headings or text to add friendliness and visual cues  
+  - Frequent use of hyperlinks for additional info and calls to action  
+  - Star ratings and buttons ("今すぐプレイ！") visually integrated alongside textual content  
+
+- **Typical Vocabulary/Phrases**  
+  - Friendly and approachable terms, including slang and casual Japanese conversational phrases  
+  - Phrases encouraging the reader to try or learn more ("トライしてみました", "ぜひぜひトライしてみてね！")  
+  - Use of gaming and casino jargon explained in simple terms (e.g., "チャート", "スピン", "ベット")  
+  - Positive reinforcement and excitement language emphasizing fun and strategy ("コーフン", "くせになりそう")  
+  - Reference to specifics about game mechanics with practical tone (“チャートタイプ”, “勝利時のもうけ”)  
+
+- **Reading Level & Regional/Japan-Specific Traits**  
+  - Written in Japanese aimed at adult readers familiar with online casino context  
+  - Casual style with Japanese internet slang and emoticons suitable for Japanese audience  
+  - Incorporates culturally familiar references like “ローソク足チャート” (candlestick charts common in Japan’s trading and FX communities)  
+  - Regional currency mentioned alongside international terms (ユーロ, ドル) reflecting a Japan-based but globally aware reader  
+  - Uses katakana for imported English terms adapted to Japanese usage (e.g., プレイ, チップ, スピン)

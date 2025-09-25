@@ -1,0 +1,21 @@
+- Tone and POV:  
+  - Casual, friendly, and enthusiastic tone with abundant emojis to engage readers  
+  - First-person plural ("一緒に～しよう") and direct address ("ぜひ遊んでみてね")  
+  - Informal expressions and playful interjections (e.g., " (/≧▽≦)/", "ッ", "💪💪")  
+- Sentence/Paragraph Length and Formatting:  
+  - Generally short to medium sentences for easy scanning  
+  - Uses bullet points, numbered steps, and tables to organize information clearly  
+  - Headings use both Japanese and English titles; headings often numbered or marked with emojis for emphasis  
+  - Bold font used to highlight key terms and phrases; emojis integrated within text and headings  
+  - Frequent use of line breaks, spacing, and visual aids (images) to break up content  
+- Typical Vocabulary/Phrases:  
+  - Enthusiastic and encouraging vocabulary emphasizing fun and excitement (e.g., "ワクワクが止まらない", "一発で大勝利も夢じゃない")  
+  - Casual words and slang-like expressions ("オジサン小人？😂", "ハマりそう")  
+  - Mix of Japanese and English gaming terms and jargon (e.g., RTP, マルチプライヤー, ボーナスラウンド)  
+  - Use of onomatopoeic and emotional signals like "🔥", "🍀", "🌈" to create a positive, lively atmosphere  
+- Reading Level and Regional/Japan-Specific Traits:  
+  - Reading level accessible for general adult Japanese audience with basic to intermediate gaming knowledge  
+  - Incorporates Japan-specific contextual cues: Japanese currency notation (円/10円), Japanese slang and emoticons common in online writing  
+  - Includes explanations tailored for Japanese players (e.g., localized references, language-specific expressions)  
+  - URLs mostly point to Japanese-language sites and content curated for Japanese users  
+  - Contains culturally relevant references like "セントパトリック", and localized game features explained in Japanese

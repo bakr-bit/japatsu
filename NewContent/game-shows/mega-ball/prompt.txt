@@ -1,0 +1,15 @@
+The scraped page type is: slot game review (specifically a live casino game show called Mega Ball by Evolution Gaming).
+
+Research prompt:
+Please conduct an up-to-date, Japan-focused deep web research to provide a comprehensive review and update on the live casino game "Mega Ball" by Evolution Gaming. Your report should include:
+
+- The latest official release date and any updates since 2020, including availability and support for Japanese players.
+- Detailed game mechanics and features: card structure (5x5 bingo cards), number of cards per bet (1-200), bet range in JPY (conversion from EUR if needed), multiplier range (5x-100x), RTP confirmation from official sources, volatility estimates, and maximum possible win including jackpot details.
+- Platform support: availability on desktop, mobile, app integration, and compatibility in Japan.
+- Comparison with similar live bingo-style game shows or RNG versions such as "Mega Ball First Person"—differences, pros/cons, and player reception within the Japanese market.
+- Data-backed performance metrics, player popularity trends, and feedback from Japanese users where available.
+- Regulatory and legal considerations in Japan for playing live casino game shows like Mega Ball, including licensing status of Evolution Gaming and the hosting casinos accessible to Japanese players.
+- Payment and betting considerations focused on the Japanese market: supported deposits/withdrawals, JPY handling, betting limits, and currency conversion impacts.
+- Alternative live casino game shows available to Japanese users, with comparative ratings and features.
+
+Use primarily English-language authoritative sources such as global casino operators, regulatory bodies, Evolution Gaming official documents, and reputable trade publications. Include Japanese sources only if they are official or highly reputable. Avoid low-quality marketing or SEO-heavy pages.

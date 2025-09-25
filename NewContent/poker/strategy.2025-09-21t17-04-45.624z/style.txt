@@ -1,0 +1,29 @@
+- Tone and POV:  
+  - Friendly, conversational, and approachable with occasional casual/emotive expressions and emojis  
+  - Second-person POV, directly addressing the reader to engage and guide (e.g., “あなたに”, “しておきましょう”)  
+  - Encouraging and supportive, suitable for beginners and casual players  
+
+- Sentence and Paragraph Length:  
+  - Mix of short and moderately long sentences for clarity and emphasis  
+  - Paragraphs are concise with line breaks and bullet/numbered lists to enhance readability  
+  - Use of headings/subheadings with multiple levels to structure content logically  
+
+- Heading and Formatting Habits:  
+  - Hierarchical use of headings (##, ###, ####) to organize topics and subtopics clearly  
+  - Emphasis via bold, emojis, and callout-style formatting (e.g., arrows, stars) to highlight key points or CTAs  
+  - Links frequently embedded in text and buttons with clear calls to action  
+  - Use of images with alt text and star-rating visuals for credibility and visual interest  
+
+- Typical Vocabulary and Phrases:  
+  - Polite yet informal Japanese expressions with some modern slang or emoticons (e.g., “まさにうってつけ”, “良いカモ”, “😏”)  
+  - Specialized gaming/casino terms clearly explained for beginners  
+  - Encouraging phrases promoting study, practice, and responsible play  
+  - Mixed Japanese and international terms (e.g., “キャッシュゲーム”, “フリースピン”, “バリエーション”)  
+  - Calls to action phrased to invite participation or further learning (“今すぐプレイ！”, “チェック★”)  
+
+- Reading Level and Regional Traits:  
+  - Suitable for casual Japanese readers with intermediate understanding of gambling terms  
+  - Written primarily in Japanese with English loanwords common in gaming/casino contexts  
+  - References culturally relevant gambling practices and terminology familiar in Japan (e.g., pachinko mention)  
+  - Use of kanji with furigana-style clarifications implicit in link text or explanatory phrases for accessibility  
+  - Combines Western gambling concepts with Japan-specific context and user expectations

@@ -1,0 +1,6 @@
+- Tone/POV: Casual, friendly, and approachable with direct address to the reader ("キミ！"); mixes professional trustworthiness with playful enthusiasm; uses emojis for engagement.
+- Sentence/Paragraph length: Generally short to medium sentences; paragraphs are concise, often a few lines; bulleted and list formats are frequent to improve scan-ability.
+- Headings/Formatting: Uses clear headings and subheadings with year emphasis; markdown tables for structured info; boldface for emphasis; emoji and icons integrated; links embedded naturally.
+- Vocabulary/Phrases: Uses contemporary, gamer/casino-related jargon and buzzwords (“ウェルカムオファー”, “賭け条件なし”, “超カンタン解説”, “限定ボーナス”); positive adjectives (“超豪華”, “お得”, “信頼性の高い”); inviting calls to action (“今すぐプレイ！”); friendly slang and casual suffixes.
+- Reading Level: Accessible to general adult audience familiar with online gaming/gambling terms; Japanese language level suitable for everyday web users, with occasional industry-specific terminology.
+- Regional/Japan-specific Traits: Mix of Japanese language peppered with loanwords from English related to online casinos; addresses Japanese player culture explicitly; uses yen currency symbols; references “ジャパカジ” as a localized site/brand; culturally sensitive and legally aware tone on gambling-related content.

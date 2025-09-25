@@ -1,0 +1,14 @@
+Research prompt:
+
+Conduct a comprehensive and up-to-date investigation into the use of PayPal as a payment method for online casinos accessible to players in Japan, focusing on the current regulatory environment and practical usability in 2025. Your research should address:
+
+- What are the latest regulations and compliance requirements governing PayPal use for online casino deposits and withdrawals for Japanese residents?
+- How do deposit and withdrawal processes via PayPal work for Japanese users, including supported currencies (especially JPY), verification/KYC steps, transaction limits, processing times, and associated fees (including currency conversion charges)?
+- What is the current landscape of Japanese-facing online casinos that accept PayPal? Include major licensed casinos, their game offerings, bonus compatibility, and any restrictions on PayPal usage.
+- How does PayPal’s security framework (PCI DSS compliance, fraud detection, chargeback policies) protect Japanese players in the context of online gambling?
+- What are common user issues or errors encountered by Japanese players when using PayPal with casinos, and what are recommended troubleshooting or mitigation approaches?
+- Provide benchmark comparisons between PayPal and alternative payment methods popular in Japan for online casinos (e.g., Tiger Pay, Vega Wallet, Payz, domestic cashless options), including acceptance rates, costs, convenience, and user protections.
+- Summarize any recent changes or news impacting PayPal’s availability or functionality for Japanese online casino players, citing authoritative English or Japanese sources.
+- Analyze challenges related to currency handling (JPY vs other currencies) and potential fees for Japanese users when transacting via PayPal at international casinos.
+
+Prioritize authoritative, recent English-language sources such as payment processors’ official documentation, gambling regulators, and reputable industry reports, supplemented with verified Japanese regulatory or industry information as needed. Avoid promotional or low-quality SEO content.

@@ -1,0 +1,22 @@
+- Tone & POV:  
+  - Friendly and encouraging, often using conversational and explanatory style  
+  - Mix of 3rd person exposition and casual 2nd person direct address to reader (e.g., “〜ましょう！”)  
+  - Includes mascot character commentary with a warm, approachable voice  
+- Sentence/Paragraph Length & Formatting:  
+  - Mostly medium-length sentences, clear and divided into concise paragraphs  
+  - Frequent use of numbered/bulleted lists for step-by-step guidance and options  
+  - Headings structured hierarchically with clear sectioning (H2 for main topics, H3/H4 for subtopics)  
+  - Usage of bold text for emphasis on key terms and phrases  
+  - Links embedded naturally with descriptive anchor texts, often in Japanese  
+- Typical Vocabulary/Phrases:  
+  - Clear, simple poker/game terminology explained in easy Japanese  
+  - Friendly, motivational expressions (“初心者にとってもそんなに複雑ではない”)  
+  - Use of Japanese poker terms alongside Katakana English loanwords (e.g., アンティ, ベット, フォールド)  
+  - Explanations often include comparative notes referencing other poker variants familiar to readers  
+  - Includes Japanese card suits and game-specific terms explained in an accessible way  
+- Reading Level & Regional Specific Traits:  
+  - Aimed at intermediate Japanese readers with some English and gambling vocabulary familiarity  
+  - Casual formal tone suitable for Japanese internet users interested in poker/casino games  
+  - Content localized with references to Japan-relevant casinos, terms, and emoji-style mascot icons  
+  - Mix of Japanese and English terms suitable for Japan’s bilingual gambling community  
+  - Regional specificity in describing card suits and rules familiar in Japanese gambling culture

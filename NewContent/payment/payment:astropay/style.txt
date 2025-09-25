@@ -1,0 +1,23 @@
+- Tone & POV:  
+  • Friendly, conversational with occasional emoji use to convey empathy and approachability  
+  • Mix of polite/informal style addressing readers as “you”  
+  • Includes casual interjections and light humor (e.g., “まぁそれは良いとして”, “ww”)  
+  • Uses first-person plural/plural collective (“みなさん”) and occasional first-person singular (“私”) for relatability  
+- Sentence/Paragraph Length & Formatting:  
+  • Mainly short to medium-length sentences, straightforward and easy to scan  
+  • Paragraphs are brief, typically 2-3 sentences max for readability  
+  • Usage of headings and subheadings with explicit numbering and clear topic divisions  
+  • Lists and tables used for facts and key info; bullet points for steps or options  
+  • Bold and emoji highlight important dates, warnings, and calls-to-action  
+  • Includes inline links and references for further navigation and resources  
+- Vocabulary & Phrases:  
+  • Everyday Japanese with some technical/payment-related terminology explained simply  
+  • Uses casual phrases to mirror spoken language, e.g., “気になるところ”, “面倒な”, “まぁそれは良いとして”  
+  • Vocabulary reflective of online casino/payment context, emphasizing convenience, security, and usability  
+  • Frequent explanation of terms or instructions anticipating user confusion, e.g., state vs. city input details  
+- Reading Level & Regional Traits:  
+  • Average Japanese reading level accessible to general adult users familiar with internet services  
+  • Contains Japan-specific references (e.g., “Minatoku”, “Tokyo”, yen currency, local payment options)  
+  • Use of Japan-specific terms mixed with English and katakana loanwords relevant to online payments  
+  • Considers Japanese user experience and terminology quirks (addresses “ちょっと日本語がおかしなところ”)  
+  • Localized formatting of dates and email conventions aligned with Japanese norms

@@ -1,0 +1,25 @@
+- Tone & POV:  
+  - Friendly, conversational, and encouraging tone  
+  - Mixes casual expressions with informative content  
+  - Uses first-person plural and inclusive language ("私たち", "～しましょう") and occasional character mascots for a personal touch  
+- Sentence/Paragraph Length:  
+  - Generally medium-length sentences, occasionally longer for detailed explanation  
+  - Paragraphs are concise but occasionally extended for step-by-step instructions or feature descriptions  
+  - Use of bullet points and numbered lists for clarity and easy scanning  
+- Heading/Formatting:  
+  - Uses clear hierarchical headings (H2, H3) for structure  
+  - Boldface for emphasis on keywords or phrases  
+  - Tables for structured data (fees, limits)  
+  - Use of emojis and icons to add friendliness and visual cues  
+  - Links embedded inline and as calls-to-action buttons with clear anchor text  
+- Typical Vocabulary/Phrases:  
+  - Practical, user-focused terminology related to online payments and casinos  
+  - Phrases emphasizing ease, convenience, and security ("簡単," "スムーズに," "安全＆安心")  
+  - Inclusion of jargon with explanations (e.g., "プリペイドカード," "ビットコイン")  
+  - Casual conversational filler like rhetorical questions to engage (“どうですか？”)  
+  - Promotion-style phrases encouraging action ("今すぐプレイ！," "登録はコチラ！")  
+- Reading Level & Regional Traits:  
+  - Intermediate Japanese suitable for online service users familiar with fintech/casino vocabulary  
+  - Written in Japanese with occasional English terms and katakana loanwords common in business/tech context  
+  - Japan-specific references: use of Japanese characters, location-tailored info (Japanese ATM usage, domestic payment brands like PayPay)  
+  - Includes explanations relevant to Japanese users (e.g., currency change restrictions, SMS authentication typical in Japan)

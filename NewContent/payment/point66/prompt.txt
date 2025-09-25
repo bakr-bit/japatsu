@@ -1,0 +1,13 @@
+Page type: payment method
+
+Research prompt:
+Conduct an updated, comprehensive analysis of the payment method "Point66" as used by Japanese online casino players. Focus on clarifying its current operational status, usability, and relevance for Japan-based users. To guide the research, address the following points:
+
+- What is the latest status of Point66’s service availability in 2024? Has it fully ceased operation or resumed in any form?
+- Detail the deposit and withdrawal processes specifically for Japanese users, including required steps, KYC/verification, and whether a linked EZE Wallet account is still needed.
+- What are the current fees, currency exchange practices (JPY to USD), and processing times for deposits and withdrawals? Highlight any recent changes or updates.
+- Assess the acceptance and compatibility of Point66 at Japanese-facing online casinos, including the number and names of casinos currently supporting it.
+- How does Point66’s reliability and security compare to other major payment methods available to Japanese players such as credit cards, iWallet, and bank transfers? Include fraud risk and refund/chargeback policies.
+- Provide data-driven insights or benchmarks on Point66’s market share or usage among Japanese casino players versus alternatives.
+- Examine legal and regulatory compliance considerations for Point66 under Japanese gambling and financial transaction laws.
+- Identify authoritative English-language sources (regulatory bodies, major casino operators, payment industry reports) and credible Japanese sources for verification. Avoid SEO-heavy, low-quality pages.

@@ -1,0 +1,29 @@
+- **Tone & POV:**  
+  - Casual, enthusiastic, and conversational with friendly interjections and emojis.  
+  - Written primarily in first and second person POV ("あなた", "早速レビューしていきますっ！"), engaging readers directly.  
+  - Informal sentence endings and onomatopoeic expressions enhance approachability.  
+  - Mixes factual explanation with playful commentary (e.g., "ま、まさかブラックジャックのみ！？((((；ﾟДﾟ)))))))").  
+- **Sentence/Paragraph Length:**  
+  - Generally short to medium sentences, often punctuated with emojis or exclamations.  
+  - Paragraphs are brief, typically 1-3 sentences, making it easy to scan.  
+  - Frequent use of bullet points and tables for clarity and quick reference.  
+- **Heading/Formatting Habits:**  
+  - Clear hierarchical headings using H2/H3 for sections and sub-sections.  
+  - Bold text used for emphasis of key terms and phrases.  
+  - Frequent use of links both inline and as buttons for navigation and sources.  
+  - Tables are used for structured data presentation (e.g., payout tables, game features).  
+  - Emojis are integrated into headings and body text to add emotion and engagement.  
+- **Typical Vocabulary/Phrases to Emulate:**  
+  - Use simple, direct gaming terms combined with friendly Japanese slang and emotive expressions.  
+  - Phrases that imply excitement, encouragement, and ease ("ワクワク", "今すぐプレイ！", "お気軽に").  
+  - Use of gaming-specific jargon but explained simply ("RTP", "マルチプライヤー", "手数料").  
+  - Emphasize trustworthiness and user benefit ("自信を持っておすすめ！", "責任あるプレイ").  
+  - Integrate casual, relatable language with occasional technical terms.  
+- **Reading Level:**  
+  - Accessible to a broad audience including casual gamers and Japanese-speaking beginners in online casinos.  
+  - Language is straightforward, with some slang and emoji use suggesting a youthful to middle-aged demographic.  
+- **Regional/Japan-Specific Traits:**  
+  - Primarily Japanese language with occasional English terms commonly accepted in gambling context.  
+  - Cultural references like "和" (Japanese style/theme) and specific appeals to Japanese players ("日本人プレイヤーの心をグッと掴む").  
+  - Pricing in USD but catering explicitly to Japanese users with local casino reviews and terminology.  
+  - Playful use of kaomoji and typical Japanese web content tropes (e.g., "(；ﾟДﾟ)").

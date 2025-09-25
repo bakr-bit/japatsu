@@ -1,0 +1,35 @@
+- Tone and POV:
+  - Friendly, casual, and enthusiastic tone with frequent direct address to the reader using second person ("キミ").
+  - Uses informal and conversational style with emoji for emphasis and engagement.
+  - Mix of professional and playful; encourages trust and excitement about bonuses.
+  - Primarily third person with occasional first person plural ("ジャパカジ編集部") to represent the team.
+
+- Sentence and paragraph length:
+  - Sentences are generally short to medium length, often exclamatory or imperative.
+  - Paragraphs are concise with some bullet points or tables for clarity.
+  - Uses interjections and emotive expressions to maintain reader interest.
+
+- Heading and formatting habits:
+  - Clear use of Markdown headings (##) to structure content and section titles.
+  - Bold text for emphasis and highlighting key offers or terms.
+  - Frequent use of lists and tables for organized presentation.
+  - Emojis used to add personality and highlight sections.
+  - Images with links are consistently used for casino banners, ratings, and call-to-action buttons.
+
+- Typical vocabulary and phrases:
+  - Words conveying excitement or value (e.g., "超豪華", "お得", "厳選", "ベスト", "盛りだくさん").
+  - Japanese casino-related terminology (e.g., "フリースピン", "賭け条件", "入金不要ボーナス").
+  - Friendly and encouraging phrases to reassure and motivate users.
+  - Use of industry-specific terms accessible to Japanese online casino players.
+
+- Reading level:
+  - Easy to moderate reading level suitable for a wide Japanese audience including beginners.
+  - Use of accessible language with some specialized gaming/casino vocabulary.
+  - Includes explanatory sections aimed at beginners ("初心者必見！").
+
+- Regional/Japan-specific traits:
+  - Japanese language with cultural nuances such as polite yet informal address.
+  - Use of yen currency symbol (¥) alongside dollars ($) reflecting Japan-centric audience.
+  - References to Japanese-exclusive offers and local brand "ジャパカジ".
+  - Japanese writing conventions: mixture of kanji, hiragana, and katakana.
+  - Common Japanese web formatting patterns like "目次" for contents and emphasis on “責任あるプレイ” (responsible gaming).

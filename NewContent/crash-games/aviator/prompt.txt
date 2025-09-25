@@ -1,0 +1,11 @@
+Identify the page type as a slot game review focused on the "Aviator" crash game by Spribe. Develop a research prompt to update and deepen the review with current, Japan-relevant data and insights:
+
+- Provide the latest detailed game specifications for Aviator (release date, RTP, volatility, hit frequency) based on authoritative global sources and official provider info.
+- Confirm Aviator’s current availability to Japanese players, including whether it supports JPY bets and which Japan-targeted online casinos offer it.
+- Analyze the gameplay mechanics—reels/lines/ways applicable to a crash game format—and unique features like multi-bets, auto-play, and auto cash-out, with emphasis on user experience for Japanese users.
+- Investigate licensing, fairness certifications, and regulatory compliance for Aviator in Japan and internationally, including any official RNG audit results.
+- Gather recent player and expert feedback or benchmark data related to Aviator’s payout rates, max wins, volatility, and reliability on major platforms accessible from Japan.
+- Identify competitor crash games available to Japanese players, comparing features, RTP, and popularity to Aviator.
+- Outline any technical requirements or platform compatibility updates relevant to Japanese users, such as mobile optimization or download-free play.
+- Explore any region-specific restrictions, promotional offers, or responsible gambling measures linked to Aviator on Japan-facing casinos.
+- Focus search on reputable English-language industry reports, regulator announcements, provider disclosures, and certified gaming fairness audits; include Japanese sources only if from recognized authorities.

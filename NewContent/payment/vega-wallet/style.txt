@@ -1,0 +1,27 @@
+- Tone and POV:
+  - Friendly, conversational, and sometimes playful tone with emojis and informal expressions
+  - Uses second-person POV to directly address the reader ("あなた", "したい方")
+  - Encourages user action with calls to action and casual enthusiasm (e.g., "めちゃくちゃ便利", "早めに移行申請を")
+  - Mix of descriptive and instructive sentences; occasional exclamations for emphasis
+
+- Sentence/Paragraph Length; Heading/Formatting:
+  - Mostly short to medium sentences, often broken up with line breaks and bullet points for clarity
+  - Paragraphs are concise and well-spaced for easy scanning
+  - Frequent use of numbered lists and bullet points for step-by-step guidance and details
+  - Headings follow Markdown syntax with multiple levels (##, ###, ####) used logically to organize content
+  - Uses bolding for keywords and important points, also hyperlinks embedded naturally
+  - Tables utilized for structured info like fees and limits
+  - Visual emphasis via emojis, icons, and images including star ratings and logos
+
+- Typical Vocabulary/Phrases:
+  - Casual yet informative language, balancing technical terms (e.g., "換金申請期限", "入出金") with everyday expressions ("楽チン", "めちゃくちゃ便利")
+  - Repetitive reinforcement of key product benefits and instructions
+  - Use of Japanese-English mixed terms typical for online gaming/casino context ("オンカジ", "eウォレット", "ポイントバック")
+  - Regional idioms and loanwords integrated naturally
+  - Use of cultural and local references for explanation (e.g., "ヴァージン諸島はイギリス領🇬🇧")
+
+- Reading Level; Regional/Japan-Specific Traits:
+  - Easy to moderate reading level targeting Japanese online casino players familiar with digital payments
+  - Contextually Japan-centric, with references to Japanese yen, Japanese holidays, and usage patterns of Japanese players
+  - Includes bilingual terms and katakana for foreign words mixed with Japanese native text
+  - Integrates localized content such as currency conversion focus, relevant deadlines, and service comparisons specific to Japan's online casino market

@@ -1,0 +1,17 @@
+PAGE TYPE: slot game review (specifically a review of a crash-style casino game)
+
+Research prompt:
+Conduct an updated, comprehensive review of the online casino crash game "Spaceman" by Pragmatic Play, focusing on its availability and suitability for Japanese players in 2025. Your research should include data-driven insights and the latest regional particulars.
+
+Sub-questions:
+- What are the current minimum and maximum bet limits for Spaceman on Japanese-facing online casinos, and can players wager in JPY directly?
+- What is the officially published RTP and volatility level of Spaceman? Are these metrics confirmed by authoritative sources or independent audits?
+- What platforms and devices fully support Spaceman gameplay, especially mobile compatibility for Japanese users?
+- What are the key gameplay features, such as the 50% partial cashout, auto-play, and auto cashout functions? Are there any new features or updates released since 2024?
+- How does Spaceman's visual and audio design compare to other Pragmatic Play titles and competitors like Aviator in terms of user engagement?
+- Are there any recent user experience or reliability data available, including error incidence and customer support responsiveness, specific to Japanese players?
+- Which online casinos accept Japanese players for Spaceman, and what are their licensing status, bonus offerings, wagering conditions, and payment method options?
+- What are the applicable Japanese gambling compliance and regulatory considerations affecting the legal availability of Spaceman, including consumer protection, age verification, and cryptocurrency-related rules?
+
+Search instruction:
+Prioritize recent English-language sources from official game providers, regulators, reputable gaming news outlets, and major casino platforms. Use authoritative Japanese sources only for regulatory details. Avoid low-quality SEO sites and marketing-heavy pages.

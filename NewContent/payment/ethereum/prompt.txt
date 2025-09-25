@@ -1,0 +1,15 @@
+Page type: payment method
+
+Research prompt:
+Please provide an updated and comprehensive overview of using Ethereum (ETH) as a payment method in Japanese online casinos, focusing on current trends and regulations relevant to Japanese users. Include detailed answers to the following questions:
+
+- What are the current deposit and withdrawal procedures when using Ethereum on Japanese-facing online casinos, including typical processing times and fees?
+- Are there any limits (minimum/maximum) on Ethereum transactions for gambling payments in Japan? How does KYC and identity verification integrate with crypto payment flows?
+- How do exchange rates and currency conversions (ETH to JPY) affect transactions, and are there associated FX fees or volatility risks for Japanese players?
+- What security measures and fraud prevention protocols do casinos and payment processors use to ensure safe Ethereum transactions for Japanese customers?
+- What is the reliability and reputation of Ethereum payment acceptance among top online casinos accessible to Japanese players, and how common are chargebacks or refunds with crypto?
+- How recent and relevant is the adoption of Ethereum payments in Japanese online casinos, and what trends or updates should players be aware of?
+- Which alternative cryptocurrencies or payment methods are commonly accepted alongside Ethereum, and how do they compare in terms of user experience and regulatory compliance in Japan?
+- What are the current Japanese legal and regulatory considerations regarding the use of cryptocurrencies like Ethereum for online gambling, including any licensing, tax, or anti-money laundering implications?
+
+For sources, prioritize up-to-date English-language information from global cryptocurrency payment providers, major casino vendors with Japanese market focus, and Japanese regulatory authorities. Include authoritative Japanese sources only if available and relevant. Avoid SEO-heavy or marketing-biased pages.

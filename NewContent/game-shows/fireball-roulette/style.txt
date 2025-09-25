@@ -1,0 +1,23 @@
+- Tone and POV:  
+  - Casual, friendly, and enthusiastic tone with emotive expressions and emojis for engagement  
+  - First-person plural ("〜していこ〜") and second-person direct address ("あなた", "〜してみたい人") create conversational feel  
+  - Informal honorifics and interjections (e.g., "よ！", "わよ！", "〜っ", "🙌", "🎯")  
+
+- Sentence/Paragraph Length and Formatting:  
+  - Mix of short and medium-length sentences for readability and dynamic pacing  
+  - Frequent use of bullet points, numbered lists, and tables for clarity and easy scanning  
+  - Section headings and subheadings use clear hierarchical Markdown (##, ###, ####) with descriptive titles  
+  - Strategic use of bold and inline links for emphasis and navigation  
+  - Visual elements (images, emojis, icons) integrated to support text and enhance user experience  
+
+- Typical Vocabulary/Phrases:  
+  - Casual, everyday Japanese with gaming-specific terminology explained simply  
+  - Phrases encouraging reader participation ("遊んでみたい人は", "チェックしていきましょ〜")  
+  - Use of typical gambling/game-show terms alongside colloquial supplements (e.g., "ボーナスフィーチャー", "ベット", "マルチプライヤー", mixed with "ハラハラドキドキ")  
+  - Positive, motivating expressions ("狙っちゃおう", "夢の2,500倍を狙おう🔥")  
+
+- Reading Level and Regional/Japan-Specific Traits:  
+  - Intermediate Japanese, accessible to general adult Japanese audience with some gambling knowledge  
+  - Incorporation of English loanwords common in Japanese gaming jargon (e.g., "ボーナス", "ゲームショー")  
+  - Content tailored specifically to Japanese online casino players, referencing Japanese yen amounts and popular local casino brands/sites  
+  - Use of culturally familiar emoji and mascots (カジ子), creating a Japan-centric, community-friendly vibe

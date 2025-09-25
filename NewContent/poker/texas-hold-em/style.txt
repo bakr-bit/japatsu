@@ -1,0 +1,34 @@
+- Tone and POV:
+  - Friendly, approachable, and encouraging with occasional casual or colloquial expressions (e.g., "オレみたいなジャパカジ仲間")
+  - Mix of instructive and promotional voices; uses direct address ("あなた", "キミ") to engage readers
+  - Primarily second-person perspective with some first-person plural inclusions to create community feeling
+
+- Sentence/Paragraph Length:
+  - Generally short to medium sentences for clarity and readability
+  - Paragraphs are concise, often 2–4 sentences each
+  - Use of emphasis (bold) and emoji to highlight key points and keep tone light
+
+- Heading/Formatting Habits:
+  - Clear, descriptive headings with incremental numbers and subheadings (e.g., ## for major sections, ### for subsections)
+  - Frequent use of bold text for emphasis and calls to action
+  - Tables used to organize information efficiently
+  - Embedded internal/external hyperlinks and anchor links for navigation and reference
+  - Frequent use of images with captions and icons (including stars for ratings)
+  - Emojis to add casual, friendly flavor and highlight offers/promotions
+
+- Typical Vocabulary/Phrases:
+  - Uses gambling and poker-specific terminology explained for beginners (e.g., "ブラフ", "ハンド", "スート")
+  - Phrases emphasize learning, strategy, and improvement ("戦略", "勝率を上げる", "初心者が犯しがちなミス")
+  - Promotions phrased dynamically with incentives ("最大88USDT", "無料ボーナス")
+  - Casual slang or community terms to build rapport ("ジャパカジ", "キミ")
+
+- Reading Level:
+  - Accessible for general adult readers with basic knowledge of Japanese
+  - Includes explanations of technical terms for beginners, maintaining clarity without oversimplifying
+  - Mix of casual and formal language to appeal across demographics
+
+- Regional/Japan-Specific Traits:
+  - Use of Japanese currency references and gambling culture familiar in Japan
+  - Includes katakana loanwords common in gaming/gambling contexts
+  - References to Japan-targeted online casinos and promotions with yen and USDT
+  - Localization evident in examples, wording, and site navigation tailored for a Japanese audience

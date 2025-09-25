@@ -1,103 +1,223 @@
-import Image from "next/image";
+import TopBanner from "../components/ui/TopBanner";
+import HeroSlider from "../components/ui/HeroSlider";
+import MarqueeStrip from "../components/ui/MarqueeStrip";
+import ImageBannerGrid from "../components/ui/ImageBannerGrid";
+import FeaturedOfferStrip from "../components/ui/FeaturedOfferStrip";
+import CuratedPicksGrid from "../components/ui/CuratedPicksGrid";
+import TrustAndSafetySection from "../components/ui/TrustAndSafetySection";
+import InformationHubSection from "../components/ui/InformationHubSection";
+import TextBanner from "../components/ui/TextBanner";
+import Quiz from "../components/ui/Quiz";
+import SectionTitle from "../components/ui/SectionTitle";
+import BonusCard from "../components/ui/BonusCard";
+import HorizontalScroller from "../components/ui/HorizontalScroller";
+import RankingCard from "../components/ui/RankingCard";
+import ArticleCard from "../components/ui/ArticleCard";
+import SidebarSection from "../components/ui/SidebarSection";
+import SidebarMediaGrid from "../components/ui/SidebarMediaGrid";
+import SidebarList from "../components/ui/SidebarList";
+import CategoryIntroductionSection from "../components/ui/CategoryIntroductionSection";
+import { homeBonuses, toplistCasinos, sidebarContents, paymentIcons, newsArticles, featuredOffers, slotBanners } from "../lib/data";
+import heroSlides from "@/content/hero";
 
 export default function Home() {
-  return (
-    <div className="font-sans grid grid-rows-[20px_1fr_20px] items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20">
-      <main className="flex flex-col gap-[32px] row-start-2 items-center sm:items-start">
-        <Image
-          className="dark:invert"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={180}
-          height={38}
-          priority
-        />
-        <ol className="font-mono list-inside list-decimal text-sm/6 text-center sm:text-left">
-          <li className="mb-2 tracking-[-.01em]">
-            Get started by editing{" "}
-            <code className="bg-black/[.05] dark:bg-white/[.06] font-mono font-semibold px-1 py-0.5 rounded">
-              app/page.tsx
-            </code>
-            .
-          </li>
-          <li className="tracking-[-.01em]">
-            Save and see your changes instantly.
-          </li>
-        </ol>
+  
 
-        <div className="flex gap-4 items-center flex-col sm:flex-row">
-          <a
-            className="rounded-full border border-solid border-transparent transition-colors flex items-center justify-center bg-foreground text-background gap-2 hover:bg-[#383838] dark:hover:bg-[#ccc] font-medium text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5 sm:w-auto"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className="dark:invert"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={20}
-              height={20}
-            />
-            Deploy now
-          </a>
-          <a
-            className="rounded-full border border-solid border-black/[.08] dark:border-white/[.145] transition-colors flex items-center justify-center hover:bg-[#f2f2f2] dark:hover:bg-[#1a1a1a] hover:border-transparent font-medium text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5 w-full sm:w-auto md:w-[158px]"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Read our docs
-          </a>
+  return (
+    <div className="min-h-screen bg-gray-50">
+
+      {/* Header is now provided globally in RootLayout */}
+
+      {/* Hero */}
+      {heroSlides && heroSlides.length > 0 ? <HeroSlider slides={heroSlides as any} /> : null}
+      
+      
+      {/* Featured offers strip under hero */}
+      <FeaturedOfferStrip items={featuredOffers} />
+
+      {/* Main content */}
+      <div className="container mx-auto px-4 py-8 grid grid-cols-1 lg:grid-cols-12 gap-8">
+        {/* Left column */}
+        <div className="lg:col-span-9 space-y-10">
+          {/* Bonuses */}
+          <section>
+            <SectionTitle subtitle="おすすめ ✨" title="最新ボーナス 🎁" />
+           
+            <HorizontalScroller>
+              {homeBonuses.map((b) => (
+                <div key={b.id} className="snap-start">
+                  <BonusCard bonus={b} />
+                </div>
+              ))}
+            </HorizontalScroller>
+          </section>
+
+
+          {/* Slot banners */}
+          <section>
+            <SectionTitle subtitle="" title="スロット！ 🎰" />
+            <ImageBannerGrid items={slotBanners} className="mt-4" />
+          </section>
+
+
+          {/* Rankings */}
+          <section>
+            <SectionTitle subtitle="今月のおすすめ ✨" title="人気ランキング 🔥" />
+            <div className="space-y-6">
+              {toplistCasinos.map((c) => (
+                <RankingCard
+                  key={c.id}
+                  casino={{
+                    ...c,
+                    img: c.image,
+                    name: c.title,
+                    description: c.info ?? '',
+                    playHref: "#",
+                    detailsHref: "#",
+                    responsibleHref: "/info/responsible-gambling",
+                  }}
+                  paymentIconMap={paymentIcons}
+                />
+              ))}
+            </div>
+          </section>
+
+          {/* Curated picks */}
+          <CuratedPicksGrid
+            items={toplistCasinos.slice(0, 6).map((c) => ({
+              img: c.image,
+              name: c.title,
+              ratingScore: c.rating ?? 0,
+              description: c.info ?? '',
+              playHref: c.link,
+              detailsHref: c.link,
+            }))}
+          />
+
+
+          {/* News */}
+          <section>
+            <SectionTitle subtitle="最新情報 🗞️" title="ニュース 📰" />
+            <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
+              {newsArticles.map((a) => (
+                <ArticleCard
+                  key={a.id}
+                  article={{ ...a, href: "/news" }}
+                />
+              ))}
+            </div>
+          </section>
+
+          {/* Page-wide content begins after this container */}
         </div>
-      </main>
-      <footer className="row-start-3 flex gap-[24px] flex-wrap items-center justify-center">
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="/file.svg"
-            alt="File icon"
-            width={16}
-            height={16}
-          />
-          Learn
-        </a>
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="/window.svg"
-            alt="Window icon"
-            width={16}
-            height={16}
-          />
-          Examples
-        </a>
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://nextjs.org?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="/globe.svg"
-            alt="Globe icon"
-            width={16}
-            height={16}
-          />
-          Go to nextjs.org →
-        </a>
-      </footer>
+
+        {/* Sidebar */}
+        <div className="lg:col-span-3 space-y-6">
+          <SidebarSection title="人気ランキング" seeMoreHref="/reviews">
+            <SidebarList
+              items={toplistCasinos.slice(0, 5).map((c, index) => ({
+                href: c.link,
+                name: c.title,
+                img: c.image,
+              }))}
+            />
+          </SidebarSection>
+
+
+
+          {/* Exclusive Offers */}
+          <SidebarSection title="CasinoTsu限定！ 激アツオファー 🔥" seeMoreHref="/offers">
+            <SidebarMediaGrid
+              items={[
+                { href: "#", img: "", alt: "Offer 1" },
+                { href: "#", img: "", alt: "Offer 2" },
+                { href: "#", img: "", alt: "Offer 3" },
+              ]}
+            />
+          </SidebarSection>
+
+          {/* Popular Slots */}
+          <SidebarSection title="人気スロット 🎰" seeMoreHref="/slots">
+            <SidebarList
+              items={[
+                { href: "/slots/free", name: "無料スロット", img: "/assets/slot/big-bass-bonanza.png" },
+                { href: "/slots/megaways", name: "メガウェイズ", img: "/assets/slot/gonzos-quest-megaways.jpg" },
+                { href: "/slots/high-rtp", name: "高RTP", img: "/assets/slot/blood-suckers-2.png" },
+                { href: "/slots/progressive-jackpot", name: "プログレッシブ", img: "/assets/slot/geisha-story-jackpot.jpg" },
+                { href: "/slots/high-volatility", name: "高ボラティリティ", img: "/assets/slot/1429-uncharted-seas.jpg" },
+              ]}
+            />
+          </SidebarSection>
+
+          {/* Popular Game Providers */}
+          <SidebarSection title="人気ゲームプロバイダー 🧩" seeMoreHref="/providers">
+            <SidebarList
+              items={[
+                { href: "/providers", name: "NetEnt", img: "/assets/provider/netent.png" },
+                { href: "/providers", name: "Play'n GO", img: "/assets/provider/playn-go.png" },
+                { href: "/providers", name: "Pragmatic Play", img: "/assets/provider/pragmatic-play.png" },
+                { href: "/providers", name: "Microgaming", img: "/assets/provider/microgaming.png" },
+                { href: "/providers", name: "Yggdrasil", img: "/assets/provider/yggdrasil.png" },
+              ]}
+            />
+          </SidebarSection>
+
+          {/* Deposit/Withdrawal Methods */}
+          <SidebarSection title="入出金方法 💳" seeMoreHref="/payment">
+            <SidebarList
+              items={[
+                { href: "/payment/visa", name: "VISA", img: paymentIcons["visa"] },
+                { href: "/payment/mastercard", name: "Mastercard", img: paymentIcons["mastercard"] },
+                { href: "/payment/bank-transfer", name: "銀行振込", img: paymentIcons["bank-transfer"] },
+                { href: "/payment/bitcoin", name: "Bitcoin", img: paymentIcons["bitcoin"] },
+                { href: "/payment/ethereum", name: "Ethereum", img: paymentIcons["ethereum"] },
+              ]}
+            />
+          </SidebarSection>
+        </div>
+      </div>
+      
+
+      {/* Trust & Safety (wide, not full) */}
+      <div className="mx-auto max-w-screen-xl">
+        <TrustAndSafetySection fullWidth />
+      </div>
+
+      {/* Info banner (wide, not full) */}
+      <div className="mx-auto max-w-screen-xl">
+      <TextBanner
+        subtitle="インフォメーション"
+        title="ポリシー・評価基準・ガイドはこちら"
+        cta={{ href: "/info", label: "詳しく見る" }}
+        variant="neutral"
+        align="center"
+        fullWidth
+      >
+        透明性の高い評価プロセスと、信頼と安全のための実践的ガイドをまとめました。
+      </TextBanner>
+      </div>
+
+      {/* Information hub (wide, not full) */}
+      <div className="mx-auto max-w-screen-xl">
+        <InformationHubSection fullWidth />
+      </div>
+
+
+      {/* QA handoff to quiz (wide, not full) */}
+
+      {/* Mini quiz (wide, not full) */}
+      <div className="px-4">
+        <div className="mx-auto max-w-screen-xl">
+          <Quiz className="mt-4" />
+        </div>
+      </div>
+
+      {/* Category intro (wide, not full) */}
+      <div className="px-4 py-8">
+        <div className="mx-auto max-w-screen-xl">
+          <CategoryIntroductionSection />
+        </div>
+      </div>
     </div>
   );
 }

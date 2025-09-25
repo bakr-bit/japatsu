@@ -1,0 +1,23 @@
+- Tone and POV; sentence/paragraph length; heading/formatting habits  
+  • Informal yet authoritative and friendly tone, often using conversational expressions and casual particles ("ね", "わね")  
+  • Mostly second-person POV, directly addressing the reader ("あなた", "ご自身")  
+  • Short to medium-length sentences, with some use of bullet points, numbered steps, and tables for clarity  
+  • Frequent use of bold text for emphasis on key phrases or terms  
+  • Clear hierarchical structure with multiple heading levels (H2, H3) and anchor-linked contents for easy navigation  
+  • Mixed use of Japanese and some English or katakana loanwords; embedded links and icons frequently used  
+
+- Typical vocabulary/phrases to emulate (described, not copied)  
+  • Everyday Japanese words combined with industry-specific terms related to payment and online casinos  
+  • Use of positive and reassuring phrases highlighting safety, trustworthiness, simplicity, and convenience  
+  • Inclusion of concrete examples, brand names, and numeric details (e.g., fees, limits) to build credibility  
+  • Friendly mascots and casual onomatopoeia or emoticons to humanize content and engage readers  
+  • Encouragement and direct calls to action ("今すぐプレイ", "登録はコチラ") with informal, inviting language  
+  • Use of specialized jargon (e.g., “3Dセキュア”, “賭け条件”) explained in accessible terms  
+
+- Reading level; regional/Japan-specific traits  
+  • Written for a general adult Japanese audience familiar with online services but not necessarily experts  
+  • Uses basic to intermediate language appropriate for broad comprehension including non-expert users  
+  • Incorporates Japan-specific payment practices (e.g., yen currency, references to Japanese credit cards and services)  
+  • Cultural tone adapted to Japanese Internet readers, including etiquette-aware respectfulness without excessive formality  
+  • Use of yen symbol (¥), Japanese date formats, and culturally relevant examples (e.g., “ラーメンベット”)  
+  • Content reflects legal and practical context of Japanese online casino users, including licensing and responsible play disclaimers

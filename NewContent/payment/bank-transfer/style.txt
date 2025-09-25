@@ -1,0 +1,29 @@
+- **Tone and POV:**  
+  - Friendly, conversational, and casually informative  
+  - Mixes casual expressions (emojis, interjections) with clear explanations  
+  - Second-person POV addressing readers directly ("you") and inclusive language ("we")  
+  - Encouraging and lightly playful (e.g., jokes about fees, future hopes)  
+
+- **Sentence/Paragraph Length; Heading/Formatting Habits:**  
+  - Generally medium-length sentences, sometimes broken up for clarity  
+  - Paragraphs are short to moderately sized for easy scanning  
+  - Use of headings/subheadings with progressive detail levels (H2 and H3)  
+  - Bulleted and numbered lists for organization  
+  - Frequent use of bold for emphasis and emojis to add visual interest  
+  - Internal links and external calls to action interspersed with text  
+  - Japanese content mixed with English, including branded terms and loanwords  
+
+- **Typical Vocabulary/Phrases to Emulate:**  
+  - Everyday vocabulary with some technical terms explained simply (e.g., “SWIFTコード”, “マネーロンダリング”)  
+  - Phrases that build trust and reliability (“安心してご利用いただけます”, “規制当局のお墨付き”)  
+  - Japanese cultural references (pachinko, “和” theme) and local banking terms  
+  - Inclusion of common gaming/casino language in a familiar tone (“今すぐプレイ！”, “オンカジ”)  
+  - Informal expressions showing empathy and understanding of user concerns (“頭を悩ませる”, “迷いがち”)  
+  - Use of “〜ね” and “〜よね” sentence endings for friendly affirmation in Japanese  
+
+- **Reading Level; Regional/Japan-Specific Traits:**  
+  - Accessible reading level aimed at adult beginners or casual gamblers  
+  - Balanced mix of Japanese and English, respecting Japanese writing norms  
+  - Japan-specific banking terms, casinos popular in Japan, and common payment methods prominently referenced  
+  - Clear explanations of international vs. domestic banking focused for Japanese users  
+  - Use of culturally relevant emojis complements contemporary Japanese digital communication style

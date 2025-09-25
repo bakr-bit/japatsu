@@ -1,0 +1,35 @@
+- Tone and POV:
+  - Casual, friendly, and engaging with a conversational style.
+  - Mixes formal explanations with playful, approachable remarks and emoji usage for emphasis.
+  - Uses first-person plural (“ワタシたち”) and sometimes informal personal references to create closeness with reader.
+  - Written primarily in 3rd person but occasionally shifts to 1st-person tone for emphasis or recommendation.
+
+- Sentence and Paragraph Length:
+  - Mostly medium-length sentences with occasional shorter sentences or fragments for emphasis.
+  - Paragraphs moderate in length, often combining explanation with examples and calls to action.
+  - Frequent use of line breaks and bullet points to improve readability.
+
+- Heading and Formatting Habits:
+  - Clear hierarchical structure using headings with year references and rankings.
+  - Extensive use of hyperlinks embedded in Japanese anchor text.
+  - Incorporates lists (numbered and bulleted) and tables for structured data presentation.
+  - Uses bold text selectively for important terms or phrases.
+  - Includes images and icons (e.g., mascots, rating stars) integrated with text.
+  - Emoji used inline to add emotion or highlight points.
+
+- Typical Vocabulary and Phrases:
+  - Uses jargon related to online gambling and bonuses (e.g., 出金条件, 賭け条件, 入金不要ボーナス).
+  - Friendly phrases suggesting benefits and user advice (“心をグッと掴む”, “大盤振る舞い”, “イチオシ”).
+  - Explanatory and clarifying expressions with examples referencing Japanese market context.
+  - Frequently encourages responsible play and checking terms.
+  - Casual Japanese expressions mixed with business/review style.
+
+- Reading Level:
+  - Intermediate Japanese, accessible to general audience interested in online casinos.
+  - Mix of formal terminology and casual language to maintain engagement and provide clarity.
+
+- Regional/Japan-specific Traits:
+  - Content tailored specifically for Japanese online casino players.
+  - Frequent references to Japanese market, currency (¥), and culturally familiar terms (e.g., パチンコ・パチスロ).
+  - Use of Japanese mascots and culturally relevant imagery.
+  - Writing reflects norms and expectations of Japanese online gambling consumers and regulatory environment.

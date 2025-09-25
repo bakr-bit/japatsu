@@ -1,0 +1,23 @@
+- Tone and POV:
+  - Casual, friendly, and approachable tone with frequent use of emoticons and conversational phrases.
+  - Second-person point of view, directly addressing the reader ("あなた", "気を付けておいた方がいい").
+  - Encouraging and reassuring style emphasizing trust and safety.
+
+- Sentence/Paragraph Length; Heading/Formatting:
+  - Generally short to medium sentence length for ease of reading.
+  - Paragraphs are brief and broken up to avoid dense blocks of text.
+  - Headings use clear, descriptive Japanese titles with hierarchical markdown (main headings as ##).
+  - Lists and tables frequently used for clear presentation of offers and features.
+  - Bold text for emphasis; emoticons and special characters for tone and engagement.
+
+- Typical Vocabulary/Phrases:
+  - Everyday Japanese with colloquial contractions and idiomatic expressions.
+  - Use of casual phrases indicating excitement or caution ("なおさら", "やっぱり", "安心", "大公開").
+  - Vocabulary related to online casinos and payment methods, along with jargon like "ウェルカムボーナス", "キャッシュバック", "入金不要ボーナス".
+  - Friendly mascots and playful language to create a relaxed atmosphere.
+
+- Reading Level and Regional/Japan-specific Traits:
+  - Suitable for general adult Japanese audience with intermediate reading ability.
+  - Contains Japan-specific terms (yen, Japanese payment methods), culturally relevant references (パチンコ・パチスロ).
+  - Local currency focus (日本円) and explanations relevant to Japanese players’ concerns (円安, 資金管理).
+  - Emoticons and mascots reflect a localized, culturally familiar web style common in Japanese online services.

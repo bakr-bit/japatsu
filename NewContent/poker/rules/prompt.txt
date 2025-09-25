@@ -1,0 +1,15 @@
+Inferred page type: guide/how-to
+
+Research prompt:
+
+Conduct an in-depth, up-to-date research on online poker rules and gameplay specifically relevant to Japanese players. Focus on clarifying fundamentals, game variants, and practical tips for beginners interested in online poker within Japan’s regulatory and market environment. Include detailed and current information on the following points:
+
+- What are the latest official and widely accepted poker rules and hand rankings applicable to online poker platforms serving Japan? Include any recent changes or standardizations since 2023.
+- Provide a step-by-step breakdown of gameplay phases (preflop, flop, turn, river, showdown) with examples, highlighting nuances for popular variants like Texas Hold’em, Three Card Poker, and Caribbean Stud Poker.
+- Examine the availability and features of online poker sites accessible to Japanese users, including how they handle JPY deposits/withdrawals, licensing status, and responsible gaming measures.
+- Identify common beginner pitfalls and strategic advice tailored to the Japanese online poker market, referencing authoritative guides or tutorials updated for 2024.
+- Present data-backed benchmarks on poker game fairness, payout percentages, and average player win rates, if available from reputable sources.
+- Compare notable poker platforms and apps popular among Japanese players, detailing differences in game varieties, betting limits, bonus structures, and user experience.
+- Review Japan-specific legal and regulatory considerations impacting online poker play, including gambling laws, licensing enforcement, and compliance requirements for operators targeting Japan.
+- Summarize how online poker integrates with broader gambling culture in Japan, including social acceptance, related gaming trends (e.g., pachinko crossover), and emerging market developments.
+- Use primarily English-language, authoritative international and Japanese regulatory or industry sources; include Japanese sources only if from official or renowned entities. Avoid low-quality, thin SEO content.

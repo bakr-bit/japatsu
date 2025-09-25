@@ -1,0 +1,29 @@
+- Tone & POV:  
+  - Informal and friendly with occasional casual/emotional expressions (e.g., emojis, interjections like "じゃあ何が違うの？")  
+  - Third-person and second-person mix; direct address to reader for engagement  
+  - Uses mascots/chatty characters for a conversational feel  
+
+- Sentence & Paragraph Length:  
+  - Generally short to medium sentences  
+  - Paragraphs brief, often 1-3 sentences for easy digestion  
+  - Frequent use of bullet points and lists for clarity  
+
+- Headings & Formatting:  
+  - Uses clear hierarchical headings (##, ###) to break content  
+  - Bold for key terms and concepts  
+  - Links embedded naturally in text (inline) and as separate calls to action  
+  - Emojis and icons used to enhance engagement and visual cues  
+  - Tables employed for comparison to aid understanding  
+
+- Vocabulary & Phrases:  
+  - Casual Japanese phrases combined with English terms (especially proper nouns like poker terms)  
+  - Uses common Japanese expressions relevant to gambling culture  
+  - Emphasizes clarity and simplicity; avoids overly technical jargon without explanation  
+  - Phrases encouraging action ("今すぐプレイ！", "～コチラ！")  
+  - Utilizes analogies and explanations to relate new concepts to familiar ones  
+
+- Reading Level & Regional Traits:  
+  - Accessible to intermediate Japanese speakers with some gambling/online casino familiarity  
+  - Combines Japanese and English poker vocabulary naturally, reflecting globalized online casino culture in Japan  
+  - Uses Japan-specific cultural references and slang (e.g., カジ子 mascot, パチンコ・パチスロ)  
+  - Incorporates attention to safe gambling ("責任あるプレイ") consistent with regional regulatory emphasis

@@ -1,0 +1,26 @@
+- Tone and POV:
+  - Casual, friendly, and approachable with occasional playful or informal expressions (e.g., “〜ちゃおう!”, “嬉しいっ♪”)
+  - Mix of first-person plural/collective (“いろんなカジノで楽しむなら”) and direct address to reader (“〜しておくといいかも、ですよ♪”)
+  - Conversational style with personal commentary and encouragement
+
+- Sentence/Paragraph length; Heading/Formatting habits:
+  - Sentences mostly short to medium length, simple and easy to scan
+  - Paragraphs generally brief, focused, and well separated for readability
+  - Usage of clear sections with H2 and H3 headings (e.g., “## iWalletの概要”, “### 発行手順”)
+  - Lists and step-by-step instructions provided with accompanying screenshots
+  - Frequent use of images and icons to visually support text and Calls to Action (CTA)
+  - Emphasis on actionable link buttons (“今すぐプレイ！”, “詳細を見る”)
+
+- Typical vocabulary/phrases to emulate:
+  - Everyday Japanese expressions with a warm, inviting tone
+  - Terms related to online casinos, e-wallets, payment methods, and user convenience
+  - Phrases that suggest reliability and safety (“信頼性の評価は高い”, “安全、便利”)
+  - Encouraging phrases that motivate action gently (“口座開設をしておくといいかも、ですよ♪”)
+  - Use of katakana for loanwords (e.g.,オンラインカジノ, プリペイドカード)
+  - Friendly exclamations and interjections to maintain casual engagement
+
+- Reading level; regional/Japan-specific traits:
+  - Reading level accessible to everyday Japanese internet users familiar with online services and gambling terms
+  - Content assumes some knowledge of Japanese online casino culture and e-wallet usage
+  - Language includes Japan-specific references (e.g., “ゆうちょ銀行”, “コンビニ”, Japanese holiday terms “土日祝・夏季・冬季休業日”)
+  - Use of polite but informal Japanese suited for consumer advice and promotional context within Japan

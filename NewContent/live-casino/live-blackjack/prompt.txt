@@ -1,0 +1,12 @@
+Identify the page type of the content (one of: payment method, slot game review, casino review, guide/how-to, news/update, info/explainer, other) and then create a focused research prompt to update and expand this topic specifically for Japanese users. Include these key bullets regardless of page type: 
+
+- What are the latest developments or updates regarding live blackjack and live dealer casinos available to Japanese players as of early 2024? 
+- Provide data-backed facts on popularity, player preferences, and benchmark RTP and payout rates for live blackjack in the Japanese market. 
+- What are the most trusted and legal online casinos offering live blackjack to Japanese users, including license status and compliance with Japanese regulations? 
+- How do payment methods, currency handling (JPY), deposit/withdrawal processes, and typical transaction times work for Japanese players at these casinos? 
+- Outline common black jack side bets available in live dealer versions favored by Japanese players, including payout structures and risks. 
+- Detail the top live blackjack providers popular in Japan with focus on game features, platform compatibility, and regulatory/licensing information. 
+- What types of bonuses or promotions are currently offered specifically for live blackjack games at casinos targeting Japanese players, including any exclusives? 
+- Compare live blackjack experiences versus non-live online blackjack for Japanese users, highlighting advantages, disadvantages, and typical user preferences. 
+
+When researching, prioritize authoritative English-language sources such as global casino regulators, major game providers, reputable industry media, and official casino platforms. Use Japanese sources only if they are official or highly credible. Avoid marketing-heavy or low-value SEO sites. Return concise, neutral, fact-focused information.

@@ -1,0 +1,23 @@
+- Tone & POV:  
+  - Conversational, friendly, and approachable with emoji usage for emotional nuance.  
+  - Mixes casual expressions ("ありがた～い", "ちょっと心配？") and slightly playful interjections ("そんな～しましょう！").  
+  - Mostly second-person POV addressing the reader directly ("～しましょう", "気になりますよね？").  
+- Sentence/Paragraph Length & Formatting:  
+  - Sentences are generally short to medium length; paragraphs concise and broken into digestible chunks.  
+  - Frequent use of bullet points, numbered steps, and tables for clarity.  
+  - Headings are hierarchical with consistent use of Markdown syntax (## for main sections, ### and #### for subsections).  
+  - Bold text for emphasis on keywords and important concepts.  
+  - Emojis and icons integrated to complement headings or key points visually.  
+  - Internal linking with descriptive anchor text supporting navigation.  
+- Typical Vocabulary/Phrases:  
+  - Everyday Japanese with occasional business/payment-related terminology.  
+  - Phrases expressing benefits and drawbacks explicitly ("メリット・デメリット", "注意点", "トラブル例").  
+  - Polite but casual, reader-focused phrases encouraging ease of understanding and action ("カンタン！", "チェックしましょう", "参考にしてくださいね").  
+  - Use of loanwords (e.g., アカウント, オンラインカジノ) mixed naturally with Japanese.  
+  - Phrases that reflect an informative yet engaging style, including explicit calls-to-action and reassurance.  
+- Reading Level & Regional/Japan-Specific Traits:  
+  - Suitable for general adult Japanese internet users interested in online casinos or digital payments.  
+  - Reading level: Intermediate; familiar with casual, web-based Japanese and some financial jargon.  
+  - Region-specific content (Japan) reflected in: use of Japanese yen currency, references to major Japanese banks, Japanese language issues, and regulatory/licensing concerns specific to Japan or East Asia.  
+  - Use of Japanese-specific writing conventions: katakana for foreign terms/names, polite but accessible honorific style.  
+  - Content assumes readers have basic knowledge of online casino operations and Japanese banking systems.

@@ -1,0 +1,21 @@
+- Tone and POV:
+  - Casual, friendly, and enthusiastic tone with frequent emotive icons and interjections (e.g., "😎", "🔥", "💰", "ッ♪")
+  - Second-person POV aimed at directly engaging readers ("あなた次第", "見逃しませんっ♪")
+  - Mixes formal info delivery with conversational asides and mascots’ commentary for a playful vibe
+- Sentence/Paragraph Length; Heading/Formatting Habits:
+  - Generally short to medium sentences with conversational fragments and exclamations
+  - Paragraphs are brief, often a few sentences max, optimized for skimmability
+  - Clear hierarchical headings (H2, H3) for sections and subsections, often following a logical step or feature breakdown
+  - Use of bullet points, numbered steps, tables, and visuals repeated throughout for clarity and engagement
+  - Frequent use of bold text and emojis to emphasize keywords and concepts
+- Typical Vocabulary/Phrases to Emulate:
+  - Simple, direct vocabulary with occasional specialized gaming terms clearly explained
+  - Phrases that create excitement and anticipation (e.g., "ドキドキしちゃいますよ💕", "盛り上げてくれていますッ🤩")
+  - Reassuring and accessible language aimed at beginners (e.g., "分かりやすい！", "要チェック")
+  - Use of onomatopoeic and emphatic expressions ("ビリっ", "ッ♪")
+  - Regional/Kana/Japanese gamer culture expressions and honorifics (e.g., mascots Casiko and Cocomo speaking in casual Japanese)
+- Reading Level and Regional Traits:
+  - Intermediate Japanese reading level appropriate for general adult audiences interested in online casino games
+  - Contains Japan-specific currency references (dollars noted for bets), Japanese loanwords written in katakana, and casual Japanese use of emoticons and emojis
+  - Localized navigation and linking consistent with Japanese online casino content norms
+  - Mix of formal terminology with casual user-friendly explanations to accommodate diverse knowledge levels

@@ -1,0 +1,30 @@
+- Tone and POV:
+  - Informal yet informative, mixing casual expressions ("ちょっとカッコイイ！", "ビビッときたら") with clear, direct explanations
+  - Uses second-person or inclusive audience approach but mostly omniscient third-person explaining rules and features
+  - Balanced enthusiasm to engage readers, especially beginners and casual players
+
+- Sentence/Paragraph Length:
+  - Sentences are generally medium length; explanations are succinct without overly complex constructions
+  - Paragraphs are short to moderate, often focused on a single concept or rule for clarity and ease of reading
+
+- Heading/Formatting Habits:
+  - Uses numbered lists for navigation/breadcrumbs
+  - Employs multi-level headings (## for main sections, ### for subsections) for structured hierarchy
+  - Integrates images, star ratings, and call-to-action buttons inline with text to maintain visual interest
+  - Bulleted lists appear in rules and payouts sections for readability
+
+- Typical Vocabulary/Phrases to Emulate:
+  - Simple, approachable vocabulary combined with niche gambling terms explained clearly
+  - Friendly and engaging adjectives ("陽気で楽しい", "刺激的な", "なかなかの賞金額")
+  - Phrases encouraging trial and exploration ("新しい発見があるかも？", "今すぐプレイ！")
+  - Uses Japanese gambling/casino jargon appropriately (e.g., アンティ, ベット, ジャックポット)
+
+- Reading Level:
+  - Accessible to adult Japanese readers with intermediate language skills; vocabulary and grammar avoid complexity while maintaining technical accuracy
+  - Explanation style supports novice learning without being overly simplified
+
+- Regional/Japan-Specific Traits:
+  - Content is targeted at Japanese players, mixing English loanwords (e.g., ポーカー, コール) and native Japanese terms
+  - Mentions compliance and responsible gaming habits common in Japan ("責任あるプレイ")
+  - References to Japanese market-specific casino sites and usage of yen-based dates and terms appropriate for local audience
+  - Uses casual interjections and style markers typical in Japanese web content for entertainment/gaming audiences

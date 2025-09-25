@@ -1,0 +1,35 @@
+- Tone & POV:
+  - Informal yet informative, conversational style with occasional exclamations and emotive encouragement.
+  - Second-person POV is used to engage the reader directly (e.g., "あなた", "できますよ").
+  - Mix of friendly mascot quotes and formal factual explanations.
+  - Includes tips, warnings, and small “プチ情報” side notes for added value.
+
+- Sentence & Paragraph Length:
+  - Generally short to medium sentence length; clear and straightforward phrasing.
+  - Paragraphs are moderately sized, often 3-6 lines for easy scanning.
+  - Uses numbered/bulleted lists for steps and key points.
+
+- Heading & Formatting Habits:
+  - Clear hierarchical structure with H2 and H3 headings for organization.
+  - Bold text for emphasis on key terms or warnings.
+  - Links often embedded with descriptive anchor text.
+  - Frequent use of icons, emojis, and branded images to support content.
+  - Uses Japanese punctuation and spacing consistent with native writing.
+
+- Typical Vocabulary / Phrases:
+  - Polite, everyday Japanese mixed with industry-specific terms (e.g., 振込, 本人確認, 入金, 手数料).
+  - Uses examples to clarify complex concepts.
+  - Terms related to online casinos, banking, and payment procedures dominate.
+  - Phrases encouraging security, safety, and responsibility (e.g., 安全性はピカイチ, 責任あるプレイ).
+  - Use of casual expressions for reassurance (“便利なんです”, “できますよ♪”).
+
+- Reading Level:
+  - Targeted at general adult Japanese speakers familiar with online banking and internet use.
+  - Moderate technical vocabulary but explained simply.
+  - Suitable for users seeking practical guides rather than highly technical documents.
+
+- Regional / Japan-specific Traits:
+  - References Japan-specific financial institutions and services (e.g., 楽天銀行, PayPay銀行).
+  - Discusses Japanese consumer protection context and online casino regulations with specific national nuance.
+  - Japanese language used exclusively with occasional English terms for branding or services.
+  - Emphasizes domestic banking processes and licences relevant to Japanese players.

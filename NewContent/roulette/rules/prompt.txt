@@ -1,0 +1,15 @@
+Infer the page type as: guide/how-to.
+
+Research prompt:
+Please conduct comprehensive and up-to-date research on Japanese online roulette gameplay guides, focusing on improving player understanding of roulette rules, bet types, payouts, and strategies relevant for the Japanese market. In particular, include the following points:
+
+- Provide the latest explanation of roulette rules and variations (e.g., European, American, French) with emphasis on which types are most accessible or popular among Japanese players online.
+- Detail the full range of bet types in roulette (inside bets, outside bets, call bets, final bets, complete bets) including their payout ratios and probabilities, supported by official or authoritative sources.
+- Analyze data-backed winning odds benchmarks and house edges for each roulette variation and bet type, specifically for casinos offering services to Japan.
+- Investigate the availability of free or demo roulette gameplay for Japanese users and any notable pitfalls or common player mistakes in learning roulette.
+- List and compare reputable Japanese-facing online casinos where roulette is offered, highlighting their licensing, fairness, language support, and bonuses related to roulette.
+- Examine how Japanese regulations and compliance requirements impact roulette offerings, including restrictions on bet types or payout limits and the legal stance toward online roulette for Japanese residents.
+- Survey alternative table games or gambling options similar to roulette favored by Japanese players, with comparative advantages.
+- Include only authoritative English-language sources—such as major gaming regulators, casino operators, and industry reports—and use Japanese sources only if from official or well-regarded gambling authorities.
+
+Keep the summary concise, factual, and free of promotional language.

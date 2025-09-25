@@ -1,0 +1,21 @@
+- **Tone and POV; sentence/paragraph length; heading/formatting habits**  
+  - Casual, conversational, and slightly playful tone with direct address to reader ("あ、ところでモノポリーって知ってる？")  
+  - First-person and second-person POV; includes personal asides and rhetorical questions  
+  - Short to medium sentence length; paragraphs are concise; frequent use of exclamation marks and interjections for emphasis  
+  - Clear hierarchical structure with primary headings (###), subheadings (#####), bulleted lists, and tables  
+  - Use of parentheses for supplementary info and clarifications  
+  - Mix of Japanese and English terms with explanations, plus inline links and embedded images  
+
+- **Typical vocabulary/phrases to emulate**  
+  - Friendly and inviting words encouraging engagement (e.g., "プレイしてみたい！", "おすすめカジノでどうぞ！")  
+  - Informal expressions and colloquialisms (e.g., "ハマる", "グッと掴む", "ドカン！と勝てる")  
+  - Simple descriptive adjectives emphasizing fun, ease, and quality ("シンプル", "よく出来てるなぁ", "思った以上に")  
+  - Terms specific to gaming and gambling mixed naturally with everyday language  
+  - Frequent use of Japanese branded terms and culturally specific references (e.g., "ミスター・モノポリー", "トップハム・ハット卿")
+
+- **Reading level; regional/Japan-specific traits**  
+  - Intermediate reading level suitable for Japanese native speakers familiar with casual web content  
+  - Use of Japanese language with selective English loanwords and katakana for game/brand names  
+  - Cultural references tailored to Japanese audience (e.g., comparison to 「人生ゲーム」, explanation of 「機関車トーマス」 character)  
+  - Localized gambling terminology and regulations implied by phrases like "責任あるプレイ"  
+  - Integration of both Japanese and English links and interface elements reflecting bilingual web environment

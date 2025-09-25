@@ -1,0 +1,22 @@
+- Tone & POV:
+  - Informal yet informative, friendly and reassuring
+  - Uses 1st person plural ("we") and 2nd person ("you") to engage readers directly
+  - Includes casual elements like emojis to create a conversational feel
+- Sentence & paragraph length:
+  - Generally short to medium sentences
+  - Paragraphs are concise, often 2-4 sentences for easy skimming
+- Headings & formatting habits:
+  - Clear hierarchical structure (H2, H3) with descriptive, benefit-oriented headings
+  - Frequent use of boldface to highlight key points or terms
+  - Numbered lists and checkmarks for step-by-step instructions or tips
+  - Tables to present comparative data clearly
+  - Inline links with descriptive anchor text, mostly internal Japanese site links
+- Vocabulary & phrasing:
+  - Simple and approachable vocabulary with Japanese-specific terms (e.g., カジノ, クレジットカード)
+  - Phrases emphasize safety, convenience, and trustworthiness (e.g., "手厚いサポート", "安心して選んでくださいね")
+  - Encouraging language ("ぎゅっと集めてみました", "お気に入りのカジノを見つけましょう")
+  - Uses casual connectors ("ちなみに", "さて") and onomatopoeic expressions (e.g., "ぎゅっと")
+- Reading level & regional traits:
+  - Appropriate for general Japanese adult readers familiar with online services
+  - Incorporates Japan-specific references: JCB, Japanese yen, Japanese credit card issuers, and online gambling context legally relevant to Japan
+  - Mixes Japanese and English terms naturally, reflecting common bilingual usage online in Japan

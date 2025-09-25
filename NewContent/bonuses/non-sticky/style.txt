@@ -1,0 +1,28 @@
+- Tone & POV:  
+  - Friendly, approachable, conversational with casual emoji use  
+  - Mix of first-person inclusive ("ここでは") and third-person explanations  
+  - Occasional use of mascot characters speaking adds informal, educational flavor  
+
+- Sentence/Paragraph Length & Formatting:  
+  - Mostly short to medium sentences for clarity  
+  - Paragraphs concise, often focused on explaining one concept  
+  - Frequent use of bold text for emphasis on key terms/statements  
+  - Use of tables for clear data presentation  
+  - Headings structured hierarchically (##, ###) with descriptive titles  
+  - Bulleted and numbered lists common for readability  
+  - Incorporates emoji and icons to enhance engagement and highlight points  
+
+- Typical Vocabulary/Phrases:  
+  - Everyday Japanese with simple, clear terms explained in layman’s terms  
+  - Gambling and casino-specific jargon explained with analogies  
+  - Use of casual phrases expressing enthusiasm or encouragement (“急いでチェック！”, “言わずと知れた”)  
+  - Phrases indicating reliability and assurance (“業界の大御所”, “安心してプレイ”)  
+  - Educational tone when defining terms (“簡単に説明すると”, “例えば”)  
+
+- Reading Level & Regional/Japan-specific Traits:  
+  - Written for general adult Japanese audience with moderate familiarity with online casinos  
+  - Includes region-specific cultural references (オンラインカジノ, ベラジョン etc.)  
+  - Some Japanese internet slang and emoji usage adapted to local digital communication style  
+  - Uses yen currency and USD symbols appropriately  
+  - Casual mascots and iconography familiar in Japanese web culture  
+  - Mix of kanji, hiragana, katakana balanced for accessibility and professionalism

@@ -1,0 +1,31 @@
+- Tone and POV:  
+  - Friendly and approachable, using casual language and emojis to engage readers.  
+  - Second-person POV addressing the reader directly ("お試しあれ", "チェック♪").  
+  - Mix of informative and promotional tone, balancing explanations with calls to action.
+
+- Sentence and paragraph length:  
+  - Mostly short to medium sentences; paragraphs are concise with clear breaks.  
+  - Frequent use of line breaks and whitespace for readability.  
+  - Use of bullet points and tables for clarity.
+
+- Heading and formatting habits:  
+  - Clear, descriptive headings using markdown ## for sections.  
+  - Bold text to highlight keywords or phrases within paragraphs.  
+  - Use of emojis to emphasize points and add friendliness.  
+  - Internal links for navigation and cross-referencing.  
+  - Tables used to organize comparative data neatly.  
+  - Images include alt-text for context.
+
+- Typical vocabulary and phrases:  
+  - Uses casual and encouraging phrases ("遊ぶのにベストな", "プレイする前に", "もっともプレイヤーに優しい").  
+  - Includes specialized gambling terms in Japanese and English (RTP, ベット方法, En Prison, La Partage).  
+  - Frequent use of "〜です", "〜ます" polite form mixed with conversational expressions.  
+  - Use of onomatopoeic or friendly expressions (e.g., "華がある", "嬉しい♪").  
+  - Phrases encouraging trial and exploration ("フリープレイが可能なので、お試しあれ").
+
+- Reading level and regional/Japan-specific traits:  
+  - Written for a general Japanese audience with basic to intermediate gambling knowledge.  
+  - Uses gambling jargon explained simply for beginners but also includes advanced topics.  
+  - Contains culturally specific terms and references (e.g., Japanese katakana loanwords, specific casino names popular in Japan).  
+  - Polite casual tone typical of consumer-oriented Japanese websites.  
+  - Includes Japanese punctuation and layout conventions (e.g., full-width characters, line breaks after emoji).

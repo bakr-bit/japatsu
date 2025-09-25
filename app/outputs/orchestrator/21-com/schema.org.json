@@ -1,0 +1,37 @@
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "headline": "21.com（21ドットコム）の評判と入金方法について",
+  "author": {
+    "@type": "Organization",
+    "name": "CasinoTsu",
+    "url": "https://casinotsu.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "CasinoTsu",
+    "url": "https://casinotsu.com"
+  },
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": "3.9",
+    "bestRating": "5",
+    "worstRating": "1"
+  },
+  "itemReviewed": {
+    "@type": "Casino",
+    "name": "21.com",
+    "url": "https://21.com",
+    "description": "21.com は、スタイリッシュでシンプルなデザインと使いやすい検索機能で、プレイヤーを魅了するオンラインカジノです。",
+    "paymentAccepted": [
+      "VISA",
+      "Mastercard",
+      "iWallet"
+    ],
+    "currenciesAccepted": "USD",
+    "license": "マルタゲーミングオーソリティ（MGA）"
+  },
+  "reviewBody": "21.com は、スタイリッシュなデザインと使いやすさを兼ね備えたオンラインカジノです。入金不要フリースピンやウェルカムボーナスなどプロモーションが豊富で、モバイル最適化もされており、初心者から経験者まで楽しめる要素が満載です。マルタゲーミングオーソリティ（MGA）のライセンスを取得しており、安全性と公平性も保証されています。賭け条件や日本語サポートの不定期性には注意が必要ですが、全体として魅力的なカジノサイトとして推奨されます。"
+}
+```

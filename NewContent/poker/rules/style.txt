@@ -1,0 +1,21 @@
+- Tone and POV:  
+  - Conversational, friendly, and encouraging tone with occasional casual slang/emojis  
+  - Mix of second-person direct address ("あなた," "オレ") and inclusive first-person plural ("いきましょ～")  
+  - Uses rhetorical questions and exclamations to engage readers  
+- Sentence/Paragraph Length; Heading/Formatting:  
+  - Generally short to moderate sentence length for easy digestion  
+  - Paragraphs are concise, often a few lines only  
+  - Clear hierarchical headings with multiple levels (##, ###, ####) for structured navigation  
+  - Uses bold and emojis for emphasis and visual engagement  
+  - Lists and numbered steps to organize content logically  
+- Typical Vocabulary/Phrases:  
+  - Simple, everyday Japanese with some gambling/poker terminology well explained  
+  - Use of friendly nicknames and mascots (e.g., ブラッフィー, ポカ博士) to create approachable atmosphere  
+  - Phrases that build confidence and curiosity (e.g., "これで完璧", "必見", "まずは…マスター")  
+  - Mix of formal terms with casual expressions and interjections ("なんだ～運ゲーじゃん😺")  
+  - Frequent mention of practical tips and strategy ("戦略," "勝率アップ")  
+- Reading Level and Regional Traits:  
+  - Intermediate reading level appropriate for adults with some background or interest in online gambling  
+  - Content tailored to Japanese audience: Japanese text with embedded English loanwords for game terms (e.g., プリフロップ, フロップ)  
+  - Includes Japanese-specific gambling context (pachinko references, regional casino mentions)  
+  - Cultural comfort elements like emoji usage aligned with Japanese web styles and casual e-learning content

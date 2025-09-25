@@ -1,0 +1,22 @@
+- Tone and POV:
+  - Conversational and enthusiastic, often with informal expressions and emoticons (e.g., emojis like 💪, 🤩, 😆)
+  - Uses first-person plural ("見ていきましょう") encouraging reader inclusion
+  - Mixes casual phrases with expert/info-sharing style
+  - Sentence length varies but often short to medium; paragraphs are concise, often 1-3 sentences
+  - Headings are clear, hierarchical (##, ###, ####), mixing Japanese and English phrases
+  - Tables and links widely used for clarity and navigation
+
+- Vocabulary and Phrases:
+  - Mix of Japanese and English casino/gaming terminology (e.g., RTP, ベット, ハイローラー)
+  - Friendly, encouraging language ("必見", "火が付いちゃうっ", "遊べるこちら👇")
+  - Promotional and informative terms highlight bonuses, features, and benefits
+  - Uses casual interjections and sound-symbolic words ("～🎵", "っ", "🌠")
+  - Emphasis on excitement, risk/reward ("ハイリスク・ハイリターン", "最大勝利金倍率2,000倍")
+  - Common use of bold and highlights for key terms
+
+- Reading Level and Regional Traits:
+  - Written primarily in Japanese with embedded English technical terms
+  - Aimed at Japanese readers familiar with online casino culture and terminology
+  - Uses Japan-specific currency references (e.g., "4,000円相当", "日本円でプレイ")
+  - Informal and accessible reading level for adult online casino enthusiasts
+  - Uses Japanese text layout conventions (vertical lists, embedding emojis inline)

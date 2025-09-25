@@ -1,0 +1,25 @@
+- Tone and POV:
+  - Friendly, conversational, and approachable with occasional casual expressions and emoticons
+  - Mostly second-person ("you") direct address, creating a helpful and engaging feel
+  - Mix of formal informational text and informal remarks (e.g., exclamation marks, musical notes, emojis)
+- Sentence/Paragraph Length; Headings/Formatting:
+  - Sentences generally short to medium length for clarity
+  - Paragraphs concise, often a few sentences each
+  - Use of headings and subheadings (##, ###, ####) to structure content hierarchically
+  - Frequent use of bold text for emphasis (dates, key terms)
+  - Inline links clearly incorporated, often repeated with Japanese and English terms
+  - Bulleted/numbered lists used for step-by-step instructions or schedules
+  - Tables used to summarize dates/events and conditions/prizes
+  - Use of mascots/emojis integrated inline to lighten tone
+- Typical Vocabulary/Phrases:
+  - Clear instructional language, easy to understand steps (e.g., "クリックします", "入力してください", "登録完了")
+  - Use of Japanese terms mixed with English brand/product names
+  - Marketing-friendly phrases emphasizing benefits ("簡単、便利、お得", "手数料が安い")
+  - Common Japan online casino/e-wallet jargon (e.g., "ポイントバック", "換金", "送金", "オンカジ")
+  - Some casual interjections and encouragement ("使わないわけにはいきませんよね！", "参加するしかないでしょー！")
+- Reading Level and Regional Traits:
+  - Written for Japanese audience with proficiency in internet/e-commerce terminology
+  - Japanese language aimed at a general adult audience familiar with online gaming and payments
+  - Use of Japanese date formats, honorific/informal language appropriate for business-casual gaming context
+  - References to Japan-specific payment practices, banking terms in Japanese, and local customer support info
+  - Cultural touches like mascot images and friendly banter typical for Japanese online services

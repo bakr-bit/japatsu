@@ -1,0 +1,16 @@
+You have a slot game review page focused on "Lightning Baccarat" by Evolution Gaming, targeting Japanese online casino players.
+
+Research prompt:
+
+Expand and update a detailed review of Lightning Baccarat tailored for Japanese users, covering the evolution of the game since its release and current relevance in Japan’s iGaming market. Assess its availability at Japanese-facing casinos, JPY support, and regulatory compliance.
+
+- What are the official game mechanics of Lightning Baccarat (cards, betting rounds, multipliers) with updated RTP, hit frequency, volatility data from authoritative sources?
+- How does the Lightning feature (lightning cards, multipliers, fees) work precisely, and what is its impact on expected player returns?
+- What platforms support Lightning Baccarat now (desktop, mobile, apps), and are there differences in gameplay or accessibility for Japanese players?
+- Provide recent data or benchmarks on player popularity, average bets, max wins, and jackpot occurrences, if any.
+- Which major Japanese-licensed or internationally licensed casinos legally offer Lightning Baccarat to Japanese residents, and do they support JPY deposits and withdrawals?
+- What are relevant Japanese regulatory considerations affecting play, marketing, and availability of Evolution Gaming’s live baccarat games including Lightning Baccarat?
+- Compare Lightning Baccarat to competing baccarat variants or other live casino game shows popular with Japanese players.
+- Identify any recent updates or new Evolution Gaming baccarat game shows (e.g., XXXtreme Lightning Baccarat) that have gained traction with Japanese users.
+
+Use primarily English-language authoritative sources from global regulators, iGaming providers, and market reports, adding recognized Japanese sources only if highly credible. Avoid low-quality SEO or overly promotional sites.

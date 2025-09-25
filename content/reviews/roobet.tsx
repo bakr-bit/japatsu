@@ -1,0 +1,276 @@
+import Link from "next/link";
+import type { ReviewPageContent } from "@/components/templates/ReviewDetailTemplate";
+
+export const reviewRoobet: ReviewPageContent = {
+  hero: {
+    title: "Roobet（ルーベット）レビュー",
+    subheading: "著名なアンバサダーと仮想通貨対応で注目のクリプトカジノ",
+    description:
+      "Roobet は2018年開設の仮想通貨対応カジノ。著名人との提携やスポーツベット、豊富なオリジナルゲームで注目を集めています。本レビューではライセンス、安全性、ボーナス、入出金、ゲーム、サポートをまとめました。",
+    score: 4,
+    scoreMax: 5,
+    scoreBreakdown: [],
+    highlights: [
+      "著名なアンバサダー（スヌープ・ドッグ等）やチェルシーFCとのパートナーシップ",
+      "仮想通貨対応と仮想→Roollions 変換の導入",
+      "独自オリジナルゲームやクラッシュ／ダイス等ユニークなコンテンツ",
+      "スポーツベットが充実、UFC等の公式連携あり",
+      "70社以上のプロバイダーと6,300種超のゲームラインナップを案内",
+    ],
+    watchouts: [
+      "現時点で恒常的なウェルカムボーナスは準備中の案内あり（ボーナス無し表記）",
+      "日本語表示に英語が混在する箇所あり",
+      "仮想通貨中心のため法定での出金オプションは限定的",
+    ],
+  },
+  payments: {
+    featured: [
+      {
+        name: "Bitcoin / Ethereum / USDT 等（仮想通貨）",
+        icon: "",
+        href: "https://www.japanesecasino.com/payment/bitcoin",
+        badge: "即時反映",
+        note: "主要コインでの入出金に対応。サイト内で仮想通貨購入機能を提供する場合あり。",
+      },
+      {
+        name: "電子ウォレット（Payz / Vega Wallet / MuchBetter）",
+        icon: "",
+        href: "https://www.japanesecasino.com/payment",
+        badge: "",
+        note: "電子ウォレットで即時入金・迅速出金が可能。地域による対応差あり。",
+      },
+      {
+        name: "クレジットカード（Visa / MasterCard）",
+        icon: "",
+        href: "https://www.japanesecasino.com/payment/visa",
+        badge: "",
+        note: "カードで仮想通貨を購入して入金できるケースあり。カードでの直接出金は制限されることがある。",
+      },
+    ],
+    deposits: [
+      {
+        name: "Bitcoin (BTC)",
+        icon: "",
+        href: "",
+      },
+      {
+        name: "Ethereum (ETH)",
+        icon: "",
+        href: "",
+      },
+      {
+        name: "Tether (USDT)",
+        icon: "",
+        href: "",
+      },
+      {
+        name: "USDC / LTC / DOGE / XRP / SOL etc.",
+        icon: "",
+        href: "",
+      },
+      {
+        name: "Payz / Vega Wallet / MuchBetter",
+        icon: "",
+        href: "",
+      },
+      {
+        name: "Visa / MasterCard（オンランプ経由での仮想通貨購入）",
+        icon: "",
+        href: "",
+      },
+    ],
+    withdrawals: [
+      {
+        name: "仮想通貨（BTC / ETH / USDT 等）",
+        icon: "",
+        href: "",
+      },
+      {
+        name: "電子ウォレット（Payz 等）",
+        icon: "",
+        href: "",
+      },
+    ],
+    notes: [
+      "入出金は仮想通貨に最適化。入金は即時〜数分が一般的だがネットワーク状況で変動する",
+      "カード入金は仮想通貨購入（オンランプ）経由となる場合あり。出金は概ね仮想通貨／電子ウォレット中心",
+      "PayPal は未対応（案内）",
+      "入出金の手続きや上限はアカウントや地域によって異なるため事前確認推奨",
+    ],
+  },
+  bonuses: {
+    overview:
+      "Roobet は定期的なプロモやリワード（レーキバック）システムを備える一方、恒常的なウェルカムボーナスは準備中の案内があるため、プロモは随時公式を確認してください。独自のリワードで還元する仕組みが特徴です。",
+    noDeposit:
+      "恒常的な入金不要ボーナスは案内されていないが、キャンペーンやタスク経由で入金不要のオファーが出ることがあるため公式案内を確認してください。",
+    extraSpins: {
+      summary:
+        "時期によりルースピン（Roospins）やフリースピン配布が行われる。フリースピンは有効期限や最大出金上限が設定されることがある。",
+      schedule: [],
+      warning:
+        "プロモ毎に条件が異なるため、受け取る前に必ずプロモ規約を確認すること",
+    },
+    welcomeRows: [],
+    conditions: [
+      "プロモ・リワードは各オファーごとに賭け条件・有効期限・対象ゲームが異なる",
+      "入金不要オファーやフリースピンには最大出金額やベット制限が設定される場合がある",
+    ],
+    prohibitedGames: [],
+  },
+  offers: [
+    {
+      title: "リワード（ロイヤリティ）プログラム",
+      description:
+        "プレイヤーのランクに応じた即時レーキバック、損失ボーナス、レベルアップ報酬、デイリー/ウィークリーボーナス等を提供するロイヤリティシステム。",
+      highlight: "プレイに応じた還元を重視する仕組み",
+    },
+    {
+      title: "ターゲットチャレンジ / ドロップ＆ウィン／トーナメント",
+      description:
+        "プロバイダー連動のトーナメントや賞金ドロップを随時実施。賞金総額の大きなイベントを定期開催することがある。",
+      highlight: "大型トーナメントやドロップイベントを開催",
+    },
+    {
+      title: "スポーツ特化プロモーション",
+      description:
+        "UFCパートナー等の強みを活かしたスポーツベット向けのキャンペーンを展開。",
+      highlight: "スポーツベット向けの特典あり",
+    },
+  ],
+  facts: [
+    {
+      label: "ローンチ",
+      value: "2018",
+    },
+    {
+      label: "評価点",
+      value: "4.0 / 5",
+    },
+    {
+      label: "ボーナス",
+      value: "恒常的なウェルカム未記載（プロモは随時）",
+    },
+    {
+      label: "対応通貨",
+      value: "仮想通貨中心（BTC, ETH, USDT 等）、電子ウォレット対応",
+    },
+    {
+      label: "運営会社",
+      value: "TekHou5 / Raw Entertainment B.V.（案内）",
+    },
+    {
+      label: "ライセンス",
+      value: "Curaçao Gaming Authority（表記）",
+    },
+    {
+      label: "ゲーム数",
+      value: "6,300種類以上（案内）",
+    },
+    {
+      label: "プロバイダー数",
+      value: "70社以上（案内）",
+    },
+    {
+      label: "サポート",
+      value:
+        "ライブチャット24時間、メール: support@roobet.com（自動翻訳を利用する場合あり）",
+    },
+  ],
+  intro: {
+    paragraphs: [
+      "Roobet（ルーベット）は著名なアンバサダーやチェルシーFCとの提携で知られる仮想通貨対応カジノです。ゲーム数や独自オリジナルコンテンツ、スポーツベットの充実が特徴。",
+      "本レビューはCasinoTsu による調査を基に、ライセンス、安全性、プロモ、入出金、ゲームラインナップ、サポートを整理したものです。公式の最新案内は必ずご確認ください。",
+    ],
+    ctas: [
+      {
+        text: "今すぐプレイ！",
+        href: "https://go.japanesecasino.com/go/roobet:roobet?referrer_path=%2Freviews%2Froobet",
+      },
+      {
+        text: "公式プロモを確認",
+        href: "https://www.japanesecasino.com/reviews/roobet#",
+      },
+    ],
+  },
+  games: [
+    "スロット（6,300種類以上、メガウェイズやボーナス購入対応）",
+    "ライブカジノ（Evolution／Pragmatic 等、独自テーブル含む）",
+    "オリジナルゲーム（ダイス・クラッシュ等）",
+    "ゲームショー（Crazy Time 等）",
+    "スポーツベット（広範なマーケットと専用プロモ）",
+  ],
+  features: [
+    "仮想通貨に最適化された決済・UI",
+    "オリジナルゲームと大量の提携プロバイダー",
+    "スポーツベットとカジノのハイブリッド提供",
+    "著名人アンバサダーとスポーツクラブとの提携によるブランド力",
+  ],
+  security: [
+    "ライセンス：Curaçao（表記）",
+    "運営：TekHou5 / Raw Entertainment B.V.（案内）",
+    "通信保護：SSL 暗号化採用",
+    "ゲームの公平性：RNG 採用、プロバイダー側の第三者検証を案内",
+    "KYC：出金時に本人確認を求める可能性がある",
+  ],
+  responsiblePlay: [
+    "責任あるギャンブルのガイドを用意（サイトにて確認）",
+    "自己排除、入金制限、損失制限等のツールの提供がある旨の案内",
+    "CasinoTsu は責任あるプレイを推奨",
+  ],
+  complaintStats: [
+    "SNS上の評判は賛否両論。出金の迅速さを称賛する声と、ボーナスや出金トラブルを指摘する声の両方が見られる。",
+    "一部地域では表示やプロモ情報に英語が混在する点で不満が出ることがある",
+  ],
+  awards: [],
+  restrictedCountries: [],
+  userConcerns: [
+    "恒常的なウェルカムオファーが未整備の点を不満に思うユーザーがいる",
+    "一部プロモの条件が複雑で分かりにくいという声がある",
+    "自動翻訳によるサポート品質にばらつきがある場合がある",
+  ],
+  summary: [
+    "Roobet はブランド力とゲーム量、スポーツベットの充実で魅力的なカジノですが、恒常的なウェルカムオファーが準備中である点やプロモ条件の複雑さに留意が必要です。",
+    "仮想通貨ユーザーやスポーツベット重視のプレイヤーには特にフィットする設計です。利用前にプロモ規約・決済仕様・KYC要件を確認のうえ、少額から試すことを推奨します。",
+  ],
+  extraLinks: [
+    {
+      text: "Roobet 公式（CasinoTsu 経由）",
+      href: "https://go.japanesecasino.com/go/roobet:roobet?referrer_path=%2Freviews%2Froobet",
+    },
+    {
+      text: "仮想通貨カジノ ガイド",
+      href: "https://www.japanesecasino.com/crypto",
+    },
+    {
+      text: "Cookies Policy",
+      href: "https://www.japanesecasino.com/about/cookie-policy",
+    },
+  ],
+  faq: [
+    {
+      question: "Roobet は仮想通貨で遊べますか？",
+      answer:
+        "はい。Roobet は仮想通貨中心のカジノで、BTC・ETH・USDT 等の主要コインに対応しています。",
+    },
+    {
+      question: "Roobet でウェルカムボーナスはありますか？",
+      answer:
+        "記事時点では恒常的なウェルカムオファーは準備中との案内があり、プロモは随時公式で確認してください。",
+    },
+    {
+      question: "Roobet の出金は速いですか？",
+      answer:
+        "電子ウォレットでの出金例は非常に高速（1分〜10分の報告あり）ですが、KYCや高額出金時は確認処理が入るため所要時間は変動します。",
+    },
+    {
+      question: "日本語サポートは利用できますか？",
+      answer:
+        "日本語での案内や自動翻訳チャットを提供している場合があります。サポート品質や言語は状況により異なるため、問い合わせで確認することを推奨します。",
+    },
+  ],
+  cta: {
+    text: "Roobet をチェックする",
+    href: "https://go.japanesecasino.com/go/roobet:roobet?referrer_path=%2Freviews%2Froobet",
+  },
+  textBlocks: [],
+};

@@ -1,0 +1,24 @@
+- Tone and POV
+  - Informal, promotional, and engaging tone with encouraging phrases.
+  - Uses second-person perspective ("ゲット♪", "今すぐプレイ！") to directly address readers.
+  - Short paragraphs or standalone sentences paired with images and links.
+
+- Sentence/Paragraph Length; Heading/Formatting Habits
+  - Very concise sentences and phrases, often exclamatory with emojis/kaomoji.
+  - Heavy use of bolding for key dates ("**終了日**").
+  - Frequent use of lists for navigation and topics.
+  - Headings mimic table of contents with anchor links; no grand hierarchical headings shown.
+  - Emphasis on visual elements (buttons, ratings stars, icons).
+
+- Typical Vocabulary/Phrases to Emulate
+  - Promotional and hype language emphasizing bonuses and benefits ("超豪華", "最大", "即出金可能").
+  - Casual, friendly phrases with playful tone ("バッチリ", "ナンバー1", "責任あるプレイ").
+  - Frequent use of industry-specific terms relevant to Japanese online crypto casinos.
+  - Includes Japanese currency units (円) alongside USD/USDT.
+  - Use of katakana loanwords mixed with kanji and hiragana for clarity and impact.
+
+- Reading Level; Regional/Japan-Specific Traits
+  - Reading level: Intermediate Japanese, designed for adult audience familiar with gambling/crypto.
+  - Content embedded with Japan-specific cultural references (e.g., アマギフ for Amazon gift cards).
+  - Uses Japanese date formatting (YYYY-MM-DD) and Japanese language site navigation.
+  - Reflects conventions of Japanese marketing style for online services with emphasis on speed, security, and trustworthiness.

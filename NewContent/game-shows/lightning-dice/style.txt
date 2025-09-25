@@ -1,0 +1,26 @@
+- Tone and POV:
+  - Casual, friendly, and enthusiastic with frequent use of emojis to create a lively mood.
+  - First-person plural and second-person POV, engaging readers as “you” or “we.”
+  - Informal conversational style with interjections and expressive particles (e.g., “っ,” “〜”).
+
+- Sentence/Paragraph Length; Heading/Formatting:
+  - Short to medium sentences with simple structure.
+  - Paragraphs are brief and spaced for easy scanning.
+  - Frequent use of headings and subheadings (##, ###) to organize content clearly.
+  - Bulleted and tabular data used for stats and game details.
+  - Heavy use of bold for emphasis and inline links.
+  - Emoji usage integrated within text and headings to visually segment topics.
+
+- Typical Vocabulary/Phrases:
+  - Everyday, gamer-friendly terms, casual exclamations (“OK,” “っ,” “👍,” “😆”).
+  - Mix of Japanese and English terms relevant to online casino and gaming.
+  - Phrases that simplify complex ideas (“〜だけでOK,” “分かりやすいっ,” “せっかちさんにもおススメ”).
+  - Use of culturally familiar references and playful remarks (“666って不吉な数字じゃないの？😱”).
+  - Encouraging and inviting tone to try games and explore further (e.g., “遊んじゃって,” “チェックしてみてください”).
+
+- Reading Level; Regional/Japan-Specific Traits:
+  - Japanese language with casual, conversational vocabulary accessible to a broad adult audience.
+  - Use of katakana for foreign/casino-related words and game names.
+  - Japanese cultural and gaming context references (e.g., “パチンコ,” “ジャパカジ,” “ベラジョン”).
+  - Local currency conversions and explanations for Japanese players.
+  - Emphasis on responsible play (“責任あるプレイ”) included consistently.

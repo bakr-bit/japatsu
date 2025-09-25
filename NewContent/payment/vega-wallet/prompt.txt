@@ -1,0 +1,16 @@
+Research prompt:
+
+Investigate and update comprehensive, Japan-specific information on Vega Wallet as an online casino payment method in 2025, focusing on its current role and usability for Japanese players. Ensure data is accurate, up-to-date, and sourced primarily from reputable English-language documentation, including global payment providers, casino regulators, and trusted industry analyses; incorporate authoritative Japanese sources only if necessary.
+
+Key research sub-questions:
+
+- What are the current deposit and withdrawal procedures for Vega Wallet in Japan-facing online casinos, including supported methods (e.g., bank transfer), daily/monthly limits, and currency handling (JPY support or conversion)?
+- What are the latest processing times, fees (including point purchase and currency exchange fees), and refund/chargeback policies relevant to Japanese users?
+- How does Vega Wallet handle identity verification (KYC) and security measures to prevent fraud, and what are the documented risks or user protections?
+- Which major online casinos accessible to Japanese players currently accept Vega Wallet, and how does its acceptance compare with other popular e-wallets or payment methods?
+- How reliable and user-friendly is Vega Wallet’s interface and account management for Japanese customers, including wallet top-up, point management, and withdrawal workflows?
+- What are the regulatory and compliance considerations in Japan regarding Vega Wallet’s use for online gambling transactions, including legal status, licensing, and any restrictions on online casino payments?
+- How has Vega Wallet evolved since the discontinuation of Venus Point, and what advantages or disadvantages does it have relative to alternatives like Payz, credit cards, or cryptocurrencies for Japanese players?
+- Are there independent benchmarks or user reviews that provide data-backed evaluations of Vega Wallet’s performance, fees, and user satisfaction within Japan’s online casino ecosystem, including comparisons with competitors?
+
+This research should clarify Vega Wallet’s suitability and limitations for Japanese online casino users in 2025, providing fact-based insights to support informed payment method choices.

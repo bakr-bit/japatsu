@@ -1,0 +1,20 @@
+- Tone & POV:  
+  - Casual yet informative, friendly and engaging with occasional playful expressions and emoticons.  
+  - Mix of second-person ("あなた") and informal first-person plurals ("いきましょっ"), creating an approachable atmosphere.  
+  - Uses mascot characters’ speech for a conversational, inviting style.  
+  
+- Sentence/Paragraph Length; Headings & Formatting:  
+  - Generally short to medium sentence length; paragraphs concise and broken down by clear subheadings.  
+  - Uses bullet lists and tables for clarity and data presentation.  
+  - Headings use markdown ## and ### for hierarchy, with clear descriptive titles.  
+  - Frequent use of emojis and icons integrated into text and headings to enhance engagement.  
+  
+- Typical Vocabulary/Phrases:  
+  - Mix of technical gaming terms (e.g., “マルチプライヤー,” “ボラティリティ,” “ペイアウト”) and casual slang-like expressions ("じょ", "だじょー") from mascot characters.  
+  - Phrases focus on excitement, recommendations, and explaining game features in a simple, enthusiastic manner.  
+  - Uses industry-specific jargon blended with easy-to-understand explanations for wider audience appeal.  
+  
+- Reading Level & Regional/Japan-Specific Traits:  
+  - Reading level is medium, accessible to general Japanese audience with some familiarity with casino/gambling terms.  
+  - Content tailored to Japanese readers with use of yen currency references, Japanese idiomatic expressions, and local cultural cues (mascots with cute speech style).  
+  - Japanese page structure (目次), and consistent bilingual presentation of game names and terms facilitate understanding.

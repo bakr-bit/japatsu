@@ -1,0 +1,12 @@
+Identify and evaluate the use of Mastercard as a payment method for Japanese online casino players, focusing on the latest, Japan-relevant details. Your deep web research should cover:
+
+- Current availability and acceptance of Mastercard for deposits and withdrawals at online casinos serving Japanese customers, including any limits or restrictions.  
+- Typical deposit and withdrawal flows using Mastercard, including KYC/verification steps required by popular Japan-facing casinos.  
+- Fees involved with Mastercard transactions in online casinos (deposit fees, currency conversion charges, withdrawal options), including any recent fee changes or promotions.  
+- Processing times for deposits and withdrawals when using Mastercard, and common reliability issues or dispute/chargeback incidences reported by Japanese users.  
+- Security measures specific to Mastercard online casino payments, such as 3D Secure/secure code usage and fraud prevention, with any unique regional compliance considerations.  
+- Comparison of Mastercard with alternative popular payment methods available to Japanese players (e.g., JCB, Visa, e-wallets, cryptocurrencies), supported with usage data or benchmarks.  
+- Regulatory and compliance factors in Japan impacting the use of Mastercard for online gambling payments, including legal restrictions, licensing requirements for casinos accepting Mastercard, and consumer protections.  
+- Recency: Ensure all data and regulatory info reflect updates as of 2024 and any forthcoming changes affecting Japanese players’ usage of Mastercard.  
+
+Use primarily English-language sources such as global payment networks, international casino operators with Japanese operations, Japan’s Financial Services Agency communications, and authoritative crypto/payment industry reports. Include Japanese sources only if official or highly reputable. Avoid marketing-heavy or SEO-optimized superficial pages.

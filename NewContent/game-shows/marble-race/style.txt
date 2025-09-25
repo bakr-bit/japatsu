@@ -1,0 +1,24 @@
+- Tone & POV:  
+  - Casual, friendly, and enthusiastic tone with energetic expressions and emoji use  
+  - First-person plural ("ジャパカジが解説しますよ〜") and second-person address for reader engagement  
+  - Short to moderate sentence length, conversational style  
+  - Paragraphs are concise and focused; use of subheadings and bullet/numbered lists for clarity  
+
+- Heading & Formatting Habits:  
+  - Hierarchical headings using ## and ### for major and minor sections  
+  - Use of bold and emoji to highlight key terms and maintain lively mood  
+  - Inclusion of tables for structured data presentation  
+  - Frequent internal links and anchor navigation (目次)  
+  - Images with descriptive captions illustrating content points  
+
+- Typical Vocabulary & Phrases:  
+  - Simple, everyday Japanese words mixed with casual English loanwords and phrases  
+  - Expressions of excitement and encouragement (e.g., ハラハラドキドキ, 熱くなっちゃう, サクッと楽しめる)  
+  - Use of gaming terminology explained accessibly: bet phases, RTP, odds, volatility  
+  - Phrases that bridge familiarity with player experience and casual advice ("あくまで参考程度にね～")  
+
+- Reading Level & Regional/Japan-Specific Traits:  
+  - Easily accessible to Japanese internet users with casual literacy, suitable for a broad adult audience  
+  - Written mostly in plain Japanese with occasional katakana loanwords reflecting gaming jargon  
+  - Cultural and market-specific references such as yen→dollar conversion, Japanese casino site names, and Japanese mascots  
+  - Use of Japanese-friendly formatting conventions like emoji inline with text and spaced Japanese punctuation

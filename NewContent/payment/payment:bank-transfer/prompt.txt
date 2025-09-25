@@ -1,0 +1,12 @@
+Research prompt:
+
+Investigate and update the current landscape of domestic bank transfer payment methods for Japanese online casino players, focusing on casinos that support both deposits and withdrawals via domestic banks in Japan as of 2024.
+
+- What are the detailed deposit and withdrawal processes using domestic bank transfers at popular Japan-facing online casinos? Include step-by-step workflows and any user experience insights.
+- What are the typical transaction limits, fees (both from casinos and banks), foreign exchange considerations, and average processing times for domestic bank transfers in this context?
+- How do Know Your Customer (KYC) and verification procedures integrate with bank transfer payments, especially concerning anti-money laundering and compliance in Japan?
+- How reliable and secure are domestic bank transfers for online casino payments? Highlight any fraud risks, dispute resolution mechanisms, or chargeback possibilities.
+- Provide data-backed comparisons or benchmarks against alternative payment methods (e.g., credit cards, e-wallets, cryptocurrencies) commonly used by Japanese players.
+- Which major Japanese banks and fintech providers (e.g., Resona, Yucho, Rakuten Bank, PayPay Bank, Sony Bank) are most frequently supported by online casinos for domestic transfers? Are there notable gaps or growing trends?
+- What Japanese regulatory and compliance requirements govern online gambling payments via domestic bank transfers, and how do casinos navigate these? Include any recent legislative or policy changes relevant to 2024.
+- How up-to-date and accurate are existing sources on this topic, and what authoritative English or Japanese resources provide the best verified, current information for Japanese players considering domestic bank transfers at online casinos?

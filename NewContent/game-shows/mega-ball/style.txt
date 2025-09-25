@@ -1,0 +1,21 @@
+- **Tone and POV:**  
+  - Casual, friendly, and conversational with a lighthearted vibe (e.g., informal expressions, emojis like "w" and "💫", onomatopoeic and interjection usage).  
+  - Uses second person ("あなた", "アナタ") to engage the reader directly.  
+  - Mix of neutral descriptive and enthusiastic/recommendatory sentences.  
+- **Sentence/Paragraph Length; Formatting:**  
+  - Mostly short to medium-length sentences for easy reading.  
+  - Paragraphs are concise, often a few sentences.  
+  - Utilizes numbered and bulleted lists for structured info (game features, play method).  
+  - Headings use both H2 and H3 levels, clear and descriptive.  
+  - Emphasis with bold text for key moments, star ratings with visual stars.  
+  - Frequent inline links for navigation and additional resources.  
+- **Typical Vocabulary/Phrases:**  
+  - Everyday, approachable words rather than technical jargon.  
+  - Phrases that build excitement ("ドキドキ", "ビッグウィンのチャンス", "最大1,000,000倍の勝利の可能性").  
+  - Use of casual interjections and slang-like speech patterns to convey friendliness ("ねっ", "やすいよね", "たまらんでしょう").  
+  - Mix of Japanese and English game terms, sometimes with furigana or parentheses for clarification.  
+- **Reading Level; Regional/Japan-specific Traits:**  
+  - Targeted at general adult Japanese audience familiar with online gambling and live casino concepts.  
+  - Uses Japanese currency symbols and betting terminology common in online casinos.  
+  - References Japan-specific culture like emoji style and polite casual language appropriate for entertainment content.  
+  - Occasional English loanwords used with Japanese explanations or dual-language presentation.

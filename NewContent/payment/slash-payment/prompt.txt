@@ -1,0 +1,10 @@
+Research and update the topic of Slash Payment as a cryptocurrency payment method for Japanese online casino players, focusing on its current usage, advantages, and limitations in Japan’s market and regulatory environment.
+
+- What is the latest status (as of mid-2024) of Slash Payment’s integration with Japanese-facing online casinos beyond Konibet? Are more operators adopting it?
+- Provide up-to-date details on the deposit processes, minimum and maximum limits in JPY or USD equivalents, supported cryptocurrencies, and wallet compatibility (e.g., MetaMask, WalletConnect).
+- Investigate withdrawal options and whether Slash Payment now supports casino withdrawals or if Japanese users must use alternative methods; describe workflows if available.
+- Analyze fees including network/gas fees, FX handling if any, and reliability or delays commonly reported by Japanese users.
+- Examine KYC/verification requirements linked or bypassed by Slash Payment and the risk profile regarding security and fraud for Japanese players.
+- Compare Slash Payment with other popular Japanese-accepted casino payment options like credit cards, bank transfers, and Easy Bill in terms of costs, speed, and card issuance acceptance.
+- Clarify compliance and regulatory considerations for using Slash Payment and crypto payments in Japan’s legal framework for online gambling and virtual currencies.
+- Provide recent data-backed insights, benchmarks, or user feedback on Slash Payment’s performance, coverage, and potential growth within Japan’s online casino industry.

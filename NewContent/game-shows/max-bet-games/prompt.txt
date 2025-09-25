@@ -1,0 +1,16 @@
+The scraped page is an "info/explainer" type focused on the topic of maximum bet (max bet) amounts in online casino games, especially targeting Japanese high-roller players.
+
+Research prompt:
+
+Expand and update information on online casino maximum bet (max bet) limits available to Japanese players, focusing on games favored by high rollers such as baccarat, blackjack, and roulette. Include current availability and specifics for Japanese users, especially regarding JPY handling and casino accessibility.
+
+- What are the current max bet limits across popular casino games (baccarat, blackjack, roulette) offered by major online casinos accessible to Japanese players, including recent changes or new high-stakes tables like Bombay Club Salon Preve?
+- Provide official RTP, volatility, and game feature data for these games and max bet variants, referencing authoritative gaming providers like NetEnt and relevant live dealer platforms.
+- How do deposit, withdrawal, and currency handling (JPY acceptance, FX fees) affect high-stakes players in Japan? Are high max bet casinos providing seamless JPY payment options?
+- Identify reputable Japanese-facing online casinos or platforms that accept high max bets, including details on license validity, regulatory compliance, and player protections under Japanese law or international frameworks.
+- What are the security, fraud risk, and responsible gambling considerations specifically related to high max bet gaming in Japan?
+- Compare alternatives and competitors offering high max bet gaming tables or private salons for Japanese high rollers, including crypto-based casinos and emerging platforms.
+- Summarize recent updates or trends in Japan’s online casino market affecting high rollers, such as regulatory changes, new game launches, or payment innovations.
+- Provide data-backed benchmarks on typical high roller betting patterns and max bet usability for Japanese users, drawing from reputable industry reports or casino disclosures.
+
+Search instructions: Prioritize English-language sources from major casino software vendors, regulators, and industry analysts; use authoritative Japanese sources only if official or regulatory. Avoid SEO-heavy marketing sites.

@@ -1,0 +1,31 @@
+- Tone & POV:  
+  - Friendly, informative, and conversational with occasional emojis for engagement  
+  - Second-person perspective addressing the reader directly ("you")  
+  - Mix of casual and authoritative language suited for first-time and experienced users  
+  - Uses reassuring and encouraging phrases to reduce user anxiety  
+
+- Sentence/Paragraph Length; Headings/Formatting:  
+  - Mostly medium-length sentences, clear and straightforward  
+  - Paragraphs are short to moderate in length, separated for readability  
+  - Frequent use of headings and subheadings (##, ###) to structure content logically  
+  - Bulleted and numbered lists used for instructions and highlighting key information  
+  - Important points often bolded for emphasis  
+  - Use of tables for comparative data presentation  
+  - Includes hyperlinks and calls to action  
+  - Emojis and icons sprinkled throughout to add personality and clarity  
+
+- Typical Vocabulary/Phrases:  
+  - Everyday Japanese payment and casino-related terminology in clear, non-technical language  
+  - Phrases emphasizing safety, simplicity, and trustworthiness  
+  - Terms explaining payment processes with practical examples  
+  - Use of culturally relevant references (e.g., common Japanese online casinos, licensing authority terms)  
+  - Words reassuring user confidence like "安心," "安全性," "信頼できる"  
+  - Encouragement with phrases like "ご安心を," "不安になることはありません"  
+  - Jargon carefully explained or linked to detailed info  
+
+- Reading Level & Regional/Japan-Specific Traits:  
+  - Appropriate for adult Japanese internet users with basic to intermediate knowledge of online payments  
+  - Use of Japanese language mixed with some English loanwords (e.g., 「KYC」「3Dセキュア」) common in fintech contexts  
+  - Assumes familiarity with Japan’s credit card usage patterns and online casino landscape  
+  - References to yen currency and localized industry names tailored to Japan audience  
+  - Uses polite but casual style typical of Japanese web consumer content

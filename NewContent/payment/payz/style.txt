@@ -1,0 +1,26 @@
+- Tone and POV:
+  - Informal, friendly, and encouraging tone using emojis and conversational expressions
+  - Second person POV ("あなた", "一緒に見ていきましょ～") promoting a casual and inviting atmosphere
+  - Mix of promotional enthusiasm and informative content with confidence ("自信を持っておすすめ！")
+
+- Sentence/Paragraph Length; Heading/Formatting Habits:
+  - Generally short to medium-length sentences for easy digestion
+  - Use of bullet points, tables, and short paragraphs to enhance readability
+  - Bold and colored text used for emphasis on key terms and calls to action
+  - Frequent use of emojis for emotional engagement and visual breaks
+  - Hierarchical heading structure with clear section and subsection markup (##, ###)
+  - Links frequently embedded inline and as buttons with strong CTAs ("今すぐプレイ！")
+
+- Typical Vocabulary/Phrases to Emulate:
+  - Casual and conversational vocabulary that includes slang-like expressions ("サクサク", "ストレスフリー", "盛りだくさん")
+  - Use of superlatives and positive adjectives ("安心・安全", "充実", "最高水準")
+  - Phrases encouraging user action and excitement ("早速プレイ！", "チェック", "ゲット♪")
+  - Japan-specific payment terms and references to yen (¥), use of mixed Japanese and English terms (e.g., Payz, eウォレット)
+  - Informative phrases with polite advice tone ("心配な方は…", "事前に確認しましょう！")
+
+- Reading Level; Regional/Japan-Specific Traits:
+  - Reading level suitable for general adult Japanese audience familiar with online gambling terms
+  - Incorporates loanwords and katakana English typical in tech/finance context
+  - Content localized for Japan: references to Japanese yen, Japanese regulatory bodies, and Japanese online casino culture
+  - Mix of casual spoken style combined with formal security and financial terminology
+  - Use of emoticons reflects Japanese web communication habits

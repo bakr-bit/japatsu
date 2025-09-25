@@ -1,0 +1,15 @@
+The inferred page type is: guide/how-to
+
+Research prompt:
+Please provide a comprehensive and up-to-date guide on playing Caribbean Stud Poker for Japanese online casino players. Include the following points:
+
+- What is Caribbean Stud Poker, its origin, and how does its gameplay differ from traditional poker variants?  
+- Step-by-step instructions for playing Caribbean Stud Poker online, including betting phases, dealer qualification rules, and payout structures relevant to Japanese players.  
+- Typical bet sizes, side bets (such as jackpots), payout tables, and odds including any variance or hit frequency data from authoritative sources.  
+- Availability of Caribbean Stud Poker on Japanese-facing online casinos, support for JPY transactions, relevant bonuses, and platform compatibility (live dealer vs RNG).  
+- Recent developments or updates in Caribbean Stud Poker offerings, particularly those affecting Japanese players (e.g., new casinos launching, regulatory changes as of 2024).  
+- Comparison with alternative poker games or similar casino poker variants available in Japan and their relative popularity or advantages.  
+- Compliance and regulatory considerations for online gambling in Japan that impact playing Caribbean Stud Poker, including licensing, responsible gaming policies, and payment method restrictions.  
+- Data-backed facts or player benchmarks regarding Caribbean Stud Poker performance or player satisfaction in the Japanese market if available.
+
+Prioritize English-language and authoritative sources such as global regulators, reputable casino operators, and recognized industry media, supplementing with authoritative Japanese sources only when necessary. Avoid marketing content or SEO-heavy pages to maintain a neutral and factual tone.

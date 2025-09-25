@@ -1,0 +1,22 @@
+- **Tone and POV; Sentence/Paragraph Length; Heading/Formatting**
+  - Casual, conversational, and slightly playful tone with direct address to the reader ("私も日本人なので", "お！いいじゃん♪")  
+  - First-person plural and singular ("私", "みなさん") mixed with inclusive language  
+  - Short to medium sentence length; paragraphs are concise but content-rich  
+  - Frequent use of emoticons and emojis (e.g., 😂, 💰, ‼️) enhancing casual feel  
+  - Headings use ## and ### for topic hierarchy; bold and italic formatting used for emphasis  
+  - Lists (bulleted and numbered) and tables are incorporated for clarity  
+  - Mix of Japanese text with occasional English loanwords relevant to the casino/crypto domain  
+
+- **Typical Vocabulary/Phrases to Emulate**
+  - Informal and friendly language, including slang-like expressions and mild humor or skepticism ("怪しくない( ´_\`)？", "ワタクシはストレス軽減です")  
+  - Use of explanatory phrases breaking down complex concepts into easy terms (e.g., "自分自身の口座が銀行の役割をするというイメージでしょうか")  
+  - Domain-specific terminology (ビットコイン, ミリビットコイン, ウォレット, 仮想通貨, オンカジ) introduced with definitions  
+  - Phrases signaling benefits and cautions thoughtfully balanced ("メリット", "デメリット", "気をつけましょう")  
+  - Promotional and call-to-action links integrated naturally ("[今すぐプレイ！]", "[レビューページをチェック]")  
+
+- **Reading Level; Regional/Japan-specific Traits**
+  - Reading level: Intermediate Japanese, suitable for adult audience somewhat familiar with internet culture and crypto terminology  
+  - Region-specific references: Japanese names (中本哲史), usage of yen (¥), references to Japan’s cautious attitude toward BTC, Japanese online casino context  
+  - Inclusion of culturally familiar icons like kaomoji and Japanese punctuation style  
+  - Localization evident in explanations tailored to Japanese regulatory context and payment habits  
+  - Frequent use of Katakana loanwords for industry terms, kept accessible for Japanese readers interested in online casinos and cryptocurrencies

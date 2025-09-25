@@ -1,0 +1,34 @@
+- Tone & POV:
+  - Casual, enthusiastic, and conversational tone with use of emojis
+  - First-person plural and second-person ("Let's...", "you can") encouraging engagement
+  - Mix of informative and playful commentary, often using exclamations for excitement
+
+- Sentence & Paragraph Length:
+  - Mostly short to medium sentences for easy readability
+  - Paragraphs are concise, often just a few sentences or bullet points
+  - Frequent use of lists and stepwise instructions for clarity
+
+- Headings & Formatting:
+  - Clear hierarchical organization with multiple heading levels (##, ###)
+  - Use of bold for emphasis on terms and key data
+  - Tables employed for structured technical info (e.g., RTP, bets)
+  - Frequent inline links and calls to action
+  - Supportive images with captions illustrating points
+  - Use of informal emphasis styles and occasional emoji to reinforce tone
+
+- Vocabulary & Phrases:
+  - Everyday language mixed with gambling/game-specific terms (RTP, multiplier, bet phases)
+  - Enthusiastic expressions ("ワクワクドキドキ", "斬新過ぎじゃない", "ヒット率は高め")
+  - Japanese colloquialisms and casual speech markers ("〜じゃない", "よっ", "たまりません")
+  - Descriptive phrases visually evoking gameplay experience (e.g., "氷の下から魚を釣り上げる")
+  - Use of Japanese katakana for terms and loanwords with translation or explanation
+
+- Reading Level:
+  - Accessible for general adult audience, likely upper-elementary to junior high school level Japanese
+  - Mix of technical gaming terms with simple explanations to aid comprehension
+
+- Regional/Japan-Specific Traits:
+  - Japanese language usage with localized currency mentions (ドル & 円)
+  - References to cultural preferences (live casino, game shows popular in Japan)
+  - Emojis and mascots typical in Japanese web content
+  - Website structure and phrasing tuned for Japanese online casino players

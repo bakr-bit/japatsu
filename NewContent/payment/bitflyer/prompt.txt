@@ -1,0 +1,12 @@
+Research and update comprehensive information on using bitFlyer as a payment method for Japanese online casino players, focusing on cryptocurrency integration. Include detailed, Japan-relevant facts and current updates. Address these points:
+
+- What is the current status of bitFlyer’s services and user base in Japan as of 2024? Include the number of active users and recent platform updates.
+- Describe the full deposit and withdrawal process for Japanese casino players using bitFlyer, including step-by-step KYC/verification requirements specific to Japanese regulations.
+- What are the typical deposit and withdrawal limits, processing times, and fees (including any hidden or dynamic charges) when using bitFlyer with online casinos targeting Japanese users?
+- How does bitFlyer handle currency exchange, especially JPY to BTC and vice versa, for casino transactions? Are there FX fees or rates that users should be aware of?
+- Evaluate the acceptance and compatibility of bitFlyer at major Japanese-facing online casinos—identify key casinos supporting it and any limitations.
+- Assess the security features of bitFlyer payments, fraud risks, and chargeback/refund policies for casino transactions, especially in the Japanese legal context.
+- What are the relevant compliance and regulatory considerations related to using bitFlyer and Bitcoin payments for gambling in Japan? Include licensing, reporting, and any government stance or recent changes.
+- Compare bitFlyer with alternative cryptocurrency and traditional payment methods popular among Japanese online casino players, highlighting pros and cons supported by recent data or benchmarks.
+
+Prioritize authoritative English sources such as financial regulators, major crypto exchanges, and reputable gambling industry reports; supplement with authoritative Japanese sources only if necessary. Avoid marketing or SEO-heavy pages.

@@ -1,0 +1,24 @@
+- Tone and POV:
+  - Friendly and approachable with casual expressions (e.g., 〜ちゃうわね！)
+  - Uses second-person/inclusive phrases encouraging reader participation
+  - Mixes informal and informative; slightly playful but focused on clarity
+- Sentence/Paragraph Length:
+  - Generally short to medium sentences
+  - Paragraphs concise for easy scanning
+  - Lists and tables used for structured info presentation
+- Heading/Formatting Habits:
+  - Clear hierarchical headings (## for main sections)
+  - Includes numbered lists, bullet points, and tables
+  - Emphasis via bold, links, emojis, and icons to attract attention
+- Typical Vocabulary/Phrases:
+  - Everyday conversational Japanese mixed with gambling-specific terms
+  - Uses enthusiastic, inviting phrases like “オススメのカジノ” and “今すぐプレイ！”
+  - Incorporates casino jargon (RTP, ハウスエッジ) alongside casual language
+- Reading Level:
+  - Targeted at general adult readers familiar with online casinos
+  - Uses simple syntax but some domain-specific terminology
+  - Easily understandable for users with intermediate Japanese proficiency
+- Regional/Japan-Specific Traits:
+  - Japanese gaming/casino culture references (e.g., カジノミー, パチンコ)
+  - Localization suited for Japanese online casino players (mentions bonus types common in Japan)
+  - Incorporates Japanese emoticons and mascot images, reflecting Japan’s web style

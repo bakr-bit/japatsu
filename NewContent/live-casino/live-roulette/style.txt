@@ -1,0 +1,21 @@
+- Tone & POV:
+  - Casual, enthusiastic, and conversational with emoji use (e.g., 🚀, 😻, 💖)
+  - Mix of promotional and informative tone; occasionally playful with interjections ("とってもお得っ😳")
+  - First-person plural or collective POV implied via staff references ("ジャパカジのスタッフ厳選！")
+- Sentence & Paragraph Length:
+  - Generally short to medium sentences; concise and easy to scan
+  - Frequent use of short paragraphs and bullet points for clarity
+  - Sections broken down with numbered lists or headings to segment content logically
+- Heading & Formatting:
+  - Hierarchical headings with ## and ###; use of bold and emoji to highlight key points
+  - Extensive use of internal linking and bolded keywords to emphasize important terms
+  - Tables used for ranking; images integrated with captions and links
+- Vocabulary & Phrase Style:
+  - Employs familiar, accessible vocabulary with some gambling-specific terms explained simply (e.g., RTP, ベットリミット)
+  - Frequently uses Japanese casino slang and compound keywords (ライブカジノ, ライブルーレット)
+  - Includes enthusiastic, encouraging phrases that engage the reader ("ぜひチェックしてみて ⤴🚀", "今すぐ貰っちゃおう👇💖")
+- Reading Level & Regional Traits:
+  - Easy to moderate Japanese reading level; intended for general adult audience including casual gamblers
+  - Strong localization with Japan-specific terminology and examples (e.g., パチンコ, ベラジョン)
+  - Cultural nuance in tone, casual honorifics and informal sentence endings (e.g., 〜っ, 〜かも！)
+  - Frequent use of Japanese kana/kanji mixture typical to online casual Japanese writing

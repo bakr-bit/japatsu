@@ -1,0 +1,33 @@
+- Tone and POV:  
+  - Informal, friendly, and conversational with occasional emoji use for engagement  
+  - 2nd person perspective ("you"-oriented), directly addressing the reader  
+  - Encouraging and promotional, aiming to excite interest in the game  
+
+- Sentence and paragraph length:  
+  - Generally short to medium sentences for clarity and easy scanning  
+  - Brief paragraphs with bullet lists and tables to organize information logically  
+  - Frequent use of headings and subheadings to structure content clearly  
+
+- Heading/formatting habits:  
+  - Clear hierarchical headings using Markdown syntax (##, ###)  
+  - Use of bold for key terms and game titles  
+  - Inclusion of emoji in headings and key sections as visual cues  
+  - Extensive use of hyperlinks for navigation and references  
+  - Mixed use of tables and bullet lists to present specs and features  
+
+- Typical vocabulary/phrases to emulate:  
+  - Simple, everyday Japanese and English loanwords related to gaming and casinos  
+  - Phrases that emphasize ease and excitement, e.g., "シンプルなゲーム", "人気は急上昇", "早速チェックしていこ～"  
+  - Terms related to gambling mechanics and features explained in approachable tone  
+  - Casual and slightly playful expressions, sometimes with onomatopoeic/emphatic style (e.g., “⤴⤴”, “🎵”)  
+
+- Reading level:  
+  - Accessible to a general adult audience familiar with online gaming/casino topics  
+  - Not technical or overly formal; approachable for casual readers and enthusiasts  
+  - Basic gambling terms explained in context to aid comprehension  
+
+- Regional/Japan-specific traits:  
+  - Japanese terms and game titles are presented with furigana or katakana for clarity  
+  - References to Japanese online casino industry and legal/regulatory notes implied  
+  - Currency mainly shown in USD but content clearly targeted at Japanese players  
+  - Use of Japanese loanwords and stylistic markers typical of Japanese web content (e.g., emoji for emphasis, polite but casual language)

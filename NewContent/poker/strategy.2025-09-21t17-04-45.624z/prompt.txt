@@ -1,0 +1,16 @@
+Infer the page type as: guide/how-to (poker strategy guide).
+
+Research prompt:
+
+Conduct an up-to-date, comprehensive web research on poker strategy guides tailored for Japanese online casino players in 2024–2025, focusing on strategic knowledge and practical gameplay advice for popular poker variants available to Japanese users.
+
+- What are the current best-practice foundational poker strategies (e.g., tight, loose, aggressive, passive playstyles) supported by data or expert benchmarks, especially for Texas Hold’em and Omaha?
+- How do Japanese online poker players manage budgeting and session time effectively to enhance long-term profitability and responsible gaming?
+- What are the most relevant poker variants available to Japanese online casino users, and how do their strategic demands differ?
+- Which poker terms and concepts are essential for Japanese players, including any regional nomenclature differences or explanations?
+- How often are poker strategies updated in authoritative content targeted at Japan, and what are recommended sources for the latest strategy education?
+- What are the legal and regulatory considerations for Japanese players engaging in online poker — including compliance issues, banned practices, or site licensing requirements?
+- Among competing online casinos offering poker to Japan, how do their poker strategy resources, beginner guides, and in-game learning tools compare?
+- Are there any notable pitfalls, common mistakes, or advanced strategic tips uniquely important for Japanese users due to cultural or market characteristics?
+
+Search primarily English-language authoritative sources (global regulators, major poker platforms, reputable industry analysis), integrating credible Japanese sources only if clearly authoritative. Avoid marketing or low-quality SEO content.

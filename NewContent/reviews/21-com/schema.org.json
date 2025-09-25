@@ -1,0 +1,123 @@
+```json
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "https://www.japanesecasino.com/reviews/21-com#webpage",
+      "url": "https://www.japanesecasino.com/reviews/21-com",
+      "name": "21.com（21ドットコム）の評判・入金方法を解説",
+      "description": "スタイリッシュなデザインと豊富なボーナスが魅力のオンラインカジノ「21.com（21ドットコム）」の評判や入金・出金方法、ゲーム、サポート体制、責任あるギャンブルへの取り組みまで、CasinoTsuが詳しく解説します。",
+      "isPartOf": {
+        "@type": "WebSite",
+        "url": "https://www.japanesecasino.com/",
+        "name": "CasinoTsu"
+      },
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://www.japanesecasino.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Reviews",
+            "item": "https://www.japanesecasino.com/reviews"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "21 com",
+            "item": "https://www.japanesecasino.com/reviews/21-com"
+          }
+        ]
+      }
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.japanesecasino.com/reviews/21-com#review",
+      "mainEntityOfPage": {
+        "@id": "https://www.japanesecasino.com/reviews/21-com#webpage"
+      },
+      "headline": "21.com（21ドットコム）の評判・入金方法を解説",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://www.japanesecasino.com/wp-content/uploads/21com_featured_960x495.png",
+        "width": 960,
+        "height": 495
+      },
+      "author": {
+        "@type": "Organization",
+        "name": "CasinoTsu"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CasinoTsu",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://www.japanesecasino.com/wp-content/themes/tokyo/public/svg/icons/cursor.442052.svg",
+          "width": 40,
+          "height": 40
+        }
+      },
+      "datePublished": "2023-10-27T00:00:00+00:00",
+      "dateModified": "2023-10-27T00:00:00+00:00",
+      "reviewBody": "スタイリッシュなデザインが魅力のオンラインカジノ「21.com」について、CasinoTsuがその評判、入金・出金方法、豊富なボーナス（入金不要フリースピン100回、ウェルカムボーナス最大$1,000など）、多種多様なゲーム、サポート体制、責任あるギャンブルへの取り組みを詳細に解説しました。サイトの美しさやゲームの豊富さは高評価ですが、日本人サポートの不定期さや賭け条件の厳しさなど、改善が期待される点も指摘されています。",
+      "itemReviewed": {
+        "@type": "Casino",
+        "name": "21.com",
+        "alternateName": "21ドットコム",
+        "url": "https://go.japanesecasino.com/go/21-com?referrer_path=%2Freviews%2F21-com",
+        "image": [
+          "https://img.japanesecasino.com/400x210/casino/21com.jpg",
+          "https://img.japanesecasino.com/72x72/casino/21com.png",
+          "https://img.japanesecasino.com/630x354/casino/jp/21-com.png",
+          "https://www.japanesecasino.com/wp-content/uploads/21com_featured_960x495.png"
+        ],
+        "description": "21.comは、2018年にマルタライセンスを取得して誕生した、スタイリッシュなデザインが特徴のオンラインカジノです。豊富なゲーム数とプロバイダー、入金不要フリースピン100回や最大$1,000のウェルカムボーナスを提供しています。",
+        "foundingDate": "2018",
+        "operatingCompany": {
+          "@type": "Organization",
+          "name": "BP Group Limited"
+        },
+        "license": "Malta Gaming Authority",
+        "acceptedPaymentMethod": [
+          "Bank Transfer", "MasterCard", "Payz", "Venus Point", "VISA",
+          "iWallet", "MuchBetter", "Jeton Wallet", "Vega Wallet", "Mifinity",
+          "Revolut", "Neteller", "Skrill", "EcoPayz", "Paysafecard",
+          "Sofort", "Trustly", "Zimpler", "Rapid Transfer", "Interac",
+          "InstaDebit", "POLi", "PhonePe", "UPI"
+        ],
+        "currenciesAccepted": ["CAD", "EUR", "NOK", "NZD", "USD"],
+        "availableLanguage": ["ja", "en", "fi", "no", "de", "fr", "pl"],
+        "customerService": {
+          "@type": "ContactPoint",
+          "email": "support@21.com",
+          "contactType": "customer service",
+          "availableLanguage": ["en", "ja"]
+        },
+        "game": [
+          "Baccarat", "Blackjack", "Craps", "Game Shows", "Live Casino", "Poker", "Roulette", "Slots", "Megaways Slots", "Video Poker", "Instant Win Games",
+          "BetSoft", "Elk Studios", "Microgaming", "Play’n GO", "Pragmatic Play", "Quickspin", "Games Global", "1x2Games", "Booming Games", "GreenTube", "Nyx Interactive", "Nolimit City", "Push Gaming", "Relax Gaming", "Thunderkick", "Red Tiger Gaming", "NetEnt", "Evolution Gaming", "Just For The Win", "Gamomat", "Iron Dog Studios", "Northern Lights Gaming", "Foxium", "Kalamba Games", "Sthlm Gaming", "Rabcat", "iSoftBet", "Pocket Games Soft", "Lightning Box", "Big Time Gaming", "Light & Wonder", "Playson", "Fantasma Games", "Hacksaw Gaming", "Felt Gaming", "Boomerang", "2 By 2 Gaming", "Games Lab", "Blueprint Gaming", "ReelPlay", "Leap", "Yggdrasil Gaming", "Snowborn Games", "4ThePlayer", "Crazy Tooth Studio"
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "3.9",
+          "bestRating": "5",
+          "reviewCount": "1"
+        }
+      },
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "3.9",
+        "bestRating": "5",
+        "worstRating": "1"
+      }
+    }
+  ]
+}
+```

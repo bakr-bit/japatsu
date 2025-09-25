@@ -1,0 +1,20 @@
+- Tone & POV:  
+  - Informal, conversational with occasional friendly interjections (e.g., "よね", "〜！")  
+  - Primarily second-person POV, addressing the reader directly ("あなたへ", "見てみましょう")  
+  - Uses casual expressions and emoticons to create a welcoming vibe  
+- Sentence/Paragraph Length & Formatting:  
+  - Mix of short and medium sentences, concise paragraphs for easy scanning  
+  - Frequent use of numbered and bulleted lists for instructions and features  
+  - Headings use clear hierarchical structure (## for main sections) with descriptive titles  
+  - Bold text employed for emphasis on key points or instructions  
+  - Use of inline links and call-to-action buttons ("今すぐプレイ！", "詳細を見る")  
+- Vocabulary/Phrase Characteristics:  
+  - Simple, everyday Japanese vocabulary with some loanwords and industry terms (e.g., ボーナス, フリースピン, サポート)  
+  - Phrases emphasize convenience, safety, and ease of use ("スピーディー、安全、便利", "ストレスフリー")  
+  - Uses polite but approachable language, blending technical terms with casual remarks  
+  - Encouraging expressions to motivate action (e.g., "どんどん使ってポイント獲得！")  
+- Reading Level & Regional Traits:  
+  - Targets general adult Japanese audience, with moderate reading level suitable for online users familiar with mobile apps and online casinos  
+  - Incorporates Japan-specific references, such as currency symbols (¥), address elements (都道府県名), and payment methods common/known in Japan (JCBカード, PayPay銀行)  
+  - Mentions challenges specific to Japanese users (e.g., partial Japanese localization, support availability)  
+  - Uses a blend of Japanese and English terms reflecting bilingual environment common in tech/gaming sites

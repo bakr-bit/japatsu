@@ -1,0 +1,30 @@
+- Tone and POV:
+  - Friendly, conversational, and approachable with occasional emoticons and casual expressions.
+  - Mix of third person informative and direct-address ("あなたにおススメ") to reader.
+  - Uses colloquial interjections and casual particles (e.g., "ね", "よね") for a relaxed vibe.
+
+- Sentence and paragraph length:
+  - Generally medium to short sentences for clarity.
+  - Paragraphs are concise, often 2-4 sentences.
+  - Uses bullet points and tables to break information into digestible sections.
+
+- Heading and formatting habits:
+  - Clear hierarchical headings using Markdown syntax (##, ###).
+  - Frequent use of bold for emphasis on keywords and important terms.
+  - Links often embedded with descriptive anchor text.
+  - Use of emoji to add personality and highlight key points.
+  - Incorporates tables for structured data (e.g., game specs, payout rates).
+
+- Vocabulary and phrases to emulate:
+  - Utilizes terms common in gaming and casino contexts, e.g., "RTP," "ベッティング," "ラウンド進行."
+  - Includes friendly encouragement or suggestions ("お気に入りのバカラを見つけてみてください！").
+  - Mixes technical game details with simple explanations to be accessible.
+  - Uses Japanese gambling and gaming jargon combined with casual, everyday expressions.
+  - Employs Japanese onomatopoeia or branded mascot dialogue for added engagement.
+
+- Reading level and regional/Japan-specific traits:
+  - Written in standard Japanese targeting adult users familiar with casino/gaming culture.
+  - Generally accessible but assumes some familiarity with gambling terms.
+  - Contains cultural references specific to Japanese players (e.g., casual tone with polite nuances).
+  - Regional: Japanese-language focus with localized terminology and gameplay examples.
+  - Written mainly for web readers interested in live casino games, with emphasis on Japanese audience preferences.

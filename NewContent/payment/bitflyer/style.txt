@@ -1,0 +1,6 @@
+- Tone/POV: Friendly, approachable, and conversational with casual interjections (e.g., emojis, informal expressions). Uses first-person plural ("〜ましょ") and simple explanations, sometimes including rhetorical questions for engagement.
+- Sentence/Paragraph Length: Mostly short to medium-length sentences; paragraphs are concise and broken into numbered or bulleted lists for clarity and easy reading.
+- Heading/Formatting: Clear use of headings with "##" for main sections; includes lists, numbered points, links, bold text for emphasis, and frequent use of visual elements (images and star ratings).
+- Vocabulary/Phrases: Simple, everyday Japanese with an explanatory style; uses relatable comparisons ("要はバーチャルマネーと言いましょうか"); employs casual terms and phrases to demystify technical concepts; occasional use of onomatopoeia and slang-like expressions to maintain a light tone.
+- Reading Level: Accessible to general audiences, including beginners; written at a lower-intermediate level to make complex topics like cryptocurrency understandable without jargon.
+- Regional/Japan-specific traits: Mix of Japanese and English technical terms; currency comparisons include yen and other symbols (€,$,￥); cultural references to Japanese online casinos and gaming; uses Japanese emoji styles and honorific expressions where appropriate.

@@ -1,0 +1,27 @@
+- **Tone & POV:**  
+  - Friendly, approachable, and slightly informal with emoji use to engage readers  
+  - Written in second person ("you") and inclusive ("皆", "ジャパカジ仲間")  
+  - Encouraging and explanatory, balancing caution and excitement about gambling strategies  
+  - Mix of authoritative guidance and conversational remarks  
+
+- **Sentence/Paragraph Length & Formatting:**  
+  - Mostly short to medium sentences for clarity  
+  - Use of bullet points, numbered lists, and examples formatted in tables for easy comprehension  
+  - Frequent use of bold and italics for emphasis on key terms and concepts  
+  - Headings mostly at H2 and H3 levels with clear, descriptive titles  
+  - Links with call-to-action buttons and anchors embedded naturally in text  
+  - Use of simple graphics/icons and emojis to break text and add friendliness  
+
+- **Typical Vocabulary/Phrases:**  
+  - Casual yet precise gambling jargon (e.g., "ベット額", "イーブンマネーベット", "攻略法", "還元率")  
+  - Emphasis on concepts like "risk," "strategy," "profit," "loss," with numeric examples  
+  - Encourages understanding ("理解できるように", "大丈夫です")  
+  - Phrases highlighting reliability and safety ("比較的安全", "ローリスク")  
+  - Use of Japanese idiomatic expressions and terms specific to online casinos and betting  
+
+- **Reading Level & Regional Traits:**  
+  - Intended for Japanese-speaking audience with knowledge of or interest in gambling  
+  - Moderate reading level; assumes basic familiarity with betting but explains complex terms simply  
+  - Incorporates Japanese numeric and betting conventions (e.g., yen omitted, using "$" symbol for demonstration)  
+  - Contextual references specific to Japan ("ジャパカジ", use of Japanese educational references like "数学Ⅱ・B")  
+  - Style suits tech-savvy and entertainment-oriented readers familiar with online casino culture in Japan

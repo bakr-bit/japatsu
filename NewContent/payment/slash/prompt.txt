@@ -1,0 +1,12 @@
+Research and update the topic of Slash Payment as a cryptocurrency-based payment method for Japanese online casino players, focusing on its current availability, usability, and regulatory status in Japan. Provide detailed insights on the following points:
+
+- What are the latest developments and updates about Slash Payment’s service, specifically regarding its adoption by Japanese-facing online casinos beyond Konibet, and its support for Japanese Yen (JPY) transactions?
+- Detail the deposit and withdrawal processes using Slash Payment: applicable limits, KYC/verification requirements, processing times, and any fees involved, including blockchain network fees.
+- Analyze the security measures, fraud risks, and reliability of Slash Payment, especially in the context of Japanese regulations and user protections.
+- Compare Slash Payment with other common payment methods available to Japanese online casino players (e.g., credit cards, Easy Bill, bank transfers, other crypto payments) regarding fees, convenience, acceptance, and compliance.
+- Examine the current legal and regulatory considerations for using cryptocurrency payment services like Slash Payment in Japan’s online gambling environment, including licensing and anti-money laundering (AML) requirements.
+- Investigate any known issues or user-reported problems with Slash Payment in Japan, along with available troubleshooting steps or customer support options.
+- Provide data-backed benchmarks or usage statistics for Slash Payment where available, such as user adoption rates, transaction volumes, or casino coverage.
+- Identify alternative or competing cryptocurrency payment solutions that Japanese online casino players commonly use or that are gaining traction in the market.  
+
+Prioritize authoritative English-language sources such as global payment providers, blockchain industry reports, and Japanese financial regulatory bodies; include credible Japanese sources only if official or well-established. Avoid low-quality affiliate or SEO-driven sites.

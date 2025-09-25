@@ -1,0 +1,22 @@
+- Tone and POV; sentence/paragraph length; heading/formatting habits  
+  • Friendly, casual, and engaging tone with frequent use of emojis and interjections to create enthusiasm  
+  • Written in second-person and first-person plural POV for inclusiveness ("みていきましょー！", "試しに遊んでみるのもありです")  
+  • Sentences generally medium length with some short, punchy remarks for emphasis  
+  • Paragraphs are concise and focused, often one idea each  
+  • Headings are hierarchical, clearly marked using `##` and `###` in Markdown, often with expanded topics for easy scanning  
+  • Use of bullet points and tables to organize specs/features, enhancing readability  
+  • Occasional use of emphasis (bold, emoticons) and interspersed links for reference  
+
+- Typical vocabulary/phrases to emulate  
+  • Casual, approachable Japanese with slang-style endings ("〜です", "〜しよーッ", "〜ちゃいます")  
+  • Use of playful onomatopoeia or emojis for emotion and visual interest  
+  • Vocabulary blends gaming/jargon terms (RTP, ベット, オートプレイ) with everyday language  
+  • Encouraging and reassuring expressions to guide players ("ありがたい", "試しに", "おすすめ")  
+  • Frequent use of comparisons and numeric details to inform and persuade  
+
+- Reading level; regional/Japan-specific traits  
+  • Written in natural Japanese targeting native speakers familiar with online gaming/casino jargon but still accessible to casual readers  
+  • Uses some informal emotional expressions common in Japanese internet culture  
+  • Includes English loanwords and industry-specific terminology common in Japan's online casino market  
+  • Regional focus on Japan with Japanese yen reference and Japanese-language navigation and informational links  
+  • Explains concepts with Japanese cultural context, e.g., familiarity with cryptocurrencies and online casino conventions relevant to Japanese users

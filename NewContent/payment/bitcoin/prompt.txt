@@ -1,0 +1,12 @@
+Research and update comprehensive information on using Bitcoin as a payment method for online casinos targeting Japanese players. Focus on current availability, usability, and regulatory environment in Japan.
+
+- What are the current online casinos accessible to Japanese users that accept Bitcoin deposits and withdrawals? Include details on currency handling (JPY acceptance or conversion).
+- Explain the typical deposit and withdrawal flows using Bitcoin at these casinos, including processing times and any applicable transaction limits.
+- What are the KYC (Know Your Customer) and identity verification requirements for using Bitcoin in Japanese-facing casinos? Are there notable differences for cryptocurrency transactions versus fiat?
+- Detail the fee structures, including blockchain transaction fees, casino fees, and any currency conversion or FX costs impacting Japanese users.
+- Assess the reliability, security, and fraud risks associated with Bitcoin payments in Japanese online casinos, citing data or benchmarks where available.
+- How do chargebacks or refunds work for Bitcoin transactions in online casinos, considering the irreversible nature of blockchain payments?
+- Compare Bitcoin with electronic money options (e-wallets) popular in Japan—advantages, disadvantages, and user preference trends.
+- Summarize relevant Japanese gambling and financial regulations impacting the use of Bitcoin in online casino payments. How do these regulations affect compliance and user protections?
+
+Prioritize up-to-date, English-language sources from global regulators, cryptocurrency experts, and reputable casino industry analyses. Include authoritative Japanese sources only if essential. Avoid marketing or SEO-heavy content.

@@ -1,0 +1,316 @@
+{
+    "hero": {
+      "title": "Conquestador（コンクエスタドール）レビュー",
+      "subheading": "探検テーマ×豊富なプロモーション。検索フィルターが優秀な総合型カジノ",
+      "description": "Conquestador は豊富なキャンペーン、トーナメント、アチーブメントを用意した探検テーマのオンラインカジノ。2018年ローンチ、MGA と AGCO ライセンス保有で信頼性も確保。日本語サポートと多彩な決済手段が利用可能です。",
+      "score": 4,
+      "scoreMax": 5,
+      "scoreBreakdown": [],
+      "highlights": [
+        "豊富なキャンペーンとウェルカムオファー（CasinoTsu限定入金不要ボーナスあり）",
+        "使いやすい検索フィルターとアチーブメント／トーナメント機能",
+        "ライセンス保有（MGA / AGCO）で運営の信頼性が高い",
+        "日本語ライブチャット＆メールサポート（年中無休）",
+        "仮想通貨を含む多彩な入出金手段に対応"
+      ],
+      "watchouts": [
+        "ボーナス種類が多く利用規約がやや分かりにくい",
+        "一部でアカウント認証やシステム不具合の報告あり",
+        "プロモーションの条件（賭け条件・消化率）が複雑で要確認"
+      ]
+    },
+    "payments": {
+      "featured": [
+        {
+          "name": "カード決済（VISA / MasterCard / JCB）",
+          "icon": "",
+          "href": "https://casinotsu.com/payment/visa",
+          "badge": "",
+          "note": "一般的なカード入金に対応。反映は数時間程度の場合あり。"
+        },
+        {
+          "name": "電子財布（Payz / Vega Wallet / MuchBetter 等）",
+          "icon": "",
+          "href": "https://casinotsu.com/payment",
+          "badge": "",
+          "note": "入出金が比較的早く、数分〜数時間で処理されることが多い。"
+        },
+        {
+          "name": "銀行送金 / 即時銀行振込",
+          "icon": "",
+          "href": "https://casinotsu.com/payment/bank-transfer",
+          "badge": "",
+          "note": "ノーマル版は最大$10,000まで、反映は最大1営業日、出金は数営業日かかる場合あり。"
+        },
+        {
+          "name": "仮想通貨（BTC / USDT / USDC 等）",
+          "icon": "",
+          "href": "https://casinotsu.com/crypto",
+          "badge": "",
+          "note": "即時入金・短時間での出金が可能。最低入金額や上限は通貨により異なる。"
+        }
+      ],
+      "deposits": [
+        {
+          "name": "VISA",
+          "icon": "",
+          "href": "https://casinotsu.com/payment/visa"
+        },
+        {
+          "name": "MasterCard",
+          "icon": "",
+          "href": "https://casinotsu.com/payment/mastercard"
+        },
+        {
+          "name": "JCB",
+          "icon": "",
+          "href": "https://casinotsu.com/payment/jcb"
+        },
+        {
+          "name": "銀行送金",
+          "icon": "",
+          "href": "https://casinotsu.com/payment/bank-transfer"
+        },
+        {
+          "name": "PayPay",
+          "icon": "",
+          "href": "https://casinotsu.com/payment/paypay"
+        },
+        {
+          "name": "Payz / Vega Wallet / MuchBetter / iWallet / TigerPay",
+          "icon": "",
+          "href": "https://casinotsu.com/payment"
+        },
+        {
+          "name": "AstroPay / Paysafecard / Neosurf / Flexepin / CashToCode",
+          "icon": "",
+          "href": "https://casinotsu.com/payment"
+        },
+        {
+          "name": "Bitcoin / Tether / USDC",
+          "icon": "",
+          "href": "https://casinotsu.com/crypto"
+        }
+      ],
+      "withdrawals": [
+        {
+          "name": "電子財布（Payz / Vega Wallet 等）",
+          "icon": "",
+          "href": "https://casinotsu.com/payment"
+        },
+        {
+          "name": "銀行送金",
+          "icon": "",
+          "href": "https://casinotsu.com/payment/bank-transfer"
+        },
+        {
+          "name": "仮想通貨（BTC / USDT / USDC 等）",
+          "icon": "",
+          "href": "https://casinotsu.com/crypto"
+        }
+      ],
+      "payoutNotes": [
+        "入出金方法ごとに最低入金額・最高出金額・反映時間が異なります。上表を参照してください。",
+        "銀行送金は処理に数営業日かかる場合があります。電子決済や仮想通貨は概ね速い（数分〜数時間の目安）。",
+        "出金は基本的に入金に使用した方法へ返金されます。新しい決済方法で出金する場合は、その方法で最低額の入金とターンオーバーが必要になることがあります。",
+        "高額出金や疑わしい取引時にはKYCの追加提出を求められることがあります。"
+      ]
+    },
+    "bonuses": {
+      "overview": "Conquestador は豊富なプロモーションを常時展開しており、CasinoTsu限定の入金不要ボーナスや大型ウェルカムオファー、フリースピン、デイリードロップ＆ウィンズなど多彩な特典が利用可能です。ボーナス毎に賭け条件・有効期限・対象ゲームが異なるため、受取前に必ず各プロモーションの規約を確認してください。",
+      "noDeposit": "CasinoTsu限定の入金不要ボーナス（例：$40相当＋フリースピン25回）が提供される場合があります。配布地域やコードによって内容が異なります。",
+      "extraSpins": {
+        "summary": "フリースピンはウェルカムやキャンペーンで合計数百回配布されることがある。フリースピンはセットで分割付与されることが多く、有効期限が設定されている。",
+        "schedule": [
+          "CasinoTsu限定登録特典：フリースピン25回（対象スロット指定）",
+          "ウェルカムで合計200回分のフリースピンが段階的に付与（20回×10セットの仕組み）"
+        ],
+        "warning": "フリースピンやボーナスで得た勝利金には賭け条件（例：30x 等）が適用される場合があります。有効期限・最大ベット上限に注意してください。"
+      },
+      "welcome": [
+        {
+          "depositNumber": "初回入金（選択式）",
+          "percent": "最大200% / 150% / 100%（入金帯により変動）",
+          "cap": "最大¥5,000〜¥200,000 の帯分けあり",
+          "code": ""
+        },
+        {
+          "depositNumber": "2回目〜5回目入金",
+          "percent": "段階的（例：100%、50%、50%、25% 等）",
+          "cap": "各回で上限あり（表に準拠）",
+          "code": ""
+        }
+      ],
+      "conditions": [
+        "ウェルカムボーナスの賭け条件は20〜30倍（ボーナス種類により異なる）。",
+        "一部のウェルカムは一体型（入金＋ボーナス合算に賭け条件適用）となる場合がある。",
+        "賭け条件の消化率はゲームカテゴリ毎に異なる（スロット100%、一部テーブルゲーム0%など）。",
+        "フリースピンはセットで分割付与され、セット毎に有効期限が設定される（例：72時間）。"
+      ],
+      "prohibitedGames": []
+    },
+    "offers": [
+      {
+        "title": "CasinoTsu限定 入金不要ボーナス＋フリースピン",
+        "description": "CasinoTsu 経由で登録したユーザー向けに、地域限定の入金不要ボーナス（例：$40相当）とフリースピン25回分を提供。プロモコードが必要な場合あり。",
+        "highlight": "登録だけで試せる無料ボーナス（地域・条件あり）"
+      },
+      {
+        "title": "豪華ウェルカムパッケージ（段階付与）",
+        "description": "初回〜5回目の入金に分けて受け取れる大型ウェルカムオファー。合計で最大¥399,000相当のボーナスと合計200回前後のフリースピンを付与（条件により異なる）。",
+        "highlight": "段階で受け取る大口ウェルカム"
+      },
+      {
+        "title": "デイリードロップ＆ウィンズ／ライブドロップ",
+        "description": "プロバイダー連動の賞金ドロップや、ライブカジノ向けのドロップ＆ウィンを随時開催。参加して追加賞金を狙える。",
+        "highlight": "日替わりで当たるドロップ賞金"
+      }
+    ],
+    "casinoFacts": [
+      {
+        "label": "ローンチ",
+        "value": "2018"
+      },
+      {
+        "label": "評価点",
+        "value": "4.0 / 5"
+      },
+      {
+        "label": "フリースピン（例）",
+        "value": "225 回（プロモにより変動）"
+      },
+      {
+        "label": "ボーナス（例）",
+        "value": "最大 ¥399,000（ウェルカム合計案内）"
+      },
+      {
+        "label": "ライセンス",
+        "value": "Malta Gaming Authority（MGA） + Alcohol and Gaming Commission of Ontario (AGCO)"
+      },
+      {
+        "label": "運営会社",
+        "value": "Mobile Incorporated Ltd（マルタ拠点）"
+      },
+      {
+        "label": "ゲーム数",
+        "value": "約2,300種類以上（案内）"
+      },
+      {
+        "label": "プロバイダー数",
+        "value": "主要プロバイダー複数（Big Time Gaming, NetEnt, Pragmatic Play, Evolution 等）"
+      },
+      {
+        "label": "サポート",
+        "value": "日本語ライブチャット＆メール（年中無休）"
+      }
+    ],
+    "intro": {
+      "paragraphs": [
+        "Conquestador（コンクエスタドール）は“探検”をテーマにしたオンラインカジノ。検索機能やアチーブメント、トーナメントが充実しており、キャンペーンも豊富です。MGA と AGCO のライセンスを保有し、2018年より運営されています。",
+        "当ページでは、ボーナス、入出金、ゲームラインナップ、サポート、利用上の注意点まで、CasinoTsu が詳しく解説します。"
+      ],
+      "ctas": [
+        {
+          "label": "今すぐプレイ！",
+          "href": "https://go.japanesecasino.com/go/conquestador:conquestador?referrer_path=%2Freviews%2Fconquestador"
+        },
+        {
+          "label": "CasinoTsu限定オファー詳細",
+          "href": "https://casinotsu.com/offers/conquestador-exclusive"
+        }
+      ]
+    },
+    "games": [
+      "スロット（メガウェイズ、ボーナス購入、ホールド＆ウィン等）",
+      "ライブカジノ（Evolution、Pragmatic Play 等のライブテーブル）",
+      "ゲームショー、クラッシュ、ダイス、ビデオポーカー、ビンゴ等のスペシャリティゲーム",
+      "スポーツベット（主要スポーツ・マーケットをカバー）",
+      "トーナメント・アチーブメント（達成でボーナス獲得）"
+    ],
+    "features": [
+      "高性能なゲーム検索・フィルター機能で目的のゲームが探しやすい",
+      "豊富なプロモーション（入金不要ボーナス、ウェルカム、デイリー/ライブドロップ等）",
+      "日本語対応の年中無休サポート（ライブチャット／メール）",
+      "MGA / AGCO ライセンス保有による高い運営信頼性",
+      "モバイルブラウザおよびAndroidアプリでの快適プレイ対応",
+      "アチーブメント／クエスト機能で遊びながらボーナス獲得"
+    ],
+    "security": [
+      "ライセンス：Malta Gaming Authority（MGA）および Alcohol and Gaming Commission of Ontario (AGCO）を保有",
+      "運営会社：Mobile Incorporated Ltd（マルタ拠点）",
+      "個人情報保護：サイトにプライバシーポリシーを公開、SSL 暗号化を採用",
+      "ゲームの公平性：RNG を用いたプロバイダー提供ゲーム、第三者監査の対象",
+      "KYC：不正防止のため、登録後または出金時に身分証明書・住所確認書類等の提出を求める場合あり",
+      "VPNや国制限：一部地域からのアクセス制限およびVPN利用禁止の規約あり"
+    ],
+    "responsiblePlay": [
+      "入金制限（Deposit Limits）",
+      "賭け金制限（Wager Limits）",
+      "損失制限（Loss Limits）",
+      "セッション制限／リアリティチェック（Reality Check）",
+      "自己排除（Self-Exclusion）",
+      "クールダウン／タイムアウト",
+      "自己評価テスト（Self-Assessment）",
+      "出金ロック（Withdrawal Lock）"
+    ],
+    "complaintStats": [
+      "AskGamblers: 7.7 / 10（Good）",
+      "Casino.Guru: Safety Index 5.4 / 10（Below average）",
+      "Mr. Gamble: 人気指数 93%（案内）",
+      "ユーザーからの主な苦情：アカウント認証遅延、プロモ条件の不明瞭さ、まれなシステム不具合"
+    ],
+    "awards": [],
+    "restrictedCountries": [],
+    "userConcerns": [
+      "プロモーションやボーナスの利用規約がやや分かりにくく、条件確認が必要",
+      "アカウント認証や書類提出で時間がかかるケースが報告されている",
+      "一部ユーザーにシステム不具合やサポート回答の遅延が見られる",
+      "高額出金や疑わしい取引時は追加確認が入り、処理に時間がかかる可能性"
+    ],
+    "summary": [
+      "Conquestador は探検テーマを打ち出したエンタメ性の高いカジノで、豊富なプロモーション、優れた検索機能、トーナメント／アチーブメントにより幅広いプレイヤーに訴求するサービスを提供しています。",
+      "MGA と AGCO のライセンスを保持しており、運営基盤は堅実。日本語サポートや多様な決済方法の用意など利便性も高いです。",
+      "一方でボーナス条件やプロモ規約が複雑に見える点、認証や一部システムでの手続き遅延の報告がある点は留意が必要です。利用前に各プロモーション規約と出金ルールを確認し、まずは少額で試してから本格利用することを推奨します。"
+    ],
+    "extraLinks": [
+      {
+        "label": "Conquestador 公式（CasinoTsu経由）",
+        "href": "https://go.japanesecasino.com/go/conquestador:conquestador?referrer_path=%2Freviews%2Fconquestador"
+      },
+      {
+        "label": "Conquestador 限定オファー詳細",
+        "href": "https://casinotsu.com/offers/conquestador-exclusive"
+      },
+      {
+        "label": "CasinoTsu 入出金方法ページ",
+        "href": "https://casinotsu.com/payment"
+      },
+      {
+        "label": "Cookies Policy",
+        "href": "https://casinotsu.com/about/cookie-policy"
+      }
+    ],
+    "faq": [
+      {
+        "question": "コンクエスタドールはどこの国で運営されていますか？",
+        "answer": "運営はマルタ共和国に拠点を持ち、Malta Gaming Authority（MGA）とAlcohol and Gaming Commission of Ontario（AGCO）のライセンスを保有しています。"
+      },
+      {
+        "question": "コンクエスタドールで仮想通貨は利用できますか？",
+        "answer": "はい。Bitcoin、Tether（USDT）、USD Coin（USDC）などの仮想通貨での入出金に対応しています（利用可否は地域やアカウント条件に依存）。"
+      },
+      {
+        "question": "コンクエスタドールにキャッシュバックはありますか？",
+        "answer": "はい。定期的に実施されるキャッシュバックやリベート、VIP向けのリワードが用意されています。対象や割合はプロモーションによって変わりますのでサイトで確認してください。"
+      },
+      {
+        "question": "ボーナスの賭け条件はどのくらいですか？",
+        "answer": "ボーナス毎に賭け条件が異なります。案内例では20〜30倍程度の設定が多いですが、ウェルカムの各レベルや入金不要ボーナスごとに条件や消化率が変わるため、受取前に必ずプロモ規約を確認してください。"
+      }
+    ],
+    "cta": {
+      "text": "Conquestador でプレイする",
+      "href": "https://go.japanesecasino.com/go/conquestador:conquestador?referrer_path=%2Freviews%2Fconquestador"
+    },
+    "textBlocks": []
+  }

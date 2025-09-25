@@ -1,0 +1,28 @@
+- Tone and POV:
+  - Conversational, friendly, and enthusiastic with frequent emoji use
+  - Written in second-person viewpoint, directly addressing readers as players
+  - Informal but informative, mixing casual expressions with factual data
+- Sentence/Paragraph Length:
+  - Generally short to medium sentences for easy readability
+  - Paragraphs tend to be brief or segmented by headings and lists
+  - Frequent use of bullet points and tables to organize information clearly
+- Heading/Formatting Habits:
+  - Clear hierarchical structure using H2 and H3 headings for sections/subsections
+  - Bold text to highlight keywords and important terms/numbers
+  - Internal and external links embedded naturally within text and in navigation lists
+  - Images often captioned and relevant to corresponding text for visual support
+- Typical Vocabulary/Phrases:
+  - Game-specific terms (e.g., RTP, multipliers, bets, payouts) explained simply
+  - Phrases encouraging beginners and emphasizing accessibility (e.g., "初心者もOK", "簡単")
+  - Use of onomatopoeia and casual Japanese interjections or slang (e.g., "ビックリ", "やはり")
+  - Japanese loanwords or gaming jargon adapted for localized context
+  - Emphasis on excitement and potential wins ("勝利金が倍増", "爆発力があります", "勝てる確率")
+- Reading Level:
+  - Accessible to general adult audience with basic gambling/game knowledge
+  - Includes some technical gaming terms but generally explained or clarified
+- Regional/Japan-specific Traits:
+  - Japanese language main text with romanized and some English terms mixed in
+  - Japanese gambling culture references (specific games like Sic Bo, Baccarat)
+  - Use of Japanese mascots and culturally familiar icons (e.g., カジ子, ココモ)
+  - Currency displayed in USD but contextually targeting Japanese users (site domain is Japanese)
+  - Tables and stats follow typical Japanese web formatting standards with user-friendly presentation

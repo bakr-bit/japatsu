@@ -1,0 +1,280 @@
+{
+    "hero": {
+      "title": "Miracle Casino（ミラクルカジノ）レビュー",
+      "subheading": "ライブバカラに注力したカジノ — 高速出金と豪華VIPが魅力",
+      "description": "Miracle Casino はライブバカラに強みを持つオンラインカジノです。入金不要ボーナスやリベート・VIP特典が充実。出金スピードや仮想通貨サポートも評価されていますが、重要なお知らせとしてサービス終了のスケジュールが公表されています。",
+      "score": 4.3,
+      "scoreMax": 5,
+      "scoreBreakdown": [],
+      "highlights": [
+        "ライブバカラを中心とした豊富なライブゲームラインナップ",
+        "入金不要ボーナス$20を常時提供（条件あり）",
+        "初回キャッシュバック等、ユニークなプロモと強力なVIPリベート",
+        "仮想通貨マンツーマンサポート（期間限定）や高速出金の評判",
+        "24時間日本語サポートと充実したFAQページ"
+      ],
+      "watchouts": [
+        "重要：サービス終了スケジュールが公表されています（最終サービス日：2025-09-30）",
+        "Casino Guru の評価は低め（安全性指標に注意）との報告あり",
+        "休眠口座ポリシーやKYC要件、出金条件に厳しい点がある",
+        "一部ユーザーからVIP基準やリベートの改定に対する不満あり"
+      ]
+    },
+    "payments": {
+      "featured": [
+        {
+          "name": "Payz",
+          "icon": "",
+          "href": "https://www.japanesecasino.com/payment/payz",
+          "badge": "",
+          "note": "電子ウォレット入出金に対応。即時反映・出金短時間での処理が多い。"
+        },
+        {
+          "name": "Vega Wallet",
+          "icon": "",
+          "href": "https://www.japanesecasino.com/payment/vega-wallet",
+          "badge": "",
+          "note": "電子財布。高速入出金に対応。"
+        },
+        {
+          "name": "仮想通貨（BTC / ETH / USDT 等）",
+          "icon": "",
+          "href": "https://www.japanesecasino.com/crypto",
+          "badge": "",
+          "note": "主要コインに対応。即時入金、出金は数分〜数時間が目安（ネットワーク依存）。"
+        }
+      ],
+      "deposits": [
+        {
+          "name": "銀行振込",
+          "icon": "",
+          "href": "https://www.japanesecasino.com/payment/bank-transfer"
+        },
+        {
+          "name": "Payz",
+          "icon": "",
+          "href": "https://www.japanesecasino.com/payment/payz"
+        },
+        {
+          "name": "SticPay",
+          "icon": "",
+          "href": "https://www.japanesecasino.com/payment/sticpay"
+        },
+        {
+          "name": "Vega Wallet",
+          "icon": "",
+          "href": "https://www.japanesecasino.com/payment/vega-wallet"
+        },
+        {
+          "name": "仮想通貨（BTC / BCH / ETH / LTC / DOGE / USDT 等）",
+          "icon": "",
+          "href": "https://www.japanesecasino.com/crypto"
+        }
+      ],
+      "withdrawals": [
+        {
+          "name": "銀行振込",
+          "icon": "",
+          "href": "https://www.japanesecasino.com/payment/bank-transfer"
+        },
+        {
+          "name": "電子ウォレット（Payz / SticPay / Vega Wallet 等）",
+          "icon": "",
+          "href": "https://www.japanesecasino.com/payment"
+        },
+        {
+          "name": "仮想通貨（BTC / BCH / ETH / USDT 等）",
+          "icon": "",
+          "href": "https://www.japanesecasino.com/crypto"
+        }
+      ],
+      "payoutNotes": [
+        "一部決済手段に手数料が発生する（例：銀行振込手数料5%、SticPay 2.5% の報告あり）",
+        "電子ウォレットでの出金は非常に高速（実例で1分〜10分の報告あり）",
+        "銀行振込は処理に最大1時間〜数営業日かかることがある",
+        "出金上限は日次・月次で設定あり（例：日$500,000、月$15,000,000）、高額出金は追加の確認が入る場合あり",
+        "休眠口座ポリシー：12〜18ヶ月の非アクティブで残高没収・手数料適用の可能性"
+      ]
+    },
+    "bonuses": {
+      "overview": "Miracle Casino は登録で受け取れる入金不要ボーナスや、初回キャッシュバック、豊富なVIP向けリベートなど多様なプロモーションを提供します。ボーナスごとに賭け条件・有効期限・最大出金額が異なるため、受け取る前に必ず規約を確認してください。",
+      "noDeposit": "登録で獲得できる入金不要ボーナス：$20（賭け条件30倍、最大出金$200、有効期限30日、受取にボーナスコードと携帯認証が必要）",
+      "extraSpins": {
+        "summary": "初回入金でフリースピンを付与するプロモ有り（例：50回）。一部フリースピンは対象機種と有効期限が限定。",
+        "schedule": [
+          "週末や特定プロモで追加フリースピン配布あり"
+        ],
+        "warning": "フリースピン勝利金の出金条件や最大出金額が制限されるケースがあるため注意"
+      },
+      "welcome": [
+        {
+          "depositNumber": "初回入金（キャッシュバック型）",
+          "percent": "50%",
+          "cap": "最大$350",
+          "code": ""
+        }
+      ],
+      "conditions": [
+        "入金不要ボーナスの賭け条件：30倍（案内）",
+        "初回キャッシュバック賭け条件：1倍（案内）",
+        "リベートやキャッシュバックの適用条件はVIPレベルや入金の有無により異なる",
+        "ボーナス適用中は特定ゲームや最大ベット制限が設定されることがある"
+      ],
+      "prohibitedGames": []
+    },
+    "offers": [
+      {
+        "title": "登録入金不要ボーナス $20",
+        "description": "新規登録後に受け取れる$20の入金不要ボーナス。賭け条件30倍、最大出金$200。受取にはボーナスコードと携帯認証が必要。",
+        "highlight": "登録だけで試せる無料ボーナス（条件あり）"
+      },
+      {
+        "title": "初回入金50%キャッシュバック（最大$350）",
+        "description": "週末限定の初回入金キャッシュバック。賭け条件1倍で即出金しやすいタイプのオファー。",
+        "highlight": "低賭け条件のキャッシュバック（週末限定）"
+      },
+      {
+        "title": "無制限リベート／VIP特典",
+        "description": "累計ベットに応じたリベート還元や週次・月次のVIPボーナスを提供。VIP昇格ボーナスや週次ボーナスもあり。",
+        "highlight": "高還元リベート（VIPで更に優遇）"
+      }
+    ],
+    "casinoFacts": [
+      {
+        "label": "評価点",
+        "value": "4.3 / 5"
+      },
+      {
+        "label": "入金不要ボーナス",
+        "value": "$20（賭け条件30x、最大出金$200）"
+      },
+      {
+        "label": "初回キャッシュバック",
+        "value": "50% 最大$350（賭け条件1x、週末限定の案内）"
+      },
+      {
+        "label": "リベート",
+        "value": "VIPレベルに応じた高還元リベート（詳細はVIPページ）"
+      },
+      {
+        "label": "ローンチ",
+        "value": "2022（案内）"
+      },
+      {
+        "label": "ライセンス",
+        "value": "Antillephone（キュラソー）表記"
+      },
+      {
+        "label": "運営会社",
+        "value": "Sector Media N.V.（案内）"
+      },
+      {
+        "label": "ゲーム数",
+        "value": "約2,500～3,000種のスロット、ライブ約180種、その他多数（案内）"
+      },
+      {
+        "label": "プロバイダー",
+        "value": "BetSoft, NetEnt, Pragmatic Play, Play’n GO, Yggdrasil 等（約30社）"
+      }
+    ],
+    "intro": {
+      "paragraphs": [
+        "CasinoTsu より、Miracle Casino（ミラクルカジノ）についての詳細情報をお届けします。ミラクルカジノはライブバカラを強みに、VIPリベートや高速出金で注目されたカジノです。",
+        "重要：Miracle Casino は 2025年9月30日 をもってサービス終了予定です。9月11日以降は入金・プレイが停止され、10月1日にはアクセスが完全に停止されます。残高があるプレイヤーは公式の案内に従ってください。"
+      ],
+      "ctas": [
+        {
+          "label": "代替カジノを探す（Bons / Mystino 等）",
+          "href": "https://www.japanesecasino.com/reviews"
+        },
+        {
+          "label": "Miracle Casino 入金不要ボーナスを確認",
+          "href": ""
+        }
+      ]
+    },
+    "games": [
+      "ライブバカラ（多数のテーブル）",
+      "ライブカジノ（ルーレット、ブラックジャック、ポーカー等）",
+      "スロット（2,500種以上）",
+      "ゲームショー（Crazy Time、Cash or Crash 等）",
+      "パチンコ・パチスロ（300機種以上）",
+      "スポーツベット（各種スポーツ／バーチャルスポーツ）"
+    ],
+    "features": [
+      "ライブバカラ特化の豊富なテーブル",
+      "入金不要ボーナスや低賭け条件のキャッシュバック等、多彩なプロモ",
+      "高速出金の実績報告多数",
+      "仮想通貨マンツーマンサポート（期間限定）",
+      "24時間日本語サポート体制（チャット・メール）"
+    ],
+    "security": [
+      "ライセンス：Antillephone（キュラソー）表記",
+      "運営：Sector Media N.V.（案内）",
+      "通信保護：SSL 暗号化を採用",
+      "ゲームの公平性：RNG採用、第三者監査の実施案内あり",
+      "KYC：出金時に本人確認を要求（通常必要）"
+    ],
+    "responsiblePlay": [
+      "自己排除、入金制限、損失制限、セッション制限、リアリティチェック等のツールを案内",
+      "アカウント長期休眠（12～18ヶ月）で残高没収の可能性がある点に注意が必要"
+    ],
+    "complaintStats": [
+      "Casino Guru は安全指数低めの評価を示しており注意を促す旨のレポートあり",
+      "SNS上では出金高速の肯定的な声や、VIP条件に関する批判的な声が混在"
+    ],
+    "awards": [],
+    "restrictedCountries": [],
+    "userConcerns": [
+      "サービス終了スケジュール（2025-09-30）に伴う出金・残高処理の不安",
+      "Casino Guru の低評価に基づく信頼性懸念",
+      "休眠口座での残高没収・高額手数料のリスク",
+      "VIP基準やリベート改定に対する不満や混乱"
+    ],
+    "summary": [
+      "Miracle Casino はライブバカラ好きやハイローラーに魅力的なカジノ設計をしており、入金不要ボーナスや豪華なVIPリベート、迅速な出金が高評価でした。",
+      "ただし、Casino Guru による安全性指標や休眠口座ポリシー、KYC・出金条件など注意すべき点も存在します。特にサービス終了スケジュール（2025-09-30）については必ず公式案内を確認し、残高がある場合は所定の手続きを行ってください。",
+      "総合としてはポテンシャルの高いカジノでしたが、利用にあたっては最新の公式告知と規約を確認したうえで、少額から試すことを推奨します。"
+    ],
+    "extraLinks": [
+      {
+        "label": "代替カジノ（Bons）",
+        "href": "https://go.japanesecasino.com/go/bons-com:bons?referrer_path=%2Freviews%2Fmiracle-casino"
+      },
+      {
+        "label": "Miracle Casino オファー詳細",
+        "href": ""
+      },
+      {
+        "label": "CasinoTsu 入出金ガイド",
+        "href": "https://www.japanesecasino.com/payment"
+      },
+      {
+        "label": "Cookies Policy",
+        "href": "https://www.japanesecasino.com/about/cookie-policy"
+      }
+    ],
+    "faq": [
+      {
+        "question": "Miracle Casino の入金不要ボーナスはありますか？",
+        "answer": "はい。登録で受け取れる入金不要ボーナス$20が提供されています。賭け条件は30倍、最大出金は$200、有効期限は30日です（条件は変動する場合があるため登録前に確認してください）。"
+      },
+      {
+        "question": "Miracle Casino は本当に出金が速いですか？",
+        "answer": "多くのユーザーから電子ウォレットでの出金が数分〜10分程度と報告されています。一方で銀行振込やKYCが絡む出金では時間がかかる場合があります。"
+      },
+      {
+        "question": "サービス終了の影響はありますか？",
+        "answer": "はい。Miracle Casino は 2025-09-30 にサービスを終了します。入金・プレイ停止日や最終出金手続きの期限など公式案内を必ず確認のうえ対応してください。"
+      },
+      {
+        "question": "KYC（本人確認）は必要ですか？",
+        "answer": "はい。出金時や高額出金時に本人確認書類（ID、住所確認、決済証明等）の提出が求められます。事前に書類を準備しておくことを推奨します。"
+      }
+    ],
+    "cta": {
+      "text": "代替カジノを探す（Bons 等）",
+      "href": "https://www.japanesecasino.com/reviews"
+    },
+    "textBlocks": []
+  }

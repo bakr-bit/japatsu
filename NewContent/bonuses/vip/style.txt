@@ -1,0 +1,28 @@
+- **Tone & POV:**  
+  - Friendly, approachable, and enthusiastic with casual interjections/emojis (e.g., "♪", "😍", "💰", "⚖️", "🙀")  
+  - Uses first-person plural or inclusive language ("見ていこっ！") to engage readers directly  
+  - Mix of formal info and conversational style  
+
+- **Sentence & Paragraph Length:**  
+  - Generally short to medium sentences for easy reading  
+  - Paragraphs are concise, typically 2-4 sentences each  
+  - Frequent use of bullet points and numbered lists for clarity and scannability  
+
+- **Heading & Formatting Habits:**  
+  - Clear hierarchical structure using Markdown headers (##, ###)  
+  - Generous use of bold for emphasis on key terms and offers  
+  - Frequent links embedded in text for navigation and cross-referencing  
+  - Tables and images used to organize info and visually enrich content  
+  - Combination of Japanese and English terms, often with explanations  
+
+- **Typical Vocabulary/Phrases to Emulate:**  
+  - Japanese gambling and casino-related terminology with occasional English industry terms (e.g., "VIPボーナス", "RNG", "キャッシュバック")  
+  - Promotional and enticing words: "豪華", "お得", "限定", "ワクワク", "盛りだくさん"  
+  - Words implying reliability and safety: "信頼できる", "安全", "責任あるギャンブル"  
+  - Casual colloquialisms or friendly expressions to build rapport and excitement  
+
+- **Reading Level & Regional/Japan-Specific Traits:**  
+  - Japanese text aimed at general adult audience, accessible language with some industry jargon explained  
+  - Incorporates culturally relevant references (e.g., game licenses relevant to Japan, local gambling norms)  
+  - Mix of formal terms with casual slang/emojis reflects modern Japanese web editorial style  
+  - Use of katakana for loanwords and occasional emoticons reflective of Japanese digital communication culture
