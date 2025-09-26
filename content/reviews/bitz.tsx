@@ -3,320 +3,264 @@ import type { ReviewPageContent } from "@/components/templates/ReviewDetailTempl
 
 export const reviewBitz: ReviewPageContent = {
   hero: {
-    title: "Betswap（ベットスワップ）レビュー",
-    subheading: "個人間ベットと仮想通貨特化の次世代カジノプラットフォーム",
-    description:
-      "ベットスワップは仮想通貨専用の新世代カジノ。個人間でオッズ設定・ベットが可能なスポーツベットや、数千種類のカジノゲームを提供します。本レビューではライセンス、安全性、ボーナス、入出金、ゲーム、サポート、評判まで CasinoTsu が詳しく解説します。",
-    score: 3.4,
+    title: "ビッツカジノ（Bitz）レビュー",
+    subheading: "最大$1,000ボーナス (賭け条件29倍)",
+    description: "本人確認不要で匿名性も抜群な最新仮想通貨カジノ、BitzをCasinoTsuが徹底解説。約6,800種類のゲームと還元率98%以上の独占ゲームが魅力です。",
+    score: 4.0,
     scoreMax: 5,
-    scoreBreakdown: [],
+    scoreBreakdown: [
+      {
+        label: "人気指数",
+        percent: 73,
+        note: "まだ知名度は低いが、匿名性の高さとユニークなボーナスで今後人気を集める可能性を秘めている。",
+      },
+      {
+        label: "規約",
+        percent: 84,
+        note: "最大$1,000の初回ボーナスに加え、複数回もらえる入金不要ボーナスや賭け条件なしのキャッシュバックが魅力的。",
+      },
+      {
+        label: "操作性",
+        percent: 87,
+        note: "登録が非常にシンプルで本人確認も不要。一部ゲームの混在や不自然な日本語訳は今後の改善に期待。",
+      },
+      {
+        label: "サポート",
+        percent: 84,
+        note: "24時間日本語対応は心強いが、翻訳機能を使った外国人スタッフのため、時折不自然な日本語になることがある。",
+      },
+    ],
     highlights: [
-      "個人間ベット（分散型・オッズ設定可能）の次世代スポーツベットを提供",
-      "仮想通貨対応・独自トークン BSGG を保有している点が特徴",
-      "豊富なゲーム数（約3,500〜4,700種）と多数プロバイダー導入",
-      "24時間ライブチャットとメールサポートを提供（日本語対応ありの案内）",
-      "仮想通貨ベースの豪華ウェルカムボーナス（最大360%＋220,000USDTの案内）",
+      "原則として本人確認書類の提出が不要",
+      "還元率(RTP)98%以上の魅力的な独占ゲーム",
+      "複数回獲得可能なユニークな入金不要ボーナス",
+      "賭け条件なしの月次キャッシュバック",
     ],
     watchouts: [
-      "出金失敗・遅延・アカウント凍結など出金トラブルの報告が複数ある",
-      "出金時に追加認証や追加デポジットを要求されるケースが報告されている",
-      "一部レビューや AskGamblers によるブラックリスト掲載など信頼性に関する懸念",
-      "決済手段は仮想通貨中心で、法定通貨の利用は制限や条件が多い",
+      "まだ新しく知名度が低く、プレイヤーの口コミが少ない",
+      "サイト内の日本語に時折不自然な箇所が見られる",
+      "決済は仮想通貨がメインで日本円には非対応",
     ],
   },
   payments: {
     featured: [
       {
-        name: "仮想通貨（USDT, ETH, TRX, USDC, BNB, BTC 等）",
-        icon: "",
-        href: "",
-        badge: "",
-        note: "仮想通貨入出金が中心。入金は比較的早く、出金はネットワーク状況で数分〜数時間を想定。",
+        name: "Bitcoin",
+        icon: "/assets/payments/bitcoin.svg",
+        href: "https://casinotsu.com/payment/bitcoin",
+        badge: "人気",
+        note: "最も広く使われている仮想通貨",
       },
       {
-        name: "クレジットカード（Visa / MasterCard）",
-        icon: "",
-        href: "",
-        badge: "",
-        note: "カードは法定→仮想通貨購入経由での入金手段として利用可能（提供方法により手数料・条件あり）。",
+        name: "Ethereum",
+        icon: "/assets/payments/ethereum.svg",
+        href: "https://casinotsu.com/payment/ethereum",
+        badge: "主要コイン",
+        note: "スマートコントラクトで知られる",
       },
       {
-        name: "電子決済 / on-ramp サービス（MoonPay, Simplex, PayPal など）",
-        icon: "",
-        href: "",
-        badge: "",
-        note: "多数のオンランプを通じて仮想通貨購入が可能。国や手段により利用可否が異なる。",
+        name: "Tether",
+        icon: "/assets/payments/tether.svg",
+        href: "https://casinotsu.com/payment/usdt",
+        badge: "安定",
+        note: "米ドルに連動するステーブルコイン",
+      },
+      {
+        name: "Litecoin",
+        icon: "/assets/payments/litecoin.svg",
+        badge: "高速",
+        note: "ビットコインより高速な決済が可能",
       },
     ],
     deposits: [
-      {
-        name: "USDT (ERC20/TRC20等)",
-        icon: "",
-        href: "",
-      },
-      {
-        name: "ETH",
-        icon: "",
-        href: "",
-      },
-      {
-        name: "TRX",
-        icon: "",
-        href: "",
-      },
-      {
-        name: "USDC",
-        icon: "",
-        href: "",
-      },
-      {
-        name: "BNB / BUSD",
-        icon: "",
-        href: "",
-      },
-      {
-        name: "BTC / LTC / MATIC / DAI",
-        icon: "",
-        href: "",
-      },
-      {
-        name: "クレジットカード（仮想通貨購入経由）",
-        icon: "",
-        href: "",
-      },
-      {
-        name: "各種オンランプ（MoonPay, Simplex 等）",
-        icon: "",
-        href: "",
-      },
+      { name: "Tether (USDT)" },
+      { name: "BNB" },
+      { name: "Bitcoin (BTC)" },
+      { name: "Ethereum (ETH)" },
+      { name: "Litecoin (LTC)" },
+      { name: "TRON (TRX)" },
+      { name: "Dogecoin (DOGE)" },
+      { name: "Polygon (POL)" },
+      { name: "Toncoin (TON)" },
+      { name: "USD Coin (USDC)" },
     ],
     withdrawals: [
-      {
-        name: "仮想通貨（USDT メイン、ETH, TRX 等）",
-        icon: "",
-        href: "",
-      },
-      {
-        name: "フィアット出金（制限あり・追加認証の可能性あり）",
-        icon: "",
-        href: "",
-      },
-      {
-        name: "電子決済（利用可の場合あり）",
-        icon: "",
-        href: "",
-      },
+      { name: "Tether (USDT)" },
+      { name: "BNB" },
+      { name: "Bitcoin (BTC)" },
+      { name: "Ethereum (ETH)" },
+      { name: "Litecoin (LTC)" },
+      { name: "TRON (TRX)" },
+      { name: "Dogecoin (DOGE)" },
+      { name: "Polygon (POL)" },
+      { name: "Toncoin (TON)" },
+      { name: "USD Coin (USDC)" },
     ],
     notes: [
-      "入出金は基本的に仮想通貨中心。平均入金着金は約20〜30分、出金はネットワーク状況等で約1〜5時間の目安（通貨とネットワークで変動）。",
-      "最低入金例：$10相当（案内値）。出金上限や手数料はアカウントや選択手段で異なる可能性がある。",
-      "一部出金方法では追加認証（KYC）や追加デポジットが求められる報告あり。出金前にルールを確認すること。",
-      "AstroPay は日本向けには利用不可（日本からの利用制限あり）。",
+      "決済は仮想通貨が中心です。カジノ側での手数料は無料ですが、ネットワーク利用料が発生する場合があります。",
+      "出金には、入金額に対して1倍の賭け条件（ターンオーバー）が適用されます。",
+      "平均出金時間は最大3時間とされていますが、状況により最大24時間かかる場合があります。",
     ],
   },
   bonuses: {
     overview:
-      "ベットスワップは仮想通貨で受け取れる大型のウェルカムボーナスや多数のプロモを用意。分配された複数回入金で進呈されるウェルカムや、トーナメント、各種スポーツベット特典が魅力です。",
+      "ビッツカジノはプロモーションが非常に充実しています。最大1,000 USDTの初回入金ボーナスを筆頭に、複数回獲得できる入金不要ボーナスや、賭け条件なしのキャッシュバックなど、プレイヤーにとって魅力的なオファーが満載です。",
     noDeposit:
-      "恒常的な入金不要ボーナスの案内はないが、特定プロモで登録特典が出ることがある。",
+      "ビッツカジノの入金不要ボーナスはユニークです。「Kickチャンネル」の配信に参加して貯めたポイントをボーナスと交換する形式で、VIPレベルが上がるたびに再度参加できるため、複数回獲得が可能です。",
     extraSpins: {
-      summary: "",
+      summary:
+        "ウェルカムボーナスにはフリースピンは含まれていませんが、「クエスト」機能をクリアすることで報酬としてフリースピンなどを獲得できます。",
       schedule: [],
-      warning: "",
+      warning: "クエストの達成条件は参加するクエストによって異なります。",
     },
     welcomeRows: [
-      {
-        depositNumber: "初回入金",
-        percent: "180%",
-        cap: "最大20,000 USDT（初回）",
-        code: "",
-      },
-      {
-        depositNumber: "2回目以降（合計）",
-        percent: "残りで最大360%に到達",
-        cap: "総額最大220,000 USDT（案内）",
-        code: "",
-      },
+      { depositNumber: "初回", percent: "100%", cap: "1,000 USDT", code: "不要" },
     ],
     conditions: [
-      "ウェルカムボーナスは分離型で賭け条件40倍（ボーナス資金に対して）",
-      "ボーナスはスロットおよびクラッシュゲームのみで有効",
-      "最大ベット額に制限（例：2 USDT 等）があるため、利用前に必ず規約を確認すること",
-      "賭け条件を満たす前に出金すると、ボーナスおよびそこからの勝利金は没収される",
+      "初回入金ボーナスの賭け条件は29倍。",
+      "ボーナスの有効期限は7日間。",
+      "禁止ゲームが細かく設定されているため、利用前に利用規約の確認が必要です。",
     ],
-    prohibitedGames: [],
+    prohibitedGames: [
+      "禁止ゲームの詳細は利用規約で定められています。プレイ前に必ず確認してください。",
+    ],
   },
   offers: [
     {
-      title: "最大360%＋220,000USDT のウェルカム（分配）",
-      description:
-        "初回入金180%（最大20,000USDT）を含む、初回〜4回目まで分割して進呈される大型ウェルカムオファー。賭け条件40倍の分離型。",
-      highlight: "複数回入金で大口ボーナスを獲得可能（条件あり）",
+      title: "月2回もらえるキャッシュバックボーナス",
+      description: "毎月2日と16日に、期間中の損失額の5%がキャッシュバックされます。このキャッシュバックには賭け条件がないため、即時出金も可能です。",
+      highlight: "賭け条件なしで損失額の5%が戻ってくる",
     },
     {
-      title: "Pragmatic Play Daily Wins Tournament",
-      description:
-        "Pragmatic Play による大規模トーナメント等、プロバイダー連動の大会を随時開催。",
-      highlight: "高額賞金トーナメント",
+      title: "クエスト機能",
+      description: "「対象スロットをプレイ」「指定条件で勝利」といったミッションをクリアすることで、フリースピンなどのボーナスがもらえる楽しい機能です。",
+      highlight: "ゲームを楽しみながら追加ボーナスをゲット",
     },
     {
-      title: "スポーツベット向け特典（オッズブーストなど）",
-      description:
-        "チャンピオンズリーグ等の主要イベントやアキュムレーターベット向けのブーストやボーナスが用意されることがある。",
-      highlight: "スポーツ特化の追加特典",
+      title: "フォーチュンホイール",
+      description: "一定額をベットすると参加できる抽選機能。ホイールを回して最大10BTC相当の賞金やフリースピンなどの豪華賞品が当たるチャンスがあります。",
+      highlight: "一攫千金のチャンスがあるデイリープロモーション",
     },
   ],
   facts: [
+    { label: "名称", value: "Bitz (ビッツカジノ)" },
+    { label: "ローンチ", value: "2024" },
+    { label: "運営会社", value: "WinSector N.V." },
+    { label: "ライセンス", value: "Anjouan Gaming License" },
+    { label: "VIPプログラム", value: "✅" },
+    { label: "対応言語", value: "日本語、英語など" },
+    { label: "対応通貨", value: "BTC, ETH, USDTなど10種類の仮想通貨" },
     {
-      label: "ローンチ",
-      value: "2023",
+      label: "ゲームタイプ",
+      value: "バカラ, ブラックジャック, クラップス, ゲームショー, ライブカジノ, ポーカー, ルーレット, スロット, スポーツベット",
     },
     {
-      label: "評価点",
-      value: "3.4 / 5",
+      label: "ゲームプロバイダー",
+      value: (
+        <span>
+          <Link href="https://casinotsu.com/providers/bgaming">BGAMING</Link>, <Link href="https://casinotsu.com/providers/betsoft">BetSoft</Link>, <Link href="https://casinotsu.com/providers/big-time-gaming">Big Time Gaming</Link>, <Link href="https://casinotsu.com/providers/blueprint-gaming">Blueprint Gaming</Link>, <Link href="https://casinotsu.com/providers/booming-games">Booming Games</Link>, <Link href="https://casinotsu.com/providers/endorphina">Endorphina</Link>, <Link href="https://casinotsu.com/providers/fantasma-games">Fantasma</Link>, <Link href="https://casinotsu.com/providers/habanero">Habanero</Link>, <Link href="https://casinotsu.com/providers/hacksaw-gaming">Hacksaw Gaming</Link>, Iron Dog Studio, <Link href="https://casinotsu.com/providers/netent">NetEnt</Link>, <Link href="https://casinotsu.com/providers/nolimit-city">Nolimit City</Link>, <Link href="https://casinotsu.com/providers/octoplay">Octoplay</Link>, <Link href="https://casinotsu.com/providers/pg-soft">PG SOFT</Link>, <Link href="https://casinotsu.com/providers/playson">Playson</Link>, <Link href="https://casinotsu.com/providers/play-n-go">Play’n GO</Link>, <Link href="https://casinotsu.com/providers/pragmatic-play">Pragmatic Play</Link>, <Link href="https://casinotsu.com/providers/print-studios">Print Studios</Link>, <Link href="https://casinotsu.com/providers/push-gaming">Push Gaming</Link>, <Link href="https://casinotsu.com/providers/red-tiger">Red Tiger</Link>, <Link href="https://casinotsu.com/providers/relax-gaming">Relax</Link>, <Link href="https://casinotsu.com/providers/spinomenal">Spinomenal</Link>, <Link href="https://casinotsu.com/providers/thunderkick">Thunderkick</Link>, <Link href="https://casinotsu.com/providers/yggdrasil">Yggdrasil</Link>
+        </span>
+      ),
     },
-    {
-      label: "ウェルカムボーナス（要約）",
-      value:
-        "初回180%（最大20,000USDT）／総合で最大360%＋220,000USDT（賭け条件40倍、分離型）",
-    },
-    {
-      label: "対応通貨",
-      value: "USDT, ETH, TRX, USDC, BNB, BTC, LTC, MATIC, DAI 等（複数）",
-    },
-    {
-      label: "運営会社",
-      value: "BSGG Labs NV",
-    },
-    {
-      label: "ライセンス",
-      value: "Gaming Curaçao（キュラソー）",
-    },
-    {
-      label: "ゲーム数",
-      value: "約3,500〜4,700種類（案内）",
-    },
-    {
-      label: "プロバイダー数",
-      value: "60社以上（Pragmatic Play, Evolution, Playtech 等含む）",
-    },
-    {
-      label: "サポート",
-      value:
-        "メール：support@betswap.gg、24時間ライブチャット（日本語対応が案内されている）",
-    },
-    {
-      label: "独自トークン",
-      value: "BSGG トークン（プラットフォーム独自）",
-    },
+    { label: "最小入金額", value: "0.1 USDT相当" },
+    { label: "最小出金額", value: "5 USDT相当" },
+    { label: "電話サポート", value: "❌" },
+    { label: "メールサポート", value: "✅" },
+    { label: "Eメール", value: <Link href="mailto:support@bitzmail.io">support@bitzmail.io</Link> },
+    { label: "ライブチャット", value: "ライブチャットサポート (24時間日本語対応)" },
+    { label: "スカイプサポート", value: "❌" },
   ],
   intro: {
     paragraphs: [
-      "CasinoTsu では、カジノ体験の向上を目指し、情報の正確性を第一に考えております。これからご紹介する『ベットスワップ（Betswap）』についても、CasinoTsu による詳細なレビューをご覧ください。",
-      "ベットスワップは仮想通貨特化の新世代カジノで、個人間ベット（分散型）や多彩なカジノゲームを提供します。本レビューではライセンス・安全性・ボーナス・入出金・ゲーム・サポート・評判を網羅します。",
+      "2024年にオープンしたビッツカジノ（Bitz）は、仮想通貨に特化した次世代のオンラインカジノです。最大の魅力は、本人確認書類の提出がほぼ不要で、簡単な登録手続きだけで出金まで可能な高い匿名性にあります。",
+      "しかし、魅力はそれだけではありません。還元率98%以上を誇る独占ゲームや、複数回獲得できるユニークな入金不要ボーナスなど、プレイヤーを惹きつける要素が満載です。",
+      "CasinoTsuでは、この注目の最新クリプトカジノを、安全性、ボーナス、ゲームラインナップなど、あらゆる角度から徹底的にレビューします。",
     ],
     ctas: [
-      {
-        text: "今すぐプレイ！",
-        href: "https://go.japanesecasino.com/go/betswap:betswap?referrer_path=%2Freviews%2Fbetswap",
-      },
-      {
-        text: "詳細を見る（公式レビュー）",
-        href: "https://www.japanesecasino.com/reviews/betswap",
-      },
+      { text: "👉 ビッツカジノで今すぐプレイ！", href: "https://go.casinotsu.com/go/bitz" },
+      { text: "🔰 オンラインカジノのはじめ方", href: "https://casinotsu.com/guides" },
     ],
   },
   games: [
-    "スロット（新作・メガウェイズ・ボーナス購入等）",
-    "ライブカジノ（ライブルーレット、ライブバカラ、ライブブラックジャック、ゲームショー等）",
-    "クラッシュゲーム、ダイス、Plinko、ビデオポーカー、ビンゴ等のスペシャリティゲーム",
-    "分散型（個人間）スポーツベット：ユーザー間でオッズ設定やベットが可能",
-    "プロバイダー提供の多数タイトル（Pragmatic Play, Evolution, Playtech 等）",
+    "ビッツカジノは60社以上のプロバイダーと提携し、スロット、ライブカジノ、スポーツベットを含む約6,800種類の豊富なゲームを提供しています。",
+    "特筆すべきは『RTP98％』と名付けられた独占ゲームカテゴリーです。ここには還元率が98%以上に設定された勝ちやすいスロットが集められており、プレイヤーにとって大きなアドバンテージとなります。",
+    "スロットは6,400種類以上、ライブカジノは約400種類と、あらゆるプレイヤーの好みに応えるラインナップを誇ります。",
   ],
   features: [
-    "個人間でオッズ設定が可能な分散型スポーツベット（ベットエクスチェンジ風）",
-    "仮想通貨中心の入出金と独自トークン BSGG の導入",
-    "大規模なウェルカムとプロモーション（仮想通貨ベース）",
-    "多数プロバイダー導入でゲームの多様性が高い",
-    "モバイルブラウザに最適化された操作性（アプリは未案内）",
+    "ビッツカジノは、プレイヤーがゲームの公平性を自ら検証できる「プロバブリーフェア」システムを導入しています。これにより、従来のRNGとは異なり、暗号化アルゴリズムを用いて結果の透明性を確保しています。",
+    "Telegramボットとの連携により、サポートへの問い合わせやプロモーション情報の受け取りが手軽に行えます。",
+    "Androidユーザー向けには専用のモバイルアプリが提供されており、ブラウザ版と合わせて快適なモバイル体験が可能です。",
   ],
+  editorial: {
+    author: "Nanami",
+    profileHref: "/authors/nanami",
+    hook: "匿名性の高さとユニークなボーナスが光る、初心者から上級者まで楽しめるクリプトカジノです。",
+    theGoodStuff: "登録から出金まで本人確認書類が不要という手軽さと、プライバシーが保護される安心感は最大の魅力です。RTP98%の独占ゲームや賭け条件なしのキャッシュバックは、プレイヤーにとって非常に有利な条件と言えます。",
+    theHeadsUp: "新しいカジノであるため、サイトの日本語訳に不自然な部分が見られたり、ゲームカテゴリーの整理が不十分な点があります。今後の改善に期待したいところです。",
+    finalThought: "いくつかの改善点はありますが、ゲームの質、ボーナスの魅力、そして何より匿名性の高さを考慮すると、非常にポテンシャルの高いカジノです。特に仮想通貨ユーザーには、ぜひ試してみてほしいプラットフォームです。",
+  },
+  longform: {
+    kicker: "CasinoTsuレビュー",
+    title: "編集部による詳説",
+    paragraphs: [
+      "CasinoTsuのスタッフが実際にプレイしたところ、ビッツカジノはサイトの使いやすさ、ゲーム数、ボーナス内容のすべてにおいて高い満足度が得られる、バランスの取れたオンラインカジノであるとの印象を受けました。",
+      "最大の評価ポイントは、やはり登録から本人確認までの手続きの簡潔さです。メールアドレスとパスワードだけで始められ、出金時も書類提出が不要なため、ストレスフリーかつプライバシーが守られる点は、他のカジノにはない大きな利点です。",
+      "ゲーム面では、RTP98%の独占スロットカテゴリーが非常にユニークで魅力的です。高還元率のゲームがまとめられているため、効率的に勝利を目指したいプレイヤーには最適でしょう。また、複数回獲得できる入金不要ボーナスや、賭け条件のないキャッシュバックなど、プロモーションも独創的でプレイヤーを楽しませる工夫が凝らされています。",
+      "まだ新しいカジノのため、サイトの翻訳に若干の不自然さが見られるなど、改善の余地はありますが、ゲームプレイ自体には何の問題もありません。初心者から経験豊富なプレイヤーまで、幅広い層におすすめできる完成度の高いクリプトカジノです。",
+    ],
+  },
   security: [
-    "ライセンス：Gaming Curaçao（キュラソー）を保有と案内",
-    "運営：BSGG Labs NV（キュラソー拠点）",
-    "ゲームの公平性：RNG採用、Provably Fair を導入するゲームあり",
-    "通信・データ保護：SSL暗号化等の実装が案内されている",
+    "信頼性の高い「Anjouan Gaming License」を取得して合法的に運営",
+    "ブロックチェーン技術を活用し、全トランザクションの透明性と安全性を確保",
+    "資産保護のため、マルチシグウォレットやコールドストレージを採用",
+    "SSL暗号化と強力なファイアウォールで個人情報と取引データを保護",
+    "アカウント保護を強化する二段階認証（2FA）の設定が可能",
+    "プレイヤーが公平性を検証できる「プロバブリーフェア」システムを導入",
+    "デバイスフィンガープリンティング防止など、高度な匿名性保護機能を搭載",
   ],
   responsiblePlay: [
-    "公式サイトに責任あるギャンブルの案内あり（自己排除等の仕組みを用意）",
-    "自己排除や入金制限はサポート経由での設定が可能（報告により機能にばらつきの指摘あり）",
-    "CasinoTsu は自己責任での利用と、プレイ前の制限設定を推奨",
+    "自己排除: サポートへの連絡により、アカウントを一時的または無期限に凍結可能",
+    "入金制限: サポートへの連絡により、入金額の上限を設定可能",
+    "セッション時間制限: プレイ時間の上限を設定",
+    "損失制限: 許容できる損失額の上限を設定",
+    "自己評価ツール: 自身のギャンブル行動を評価するためのツールを提供",
   ],
-  complaintStats: [
-    "Trustpilot 等の評価は低〜中程度の意見あり（例：Trustpilot 2.4/5 の記載あり）",
-    "Casino.Guru 等では比較的高い安全指数を示す評価もあり（例：8.1/10）",
-    "オンライン上の苦情：出金失敗・遅延、アカウント凍結、追加認証や追加デポジット要求の報告が多数",
-  ],
+  complaintStats: [],
   awards: [],
-  restrictedCountries: [],
+  restrictedCountries: [
+    "ビッツカジノはグローバルにアクセス可能ですが、各国の法律によりオンラインギャンブルが禁止されている地域からの利用は制限される可能性があります。VPNの利用は利用規約を確認の上、自己責任で行う必要があります。",
+  ],
   userConcerns: [
-    "出金失敗、出金遅延、勝利金の保留、アカウント凍結など深刻な出金トラブルの報告が多数ある",
-    "出金時に追加認証や追加デポジットを要求されるケースが報告されている",
-    "AskGamblers によるブラックリスト掲載の報告（非倫理的なアフィリエイト取引の指摘）",
-    "サポート対応や応答時間にばらつきがあるため、問題解決に時間を要する可能性がある",
+    "No KYCカジノの性質上、マネーロンダリングのリスクや消費者保護が限定的になる可能性",
+    "仮想通貨ギャンブルに関する法的なグレーゾーンや税務上の責任はプレイヤー自身にある",
+    "サイトの日本語訳が一部不自然である点",
   ],
   summary: [
-    "Betswap は革新的な個人間ベット機能と仮想通貨中心のプラットフォーム、そして大量のカジノゲームを揃えた次世代型カジノです。独自トークン BSGG を保有し、資産運用的な側面も持つ点がユニークです。",
-    "一方で、ユーザーからの出金トラブル報告（遅延・失敗・追加認証要求）や、AskGamblers の指摘など信頼性に関する懸念も散見されます。利用検討時は少額から試し、利用規約・出金ルール・KYC要件を事前に確認することを推奨します。",
-    "総合的に見ると可能性の高い新興プラットフォームですが、リスク管理を徹底してから利用するのが賢明です。",
+    "登録から出金まで本人確認書類が原則不要で、高い匿名性が魅力のクリプトカジノ。",
+    "RTP98%の独占ゲームや、複数回もらえる入金不要ボーナスなど、ユニークでプレイヤーに有利なプロモーションが豊富。",
+    "サイトの使いやすさ、ゲーム数、サポート体制のバランスが良く、初心者から上級者まで幅広く楽しめる。",
+    "まだ新しいカジノだが、完成度が高く、今後の成長が期待される。",
   ],
   extraLinks: [
-    {
-      text: "Betswap 公式（CasinoTsu経由）",
-      href: "https://go.japanesecasino.com/go/betswap:betswap?referrer_path=%2Freviews%2Fbetswap",
-    },
-    {
-      text: "Betswap レビュー（詳細）",
-      href: "https://www.japanesecasino.com/reviews/betswap",
-    },
-    {
-      text: "Gaming Curaçao（ライセンス解説）",
-      href: "/info/casino-license",
-    },
-    {
-      text: "仮想通貨カジノ ガイド",
-      href: "/crypto",
-    },
-    {
-      text: "Cookies Policy",
-      href: "/about/cookie-policy",
-    },
+    { text: "✅ オンラインカジノの本人確認（KYC）について", href: "https://casinotsu.com/guides/document-verification" },
+    { text: "💰 仮想通貨が使えるおすすめカジノ", href: "https://casinotsu.com/crypto" },
   ],
   faq: [
     {
-      question: "BSGGとは何ですか？",
-      answer:
-        "BSGGトークンはベットスワップが管理する独自の仮想通貨トークンです。プラットフォーム内の報酬や特典、資産運用的な用途で利用されます。",
+      question: "ビッツカジノでは、日本円やドルなどの法定通貨を利用できますか？",
+      answer: "いいえ、現時点では日本円およびドルの取り扱いはありません。決済は基本的に仮想通貨のみとなります。",
     },
     {
-      question: "ベットスワップのウェルカムボーナスの受け取り方法は？",
-      answer:
-        "ジャパカジ経由で登録後、初回入金を行うと初回180％ボーナス（最大20,000USDT）が付与され、2回目以降の入金で残りのボーナスが進呈されます。賭け条件は分離型で40倍など厳しめの条件があるため、規約を必ず確認してください。",
+      question: "ビッツカジノは、本人確認手続き（KYC）が必要ですか？",
+      answer: "原則として書類提出は不要ですが、アカウントの「個人情報」ページで名前、電話番号、メールアドレスの登録・認証が必要です。",
     },
     {
-      question: "出金に関する注意点はありますか？",
-      answer:
-        "複数のユーザー報告で出金失敗・遅延・追加認証や追加デポジットの要求などが報告されています。出金前にKYC要件や手数料・対応通貨を確認し、まずは少額で試すことを推奨します。",
-    },
-    {
-      question:
-        "ベットスワップのカスタマーサポートは日本語で対応していますか？",
-      answer:
-        "公式案内では24時間ライブチャット・メールでのサポートがあり、日本語対応されるケースがあるとされています。ただし応答品質や言語対応は状況によって異なるため、実際のやり取りで確認してください。",
+      question: "ビッツカジノでおすすめのゲームは何ですか？",
+      answer: "独占ゲームカテゴリー『RTP98％』内にある高還元率スロットが特におすすめです。勝ちやすさが魅力なので、ぜひお試しください。",
     },
   ],
   cta: {
-    text: "Betswap を試してみる",
-    href: "https://go.japanesecasino.com/go/betswap:betswap?referrer_path=%2Freviews%2Fbetswap",
+    text: "ビッツカジノ公式サイトで最新情報をチェック！",
+    href: "https://go.casinotsu.com/go/bitz",
   },
-  textBlocks: [],
 };

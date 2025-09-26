@@ -24,3 +24,22 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+/* Add this to your main CSS file */
+
+@media (min-width: 768px) {
+  .has-speech-bubble-tail::before {
+    content: '';
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 10px 15px 10px 0;
+    border-color: transparent #ffffff transparent transparent;
+    left: -15px;
+    
+    /* This perfectly centers the tail vertically */
+    top: 50%;
+    transform: translateY(-50%);
+  }
+}

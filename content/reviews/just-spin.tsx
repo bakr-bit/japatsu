@@ -1,340 +1,271 @@
 import Link from "next/link";
 import type { ReviewPageContent } from "@/components/templates/ReviewDetailTemplate";
 
-export const reviewJustSpin: ReviewPageContent = {
+export const reviewJustspin: ReviewPageContent = {
   hero: {
     title: "Justspin（ジャストスピン）レビュー",
-    subheading:
-      "シンプルで使いやすいスロット特化型カジノ — 豊富な決済とプロバイダーを搭載",
-    description:
-      "Justspin は見やすいデザインと充実したゲーム検索機能が魅力のオンラインカジノ。登録でフリースピンを受け取れるほか、4回までのウェルカム入金ボーナスや定期プロモを提供します。CasinoTsu がボーナス、入出金、サポート、セキュリティを含めて詳しく解説します。",
+    subheading: "最大$500ボーナス ＋ 合計600回フリースピン",
+    description: "シンプルなデザインと優れた操作性が魅力のJustspinカジノ。スロット好きに嬉しい豊富なゲームと決済方法をCasinoTsuが徹底レビューします。",
     score: 3.9,
     scoreMax: 5,
-    scoreBreakdown: [],
+    scoreBreakdown: [
+      {
+        label: "人気指数",
+        percent: 75,
+        note: "21.comの姉妹サイトだが知名度はまだ低い。サイトの日本語に一部不自然な点があり、厳しい条件が人気に影響している可能性も。",
+      },
+      {
+        label: "規約",
+        percent: 74,
+        note: "ウェルカムボーナスは4回利用可能だが、賭け条件50倍、最大ベット$3とかなり厳しめ。ボーナスコードの入力が毎回必要。",
+      },
+      {
+        label: "操作性",
+        percent: 81,
+        note: "サイトは非常に使いやすく、特にゲーム検索機能が優秀。基本的な決済方法は網羅されており、利便性が高い。",
+      },
+      {
+        label: "サポート",
+        percent: 77,
+        note: "日本語サポートの対応時間が不規則な点が課題だが、対応自体は非常に丁寧で好感が持てる。",
+      },
+    ],
     highlights: [
-      "登録での大量フリースピン（案内例：100回）や多段階ウェルカムボーナスが魅力",
-      "操作性・検索機能が優秀で目的のゲームが見つけやすい",
-      "主要プロバイダー（Play'n GO、Pragmatic Play、NetEnt等）を多数導入",
-      "仮想通貨含む複数の決済方法に対応",
-      "比較的迅速な出金処理を謳っている",
+      "登録するだけで100回の入金不要フリースピン",
+      "初回から4回目まで続くウェルカム入金ボーナス",
+      "洗練されたデザインと優れたゲーム検索機能",
+      "豊富なゲームプロバイダーとスロットラインナップ",
     ],
     watchouts: [
-      "ボーナスの賭け条件が厳しめ（案内例：50x）およびベット上限（$3）あり",
-      "ボーナスでの禁止ゲームが多い（テーブルゲーム・ジャックポット等）",
-      "日本語表示に不自然な箇所があり、サポートの対応時間が不規則な場合がある",
-      "一部で出金遅延やアカウント認証の苦情が報告されている",
+      "ボーナスの賭け条件が50倍と厳しい",
+      "日本語サポートの対応時間が不規則",
+      "入出金時に手数料が発生する",
+      "一部のプレイヤーから出金遅延の報告あり",
     ],
   },
   payments: {
     featured: [
       {
-        name: "クレジットカード（VISA / MasterCard / AMEX）",
-        icon: "",
-        href: "",
-        badge: "",
-        note: "カード入金に対応。入金反映は数時間の案内がある。AMEXやDiscoverの対応例あり。",
-      },
-      {
-        name: "電子ウォレット（iWallet / Payz / MuchBetter / Vega Wallet）",
-        icon: "",
-        href: "",
-        badge: "",
-        note: "即時〜数時間での入出金が可能。Payzでは入金手数料が発生する場合あり。",
-      },
-      {
-        name: "仮想通貨（Bitcoin / Ethereum / USDT 等）",
-        icon: "",
-        href: "",
-        badge: "",
-        note: "仮想通貨入金は低額から対応。入金は即時〜24時間、出金は通常24時間以内を目安に処理されることが多い。",
-      },
-    ],
-    deposits: [
-      {
         name: "VISA",
-        icon: "",
-        href: "",
-      },
-      {
-        name: "MasterCard",
-        icon: "",
-        href: "",
-      },
-      {
-        name: "AMEX / Discover",
-        icon: "",
-        href: "",
-      },
-      {
-        name: "Binance Pay",
-        icon: "",
-        href: "",
+        icon: "/assets/payments/visa.svg",
+        href: "https://www.casino.su/payment/visa",
+        badge: "クレジットカード",
+        note: "主要なカードブランドに対応",
       },
       {
         name: "Payz",
-        icon: "",
-        href: "",
+        icon: "/assets/payments/payz.svg",
+        href: "https://www.casino.su/payment/payz",
+        badge: "Eウォレット",
+        note: "迅速な取引で人気の決済手段",
       },
       {
-        name: "iWallet",
-        icon: "",
-        href: "",
-      },
-      {
-        name: "MuchBetter",
-        icon: "",
-        href: "",
-      },
-      {
-        name: "Vega Wallet",
-        icon: "",
-        href: "",
-      },
-      {
-        name: "銀行振込",
-        icon: "",
-        href: "",
-      },
-      {
-        name: "仮想通貨（BTC / ETH / USDT / LTC / DOGE / XRP 等）",
-        icon: "",
-        href: "",
-      },
-    ],
-    withdrawals: [
-      {
-        name: "電子ウォレット（Payz / iWallet / MuchBetter 等）",
-        icon: "",
-        href: "",
+        name: "Venus Point",
+        icon: "/assets/payments/venus-point.svg",
+        href: "https://www.casino.su/payment/venuspoint",
+        badge: "ポイント制",
+        note: "ポイントでの管理が便利なウォレット",
       },
       {
         name: "銀行送金",
-        icon: "",
-        href: "",
-      },
-      {
-        name: "仮想通貨（BTC / USDT / ETH 等）",
-        icon: "",
-        href: "",
+        icon: "/assets/payments/bank-transfer.svg",
+        badge: "出金のみ",
+        note: "カード入金時の出金方法として利用可能",
       },
     ],
+    deposits: [
+      { name: "VISA", icon: "/assets/payments/visa.svg" },
+      { name: "MasterCard", icon: "/assets/payments/mastercard.svg" },
+      { name: "iWallet", icon: "/assets/payments/iwallet.svg", href: "https://www.casino.su/payment/iwallet" },
+      { name: "Payz", icon: "/assets/payments/payz.svg", href: "https://www.casino.su/payment/payz" },
+      { name: "Venus Point", icon: "/assets/payments/venus-point.svg", href: "https://www.casino.su/payment/venuspoint" },
+    ],
+    withdrawals: [
+      { name: "iWallet", icon: "/assets/payments/iwallet.svg", href: "https://www.casino.su/payment/iwallet" },
+      { name: "Payz", icon: "/assets/payments/payz.svg", href: "https://www.casino.su/payment/payz" },
+      { name: "Venus Point", icon: "/assets/payments/venus-point.svg", href: "https://www.casino.su/payment/venuspoint" },
+      { name: "海外銀行送金", icon: "/assets/payments/bank-transfer.svg" },
+    ],
     notes: [
-      "最低入金は€10 / $10 程度の案内。最低出金は€50 / $50。",
-      "出金上限：日/週/月の上限があり（例：一日€5,000、月$150,000 の案内）、詳細はアカウントで要確認。",
-      "出金処理には保留期間（0–72時間）を設ける場合がある。通常の出金完了は数時間〜数営業日が目安。",
-      "クレジットカードでの入金は出金に利用できない場合があり、カード出金は制限があることに注意。",
-      "入金した資金はターンオーバー（例：入金額の3倍）を満たす必要がある場合がある。",
+      "最低入金額は$10、最低出金額は$50です。",
+      "Payzでの入金には$1、全ての出金には一律$3の手数料がかかります。",
+      "出金処理時間は保留期間（0-72時間）を含め、合計で5-7営業日かかる場合がありますが、公式サイトでは数時間での完了を謳っています。",
     ],
   },
   bonuses: {
     overview:
-      "Justspin は登録フリースピン（例：100回）や、初回〜4回目までのウェルカム入金ボーナス、定期的なウィークリープロモやスポットオファーを用意しています。ボーナスの賭け条件は高めに設定されていることが多く、有効期限や対象ゲーム、最大出金上限に注意が必要です。",
+      "Justspinでは、登録するだけでもらえる100回のフリースピンから始まり、初回から4回目までの入金で最大$500のボーナスと500回のフリースピンがもらえる豪華なウェルカムパッケージが用意されています。ただし、賭け条件は50倍と厳しめです。",
     noDeposit:
-      "登録で受け取れる入金不要フリースピン（例：100回）は提供されている。地域や時期により条件が変わるため受取前に確認を推奨。",
+      "新規登録を完了するだけで、人気スロット『Fire Joker』で使える100回のフリースピンが自動的に付与されます。入金不要でカジノを試す絶好の機会です。",
     extraSpins: {
       summary:
-        "初回フリースピン（大量）やウィークリープロモでの追加スピンがある。フリースピン勝利金には高めの賭け条件（例：50x）が適用されることが多い。",
+        "初回入金ボーナスには、人気スロット『Super Joker』で使える500回のフリースピンが含まれています。このスピンは50日間にわたって毎日10回ずつ付与される長期的な特典です。",
       schedule: [
-        "登録時のフリースピン（例：100回）を段階的に付与するケースあり（例：毎日10回×10日等）",
+        "初回入金時に500回分が付与権利として有効化",
+        "毎日10スピンずつ、50日間連続でアカウントに追加",
+        "各日のフリースピンは24時間以内に使用しないと失効",
       ],
-      warning:
-        "フリースピン勝利金の賭け条件は短期間しかないことがある（例：1日等）。有効期限と最大出金額を事前確認してください。",
+      warning: "フリースピンから得た勝利金には50倍の賭け条件が適用され、有効期限は1日と非常に短いため、毎日消化する必要があります。",
     },
     welcomeRows: [
-      {
-        depositNumber: "初回入金",
-        percent: "100%",
-        cap: "$100（案内例）",
-        code: "BONUS1",
-      },
-      {
-        depositNumber: "2回目入金",
-        percent: "50%",
-        cap: "$150",
-        code: "BONUS2",
-      },
-      {
-        depositNumber: "3回目入金",
-        percent: "50%",
-        cap: "$150",
-        code: "BONUS3",
-      },
-      {
-        depositNumber: "4回目入金",
-        percent: "100%",
-        cap: "$100",
-        code: "BONUS4",
-      },
+      { depositNumber: "初回", percent: "100%", cap: "$100", code: "BONUS1" },
+      { depositNumber: "2回目", percent: "50%", cap: "$150", code: "BONUS2" },
+      { depositNumber: "3回目", percent: "50%", cap: "$150", code: "BONUS3" },
+      { depositNumber: "4回目", percent: "100%", cap: "$100", code: "BONUS4" },
     ],
     conditions: [
-      "多くのボーナスで賭け条件は50倍（案内例）と高め。ボーナスやフリースピンの勝利金は対象ゲームでのみ有効。",
-      "ベット上限：ボーナス消化中の最大ベット額は $3 に制限される場合がある。",
-      "禁止ゲーム：テーブルゲーム、ライブゲーム、ジャックポットや一部スロットはボーナス利用不可の場合がある。",
-      "有効期限：フリースピンは短い有効期限（例：1日）、ボーナスマネーは21日等、プロモによって異なる。",
+      "ボーナスマネーおよびフリースピンの勝利金には50倍の賭け条件が適用されます。",
+      "ボーナス利用時の最大ベット額は$3です。",
+      "ボーナスマネーの有効期限は21日間、フリースピン勝利金の有効期限は1日です。",
+      "各ボーナスを受け取るには、最低$10の入金と、対応するボーナスコードの入力が必要です。",
     ],
-    prohibitedGames: [],
+    prohibitedGames: [
+      "1429 Uncharted Seas",
+      "Peek a boo",
+      "Tower Quest",
+      "すべてのテーブルゲーム",
+      "ライブカジノゲーム",
+      "ビデオポーカー",
+      "すべてのジャックポットゲーム",
+    ],
   },
   offers: [
     {
-      title: "登録フリースピン（入金不要）",
-      description:
-        "新規登録でFire Jokerなどのスロット対象のフリースピンを付与（例：100回、地域・時期により変動）。",
-      highlight: "登録だけで試せるフリースピン（条件あり）",
+      title: "ウィークリーボーナス",
+      description: "「SPOT1」「SPOT2」「SPOT3」などのボーナスコードを使用して、週替わりでフリースピンを獲得できるプロモーションが開催されます。",
+      highlight: "毎週新しいフリースピンのチャンス",
     },
     {
-      title: "マルチステップ ウェルカムパッケージ",
-      description:
-        "初回〜4回目の入金で受け取れる複数段階のウェルカムボーナス（ボーナス＋フリースピン）。コード入力が必要。",
-      highlight: "4回で受け取れる大型ウェルカム",
+      title: "サンデーボーナス",
+      description: "ボーナスコード「SUNBOOST」を利用して日曜に入金すると、50%のマッチボーナスを受け取ることができます。",
+      highlight: "週末を締めくくるお得なリロードボーナス",
     },
     {
-      title: "ウィークリー＆サンデーオファー",
-      description:
-        "曜日限定のフリースピンや入金マッチ等。SPOTコードで参加できる短期オファーが頻繁に更新される。",
-      highlight: "曜日ごとの限定オファー",
+      title: "メール限定オファー",
+      description: "毎日プレイを続けると、特別なプロモーションの案内がメールで届くことがあります。メール受信設定をONにしておくのがおすすめです。",
     },
   ],
   facts: [
+    { label: "名称", value: "Justspin (ジャストスピン)" },
+    { label: "ローンチ", value: "2019年" },
+    { label: "運営会社", value: "Betpoint Group Ltd. Casinos" },
+    { label: "ライセンス", value: "Malta Gaming Authority (MGA)" },
+    { label: "VIPプログラム", value: "❌" },
     {
-      label: "評価点",
-      value: "3.9 / 5",
+      label: "対応言語",
+      value: "日本語, 英語, フィンランド語, ノルウェー語, ドイツ語, フランス語, ポーランド語",
     },
+    { label: "対応通貨", value: "EUR, USD, AUD, CAD, NOK" },
     {
-      label: "登録ボーナス（例）",
-      value: "登録で100フリースピン（対象・条件あり）",
-    },
-    {
-      label: "ウェルカムボーナス（要約）",
-      value: "初回〜4回目の入金で受け取れる複合パッケージ（各回$10〜）",
-    },
-    {
-      label: "フリースピン（案内）",
-      value: "最大600回（案内例、賭け条件50xのケースあり）",
-    },
-    {
-      label: "賭け条件（案内例）",
+      label: "ゲームタイプ",
       value:
-        "ボーナス・フリースピン勝利金 50x（例）。ボーナス利用中の最大ベット $3。",
+        "バカラ, ブラックジャック, クレイプス, ゲームショー, ライブカジノ, ポーカー, ルーレット, スロット",
     },
     {
-      label: "ライセンス",
-      value: "Malta Gaming Authority（MGA）表記",
+      label: "ゲームプロバイダー",
+      value: (
+        <span>
+          <Link href="https://www.casino.su/providers/pragmatic-play">Pragmatic Play</Link>, <Link href="https://www.casino.su/providers/play-n-go">Play’n GO</Link>, <Link href="https://www.casino.su/providers/microgaming">Microgaming</Link>, <Link href="https://www.casino.su/providers/betsoft">BetSoft</Link>, <Link href="https://www.casino.su/providers/elk-studios">Elk Studios</Link>, <Link href="https://www.casino.su/providers/quickspin">Quickspin</Link>, <Link href="https://www.casino.su/providers/red-tiger">Red Tiger</Link>, <Link href="https://www.casino.su/providers/relax-gaming">Relax</Link>, <Link href="https://www.casino.su/providers/thunderkick">Thunderkick</Link>, iSoftBet, Gamomat, Just For The Win, 1x2Games, Lightning Box, Booming Games, Light & Wonder, Nyx Interactive, Foxium, Big Time Gaming, Iron Dog Studios, Nolimit City, Northern Lights Gaming, Rabcat, Pocket Games Soft, Kalamba Games, Playson, ReelPlay, Sthlm Gaming, Hacksaw Gaming, Leap, Fantasma Games, Felt Gaming, Snowborn Games, Yggdrasil Gaming, 4ThePlayer, Games Lab, Boomerang, Crazy Tooth Studio, 2 By 2 Gaming, Golden Hero Games, Golden Rock Studios
+        </span>
+      ),
     },
-    {
-      label: "運営会社",
-      value: "Betpoint Group Ltd. Casinos（案内）",
-    },
-    {
-      label: "ローンチ",
-      value: "2019",
-    },
-    {
-      label: "ゲームプロバイダー数",
-      value: "50社以上（BetSoft, Play'n GO, Pragmatic, NetEnt 等）",
-    },
-    {
-      label: "対応通貨／言語",
-      value:
-        "EUR, USD, AUD, CAD等。英語ほか多言語対応（日本語ありだが一部不自然）",
-    },
+    { label: "最小入金額", value: "$10" },
+    { label: "最小出金額", value: "$50" },
+    { label: "電話サポート", value: "❌" },
+    { label: "メールサポート", value: "✅" },
+    { label: "Eメール", value: <Link href="mailto:support@justspin.com">support@justspin.com</Link> },
+    { label: "ライブチャット", value: "ライブチャットサポート (24時間365日)" },
+    { label: "スカイプサポート", value: "❌" },
   ],
   intro: {
     paragraphs: [
-      "CasinoTsu はオンラインカジノのレビューを専門とするアフィリエイトサイトです。Justspin（ジャストスピン）はシンプルで見やすいプラットフォームと豊富なスロットラインナップが特徴のカジノです。",
-      "本レビューでは登録フリースピンやウェルカムボーナス、入出金方法、サポート体制、セキュリティ、責任あるギャンブルの取り組みまで、CasinoTsu が確認した情報をまとめています。",
+      "Justspin（ジャストスピン）は、2019年に設立されたオンラインカジノで、人気カジノ「21.com」の姉妹サイトです。",
+      "その名の通り、特にスロットプレイヤーを魅了する豊富なフリースピンボーナスが特徴です。登録するだけで100回、初回入金でさらに500回と、合計600回のフリースピンが楽しめます。",
+      "洗練されたシンプルなデザインと、直感的に操作できる優れたサイト構成で、初心者からベテランまで幅広いプレイヤーにおすすめです。このレビューでは、Justspinの長所と注意点を詳しく見ていきましょう。",
     ],
     ctas: [
-      {
-        text: "今すぐボーナスをゲット！",
-        href: "https://go.casino.su/justspin:just-spin?referrer_path=%2Freviews%2Fjust-spin",
-      },
-      {
-        text: "詳細レビューを見る",
-        href: "https://www.casino.su/reviews/just-spin#",
-      },
+      { text: "👉 ジャストスピンで今すぐプレイ！", href: "https://go.casino.su/justspin:just-spin?referrer_path=%2Freviews%2Fjust-spin" },
+      { text: "🔰 オンラインカジノのはじめ方ガイド", href: "https://www.casino.su/guides" },
     ],
   },
   games: [
-    "スロット（多数の人気スロット、メガウェイズ、ボーナス購入等）",
-    "ライブカジノ（Evolution, Pragmatic Play 等）",
-    "テーブルゲーム（ブラックジャック、ルーレット、バカラ等）",
-    "ゲームショー、クラッシュ、ダイス、ビデオポーカー、ジャックポット",
-    "スポーツベット（提供がある場合）",
+    "Justspinはスロットに特化したカジノという印象ですが、実際にはライブカジノも充実しています。日本のプレイヤーに人気のGolden HeroやPlay’n GO、NETENTといったプロバイダーのスロットはほぼ全て網羅されており、ゲーム検索機能も優秀なため、お目当てのゲームをすぐに見つけることができます。",
+    "ライブカジノでは、業界の王道であるEvolution Gamingに加えて、近年評価を高めているPragmatic Playのテーブルも導入しています。Pragmatic Playのライブカジノはディーラーの質が高いと評判で、Evolutionとは一味違った体験を楽しみたいプレイヤーにおすすめです。",
   ],
   features: [
-    "直感的で使いやすいUI・優れたゲーム検索フィルター",
-    "登録フリースピン＋4段階ウェルカムが選べる豊富なプロモ",
-    "仮想通貨を含む複数の決済手段に対応",
-    "モバイル即時プレイに対応（InstantPlay）",
-    "多言語サポート（日本語ありだが一部不自然）",
+    "Justspinのサイトは、シンプルさと機能性を両立させています。特にゲーム検索フィルターはカテゴリ分けが細かく、プロバイダー別やテーマ別で簡単にゲームを探すことができ、ストレスなくプレイに集中できます。",
+    "21.comの姉妹サイトであるため、運営基盤がしっかりしており、サポートの品質も丁寧であると評価されています。ただし、VIPプログラムは提供されていません。",
   ],
+  editorial: {
+    author: "CasinoTsu編集部",
+    profileHref: "/authors",
+    hook: "豊富なフリースピンと優れた操作性が光る一方、厳しいボーナス条件が悩ましいカジノです。",
+    theGoodStuff: "合計600回という圧倒的な数のフリースピンは、スロット好きにはたまらない魅力です。サイトのデザインも洗練されており、特にゲーム検索機能の使いやすさは業界でもトップクラス。ゲームラインナップも豊富で、プレイヤーを飽きさせません。",
+    theHeadsUp: "最大の注意点は、50倍という厳しい賭け条件です。特にフリースピン勝利金の有効期限が1日しかないため、条件クリアは非常に困難です。また、入出金手数料や不規則な日本語サポート時間もマイナスポイントと言えるでしょう。",
+    finalThought: "ボーナスの条件面を割り切って、豊富なゲームと優れた操作性を楽しみたいプレイヤー向けのサイトです。まずは入金不要の100フリースピンでサイトの雰囲気を試し、自分に合うかどうかを判断するのが良いでしょう。",
+  },
+  longform: {
+    kicker: "CasinoTsuレビュー",
+    title: "編集部による詳説",
+    paragraphs: [
+      "Justspinは、その名の通り「スピン」に焦点を当てたプロモーションでプレイヤーを惹きつけるオンラインカジノです。21.comの姉妹サイトとして2019年に登場し、洗練されたデザインと優れたユーザーインターフェースを受け継いでいます。サイトは直感的に操作でき、特にゲーム検索機能の質の高さは特筆すべき点です。膨大なゲームライブラリの中から、プロバイダーやテーマで絞り込み、好みのゲームへ素早くアクセスできます。",
+      "最大の魅力は、登録するだけで100回、初回入金でさらに500回、合計600回ものフリースピンが提供されるウェルカムパッケージです。これはスロットファンにとって非常に魅力的ですが、その裏には厳しい条件が隠されています。50倍という高い賭け条件に加え、フリースピン勝利金の有効期限がわずか1日というのは、条件達成を非常に困難にしています。ボーナスマネーの有効期限も21日と、余裕があるとは言えません。",
+      "決済方法は、クレジットカードや主要なEウォレットをカバーしており、日本人プレイヤーにとっても不便はありません。出金処理速度は数時間で完了することもあると謳われていますが、一部で遅延の報告もあるため、注意が必要です。また、Payzでの入金や全ての出金に手数料がかかる点は、現代のカジノとしては少し残念なポイントです。",
+      "カスタマーサポートは、対応自体は丁寧で評価が高いものの、日本語対応スタッフの稼働時間が不規則であるため、緊急時にすぐに解決できない可能性があります。この点は今後の改善が期待されます。",
+      "総じて、Justspinは強力な長所と明確な短所を併せ持つカジノです。優れた操作性と豊富なゲームライブラリ、そして魅力的なフリースピンオファーを享受できる一方で、厳しいボーナス条件と手数料、不安定なサポート体制というハードルが存在します。ボーナスを純粋な「お試し」と割り切り、リアルマネーでのプレイを中心に考えているユーザーであれば、そのポテンシャルを十分に楽しめるでしょう。",
+    ],
+  },
   security: [
-    "ライセンス：Malta Gaming Authority（表記）",
-    "運営：Betpoint Group Ltd.（案内）",
-    "通信保護：SSL 暗号化を採用",
-    "ゲームの公平性：RNG 採用・プロバイダーによる監査",
-    "KYC（本人確認）：出金時に書類提出が必要となる場合がある",
+    "全ての通信は128ビットSSL暗号化技術によって保護されています。",
+    "ゲームの公平性は、乱数生成器（RNG）によって保証されています。",
+    "不正利用を防止するため、独立したKYC機関による厳格な本人確認プロセスを実施しています。",
+    "信頼性の高いマルタゲーミングオーソリティ（MGA）のライセンスを取得して運営されています。",
   ],
   responsiblePlay: [
-    "入金制限、賭け制限、損失制限、セッション制限、自己排除、クールダウン、リアリティチェック、自己評価テストなどのツールを提供",
-    "CasinoTsu は責任あるプレイの利用を推奨",
+    "入金制限ツール: 1日の入金限度額を設定可能。",
+    "賭け制限ツール: 1日の賭け金の上限を設定可能。",
+    "損失制限ツール: 1日の損失額の上限を設定可能。",
+    "時間/セッション制限ツール: プレイ時間を制限可能。",
+    "自己排除ツール: アカウントへのアクセスを一定期間または無期限に制限。",
+    "クールオフ/タイムアウトツール: 短期間の休憩を設定可能。",
+    "リアリティチェックツール: プレイ中に定期的な通知を表示。",
+    "自己評価テスト: 自身のギャンブル習慣を評価。",
+    "出金ロック機能: 出金操作をロック可能。",
   ],
-  complaintStats: [
-    "一部で出金遅延やKYCプロセスに関する苦情が報告されている",
-    "Trustpilot 等でユーザーレビューがばらつくため、口コミは慎重に参照することを推奨",
-  ],
+  complaintStats: [],
   awards: [],
   restrictedCountries: [],
   userConcerns: [
-    "ボーナス賭け条件が高い（例：50x）ため出金に苦戦する可能性",
-    "ボーナス利用時の最大ベット制限（$3）がある",
-    "サポートの対応時間や品質に個人差がある",
-    "出金・認証の遅延報告が散見される",
+    "出金処理の遅延に関する一部の報告",
+    "一部の責任あるギャンブルツールに不具合が発生する可能性",
+    "プレイヤーによっては不要と感じるSMSマーケティングの受信",
+    "日本語サポートの対応時間が不規則である点",
   ],
   summary: [
-    "Justspin はスロット中心のプレイヤーに向く、使いやすいインターフェースと優れた検索機能を持つカジノです。登録でフリースピンが得られ、4段階のウェルカムオファーで継続的にボーナスを受け取れます。",
-    "一方でボーナス条件はやや厳しめ（賭け条件50x等）で、禁止ゲームや最大ベット制限がある点に注意が必要です。出金やKYCのプロセスで遅延が発生する報告もあり、少額で試してから本格利用することを推奨します。",
-    "総じて、操作性とゲーム幅は高評価。ボーナス利用に伴う条件面を理解したうえで試す価値のあるカジノです。",
+    "21.comの姉妹サイトで、洗練されたデザインと優れた操作性が特徴です。",
+    "登録だけで100回、初回入金で500回のフリースピンがもらえるボーナスは非常に魅力的です。",
+    "一方で、賭け条件が50倍と厳しく、入出金に手数料がかかる点がデメリットです。",
+    "ボーナス条件を理解した上で、豊富なゲームと使いやすいプラットフォームを楽しみたいプレイヤーにおすすめです。",
   ],
   extraLinks: [
-    {
-      text: "Justspin 公式（ボーナスページ）",
-      href: "https://go.casino.su/justspin:just-spin?referrer_path=%2Freviews%2Fjust-spin",
-    },
-    {
-      text: "CasinoTsu ボーナスガイド",
-      href: "https://www.casino.su/guides/wagering-requirements",
-    },
-    {
-      text: "Cookies Policy",
-      href: "https://www.casino.su/about/cookie-policy",
-    },
+    { text: "🔰 賭け条件とは？仕組みを分かりやすく解説！", href: "https://www.casino.su/guides/wagering-requirements" },
   ],
   faq: [
     {
-      question: "Justspin に入金不要ボーナスはありますか？",
-      answer:
-        "はい。登録で獲得できる入金不要のフリースピン（例：100スピン）が提供される場合があります。地域や時期によって内容が変わるため、登録前に確認してください。",
+      question: "ジャストスピンに登録ボーナスはありますか？",
+      answer: "はい、新規登録するだけで100回のフリースピンがもらえます。さらに、4回目までの入金でウェルカムボーナスも提供されています。",
     },
     {
-      question: "Justspin のボーナスの賭け条件はどのくらいですか？",
-      answer:
-        "ボーナスやフリースピンの勝利金に対する賭け条件は高めの設定（案内例では50倍）が多く見られます。ボーナスごとに条件が異なるため、プロモ規約を必ず確認してください。",
+      question: "ジャストスピンで利用可能な決済方法は？",
+      answer: "クレジットカード（VISA, MasterCard）、Payz、Venus Point、iWalletなど、日本のプレイヤーが利用しやすい基本的な決済方法が揃っています。",
     },
     {
-      question: "出金に本人確認（KYC）は必要ですか？",
-      answer:
-        "はい。出金申請時や高額出金時にはKYCの提出が求められる場合があります。書類準備を事前にしておくとスムーズです。",
-    },
-    {
-      question: "日本語サポートは利用できますか？",
-      answer:
-        "日本語サポートは提供されていますが、対応時間が不規則だったり、日本語表示に不自然さがある場合があります。チャットやメールでの確認を推奨します。",
+      question: "ジャストスピンのおすすめポイントは何ですか？",
+      answer: "サイトの操作性が非常に高く、特にゲーム検索フィルターが使いやすい点です。豊富なゲームの中から、好みのスロットをすぐに見つけることができます。",
     },
   ],
   cta: {
-    text: "今すぐJustspinで遊ぶ",
+    text: "公式サイトで最新のボーナスを確認する",
     href: "https://go.casino.su/justspin:just-spin?referrer_path=%2Freviews%2Fjust-spin",
   },
-  textBlocks: [],
 };

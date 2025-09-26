@@ -4,331 +4,272 @@ import type { ReviewPageContent } from "@/components/templates/ReviewDetailTempl
 export const reviewBetpanda: ReviewPageContent = {
   hero: {
     title: "Betpanda（ベットパンダ）レビュー",
-    subheading:
-      "匿名で安全に遊べるクリプトオンラインカジノ — メールとパスワードだけで登録OK",
-    description:
-      "Betpanda はメールアドレスとパスワードのみで簡単登録できる仮想通貨特化型カジノです。13種類以上の暗号通貨対応、豊富なゲームと魅力的なプロモで注目されています。本レビューでは安全性、ボーナス、入出金、ゲーム、サポート、評判まで CasinoTsu が詳しく解説します。",
+    subheading: "最大1BTCの初回入金ボーナス + 限定キャッシュスピン50回",
+    description: "メールアドレスだけで登録できる匿名性の高いクリプトカジノ、BetpandaをCasinoTsuが徹底検証。しかし、アカウント停止や勝利金没収などのユーザー報告もあり、利用には注意が必要です。",
     score: 3.7,
     scoreMax: 5,
-    scoreBreakdown: [],
+    scoreBreakdown: [
+      {
+        label: "人気指数",
+        percent: 68,
+        note: "2023年設立の新しいカジノで知名度は低い。匿名性が魅力だが、ユーザーからの厳しい評価も多い。",
+      },
+      {
+        label: "規約",
+        percent: 70,
+        note: "最大1BTCボーナスは魅力的だが、入金額の80倍ベットという条件は非常に厳しい。限定キャッシュスピンは高評価。",
+      },
+      {
+        label: "操作性",
+        percent: 82,
+        note: "サイトは快適で使いやすいが、一部ページが英語のみなど、まだ成長途上の部分が見られる。",
+      },
+      {
+        label: "サポート",
+        percent: 75,
+        note: "24時間日本語対応は良いが、翻訳ベース。問題解決に至らないケースも報告されており、品質にばらつきがある。",
+      },
+    ],
     highlights: [
-      "匿名登録（メール＋パスワード）で手軽に始められる",
-      "仮想通貨13種以上に対応、入出金が高速",
-      "豊富なゲーム（スロット、ライブ、クラッシュ、スポーツ等）",
-      "CasinoTsu限定：入金でキャッシュスピン50回（賭け条件なし）",
-      "最大1 BTC のウェルカムボーナス（受取条件あり）",
+      "メールアドレスとパスワードのみで簡単登録",
+      "13種類以上の仮想通貨に対応したクリプト特化型",
+      "CasinoTsu限定の賭け条件なしフリースピン50回",
+      "Provably Fair技術採用のオリジナルゲーム",
     ],
     watchouts: [
-      "ユーザー報告にアカウント停止や出金トラブルのケースあり",
-      "高い賭け条件（初回入金ボーナス80倍）と利用制限がある",
-      "ライセンス情報に不明瞭な点（コスタリカ運営、一部情報でキプロスと記載）",
-      "高額出金時にKYCを求められ、手続きが煩雑になる可能性あり",
+      "勝利後のアカウント停止や勝利金没収のユーザー報告",
+      "高額出金時に予告なく本人確認（KYC）を要求される可能性",
+      "初回ボーナスの有効化条件が極めて厳しい（入金額の80倍ベット）",
+      "ライセンスの正当性について疑問が呈されている",
     ],
   },
   payments: {
     featured: [
       {
-        name: "仮想通貨入出金",
-        icon: "",
-        href: "",
-        badge: "",
-        note: "Bitcoin / Ethereum / USDT 等、13種類以上に対応。入金・出金ともにネットワーク状況で数分～数十分の着金。",
+        name: "Bitcoin",
+        icon: "/assets/payments/bitcoin.svg",
+        href: "https://casinotsu.com/payment/bitcoin",
+        badge: "人気No.1",
+        note: "代表的な仮想通貨で広く利用可能",
       },
       {
-        name: "サイト内法定通貨購入（未提供）",
-        icon: "",
-        href: "",
-        badge: "",
-        note: "サイト内で法定通貨→仮想通貨購入機能は現時点で提供されていません。外部取引所で仮想通貨を用意してください。",
+        name: "Ethereum",
+        icon: "/assets/payments/ethereum.svg",
+        href: "https://casinotsu.com/payment/ethereum",
+        badge: "主要アルトコイン",
+        note: "スマートコントラクトで知られる通貨",
+      },
+      {
+        name: "Tether",
+        icon: "/assets/payments/tether.svg",
+        href: "https://casinotsu.com/payment/usdt",
+        badge: "ステーブルコイン",
+        note: "米ドルに連動し価格が安定",
+      },
+      {
+        name: "Dogecoin",
+        icon: "/assets/payments/dogecoin.svg",
+        badge: "ミームコイン",
+        note: "コミュニティ主導で人気の通貨",
+      },
+      {
+        name: "Ripple",
+        icon: "/assets/payments/xrp.svg",
+        badge: "高速送金",
+        note: "国際送金に特化した仮想通貨",
       },
     ],
     deposits: [
-      {
-        name: "Bitcoin (BTC)",
-        icon: "",
-        href: "",
-      },
-      {
-        name: "Ethereum (ETH)",
-        icon: "",
-        href: "",
-      },
-      {
-        name: "Litecoin (LTC)",
-        icon: "",
-        href: "",
-      },
-      {
-        name: "Binance Coin (BNB)",
-        icon: "",
-        href: "",
-      },
-      {
-        name: "Tether (USDT ERC20/TRC20)",
-        icon: "",
-        href: "",
-      },
-      {
-        name: "Ripple (XRP)",
-        icon: "",
-        href: "",
-      },
-      {
-        name: "Dogecoin (DOGE)",
-        icon: "",
-        href: "",
-      },
-      {
-        name: "TRON (TRX)",
-        icon: "",
-        href: "",
-      },
-      {
-        name: "Shiba Inu (SHIB)",
-        icon: "",
-        href: "",
-      },
-      {
-        name: "The Sandbox (SAND ERC20)",
-        icon: "",
-        href: "",
-      },
-      {
-        name: "USD Coin (USDC)",
-        icon: "",
-        href: "",
-      },
-      {
-        name: "Solana (SOL)",
-        icon: "",
-        href: "",
-      },
-      {
-        name: "Toncoin (TON)",
-        icon: "",
-        href: "",
-      },
+      { name: "Bitcoin", icon: "/assets/payments/bitcoin.svg" },
+      { name: "Ethereum", icon: "/assets/payments/ethereum.svg" },
+      { name: "Litecoin", icon: "/assets/payments/litecoin.svg" },
+      { name: "Binance Coin", icon: "/assets/payments/bnb.svg" },
+      { name: "Tether (ERC20/TRC20)", icon: "/assets/payments/tether.svg" },
+      { name: "Ripple", icon: "/assets/payments/xrp.svg" },
+      { name: "Dogecoin", icon: "/assets/payments/dogecoin.svg" },
+      { name: "TRON", icon: "/assets/payments/tron.svg" },
+      { name: "Shiba Inu", icon: "/assets/payments/shib.svg" },
+      { name: "The Sandbox (SAND)", icon: "/assets/payments/sand.svg" },
+      { name: "USD Coin (USDC)", icon: "/assets/payments/usdc.svg" },
+      { name: "Solana", icon: "/assets/payments/solana.svg" },
+      { name: "Toncoin (TON)" },
     ],
     withdrawals: [
-      {
-        name: "仮想通貨（上記と同様）",
-        icon: "",
-        href: "",
-      },
+      { name: "Bitcoin", icon: "/assets/payments/bitcoin.svg" },
+      { name: "Ethereum", icon: "/assets/payments/ethereum.svg" },
+      { name: "Litecoin", icon: "/assets/payments/litecoin.svg" },
+      { name: "Binance Coin", icon: "/assets/payments/bnb.svg" },
+      { name: "Tether (ERC20/TRC20)", icon: "/assets/payments/tether.svg" },
+      { name: "Ripple", icon: "/assets/payments/xrp.svg" },
+      { name: "Dogecoin", icon: "/assets/payments/dogecoin.svg" },
+      { name: "TRON", icon: "/assets/payments/tron.svg" },
+      { name: "Shiba Inu", icon: "/assets/payments/shib.svg" },
+      { name: "The Sandbox (SAND)", icon: "/assets/payments/sand.svg" },
+      { name: "USD Coin (USDC)", icon: "/assets/payments/usdc.svg" },
+      { name: "Solana", icon: "/assets/payments/solana.svg" },
+      { name: "Toncoin (TON)" },
     ],
     notes: [
-      "最低入金額の明確な設定はない（ただしネットワーク手数料を考慮する必要あり）。",
-      "最低出金額：BTC換算で0.0001 BTC、USDT換算で1 USDT 程度（案内値）。",
-      "出金上限：1日 €5,000、1週 €15,000、1ヶ月 €45,000（目安）。",
-      "入出金の速度は使用する通貨とネットワーク状況に依存。平均出金は高速（～5分の例あり）が、遅延は発生し得る。",
-      "サイト内での仮想通貨購入機能は現時点で提供されていないとの回答あり。",
+      "最低入金額の設定はありませんが、ネットワーク手数料を考慮した入金が推奨されます。",
+      "最低出金額は0.0001 BTC相当と非常に低く設定されています。",
+      "出金上限は1日€5,000、1週間€15,000、1ヶ月€45,000です。",
+      "出金時間は通常5分以内と非常に高速です。",
     ],
   },
   bonuses: {
     overview:
-      "Betpanda は大きな初回入金ボーナス（最大1 BTC）や週次キャッシュバック、トーナメント、VIP特典など多彩なプロモーションを提供します。CasinoTsu限定の『賭け条件なし』キャッシュスピンも実施中（条件あり）。",
+      "Betpandaは最大1BTCという高額な初回入金ボーナスを提供していますが、その有効化条件は非常に厳しいものです。一方で、CasinoTsu限定の賭け条件なしフリースピンは非常に価値が高いです。",
     noDeposit:
-      "現時点では恒常的な入金不要ボーナスは提供されていません（過去に登録特典が出ることはあり）。",
+      "現時点では、Betpandaで提供されている入金不要ボーナスはありません。今後のプロモーションに期待しましょう。",
     extraSpins: {
       summary:
-        "CasinoTsu限定：初回入金 €20以上で『Fire in the Hole 2』のフリースピン50回（キャッシュスピン＝賭け条件なし）。初回入金ボーナスと併用可能。",
+        "CasinoTsuからBetpandaに登録し、20ユーロ以上を入金すると、Nolimit City社の人気スロット『Fire in the hole 2』で使える50回のフリースピンがもらえます。",
       schedule: [
-        "CasinoTsu限定：€20以上入金で Fire in the Hole 2 のフリースピン50回（キャッシュスピン、賭け条件なし）",
+        "対象：CasinoTsu経由の新規登録者",
+        "条件：20ユーロ以上の初回入金",
+        "内容：『Fire in the hole 2』のフリースピン50回",
+        "特長：勝利金に賭け条件がないキャッシュスピン",
       ],
-      warning:
-        "フリースピンの受取や適用条件はプロモ規約に従う。限定オファーの適用にはCasinoTsu経由での登録・入金が必要です。",
+      warning: "この限定オファーは初回入金ボーナスと併用可能ですので、ぜひご活用ください。",
     },
     welcomeRows: [
-      {
-        depositNumber: "初回入金",
-        percent: "100%",
-        cap: "1 BTC",
-        code: "",
-      },
+      { depositNumber: "初回", percent: "100%", cap: "1 BTC", code: "不要" },
     ],
     conditions: [
-      "初回入金ボーナスの賭け条件：入金額の80倍（受取後7日以内に消化が必要）。",
-      "賭け条件消化時の最大ベット額：$10（ベット上限あり）。",
-      "賭け条件の消化率はゲーム毎に異なるため事前に規約を要確認。",
-      "キャッシュスピン（CasinoTsu限定）は勝利金に賭け条件がない（条件付きの提供）。",
-      "キャッシュバック（週次）は有効化条件やXP要求がある（詳細はプロモ規約参照）。",
+      "ボーナスを受け取るには、入金額の80倍のベットを7日以内に完了させる必要があります。",
+      "上記条件を達成して初めて、賭け条件のないボーナスがアカウントに付与されます。",
+      "賭け条件消化中の最大ベット額は$10です。",
+      "ゲームによって賭け条件の消化率が異なります。",
     ],
     prohibitedGames: [],
   },
   offers: [
     {
-      title: "CasinoTsu限定：入金でキャッシュスピン50回（賭け条件なし）",
-      description:
-        "CasinoTsu 経由で登録し €20 以上入金すると、Nolimit City『Fire in the Hole 2』のフリースピン50回をキャッシュスピンとして付与（賭け条件なし）。",
-      highlight: "賭け条件なしのキャッシュスピン（CasinoTsu限定）",
+      title: "毎週10%キャッシュバック",
+      description: "毎週の純損失額の10%がキャッシュバックされます。ただし、有効化するにはVIPプログラムで12,500XPを貯めることと、週に50回以上のベットが必要です。",
+      highlight: "賭け条件なしで受け取れるが有効化条件あり",
     },
     {
-      title: "初回入金ボーナス 最大1 BTC",
-      description:
-        "初回入金100%ボーナス。最大1 BTC。ボーナス受取後、入金額の80倍を7日以内に消化する必要あり。賭け条件達成後はボーナス自体に賭け条件はないため、条件達成後は即出金可能。",
-      highlight: "最大1 BTC の大型ウェルカム（80x 条件）",
-    },
-    {
-      title: "週次キャッシュバック（10%）",
-      description:
-        "純損失の10%を週次でキャッシュバック。計算期間は水曜21:00～翌週水曜21:00。キャッシュバック有効化にはXPとベット回数など条件あり。",
-      highlight: "週次10%キャッシュバック（条件あり）",
+      title: "VIPプログラム「Path of the Panda」",
+      description: "ベットするごとにXPポイントが貯まり、6段階のレベルを上げていくプログラム。レベルが上がるとリロードボーナスやキャッシュバックブーストなどの特典が増加します。",
     },
   ],
   facts: [
+    { label: "名称", value: "Betpanda (ベットパンダ)" },
+    { label: "ローンチ", value: "2023年" },
+    { label: "運営会社", value: "Star Bright Media S.R.L." },
+    { label: "ライセンス", value: "コスタリカ (※正当性に疑問の声あり)" },
+    { label: "VIPプログラム", value: "✅" },
+    { label: "対応言語", value: "日本語、英語など" },
+    { label: "対応通貨", value: "仮想通貨のみ" },
     {
-      label: "リリース年",
-      value: "2023年",
-    },
-    {
-      label: "評価点",
-      value: "3.7 / 5",
-    },
-    {
-      label: "ウェルカムボーナス（要約）",
-      value: "初回100% 最大1 BTC（賭け条件：入金額の80倍、7日以内）",
-    },
-    {
-      label: "限定オファー",
-      value: "CasinoTsu限定フリースピン50回（賭け条件なし、€20以上入金）",
-    },
-    {
-      label: "対応通貨",
+      label: "ゲームタイプ",
       value:
-        "仮想通貨13種類以上（BTC, ETH, USDT, USDC, LTC, BNB, XRP, DOGE, TRX, SHIB, SAND, SOL, TON 等）",
+        "スロット, ライブカジノ, ゲームショー, スポーツベット, eスポーツ, オリジナルゲーム, クラッシュゲーム, ビデオポーカー, ビンゴなど",
     },
     {
-      label: "運営会社",
-      value: "Star Bright Media S.R.L.",
+      label: "ゲームプロバイダー",
+      value: (
+        <span>
+          <Link href="https://casinotsu.com/providers/pragmatic-play">Pragmatic Play</Link>, <Link href="https://casinotsu.com/providers/evolution">Evolution</Link>, <Link href="https://casinotsu.com/providers/hacksaw-gaming">Hacksaw Gaming</Link>, <Link href="https://casinotsu.com/providers/nolimit-city">Nolimit City</Link>, <Link href="https://casinotsu.com/providers/bgaming">BGaming</Link> など70社以上
+        </span>
+      ),
     },
-    {
-      label: "ライセンス",
-      value:
-        "コスタリカ法に基づく運営（ただし一部情報でキプロス等の表記が見られるため要確認）",
-    },
-    {
-      label: "プロバイダー数",
-      value: "70社以上",
-    },
-    {
-      label: "サポート",
-      value:
-        "日本語対応24時間（ライブチャット平均応答3分、メール support@betpanda.io）",
-    },
-    {
-      label: "登録方法",
-      value: "メールアドレス＋パスワード（匿名登録）",
-    },
+    { label: "最小入金額", value: "設定なし" },
+    { label: "最小出金額", value: "0.0001 BTC相当" },
+    { label: "電話サポート", value: "❌" },
+    { label: "メールサポート", value: "✅" },
+    { label: "Eメール", value: <Link href="mailto:support@betpanda.io">support@betpanda.io</Link> },
+    { label: "ライブチャット", value: "24時間日本語対応" },
+    { label: "スカイプサポート", value: "❌" },
   ],
   intro: {
     paragraphs: [
-      "Betpanda（ベットパンダ）は、メールアドレスとパスワードのみで簡単に登録できる匿名性の高い仮想通貨特化カジノです。まだ知名度は低いものの、豊富なゲーム数や魅力的なキャンペーンで今後の成長が期待されています。",
-      "本レビューでは、Betpanda の安全性、ボーナス、登録方法、入出金、ゲーム、カスタマーサポート、ユーザー評判まで CasinoTsu が徹底解説します。",
+      "Betpanda（ベットパンダ）は2023年に登場した、匿名性を最大の特長とする仮想通貨特化型カジノです。",
+      "登録はメールアドレスとパスワードだけで完了し、プライバシーを重視するプレイヤーにとって魅力的な選択肢となっています。",
+      "しかし、新しいカジノであるため、ライセンスの不透明さや、ユーザーからの出金トラブルに関する報告など、いくつかの深刻な懸念点も存在します。このレビューでは、Betpandaの魅力とリスクの両側面を公平に掘り下げていきます。",
     ],
     ctas: [
-      {
-        text: "今すぐプレイ！",
-        href: "https://go.japanesecasino.com/go/betpanda:betpanda?referrer_path=%2Freviews%2Fbetpanda",
-      },
-      {
-        text: "限定フリスピをGET",
-        href: "https://go.japanesecasino.com/go/betpanda",
-      },
+      { text: "👉 Betpandaで限定スピンをゲットする", href: "https://go.casinotsu.com/go/betpanda" },
+      { text: "🔰 クリプトカジノについて学ぶ", href: "https://casinotsu.com/crypto" },
     ],
   },
   games: [
-    "スロット（グリッド、ホールド＆ウィン、ボーナス購入、メガウェイズ等）",
-    "ライブカジノ（ライブバカラ、ライブブラックジャック、ライブルーレット等）",
-    "クラッシュゲーム（Aviator等）、ダイス、Plinko、ビデオポーカー、ビンゴ等のスペシャリティゲーム",
-    "スポーツベット（主要競技＋eスポーツをカバー）",
-    "オリジナルゲーム（サイト内検索で発見できる限定タイトルあり）",
+    "Betpandaは70社以上のプロバイダーと提携し、スロット、ライブカジノ、スポーツベットまで幅広いゲームを提供しています。スロットはボーナス購入やメガウェイズなどの人気機能で絞り込みができ、好みのゲームを簡単に見つけられます。",
+    "ライブカジノはPragmatic Playをはじめとする10社のゲームが楽しめます。さらに、Aviatorなどのクラッシュゲームや、公平性をプレイヤー自身で検証できる「Provably Fair」技術を採用したオリジナルゲームも少数ながら用意されています。",
   ],
   features: [
-    "匿名登録（メール＋パスワード）",
-    "仮想通貨13種類以上対応",
-    "豪華なウェルカム（最大1 BTC）と週次キャッシュバック",
-    "VIPプログラム（Path of the Panda、XPで昇格）",
-    "70社以上のゲームプロバイダー導入",
-    "モバイルブラウザで快適にプレイ可能（アプリは公式発表なし）",
+    "Betpandaの最大の特徴は、メールアドレスとパスワードのみで登録できる高い匿名性です。個人情報を提出することなく、仮想通貨で迅速に入出金を行えます。",
+    "モバイルアプリはありませんが、スマートフォンやタブレットのブラウザに完全対応しており、どこからでも快適にプレイできます。",
   ],
+  editorial: {
+    author: "Nanami",
+    profileHref: "/authors/nanami",
+    hook: "匿名性と限定ボーナスは魅力的ですが、出金トラブルの報告が多く、ハイリスクな選択肢と言わざるを得ません。",
+    theGoodStuff: "メールアドレスだけで始められる手軽さと、仮想通貨によるスピーディーな決済は大きな利点です。CasinoTsu限定の賭け条件なしフリースピンは、リスクなく試せる絶好の機会です。",
+    theHeadsUp: "最も懸念すべきは、勝利後のアカウント停止や出金拒否といったユーザーからの深刻な報告が多数ある点です。『匿名』を謳いながら、高額出金時に煩雑なKYCを要求されるケースもあり、矛盾を感じます。",
+    finalThought: "高いポテンシャルを秘めている一方で、プレイヤー保護の観点からは多くの疑問符が付きます。特に高額を賭けるプレイヤーは、これらのリスクを十分に理解した上で、慎重に利用を検討すべきです。少額で試すか、より信頼性の高いカジノを選ぶのが賢明でしょう。",
+  },
+  longform: {
+    kicker: "CasinoTsuレビュー",
+    title: "編集部による詳説",
+    paragraphs: [
+      "Betpandaは、現代のオンラインカジノプレイヤーが求める「プライバシー」と「スピード」という二つの要素を前面に押し出したクリプトカジノです。実際に、メールアドレスとパスワードだけでアカウントを作成できる手軽さは、他の多くのカジノとは一線を画します。13種類以上の仮想通貨に対応し、入出金が数分で完了する点も高く評価できます。",
+      "しかし、その魅力的な側面の裏で、深刻な問題が多数報告されていることをCasinoTsuは見過ごすことができません。TrustpilotやAskGamblersなどのレビューサイトでは、「勝利後にアカウントを不当に停止された」「高額出金時に理由なくKYCを要求され、最終的に資金を没収された」といった声が散見されます。これは、カジノの信頼性の根幹を揺るがす問題です。",
+      "また、コスタリカを拠点とする運営とライセンスの不透明さも、プレイヤーにとってのリスクを高めています。初回入金ボーナスは最大1BTCと非常に大きいですが、「入金額の80倍を7日以内にベットする」という有効化条件は、現実的にはほぼ達成不可能な設定と言えるでしょう。",
+      "結論として、Betpandaは『ハイリスク・ハイリターン』ならぬ、『ハイリスク・アンノウンリターン（未知のリターン）』なカジノです。匿名で手軽に始められる魅力はありますが、資金を失うリスクが他のカジノよりも格段に高い可能性があります。CasinoTsuとしては、特に初心者のプレイヤーや、大切な資金を安全に管理したい方には、より透明性が高く、信頼できるライセンスを持つカジノの利用を強く推奨します。",
+    ],
+  },
   security: [
-    "運営：Star Bright Media S.R.L.（コスタリカ拠点として記載）",
-    "ライセンス表記：コスタリカ（運営国表記）。一部情報でキプロス表記が見られるため確認が必要",
-    "ゲームの公平性：RNG採用、オリジナルゲームにProvably Fair技術を導入",
-    "通信・データ保護：SSL 暗号化を導入",
+    "コスタリカの法律に基づき運営",
+    "SSL暗号化技術によりプレイヤーのデータを保護",
+    "ゲームの公平性を保証する乱数発生器（RNG）を搭載",
+    "オリジナルゲームには公平性を検証できる「Provably Fair」技術を採用",
   ],
   responsiblePlay: [
-    "利用規約内に責任あるギャンブル関連の記載あり（英語表記）",
-    "自己規制ツール（入金制限、ロス制限、セッション制限など）は利用可能だが機能は限定的との指摘あり",
-    "高額勝利時にはKYCが必要となる場合があり、事前にルールを確認することを推奨",
+    "自己規制ツール（入金制限、ロス制限など）が利用可能ですが、機能は限定的とされています。",
+    "一部のユーザーから、ギャンブル依存に関する訴えが十分にサポートされなかったという報告があります。",
   ],
   complaintStats: [
-    "Trustpilot（参考・英語圏）: 平均 3.4 / 5（約875件のレビューの例）",
-    "AskGamblers: プレイヤー評価 5.6 / 10（21件のレビューの例）",
-    "オンライン上での苦情：アカウント停止、出金遅延／拒否、KYCに関する不満が散見される",
+    "Trustpilot: 平均評価 3.4/5 (875件のレビュー)",
+    "AskGamblers: プレイヤー評価 5.6/10 (21件のレビュー)",
+    "多数のユーザーがアカウント停止、勝利金没収、出金問題を報告しています。",
   ],
   awards: [],
   restrictedCountries: [],
   userConcerns: [
-    "勝利後にアカウント停止・出金拒否・勝利金の没収が報告されている",
-    "高額出金時にKYC（本人確認）を要求され、手続きが煩雑または結果的に出金できないケースの報告あり",
-    "初回ボーナスの賭け条件（80倍）が高く、実際にボーナスを利用しにくいとの声",
-    "一部レビューに“宣伝目的のポジティブコメント”が混在している疑い",
-    "責任あるギャンブル対応やサポート品質にばらつきがある",
+    "勝利後の突然のアカウント停止や出金拒否",
+    "匿名性を謳いながら、高額出金時に煩雑な本人確認（KYC）を要求される",
+    "初回入金ボーナスの有効化条件が非現実的に厳しい",
+    "カスタマーサポートが問題解決に至らないことがある",
+    "ライセンスの透明性と信頼性への懸念",
   ],
   summary: [
-    "Betpanda は匿名性を重視するクリプトカジノとして魅力的な側面が多く、簡単登録、高速な仮想通貨入出金、豊富なゲーム、そして最大1 BTC のウェルカムボーナスやCasinoTsu限定の賭け条件なしフリースピンなど注目点が揃っています。",
-    "一方で、ライセンス表記のわかりにくさ、ユーザー報告にあるアカウント停止や出金トラブル、初回ボーナスの高い賭け条件（80倍）などのリスクも確認されています。",
-    "利用を検討する際は、自己責任のもとで小額から試し、出金ルールやKYC要件、プロモ規約を事前に十分確認することを強く推奨します。",
+    "メールアドレスだけで登録できる匿名性の高いクリプトカジノ。",
+    "CasinoTsu限定で賭け条件なしのフリースピン50回がもらえる。",
+    "しかし、勝利金の没収やアカウント停止など、深刻な出金トラブルの報告が多数存在します。",
+    "ライセンスの透明性にも懸念があり、総合的に見て非常にリスクの高いカジノです。利用は自己責任で慎重に行う必要があります。",
   ],
   extraLinks: [
-    {
-      text: "Betpanda 公式（CasinoTsu経由）",
-      href: "https://go.japanesecasino.com/go/betpanda:betpanda?referrer_path=%2Freviews%2Fbetpanda",
-    },
-    {
-      text: "Betpanda 限定オファー詳細",
-      href: "https://www.japanesecasino.com/offers/betpanda-exclusive",
-    },
-    {
-      text: "仮想通貨オンラインカジノ ガイド",
-      href: "https://casinotsu.com/crypto",
-    },
-    {
-      text: "Cookies Policy",
-      href: "https://casinotsu.com/about/cookie-policy",
-    },
+    { text: "🔰 賭け条件なしボーナスとは？", href: "https://casinotsu.com/bonuses/no-wagering" },
+    { text: "⚖️ 責任あるギャンブルについて", href: "https://casinotsu.com/info/responsible-gambling" },
   ],
   faq: [
     {
-      question: "Betpanda は仮想通貨がなくても遊べますか？",
-      answer:
-        "いいえ。Betpanda は仮想通貨特化型カジノです。事前に外部取引所等で仮想通貨を用意してから入金してください。サイト内での通貨購入機能は現時点で提供されていません。",
+      question: "Betpandaでは、仮想通貨を持っていなくても遊べますか？",
+      answer: "いいえ、Betpandaは仮想通貨専門のカジノのため、プレイするには事前に仮想通貨を用意する必要があります。",
     },
     {
-      question: "Betpanda のカスタマーサポートは日本語対応ですか？",
-      answer:
-        "はい。ライブチャットは24時間日本語対応で、平均応答は数分（報告では平均3分）。ただし、応答品質や問題解決にはばらつきがあるとのユーザー報告があります。",
+      question: "Betpandaのカスタマーサポートは日本語に対応していますか？",
+      answer: "はい、24時間日本語での対応が可能です。ただし、ネイティブの日本人ではなく翻訳システムを使用しているため、複雑な問題の解決能力については賛否両論があります。",
     },
     {
-      question: "初回入金ボーナスの条件は？",
-      answer:
-        "初回入金100%最大1 BTC。ボーナス受取後は入金額の80倍を7日以内に消化する必要があります。賭け条件消化時の最大ベットは$10等の制限があるため、利用前に利用規約を確認してください。",
-    },
-    {
-      question: "CasinoTsu限定のフリースピンはどうやって受け取れますか？",
-      answer:
-        "CasinoTsu 経由で登録し、€20以上入金すると Nolimit City の『Fire in the Hole 2』のフリースピン50回をキャッシュスピン（賭け条件なし）として受け取れます。適用条件はプロモ規約をご確認ください。",
-    },
-    {
-      question: "高額勝利で出金する場合、注意点はありますか？",
-      answer:
-        "高額出金時はKYC（本人確認）を求められる可能性が高く、提出書類の確認や手続きに時間を要する場合があります。アカウント停止や出金拒否の報告もあるため、小額から試してルールを確認することを勧めます。",
+      question: "Betpandaの10％キャッシュバックは誰でも利用可能ですか？",
+      answer: "いいえ、キャッシュバックを有効にするには、VIPプログラムで12,500XPを貯めることと、週に50回以上のベットを行うという条件を満たす必要があります。",
     },
   ],
   cta: {
-    text: "Betpanda で遊ぶ",
-    href: "https://go.japanesecasino.com/go/betpanda:betpanda?referrer_path=%2Freviews%2Fbetpanda",
+    text: "Betpandaでプレイしてみる",
+    href: "https://go.casinotsu.com/go/betpanda",
   },
-  textBlocks: [],
 };

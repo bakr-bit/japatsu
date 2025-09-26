@@ -1,6 +1,7 @@
 import type { ReactNode } from "react";
 import Link from "next/link";
-import { ChevronRight, Star } from "lucide-react";
+// CHANGE 1: Import new icons for the editorial section
+import { ChevronRight, Star, ThumbsUp, AlertTriangle, CheckCircle2 } from "lucide-react";
 import SectionScaffold from "@/components/shell/SectionScaffold";
 import HeaderBanner from "@/components/ui/HeaderBanner";
 import CardHeader from "@/components/ui/CardHeader";
@@ -61,6 +62,24 @@ export type ReviewCta = {
 
 export type ReviewTextBlock = TextBlockSectionProps;
 
+// CHANGE 2: Define the new, more structured editorial type
+export type ReviewEditorial = {
+  hook: string;
+  theGoodStuff: string;
+  theHeadsUp: string;
+  finalThought: string;
+  author?: string;
+  role?: string;
+  avatarSrc?: string;
+  profileHref?: string;
+};
+
+export type ReviewLongformSection = {
+  title?: string;
+  paragraphs: string[];
+  kicker?: string;
+};
+
 export type ReviewPageContent = {
   hero: {
     title: string;
@@ -105,13 +124,8 @@ export type ReviewPageContent = {
   faq?: ReviewFaq[];
   cta?: ReviewCta;
   textBlocks?: ReviewTextBlock[];
-  authorCommentary?: {
-    author: string;
-    commentary: string;
-    authorHref?: string;
-    avatarSrc?: string;
-    role?: string;
-  };
+  editorial?: ReviewEditorial;
+  longform?: ReviewLongformSection;
 };
 
 function paymentIconForName(name?: string, provided?: string) {
@@ -167,6 +181,8 @@ export default function ReviewDetailTemplate({ content }: { content: ReviewPageC
   const introSecondaryParagraph = introParagraphs[1];
   const introCtas = content.intro?.ctas ?? [];
   const introPrimaryCtas = introCtas.slice(0, 2);
+  const editorialAuthor = content.editorial?.author ?? "CasinoTsu編集部";
+  const editorialProfileHref = content.editorial?.profileHref;
 
   return (
     <SectionScaffold title={content.hero.title}>
@@ -194,7 +210,6 @@ export default function ReviewDetailTemplate({ content }: { content: ReviewPageC
           {/* --- LEFT COLUMN: Rating Box --- */}
           <div>
             <div className="rounded-2xl border border-violet-100 bg-gradient-to-br from-violet-50 via-white to-white p-6 shadow-sm h-full flex flex-col">
-              {/* This div wraps the top content, allowing the button section below to be pushed to the bottom */}
               <div>
                 <div className="flex items-start justify-between">
                   <div>
@@ -269,13 +284,11 @@ export default function ReviewDetailTemplate({ content }: { content: ReviewPageC
                     ) : null}
                   </div>
                 )}
-                {/* Extra vertical padding between watchouts and CTA */}
                 {(content.hero.highlights?.length || content.hero.watchouts?.length) && (content.cta || introCtas.length) ? (
                   <div className="py-4" />
                 ) : null}
               </div>
 
-              {/* This CTA block is pushed to the bottom of the card with `mt-auto` */}
               {(content.cta || introCtas.length) && (
                 <div className="mt-auto pt-6 space-y-3 rounded-xl border border-rose-100 bg-gradient-to-br from-rose-50 via-white to-white p-4">
                   {content.cta?.badge && (
@@ -319,7 +332,6 @@ export default function ReviewDetailTemplate({ content }: { content: ReviewPageC
                 <div className="mt-4 grid gap-3 md:grid-cols-2">
                   {content.payments.featured.map((method) => {
                     const accentClass = method.note ? "from-slate-50 via-white to-slate-100" : "from-white to-white";
-                    // If method.pageHref exists, use it for the icon and name link
                     const paymentPageHref = method.pageHref || method.href;
                     const icon = paymentIconForName(method.name, method.icon);
                     return (
@@ -419,42 +431,129 @@ export default function ReviewDetailTemplate({ content }: { content: ReviewPageC
 
       <div className="mt-12 mx-auto max-w-8xl">
         <div className="space-y-10">
-          {content.authorCommentary && (
-            <section className="rounded-2xl border border-rose-100 bg-white p-6 shadow-sm">
-              <div className="flex flex-col gap-4 sm:flex-row sm:items-start">
-                {content.authorCommentary.avatarSrc ? (
-                  // eslint-disable-next-line @next/next/no-img-element
-                  <img
-                    src={content.authorCommentary.avatarSrc}
-                    alt={content.authorCommentary.author}
-                    className="h-14 w-14 rounded-full border border-rose-100 object-cover shadow"
-                  />
-                ) : (
-                  <div className="flex h-14 w-14 items-center justify-center rounded-full border border-rose-100 bg-rose-50 text-2xl font-bold text-rose-500">
-                    {content.authorCommentary.author.slice(0, 1).toUpperCase()}
+
+        {content.editorial && (
+          <section className="relative overflow-hidden rounded-3xl border border-rose-100 bg-gradient-to-br from-rose-50/80 via-white to-white shadow-sm">
+            {/* Decorative background elements */}
+            <div className="pointer-events-none absolute -left-12 top-10 h-32 w-32 rounded-full bg-rose-100/60 blur-3xl" aria-hidden="true" />
+            <div className="pointer-events-none absolute -right-10 bottom-0 hidden h-48 w-48 rounded-full bg-rose-200/40 blur-3xl md:block" aria-hidden="true" />
+
+            {/* Main container with padding */}
+            <div className="relative p-6 md:p-8">
+              
+              {/* --- Author Quote Section --- */}
+              <div className="flex flex-col gap-5 md:pt-12 md:flex-row md:items-center md:gap-6">
+                {/* Avatar and Author Info (name/role below image) */}
+                <div className="flex-shrink-0 flex flex-col items-center">
+                  {content.editorial.avatarSrc ? (
+                    <img
+                      src={content.editorial.avatarSrc}
+                      alt={editorialAuthor}
+                      className="h-20 w-20 rounded-full border border-rose-100 bg-white object-cover p-1 shadow-md md:h-24 md:w-24"
+                    />
+                  ) : (
+                    <div className="flex h-20 w-20 items-center justify-center rounded-full border border-rose-100 bg-rose-50 text-3xl font-semibold text-rose-500 md:h-24 md:w-24">
+                      {editorialAuthor.slice(0, 1).toUpperCase()}
+                    </div>
+                  )}
+                  <div className="mt-2 flex flex-col items-center text-xs text-gray-700">
+                    {editorialProfileHref ? (
+                      <Link href={editorialProfileHref} className="font-semibold text-rose-600 hover:text-rose-700">
+                        {editorialAuthor}
+                      </Link>
+                    ) : (
+                      <span className="font-semibold">{editorialAuthor}</span>
+                    )}
+                    {content.editorial.role && (
+                      <span className="text-gray-500">{content.editorial.role}</span>
+                    )}
+                    {content.editorial.profileHref && (
+                      <Link href={content.editorial.profileHref} className="mt-1 text-rose-500 hover:text-rose-600 underline">
+                        プロフィールを見る
+                      </Link>
+                    )}
                   </div>
-                )}
-                <div className="space-y-2 text-gray-800">
-                  <div>
-                    <p className="text-sm font-semibold uppercase tracking-wide text-rose-500">Author Commentary</p>
-                    <p className="text-lg font-bold text-gray-900">
-                      {content.authorCommentary.authorHref ? (
-                        <Link href={content.authorCommentary.authorHref} className="hover:text-rose-600">
-                          {content.authorCommentary.author}
-                        </Link>
-                      ) : (
-                        content.authorCommentary.author
-                      )}
-                      {content.authorCommentary.role && (
-                        <span className="ml-2 text-sm font-medium text-gray-500">{content.authorCommentary.role}</span>
-                      )}
+                </div>
+
+                {/* Text Content & Bubble */}
+                <div className="relative w-full">
+                  {/* Author Info Badge */}
+                  <div className="mb-2">
+                    <span className="inline-flex items-center gap-2 rounded-full bg-gradient-to-r from-rose-500 to-rose-400 px-3 py-1 text-xs font-semibold tracking-wide text-white shadow-sm">
+                      編集部レビュー
+                    </span>
+                  </div>
+
+                  {/* The Speech Bubble */}
+                  <div className="relative mt-4 w-full rounded-2xl bg-white p-6 shadow-lg ring-1 ring-rose-100/80 sm:max-w-xl md:mt-0 md:max-w-lg has-speech-bubble-tail">
+                    <p className="text-xs font-semibold uppercase tracking-wide text-rose-500">著者コメント</p>
+                    <p className="mt-2 text-base italic leading-relaxed text-rose-800">
+                      &ldquo;{content.editorial.hook}&rdquo;
                     </p>
                   </div>
-                  <p className="leading-relaxed italic">{content.authorCommentary.commentary}</p>
+                </div>
+              </div>
+
+              {/* --- Three-Column Grid Section --- */}
+              <div className="mt-12 grid gap-5 md:grid-cols-3">
+                {/* Card 1 */}
+                <div className="rounded-2xl bg-white/80 p-5 shadow-sm ring-1 ring-rose-100/60">
+                  <div className="flex items-center gap-2 text-rose-500">
+                    <ThumbsUp className="h-5 w-5" />
+                    <h3 className="text-sm font-semibold tracking-wide">注目ポイント</h3>
+                  </div>
+                  <p className="mt-3 text-sm leading-relaxed text-gray-700">{content.editorial.theGoodStuff}</p>
+                </div>
+                {/* Card 2 */}
+                <div className="rounded-2xl bg-white/80 p-5 shadow-sm ring-1 ring-amber-100/60">
+                  <div className="flex items-center gap-2 text-amber-600">
+                    <AlertTriangle className="h-5 w-5" />
+                    <h3 className="text-sm font-semibold tracking-wide">注意したい点</h3>
+                  </div>
+                  <p className="mt-3 text-sm leading-relaxed text-gray-700">{content.editorial.theHeadsUp}</p>
+                </div>
+                {/* Card 3 */}
+                <div className="rounded-2xl bg-white/80 p-5 shadow-sm ring-1 ring-slate-100/60">
+                  <div className="flex items-center gap-2 text-slate-600">
+                    <CheckCircle2 className="h-5 w-5" />
+                    <h3 className="text-sm font-semibold tracking-wide">編集部の総評</h3>
+                  </div>
+                  <p className="mt-3 text-sm leading-relaxed text-gray-700">{content.editorial.finalThought}</p>
+                </div>
+              </div>
+            </div>
+          </section>
+        )}
+          {content.longform?.paragraphs?.length ? (
+            <section className="relative overflow-hidden rounded-3xl border border-rose-100 bg-gradient-to-br from-rose-50/70 via-white to-white shadow-sm">
+              <div className="pointer-events-none absolute -right-10 top-1/2 hidden h-40 w-40 -translate-y-1/2 rounded-full bg-rose-100/60 blur-3xl md:block" aria-hidden />
+              <div className="relative flex flex-col gap-6 p-6 md:p-8">
+                <div className="space-y-4">
+                  {content.longform.kicker && (
+                    <span className="inline-flex items-center gap-2 rounded-full bg-rose-100/70 px-3 py-1 text-xs font-semibold uppercase tracking-wider text-rose-500">
+                      {content.longform.kicker}
+                    </span>
+                  )}
+                  {content.longform.title && (
+                    <h2 className="text-3xl font-bold tracking-tight text-gray-900">
+                      {content.longform.title}
+                    </h2>
+                  )}
+                </div>
+
+                <div className="space-y-5 text-lg leading-relaxed text-gray-800">
+                  {content.longform.paragraphs.map((paragraph, idx) => (
+                    <p
+                      key={idx}
+                      className={idx === 0 ? "text-xl font-medium text-gray-900" : undefined}
+                    >
+                      {paragraph}
+                    </p>
+                  ))}
                 </div>
               </div>
             </section>
-          )}
+          ) : null}
 
           {content.bonuses && (
             <section className="space-y-6">
