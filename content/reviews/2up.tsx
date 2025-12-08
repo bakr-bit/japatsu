@@ -24,6 +24,8 @@ export const review2up: ReviewPageContent = {
       "一部ユーザーから『詐欺』などの強い非難がある",
       "日本円出金は銀行振込のみで手数料がかかる",
     ],
+    avatarSrc: "/assets/casino/2up.png",
+    avatarAlt: "2upのロゴ",
   },
   payments: {
     featured: [

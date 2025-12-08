@@ -3,362 +3,295 @@ import type { ReviewPageContent } from "@/components/templates/ReviewDetailTempl
 
 export const reviewLiveCasinoHouse: ReviewPageContent = {
   hero: {
-    title: "Live Casino House（ライブカジノハウス）レビュー",
-    subheading:
-      "珍しいプロバイダーのライブが遊べる、ライブ重視の総合オンラインカジノ",
-    description:
-      "ライブカジノを中心にスロットやゲームショーまで豊富に揃える Live Casino House を CasinoTsu が徹底レビュー。ボーナス、入出金、ゲーム、セキュリティ、日本語サポートまでカバーします。",
+    title: "ライブカジノハウスのボーナスや出金方法を徹底解説！ CasinoTsu 厳選レビュー",
+    subheading: "最大 ¥50,000 初回入金ボーナス",
+    description: "ライブカジノゲームはもちろん、多種多様なカジノゲームをお楽しみいただける「ライブカジノハウス」について、CasinoTsu が詳細にレビューいたします。珍しいプロバイダーのゲームも遊べる魅力を徹底分析しました。",
     score: 4.1,
     scoreMax: 5,
-    scoreBreakdown: [],
+    scoreBreakdown: [
+      {
+        label: "人気指数",
+        percent: 82,
+        note: "合計6社の豊富なライブカジノプロバイダーと3,000種類以上のスロットが魅力。長く楽しめるプロモーションも豊富です。",
+      },
+      {
+        label: "規約",
+        percent: 69,
+        note: "最大50,000円の初回入金ボーナスは魅力的ですが、賭け条件がやや厳しめとの声もあります。",
+      },
+      {
+        label: "操作性",
+        percent: 87,
+        note: "サイトデザインはシンプルかつ機能的。チャットウィンドウやゲーム検索フィルターが使いやすいと評価しています。",
+      },
+      {
+        label: "サポート",
+        percent: 90,
+        note: "日本語ネイティブによる丁寧で迅速なサポートを長時間提供。LINEや電話にも対応しており安心です。",
+      },
+    ],
     highlights: [
-      "ライブカジノに強み（珍しいプロバイダー含む6社のライブ導入）",
-      "スロット3,000種類以上、ライブ180種類以上の豊富なゲーム数",
-      "選べるウェルカム（ライブ専用 / スロット専用）で最大¥50,000",
-      "日本語サポート（長時間帯での対応、チャット・LINE・電話あり）",
-      "VIPプログラムと無制限リベート／キャッシュバックなど継続特典",
+      "ライブカジノゲームを6社採用し、マイナーなプロバイダーのゲームも楽しめる！",
+      "毎日もらえる無制限キャッシュバックあり！",
+      "選べる初回入金ボーナスは最大50,000円！",
+      "完全日本語対応の親切なカスタマーサポート",
     ],
     watchouts: [
-      "ボーナス規約（賭け条件・最大出金など）はやや複雑で要確認",
-      "出金時にKYCやターンオーバー（入金額の複数倍）等の条件あり",
-      "一部プロバイダー数が期待より少ない（ライブプロバイダーは6社）",
-      "出金手数料や特定条件下の上限に注意",
+      "ボーナスの賭け条件がやや厳しめ",
+      "決済方法の種類がやや少なめ",
+      "出金時に8%の手数料がかかる",
+      "出金には入金額の5倍の賭けが必要",
     ],
+    avatarSrc: "/assets/casino/live-casino-house.png",
+    avatarAlt: "Live casino houseのロゴ",
   },
   payments: {
     featured: [
       {
-        name: "VISA / MasterCard / JCB / AMEX",
-        icon: "",
-        href: "https://www.japanesecasino.com/payment/visa",
-        badge: "",
-        note: "主要カードでの入金に対応。即時〜数時間で反映する場合あり。",
-      },
-      {
-        name: "電子ウォレット（Payz / iWallet / MuchBetter / Vega Wallet）",
-        icon: "",
-        href: "https://www.japanesecasino.com/payment",
-        badge: "",
-        note: "入出金が速く便利。出金は通常数時間〜24時間が目安。",
-      },
-      {
-        name: "仮想通貨（BTC / ETH / USDT 等）",
-        icon: "",
-        href: "https://www.japanesecasino.com/crypto",
-        badge: "",
-        note: "複数通貨サポート。入金は即時〜数分、出金はネットワーク状況で数分〜24時間程度。",
-      },
-    ],
-    deposits: [
-      {
-        name: "VISA",
-        icon: "",
-        href: "",
-      },
-      {
-        name: "MasterCard",
-        icon: "",
-        href: "",
-      },
-      {
-        name: "JCB",
-        icon: "",
-        href: "",
-      },
-      {
-        name: "AstroPay",
-        icon: "",
-        href: "",
-      },
-      {
-        name: "Payz",
-        icon: "",
-        href: "https://www.japanesecasino.com/payment/payz",
-      },
-      {
-        name: "iWallet",
-        icon: "",
-        href: "https://www.japanesecasino.com/payment/iwallet",
-      },
-      {
-        name: "MuchBetter",
-        icon: "",
-        href: "https://www.japanesecasino.com/payment/muchbetter",
+        name: "銀行振込",
+        icon: "/assets/payments/bank-transfer.svg",
+        href: "https://casinotsu.com/payment/bank-transfer",
+        badge: "定番",
+        note: "日本のプレイヤーに安心の決済手段",
       },
       {
         name: "Vega Wallet",
-        icon: "",
-        href: "https://www.japanesecasino.com/payment/vega-wallet",
+        icon: "/assets/payments/vega-wallet.svg",
+        href: "https://casinotsu.com/payment/vega-wallet",
+        badge: "Eウォレット",
+        note: "スピーディーな入出金と低い最低入金額が魅力",
       },
       {
-        name: "銀行振込",
-        icon: "",
-        href: "https://www.japanesecasino.com/payment/bank-transfer",
+        name: "クレジットカード",
+        icon: "/assets/payments/visa.svg",
+        badge: "即時反映",
+        note: "主要ブランドに対応し手軽に入金可能",
       },
       {
-        name: "仮想通貨（BTC/ETH/USDT/その他）",
-        icon: "",
-        href: "https://www.japanesecasino.com/crypto",
+        name: "Bitcoin",
+        icon: "/assets/payments/bitcoin.svg",
+        href: "https://casinotsu.com/payment/bitcoin",
+        badge: "仮想通貨",
+        note: "主要な仮想通貨での入出金に対応",
       },
+    ],
+    deposits: [
+        { name: "ベガウォレット", icon: "/assets/payments/vega-wallet.svg", href: "https://casinotsu.com/payment/vega-wallet" },
+        { name: "クレジットカード (Visa, MasterCard, JCB, Amex, Discover)", icon: "/assets/payments/visa.svg" },
+        { name: "AstroPay Card" },
+        { name: "Payz", icon: "/assets/payments/payz.svg", href: "https://casinotsu.com/payment/payz" },
+        { name: "Neteller" },
+        { name: "Skrill" },
+        { name: "Venus Point", icon: "/assets/payments/venus-point.svg" },
+        { name: "iWallet", icon: "/assets/payments/iwallet.svg", href: "https://casinotsu.com/payment/iwallet" },
+        { name: "Jeton" },
+        { name: "仮想通貨 (Bitcoin, Litecoin, Ethereum, Bitcoin Cash, Ripple)", icon: "/assets/payments/bitcoin.svg" },
+        { name: "銀行振込", icon: "/assets/payments/bank-transfer.svg" },
+        { name: "PayPay" },
+        { name: "MoMo Pay" },
+        { name: "True Money" },
+        { name: "PromptPay" },
     ],
     withdrawals: [
-      {
-        name: "電子ウォレット（Payz / iWallet 等）",
-        icon: "",
-        href: "",
-      },
-      {
-        name: "銀行送金",
-        icon: "",
-        href: "https://www.japanesecasino.com/payment/bank-transfer",
-      },
-      {
-        name: "仮想通貨（BTC / USDT / ETH 等）",
-        icon: "",
-        href: "https://www.japanesecasino.com/crypto",
-      },
+        { name: "ベガウォレット", icon: "/assets/payments/vega-wallet.svg", href: "https://casinotsu.com/payment/vega-wallet" },
+        { name: "銀行振込", icon: "/assets/payments/bank-transfer.svg" },
+        { name: "仮想通貨 (Bitcoin, Litecoin, Ethereum, Bitcoin Cash, Ripple)", icon: "/assets/payments/bitcoin.svg" },
+        { name: "AstroPay Card" },
+        { name: "Payz", icon: "/assets/payments/payz.svg", href: "https://casinotsu.com/payment/payz" },
+        { name: "Neteller" },
+        { name: "Skrill" },
+        { name: "Venus Point", icon: "/assets/payments/venus-point.svg" },
+        { name: "iWallet", icon: "/assets/payments/iwallet.svg", href: "https://casinotsu.com/payment/iwallet" },
+        { name: "Jeton" },
     ],
     notes: [
-      "最低入金は概ね€10／$10（サービスや通貨による）。最低出金は一般に€50／$50。",
-      "出金処理は保留期間（0–72時間）を設ける場合あり。その後、選択手段により数時間〜数営業日で着金。",
-      "入金に使った方法へ出金するのが原則。新しい出金手段を使う場合は同手段で最低入金とターンオーバーが必要なことがある。",
-      "高額出金時はKYCの追加提出を求められる場合があり、処理に時間がかかる可能性あり。",
+      "全ての出金方法で8%の手数料が発生します。",
+      "出金申請の承認には、入金額の5倍以上を賭ける必要があります。",
+      "1日の出金限度額は$5,000ですが、月間限度額は日本円で21,750,000円と高額です。",
     ],
   },
   bonuses: {
     overview:
-      "Live Casino House は選べるウェルカム（ライブ専用 / スロット専用）をはじめ、入金不要ボーナス、毎日のリベートやキャッシュバック、TGIF等の曜日限定オファー、友達紹介プログラムなど多彩なプロモーションを提供します。各オファーは賭け条件、対象ゲーム、最大出金額が異なるため受取前に規約を確認してください。",
+      "ライブカジノハウスでは、プレイヤーのスタイルに合わせて選べるウェルカムボーナスや、毎日もらえるキャッシュバック、ユニークな『クエスト』機能など、多彩なプロモーションが用意されています。",
     noDeposit:
-      "$30 の入金不要ボーナスや特定スロットのフリースピンなどの入金不要オファーが存在します（時期・地域により変動）。",
+      "新規登録者限定で$30の入金不要ボーナスと、人気スロット『888 Dragons』で使える20回のフリースピンを進呈。入金前にカジノの雰囲気を試せる絶好の機会です。",
     extraSpins: {
       summary:
-        "フリースピンは登録時やウェルカム、期間限定プロモで配布される。段階的に日割りで付与されるケースがある。",
+        "入金不要ボーナスの一部として、20回のフリースピンが提供されます。",
       schedule: [
-        "登録特典：入金不要フリースピン（例：数十〜100回、案件により変動）",
-        "ウェルカム：合計で複数セットのフリースピン（例：20回×複数セット）",
+        "登録完了後、『888 Dragons』で20回分のフリースピンが利用可能",
       ],
-      warning:
-        "フリースピン勝利金は短い有効期限が設定されることがある（例：1日）。勝利金の賭け条件や最大出金上限に注意。",
+      warning: "フリースピンから得た勝利金には出金条件が適用されます。",
     },
     welcomeRows: [
-      {
-        depositNumber: "初回入金（ライブ専用）",
-        percent: "100%",
-        cap: "最大¥50,000",
-        code: "",
-      },
-      {
-        depositNumber: "初回入金（スロット専用）",
-        percent: "150%",
-        cap: "最大¥50,000",
-        code: "",
-      },
-      {
-        depositNumber: "2回目入金",
-        percent: "50%〜100%",
-        cap: "例：最大¥37,500",
-        code: "WC2",
-      },
-      {
-        depositNumber: "3回目入金",
-        percent: "50%",
-        cap: "例：最大¥37,500",
-        code: "WC3",
-      },
-      {
-        depositNumber: "4回目入金",
-        percent: "100%",
-        cap: "例：最大¥50,000",
-        code: "WC4",
-      },
+      { depositNumber: "初回（ライブカジノ用）", percent: "100%", cap: "¥50,000", code: "ボーナス受取ボタン" },
+      { depositNumber: "初回（スロット用）", percent: "150%", cap: "¥50,000", code: "ボーナス受取ボタン" },
     ],
     conditions: [
-      "ボーナスごとに賭け条件が異なるが、案内例ではボーナスに対して20〜50倍の設定がある（オファーごとに確認必須）。",
-      "フリースピンの勝利金は短期有効（例：1日）や高めの賭け条件（例：50x）が適用される場合がある。",
-      "ボーナス適用中の最大ベット額制限（例：145円相当や$3等）がある場合がある。",
-      "一部オファーは他のプロモーションと併用不可。",
+      "ライブカジノ専用ボーナスの賭け条件は20倍です。",
+      "スロット専用ボーナスの賭け条件は18倍です。",
+      "ボーナスマネーからの最大出金可能額は(入金額 + ボーナス額)の5倍、最大250,000円です。",
+      "他のオファーやクエスト機能との併用はできません。",
     ],
-    prohibitedGames: [],
+    prohibitedGames: [
+        "（ボーナスごとに利用可能なゲームタイプが指定されています）",
+    ],
   },
   offers: [
     {
-      title: "ライブ専用100%初回入金ボーナス（最大¥50,000）",
-      description:
-        "ライブゲーム向けの100%初回入金ボーナス。賭け条件や最大出金上限が適用されるため事前にプロモ規約を確認してください。",
-      highlight: "ライブ向けに最適化された初回ボーナス",
+      title: "毎日貰える無制限リベートボーナス",
+      description: "スロットゲームをプレイするだけで毎日リベートボーナスがもらえます。VIPレベルに応じて還元率がアップし、上限額に制限がないのが特徴です。",
+      highlight: "賭け条件1倍で上限なし！スロット好き必見の常設オファー",
     },
     {
-      title: "スロット専用150%初回入金ボーナス（最大¥50,000）",
-      description:
-        "スロットプレイヤー向けの高還元ウェルカム。賭け条件は比較的有利（例：18〜20倍の案内がある場合あり）。",
-      highlight: "スロット愛好家向けの高倍率ボーナス",
+      title: "毎日貰える無制限キャッシュバック",
+      description: "純損失額に応じて、毎日キャッシュバックが進呈されます。VIPランクによって還元率は最大9%（スロット）までアップし、こちらも上限額はありません。",
+      highlight: "賭け条件1倍！負けても毎日チャンスがある安心の制度",
     },
     {
-      title: "無制限リベート（毎日受取）",
-      description:
-        "スロットの賭けに対するリベートが毎日付与。VIPレベルに応じて還元率が上がり、賭け条件は軽微（例：1倍）。",
-      highlight: "自動反映・毎日受け取れるリベート",
+        title: "クエスト機能",
+        description: "ログインやゲームプレイなど、指定のタスクを達成することでポイントを獲得。集めたポイントは景品や現金と交換できる独自のシステムです。",
+        highlight: "遊べば遊ぶほどお得になるやり込み要素",
     },
     {
-      title: "無制限キャッシュバック（毎日）",
-      description:
-        "純損失に対するキャッシュバックを毎日付与。VIPランクにより最大スロット9%／ライブ5%などの還元がある。",
-      highlight: "毎日受け取れるキャッシュバック（条件あり）",
-    },
-    {
-      title: "TGIF 50%ボーナス（金曜限定）",
-      description:
-        "毎週金曜日限定の50%マッチボーナスで週末のプレイをブースト。条件はプロモ毎に異なる。",
-      highlight: "週末向けの限定オファー",
+        title: "お友達紹介プログラム",
+        description: "紹介した友達の損失額の一部がキャッシュバックとして毎日還元されます。紹介人数に応じて還元率もレベルアップします。",
     },
   ],
   facts: [
-    {
-      label: "名称",
-      value: "Live Casino House",
-    },
+    { label: "名称", value: "Live Casino House" },
     {
       label: "ローンチ",
-      value: "2018",
+      value: "2018年",
     },
+    { label: "運営会社", value: "Class Innovation B.V." },
+    { label: "ライセンス", value: "Anjouan Gaming License, Curacao (GCB), Philippines" },
+    { label: "VIPプログラム", value: "✅" },
     {
-      label: "評価点",
-      value: "4.1 / 5",
+      label: "対応言語",
+      value: "日本語、英語、その他",
     },
+    { label: "対応通貨", value: "JPY, USD, THB, VND" },
     {
-      label: "ウェルカムボーナス（要約）",
-      value: "ライブ専用100%最大¥50,000／スロット専用150%最大¥50,000（選択式）",
-    },
-    {
-      label: "リベート・キャッシュバック",
-      value: "毎日受取・VIPで還元率増加（スロット最大9%等）",
-    },
-    {
-      label: "ライセンス",
-      value: "Anjouan (Antillephone)、Curacao (GCB)、Philippines（案内）",
-    },
-    {
-      label: "運営会社",
-      value: "Class Innovation B.V.",
-    },
-    {
-      label: "ゲーム数",
-      value: "スロット3,000種類以上、ライブ180種類以上（案内）",
-    },
-    {
-      label: "プロバイダー",
+      label: "ゲームタイプ",
       value:
-        "Blueprint, Pragmatic Play, Play'n GO, Nolimit City, Octoplay, PG SOFT 等（合計36社以上の案内）",
+        "Baccarat, Blackjack, Craps, Game Shows, Live Casino, Poker, Roulette, Slots, Crash Games, Fishing Games",
     },
     {
-      label: "サポート",
-      value: "メール・チャット・LINE・電話（日本語対応）",
+      label: "ゲームプロバイダー",
+      value: (
+        <span>
+          <Link href="/providers/blueprint-gaming">Blueprint Gaming</Link>, <Link href="/providers/fa-chai-gaming">Fa Chai Gaming</Link>, <Link href="/providers/fantasma-games">Fantasma</Link>, <Link href="/providers/habanero">Habanero</Link>, <Link href="/providers/hacksaw-gaming">Hacksaw Gaming</Link>, <Link href="/providers/nolimit-city">Nolimit City</Link>, <Link href="/providers/octoplay">Octoplay</Link>, <Link href="/providers/pg-soft">PG SOFT</Link>, <Link href="/providers/play-n-go">Play’n GO</Link>, <Link href="/providers/pragmatic-play">Pragmatic Play</Link>, <Link href="/providers/relax-gaming">Relax</Link>, Evolution, We Gaming, WMCASINO, AE Sexy, and more.
+        </span>
+      ),
     },
+    { label: "最小入金額", value: "200円 (Vega Wallet)" },
+    { label: "最小出金額", value: "1,500円" },
+    { label: "電話サポート", value: "✅" },
+    { label: "メールサポート", value: "✅" },
+    { label: "Eメール", value: <Link href="mailto:support.jp@livecasinohouse.com">support.jp@livecasinohouse.com</Link> },
+    { label: "ライブチャット", value: "ライブチャットサポート (日本語対応 09:00～27:00)" },
+    { label: "スカイプサポート", value: "✅" },
   ],
   intro: {
     paragraphs: [
-      "CasinoTsu は、オンラインカジノのレビューと情報提供を行うアフィリエイトサイトです。当ページでは Live Casino House（ライブカジノハウス）について、ボーナス、ゲーム、入出金、サポート、セキュリティ、責任あるギャンブルまで網羅的に解説します。",
-      "ライブカジノに強みを持ちつつスロットやゲームショー等も充実している点が本カジノの特徴です。まずはお得なウェルカムや入金不要オファーをチェックしてみてください。",
+      "サイトの雰囲気はクラシックスタイル。種類豊富なゲーム、そして何より複数プロバイダーのライブカジノが楽しめるオンラインカジノ、それがライブカジノハウス（Live Casino House）です！",
+      "このライブカジノハウスは、その名の通り、ライブカジノを『売り』としてスタートしたカジノなのです。最近はライブカジノだけに集中しているわけではなく、スロット、クラッシュゲーム、釣りゲームなどの幅広いゲームもバランスよく取り揃えています。",
+      "そんなライブカジノハウスの特徴や強みを、CasinoTsu と一緒に見ていきましょう！",
     ],
     ctas: [
-      {
-        text: "今すぐプレイ！",
-        href: "https://go.japanesecasino.com/go/live-casino-house:live-casino-house?referrer_path=%2Freviews%2Flive-casino-house",
-      },
-      {
-        text: "ボーナスを確認する",
-        href: "https://www.japanesecasino.com/bonuses/welcome-bonus",
-      },
+      { text: "👉 ライブカジノハウスはこちら！ CasinoTsu 推薦リンク", href: "https://go.japanesecasino.com/go/live-casino-house" },
+      { text: "🤓 これからオンカジを始める初心者必見！カジノガイド", href: "https://www.japanesecasino.com/guides" },
     ],
   },
   games: [
-    "スロット（メガウェイズ・ボーナス購入・ホールド＆ウィン等、3,000種超）",
-    "ライブカジノ（Evolution、Pragmatic Play 等を含むライブ180種以上）",
-    "テーブルゲーム（ブラックジャック、バカラ、ルーレット等）",
-    "ゲームショー・クラッシュ・釣りゲーム・ビデオポーカー・ジャックポット",
-    "スポーツベット・バーチャルスポーツ",
+    "ライブカジノハウスは、その名の通りライブカジノに力を入れており、EvolutionやPragmatic Playといった王道から、We GamingやWMCASINOのような珍しいプロバイダーまで合計6社のゲームを提供しています。",
+    "ライブカジノ以外も充実しており、スロットは3,000種類以上、さらにクラッシュゲーム、テーブルゲーム、釣りゲームなど、3,500種類以上の多彩なゲームラインナップを誇ります。",
   ],
   features: [
-    "選べるウェルカム（ライブ専用／スロット専用）",
-    "毎日受け取れるリベートおよびキャッシュバック（VIPで還元率増）",
-    "使いやすいゲーム検索・フィルター機能",
-    "日本語サポート（チャット・LINE・メール・電話）",
-    "モバイル即時プレイ（ブラウザ最適化）",
+    "サイトデザインはクラシックで非常にシンプル。分かりやすく、シックなカジノらしさが出ています。",
+    "見た目だけでなく機能性も高く、特にチャットウィンドウやゲーム検索フィルターが整理されており、目的のゲームにすぐアクセスできる点も高評価です。",
   ],
+  editorial: {
+    author: "Nanami",
+    profileHref: "/authors/rina-okabe",
+    hook: "ライブカジノ好きにはたまらないラインナップ！でも、出金条件の厳しさは覚悟が必要かも。",
+    theGoodStuff: "6社のライブカジノプロバイダーと3,000以上のスロットは、ゲーム好きには申し分ない品揃えです。完全日本語対応の親切なサポートも、安心して遊べる大きなポイントです。",
+    theHeadsUp: "一番の注意点は、出金に入金額の5倍の賭けが必要なことと、8%の手数料がかかること。これを厳しいと感じるプレイヤーは多いでしょう。ボーナス条件もよく確認が必要です。",
+    finalThought: "出金条件のハードルはありますが、それを補って余りあるゲームの多様性と充実したプロモーションが魅力です。特に珍しいライブカジノを試したい方には、一度は訪れてみてほしいカジノです。",
+  },
+  longform: {
+    kicker: "CasinoTsuレビュー",
+    title: "編集部による詳説",
+    paragraphs: [
+      "CasinoTsuがライブカジノハウスをレビューする上で最も注目したのは、やはりその名の通りのライブカジノの充実度です。Evolutionなどの大手はもちろん、他ではあまり見かけないWMCASINOやAE Sexyといったプロバイダーのテーブルも楽しめるのは、ライブゲームファンにとって大きな魅力と言えるでしょう。現在6社と、以前よりは減ったものの、ユニークな選択肢を提供している点は高く評価できます。",
+      "ライブカジノだけでなく、スロットやその他のゲームも3,500種類以上と豊富で、バランスの取れたゲームライブラリを構築しています。サイトはクラシックでシンプルなデザインながら、検索機能などが使いやすく、ストレスなくゲームを探せます。",
+      "ボーナス面では、ライブカジノ用とスロット用から選べる初回入金ボーナスに加え、上限なしの毎日もらえるキャッシュバックやリベート、独自のクエスト機能など、プレイヤーを飽きさせない工夫が随所に見られます。",
+      "しかし、手放しでおすすめできない点もあります。最大の懸念は出金条件の厳しさです。入金額の5倍を賭けなければ出金できず、さらに全ての出金に8%の手数料がかかるというルールは、他の多くのカジノと比較してプレイヤーに不利な条件です。この点を許容できるかどうかが、このカジノを選ぶ上での大きな分かれ目になるでしょう。",
+      "サポート体制は素晴らしく、日本語ネイティブによる丁寧な対応が長時間受けられます。LINEや電話にも対応しているため、初心者でも安心して利用できます。",
+      "総じて、ライブカジノハウスは厳しい出金条件という大きなデメリットを抱えつつも、それを上回るかもしれないゲームの多様性と強力な日本語サポート、ユニークなプロモーションを持つカジノです。特にライブカジノの新しい体験を求めるプレイヤーには、試してみる価値があるでしょう。",
+    ],
+  },
   security: [
-    "ライセンス情報：Anjouan (Antillephone)、Curacao (GCB)、Philippines（案内）",
-    "運営：Class Innovation B.V.",
-    "通信保護：SSL暗号化採用",
-    "ゲームの公平性：RNG採用、第三者認証（iTech‑Labs等の案内あり）",
-    "KYC：出金時の本人確認を実施（身分証・住所確認など）",
+    "Anjouan, Curacao (GCB), Philippinesの3つの信頼性が高いライセンスを取得",
+    "運営会社はキュラソー拠点のClass Innovation B.V.",
+    "128ビットのSSL暗号化通信方式で個人情報と決済情報を保護",
+    "全てのゲームにRNG（乱数発生器）を使用し、iTech-Labsの認証も受けて公平性を確保",
   ],
   responsiblePlay: [
-    "入金制限（Deposit Limits）",
-    "賭け金制限（Wager Limits）",
-    "損失制限（Loss Limits）",
-    "セッション制限／リアリティチェック",
-    "自己排除（Self‑Exclusion）",
-    "出金ロック／クールダウン",
+    "ログイン制限: カスタマーサポートへの連絡により、一定期間のログインを制限可能",
+    "自己制限: ギャンブル行動をコントロールするための制限設定が可能",
+    "（詳細は利用規約の「責任あるプレイ」で確認できます）",
   ],
   complaintStats: [
-    "一部ユーザーから出金遅延やKYC手続きの遅延に関する報告あり",
-    "ボーナス条件（高倍率）に関する問い合わせが多い",
+    "（公的な苦情統計データは提供されていません）",
   ],
-  awards: [],
-  restrictedCountries: [],
+  awards: [
+    "（特筆すべき受賞歴はありません）",
+  ],
+  restrictedCountries: [
+    "（公式サイトに明確なリストは提供されていません）",
+  ],
   userConcerns: [
-    "ボーナス規約や最大出金上限が複雑で分かりにくい点",
-    "高額出金時のKYCトリガーと処理遅延の報告",
-    "ライブプロバイダーの数は期待より少ないとの指摘",
+    "出金条件の厳しさ: 入金額の5倍の賭けが必要な点は、多くのプレイヤーから厳しいとの声が上がっています。",
+    "出金手数料: 全ての出金に一律8%の手数料がかかる点は大きなデメリットです。",
+    "ゲームプレイ中の接続問題: ユーザーレポートによると、プレイ中に通信や再接続の問題が発生することがあるようです。",
   ],
   summary: [
-    "Live Casino House はライブカジノを軸に豊富なスロット、ゲームショー、クラッシュなどを揃えた総合型カジノです。日本語サポートや多様な決済、選べるウェルカムなどプレイヤー向けの利便性が高い点を評価します。",
-    "一方でボーナスの賭け条件や出金ルールはやや厳しめで、KYCや出金処理で時間を要するケースがあるため、受け取る前にプロモ規約と出金ルールを必ず確認してから利用することを推奨します。",
-    "総合的に見て、ライブゲーム好き・幅広いゲームを求めるプレイヤーには魅力的なカジノですが、リスク管理（少額から試す、KYC準備）を徹底して利用ください。",
+    "ライブカジノハウスは、テーブルゲームと3,000以上のスロットをバランス良く提供しており、ゲームの充実度は素晴らしいです。",
+    "プレイヤーに嬉しいボーナスも盛りだくさんで、口コミや評判も全体的に良好です。特に、プロバイダーごとに見やすく分けられたライブカジノのインターフェースは高く評価できます。",
+    "厳しい出金条件は注意が必要ですが、いつものライブカジノに飽き気味という方には、ぜひ試していただきたいオンラインカジノです。",
   ],
   extraLinks: [
-    {
-      text: "Live Casino House 公式（CasinoTsu 経由）",
-      href: "https://go.japanesecasino.com/go/live-casino-house:live-casino-house?referrer_path=%2Freviews%2Flive-casino-house",
-    },
-    {
-      text: "ライブカジノ／RNG 解説（CasinoTsu）",
-      href: "https://www.japanesecasino.com/guides/rng-explained",
-    },
-    {
-      text: "CasinoTsu 入出金方法 解説",
-      href: "https://www.japanesecasino.com/payment",
-    },
-    {
-      text: "Cookies Policy",
-      href: "https://www.japanesecasino.com/about/cookie-policy",
-    },
+    { text: "🤔 出金条件が甘いボーナスはどこ？", href: "https://www.japanesecasino.com/bonuses/low-wagering" },
+    { text: "🌟 VIP特典を狙うならこのカジノ！", href: "https://www.japanesecasino.com/bonuses/vip" },
   ],
   faq: [
     {
-      question: "ライブプロバイダーは何社利用できますか？",
-      answer:
-        "現在、ライブカジノプロバイダーは6社を導入しています（Evolution、Pragmatic Play 等を含む）。",
+      question: "ライブカジノハウスでは何社のプロバイダーのライブカジノが楽しめますか？",
+      answer: "現在、6社のライブカジノプロバイダーのゲームをプレイ可能です。大手だけでなく、珍しいプロバイダーも含まれています。",
     },
     {
-      question: "初回入金ボーナスはどのような種類がありますか？",
-      answer:
-        "ライブ専用100%（最大¥50,000）とスロット専用150%（最大¥50,000）など、選べるウェルカムオファーを用意しています。",
+      question: "ライブカジノハウスのウェルカムボーナスは何ですか？",
+      answer: "ライブカジノ用（100%最大¥50,000）とスロット用（150%最大¥50,000）の2種類から選べる初回入金ボーナスがあります。また、別途$30の入金不要ボーナスも提供されています。",
     },
     {
-      question: "出金前に本人確認は必要ですか？",
-      answer:
-        "はい。出金申請時や高額出金時にKYC（身分証、住所確認、決済方法の証明等）の提出が求められます。",
+      question: "カスタマーサポートの特徴はありますか？",
+      answer: "日本語ネイティブによるメールとライブチャットサポートに加え、LINEや電話での問い合わせも可能です。対応時間が長く、丁寧なことで評判です。",
     },
     {
-      question: "リベートやキャッシュバックは受け取れますか？",
-      answer:
-        "はい。毎日自動で反映されるリベートやキャッシュバックがあり、VIPレベルにより還元率が増加します。",
+        question: "ライブカジノハウスでは、仮想通貨を決済に利用することは可能ですか？",
+        answer: "はい、ビットコイン、ライトコイン、イーサリアム、ビットコインキャッシュ、リップルなどの主要な仮想通貨での入出金が可能です。",
     },
   ],
   cta: {
-    text: "Live Casino House で遊ぶ",
-    href: "https://go.japanesecasino.com/go/live-casino-house:live-casino-house?referrer_path=%2Freviews%2Flive-casino-house",
+    text: "今すぐライブカジノハウスでプレイ！",
+    href: "https://go.japanesecasino.com/go/live-casino-house:live-casino-house",
   },
-  textBlocks: [],
+    images: {
+    casino: [
+      "/assets/casino/live-casino-house.png",
+      "/assets/casino/live-casino-house.jpg",
+    ],
+  },
 };

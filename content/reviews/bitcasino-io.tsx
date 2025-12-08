@@ -42,6 +42,8 @@ export const reviewBitcasinoIo: ReviewPageContent = {
       "デスクトップ版サイトの動作が重くなる場合がある",
       "ウェルカムボーナスの賭け条件が40倍とやや高め",
     ],
+    avatarSrc: "/assets/casino/bitcasinoio.png",
+    avatarAlt: "Bitcasino ioのロゴ",
   },
   payments: {
     featured: [
@@ -214,7 +216,7 @@ export const reviewBitcasinoIo: ReviewPageContent = {
   ],
   editorial: {
     author: "Kotone",
-    profileHref: "/authors/kotone",
+    profileHref: "/authors/rina-okabe",
     hook: "元祖仮想通貨カジノの看板は伊達じゃない。ユーザー第一主義を貫く機能性と信頼性が最大の魅力です。",
     theGoodStuff: "仮想通貨での平均2分という驚異的な出金スピードと、原則KYC不要という手軽さは他の追随を許しません。ライブRTP機能や賭け条件なしのロイヤリティ報酬など、プレイヤーにとって本当に価値のあるサービスを提供しようという姿勢が随所に見られます。",
     theHeadsUp: "ウェルカムボーナスの賭け条件が40倍と少し厳しい点と、デスクトップ版サイトが時々重く感じられる点が改善点です。また、クレジットカードで直接入金できないため、初心者には少しハードルが高いかもしれません。",
@@ -281,5 +283,12 @@ export const reviewBitcasinoIo: ReviewPageContent = {
   cta: {
     text: "ビットカジノで遊んでみる♪",
     href: "https://go.casinotsu.com/go/bitcasino-io",
+  },
+    images: {
+    casino: [
+      "/assets/casino/bitcasinoio.png",
+      "/assets/jp/bitcasino-io.png",
+      "/assets/casino/bitcasinoio.jpg",
+    ],
   },
 };

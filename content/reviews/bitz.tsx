@@ -41,6 +41,8 @@ export const reviewBitz: ReviewPageContent = {
       "サイト内の日本語に時折不自然な箇所が見られる",
       "決済は仮想通貨がメインで日本円には非対応",
     ],
+    avatarSrc: "/assets/casino/bitz.png",
+    avatarAlt: "Bitzのロゴ",
   },
   payments: {
     featured: [
@@ -193,7 +195,7 @@ export const reviewBitz: ReviewPageContent = {
   ],
   editorial: {
     author: "Nanami",
-    profileHref: "/authors/nanami",
+    profileHref: "/authors/rina-okabe",
     hook: "匿名性の高さとユニークなボーナスが光る、初心者から上級者まで楽しめるクリプトカジノです。",
     theGoodStuff: "登録から出金まで本人確認書類が不要という手軽さと、プライバシーが保護される安心感は最大の魅力です。RTP98%の独占ゲームや賭け条件なしのキャッシュバックは、プレイヤーにとって非常に有利な条件と言えます。",
     theHeadsUp: "新しいカジノであるため、サイトの日本語訳に不自然な部分が見られたり、ゲームカテゴリーの整理が不十分な点があります。今後の改善に期待したいところです。",

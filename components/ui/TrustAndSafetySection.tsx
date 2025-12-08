@@ -1,11 +1,59 @@
 import SectionTitle from "./SectionTitle";
 import { ShieldCheck, Lock, CheckCircle2, AlertTriangle, BadgeCheck } from "lucide-react";
 
-export default function TrustAndSafetySection({ fullWidth = false }: { fullWidth?: boolean }) {
+export default function TrustAndSafetySection() {
   return (
-    <section className="bg-gradient-to-b from-white to-gray-50">
-      <div className={`${fullWidth ? "w-full max-w-none" : "container mx-auto"} px-4 py-10`}>
-        <SectionTitle subtitle="安心・安全" title="Trust & Safety" />
+    <section>
+      <div>
+        <SectionTitle
+          subtitle="安心・安全 🛡️"
+          title="オンラインカジノの安全性はどうですか？"
+          as="h2"
+        />
+
+        <div className="mt-6 bg-blue-50 rounded-lg p-6">
+          <div className="space-y-4">
+            <p className="text-gray-800 leading-relaxed">
+              <strong>当サイトで紹介するオンラインカジノは、厳格な安全基準をクリアしています。</strong>
+              マルタ、英国、キュラソーなどの信頼できるライセンスを取得し、SSL暗号化、第三者監査、
+              責任あるギャンブルツールを完備。プレイヤーの資金と個人情報を確実に保護しています。
+            </p>
+
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mt-4">
+              <div className="bg-white rounded-lg p-4">
+                <h4 className="font-bold text-gray-900 mb-2 flex items-center gap-2">
+                  <BadgeCheck className="h-4 w-4 text-green-600" />
+                  ライセンス検証済みカジノ
+                </h4>
+                <ul className="text-sm text-gray-700 space-y-1">
+                  <li>• Wonder Casino - <a href="https://www.mga.org.mt/support/online-gaming-licence-verification/" target="_blank" rel="noopener" className="text-blue-600 hover:underline">マルタライセンス MGA/B2C/394/2017</a></li>
+                  <li>• Mystino - <a href="https://validator.antillephone.com/validate?domain=mystino.com" target="_blank" rel="noopener" className="text-blue-600 hover:underline">キュラソーライセンス 8048/JAZ2020-013</a></li>
+                  <li>• Eldoah Casino - <a href="https://validator.antillephone.com/validate?domain=eldoah.com" target="_blank" rel="noopener" className="text-blue-600 hover:underline">キュラソーライセンス 8048/JAZ2018-040</a></li>
+                </ul>
+              </div>
+
+              <div className="bg-white rounded-lg p-4">
+                <h4 className="font-bold text-gray-900 mb-2 flex items-center gap-2">
+                  <CheckCircle2 className="h-4 w-4 text-green-600" />
+                  セキュリティ認証
+                </h4>
+                <ul className="text-sm text-gray-700 space-y-1">
+                  <li>• SSL/TLS 256ビット暗号化</li>
+                  <li>• eCOGRA認定済み</li>
+                  <li>• RNG第三者監査実施</li>
+                  <li>• プレイヤー資金分離保管</li>
+                </ul>
+              </div>
+            </div>
+
+            <p className="text-gray-700 text-sm mt-4">
+              <strong>当サイトの安全性評価プロセス：</strong>
+              各カジノのライセンス有効性を月次で確認し、セキュリティ証明書の更新状況、
+              第三者監査レポート、プレイヤー苦情の解決状況を継続的に監視しています。
+              問題が発見された場合は即座に警告表示または推奨リストから除外します。
+            </p>
+          </div>
+        </div>
 
         {/* Top badges */}
         <div className="mt-4 grid grid-cols-1 sm:grid-cols-3 gap-4">
@@ -35,7 +83,7 @@ export default function TrustAndSafetySection({ fullWidth = false }: { fullWidth
 
         {/* Licensing + more info */}
         <div className="mt-8 grid grid-cols-1 lg:grid-cols-2 gap-8">
-          <div className="space-y-4 text-gray-700 leading-relaxed bg-white rounded-lg border p-5">
+          <div className="space-y-4 text-gray-700 leading-relaxed bg-white rounded-lg border-gray-200 border p-5">
             <h3 className="text-lg font-bold text-gray-900 flex items-center gap-2">
               <ShieldCheck className="h-5 w-5 text-red-600" /> ライセンス・認証機関
             </h3>
@@ -47,7 +95,7 @@ export default function TrustAndSafetySection({ fullWidth = false }: { fullWidth
               詳しくは <a href="/info/responsible-gambling" className="text-red-600 hover:text-gray-600 font-semibold">責任あるギャンブル</a> をご確認ください。
             </p>
           </div>
-          <div className="space-y-4 text-gray-700 leading-relaxed bg-white rounded-lg border p-5">
+          <div className="space-y-4 text-gray-700 leading-relaxed bg-white rounded-lg border-gray-200 border p-5">
             <h3 className="text-lg font-bold text-gray-900 flex items-center gap-2">
               <AlertTriangle className="h-5 w-5 text-red-600" /> 免責事項
             </h3>
@@ -63,7 +111,7 @@ export default function TrustAndSafetySection({ fullWidth = false }: { fullWidth
 
 function Badge({ title, icon }: { title: string; icon: React.ReactNode }) {
   return (
-    <div className="flex items-center gap-2 bg-white border rounded-full px-3 py-2 shadow-sm">
+    <div className="flex items-center gap-2 bg-white border-gray-200 border rounded-full px-3 py-2 shadow-sm">
       <span className="text-red-600">{icon}</span>
       <span className="text-sm font-semibold text-gray-800">{title}</span>
     </div>
@@ -72,7 +120,7 @@ function Badge({ title, icon }: { title: string; icon: React.ReactNode }) {
 
 function Card({ title, icon, items }: { title: string; icon: React.ReactNode; items: string[] }) {
   return (
-    <div className="bg-white rounded-lg border p-5 shadow-sm">
+    <div className="bg-white rounded-lg border-gray-200 border p-5 shadow-sm">
       <div className="flex items-center gap-2 mb-3">
         {icon}
         <h4 className="font-bold text-gray-900">{title}</h4>

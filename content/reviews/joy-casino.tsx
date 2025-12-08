@@ -23,6 +23,8 @@ export const reviewJoyCasino: ReviewPageContent = {
       "出金やアカウント認証に関する苦情が一部報告されている",
       "サポート対応は概ね良好だがオペレーター個人差がある",
     ],
+    avatarSrc: "/assets/casino/joy-casino.png",
+    avatarAlt: "Joy casinoのロゴ",
   },
   payments: {
     featured: [

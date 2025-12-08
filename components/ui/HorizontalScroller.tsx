@@ -56,7 +56,7 @@ export default function HorizontalScroller({ children, className = "", itemGapCl
       <button
         type="button"
         aria-label="previous"
-        className={`absolute left-0 top-1/2 -translate-y-1/2 z-10 m-1 rounded-full bg-[#4392f1] text-white border border-[#4392f1] hover:bg-[#2f80e6] shadow p-2 transition-opacity ${
+        className={`absolute left-0 top-1/2 -translate-y-1/2 z-10 m-1 rounded-full bg-brand text-white border border-brand hover:bg-brand-hover shadow p-2 transition-opacity ${
           atStart ? "opacity-0 pointer-events-none" : "opacity-100"
         }`}
         onClick={() => scrollBy(-1)}
@@ -68,7 +68,7 @@ export default function HorizontalScroller({ children, className = "", itemGapCl
       <button
         type="button"
         aria-label="next"
-        className={`absolute right-0 top-1/2 -translate-y-1/2 z-10 m-1 rounded-full bg-[#4392f1] text-white border border-[#4392f1] hover:bg-[#2f80e6] shadow p-2 transition-opacity ${
+        className={`absolute right-0 top-1/2 -translate-y-1/2 z-10 m-1 rounded-full bg-brand text-white border border-brand hover:bg-brand-hover shadow p-2 transition-opacity ${
           atEnd ? "opacity-0 pointer-events-none" : "opacity-100"
         }`}
         onClick={() => scrollBy(1)}

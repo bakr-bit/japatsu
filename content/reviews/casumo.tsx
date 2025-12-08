@@ -42,6 +42,8 @@ export const reviewCasumo: ReviewPageContent = {
       "VIPプログラムは招待制",
       "ウェルカムボーナスの最低入金額が$50と高め",
     ],
+    avatarSrc: "/assets/casino/casumo.png",
+    avatarAlt: "Casumoのロゴ",
   },
   payments: {
     featured: [

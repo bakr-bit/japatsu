@@ -41,6 +41,8 @@ export const reviewCosmoswin: ReviewPageContent = {
       "公式サイトでは通常ウェルカムボーナスがない",
       "日本語サポートが時間帯により翻訳対応になる",
     ],
+    avatarSrc: "/assets/casino/cosmoswin.png",
+    avatarAlt: "Cosmowinのロゴ",
   },
   payments: {
     featured: [

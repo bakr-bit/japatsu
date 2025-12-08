@@ -41,6 +41,8 @@ export const review21Com: ReviewPageContent = {
       "賭け条件が50倍と厳しめ",
       "入出金時に手数料が発生する場合がある",
     ],
+    avatarSrc: "/assets/casino/21com.png",
+    avatarAlt: "21.comのロゴ",
   },
   payments: {
     featured: [
@@ -352,5 +354,11 @@ export const review21Com: ReviewPageContent = {
   cta: {
     text: "詳しいボーナス条件と最新キャンペーンを確認する",
     href: "https://www.japanesecasino.com/reviews/21-com",
+  },
+    images: {
+    casino: [
+      "/assets/casino/21com.jpg",
+      "/assets/casino/21com.png",
+    ],
   },
 };

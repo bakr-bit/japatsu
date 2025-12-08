@@ -42,6 +42,8 @@ export const reviewCybet: ReviewPageContent = {
       "ゲーム数が約700種類とまだ少ない",
       "責任あるギャンブルに関する専用ページがない",
     ],
+    avatarSrc: "/assets/casino/cybet.png",
+    avatarAlt: "Cybetのロゴ",
   },
   payments: {
     featured: [
@@ -197,7 +199,7 @@ export const reviewCybet: ReviewPageContent = {
   ],
   editorial: {
     author: "Nanami",
-    profileHref: "/authors/nanami",
+    profileHref: "/authors/rina-okabe",
     hook: "AIサポートで人件費を削り、その分をプレイヤーに還元するという、非常に効率的な運営方針が印象的です。",
     theGoodStuff: "RTP99%のオリジナルゲームや、ハウスエッジの20%が戻ってくるレーキバックは、プレイヤーにとって大きなメリットです。運営の効率化が、直接的な高還元率につながっている点は高く評価できます。",
     theHeadsUp: "一方で、サイトが英語のみであること、ゲーム数が少ないこと、プロバイダー検索機能が使いにくいことなど、発展途上な面も目立ちます。特に、責任あるギャンブルに関するページが一切ないのは早急な改善が必要です。",
@@ -276,5 +278,11 @@ export const reviewCybet: ReviewPageContent = {
   cta: {
     text: "これからの進化が気になるクリプトカジノで遊んでみる！",
     href: "https://go.japanesecasino.com/go/cybet",
+  },
+    images: {
+    casino: [
+      "/assets/casino/cybet.jpg",
+      "/assets/casino/cybet.png",
+    ],
   },
 };

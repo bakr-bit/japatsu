@@ -42,6 +42,8 @@ export const reviewKonibet: ReviewPageContent = {
       "一部の海外レビューサイトで出金関連の低評価が見られる",
       "クレジットカード入金に非対応",
     ],
+    avatarSrc: "/assets/casino/konibet.png",
+    avatarAlt: "Konibetのロゴ",
   },
   payments: {
     featured: [
@@ -258,5 +260,12 @@ export const reviewKonibet: ReviewPageContent = {
   cta: {
     text: "コニベットでパチンコもカジノも楽しむ！",
     href: "https://go.japanesecasino.com/go/konibet:konibet?referrer_path=%2Freviews%2Fkonibet",
+  },
+    images: {
+    casino: [
+      "/assets/casino/konibet.png",
+      "/assets/jp/konibet.png",
+      "/assets/casino/konibet.jpg",
+    ],
   },
 };

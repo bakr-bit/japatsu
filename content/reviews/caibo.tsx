@@ -43,6 +43,8 @@ export const reviewCaibo: ReviewPageContent = {
       "不公平な規約（低リスクベットで賞金没収の可能性）が存在する",
       "賭け条件が45倍と厳しい",
     ],
+    avatarSrc: "/assets/casino/caibofun.png",
+    avatarAlt: "Caiboのロゴ",
   },
   payments: {
     featured: [

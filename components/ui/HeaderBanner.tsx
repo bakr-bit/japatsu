@@ -15,6 +15,8 @@ type HeaderBannerProps = {
   menuItems?: BannerMenuItem[];
   avatarSrc?: string;
   avatarAlt?: string;
+  logoSrc?: string;
+  logoAlt?: string;
   cta?: {
     href: string;
     label: string;
@@ -51,6 +53,8 @@ export default function HeaderBanner({
   menuItems = [],
   avatarSrc,
   avatarAlt = "",
+  logoSrc,
+  logoAlt = "",
   cta,
   leftImageSrc,
   leftImageAlt = "",
@@ -127,9 +131,42 @@ export default function HeaderBanner({
   })();
   return (
     <div
-      className={`banner-wrapper relative overflow-hidden py-10 ${theme.bg} ${className}`}
-      style={{ backgroundColor: theme.bgColor }}
+      className={`banner-wrapper relative overflow-hidden py-10 ${logoSrc ? 'bg-gray-100' : theme.bg} ${className}`}
+      style={{ backgroundColor: logoSrc ? '#f8fafc' : theme.bgColor }}
     >
+      {/* Logo Background - heavily blurred */}
+      {logoSrc ? (
+        <>
+          {/* Main blurred background */}
+          <div
+            className="absolute inset-0"
+            style={{
+              backgroundImage: `url(${logoSrc})`,
+              backgroundSize: 'cover',
+              backgroundRepeat: 'no-repeat',
+              backgroundPosition: 'center',
+              filter: 'blur(30px) saturate(1.5) brightness(1.1)',
+              opacity: 0.15,
+              transform: 'scale(1.1)',
+            }}
+          />
+          {/* Secondary pattern layer */}
+          <div
+            className="absolute inset-0"
+            style={{
+              backgroundImage: `url(${logoSrc})`,
+              backgroundSize: '200px 200px',
+              backgroundRepeat: 'repeat',
+              backgroundPosition: '0 0',
+              filter: 'blur(15px) saturate(0.8)',
+              opacity: 0.08,
+            }}
+          />
+          {/* Subtle gradient overlay for text readability */}
+          <div className="absolute inset-0 bg-gradient-to-br from-white/70 via-white/50 to-white/30" />
+        </>
+      ) : null}
+
       {/* Decorative flanking images */}
       {leftImageSrc ? (
         <div
@@ -149,14 +186,28 @@ export default function HeaderBanner({
       ) : null}
 
       {/* Content */}
-      <div className={`container mx-auto px-4 text-center ${containerClassName}`}>
+      <div className={`relative container mx-auto px-4 text-center ${containerClassName}`}>
+        {/* Casino Logo - centered above text */}
+        {logoSrc ? (
+          <div className="mb-6 flex justify-center">
+            {/* eslint-disable-next-line @next/next/no-img-element */}
+            <img
+              src={logoSrc}
+              alt={logoAlt || title}
+              className="h-32 w-32 md:h-40 md:w-40 rounded-full object-contain bg-white p-4 border-4 border-white/80 shadow-xl"
+              loading="eager"
+            />
+          </div>
+        ) : null}
+
+        {/* Text content - always centered */}
         <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-gray-900">
           {title}
         </h1>
         {subheading ? (
-          <span className="h2 d-block text-2xl sm:text-3xl font-semibold mt-2 text-gray-800">
+          <h2 className="text-2xl sm:text-3xl font-semibold mt-2 text-gray-800">
             {subheading}
-          </span>
+          </h2>
         ) : null}
         {description ? (
           <p className="mb-0 mt-3 text-gray-700 max-w-3xl mx-auto leading-relaxed">
@@ -164,7 +215,8 @@ export default function HeaderBanner({
           </p>
         ) : null}
 
-        {avatarSrc ? (
+        {/* Avatar - circular display (fallback if no logo) */}
+        {avatarSrc && !logoSrc ? (
           <div className="mt-6 flex justify-center">
             {/* eslint-disable-next-line @next/next/no-img-element */}
             <img

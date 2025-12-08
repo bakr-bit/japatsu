@@ -43,6 +43,8 @@ export const reviewBons: ReviewPageContent = {
       "外部サイトでの安全性評価が平均以下との指摘あり",
       "出金遅延（特に銀行振込）の報告が一部で見られる",
     ],
+    avatarSrc: "/assets/casino/bonscom.png",
+    avatarAlt: "Bonsのロゴ",
   },
   payments: {
     featured: [
@@ -308,5 +310,12 @@ export const reviewBons: ReviewPageContent = {
   cta: {
     text: "限定ボーナスでボンズカジノを試してみる！",
     href: "https://go.casinotsu.com/go/bons-com",
+  },
+    images: {
+    casino: [
+      "/assets/casino/bonscom.png",
+      "/assets/casinos/bons_375x375-1.png",
+      "/assets/casino/bonscom.jpg",
+    ],
   },
 };

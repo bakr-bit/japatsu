@@ -41,6 +41,8 @@ export const reviewConquestador: ReviewPageContent = {
       "システム不良やアカウント認証に時間がかかるとの評判あり",
       "登録時の入力項目が他のカジノに比べて多い",
     ],
+    avatarSrc: "/assets/casino/conquestador.png",
+    avatarAlt: "Conquestadorのロゴ",
   },
   payments: {
     featured: [
@@ -232,7 +234,7 @@ export const reviewConquestador: ReviewPageContent = {
   ],
   editorial: {
     author: "Momo",
-    profileHref: "/authors/momo",
+    profileHref: "/authors/rina-okabe",
     hook: "ボーナスは超豪華ですが、その分、規約の複雑さには注意が必要です。冒険好きなプレイヤーにぴったりのカジノですね。",
     theGoodStuff: "最大¥399,000というウェルカムボーナスの規模は圧巻です。さらにCasinoTsu限定の入金不要ボーナスもあり、スタートダッシュを切りやすいのは大きな魅力。高機能なゲーム検索フィルターも素晴らしく、ストレスなく遊びたいゲームに辿り着けます。",
     theHeadsUp: "一方で、ボーナスの種類が多い分、それぞれの利用規約が少し分かりにくいと感じるかもしれません。特に、フリースピンの付与条件など、細かいルールを事前にしっかり確認することが重要です。",

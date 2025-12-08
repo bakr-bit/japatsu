@@ -42,6 +42,8 @@ export const reviewJustspin: ReviewPageContent = {
       "入出金時に手数料が発生する",
       "一部のプレイヤーから出金遅延の報告あり",
     ],
+    avatarSrc: "/assets/casino/justspin.png",
+    avatarAlt: "Just spinのロゴ",
   },
   payments: {
     featured: [

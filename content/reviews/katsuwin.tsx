@@ -42,6 +42,8 @@ export const reviewKatsuwin: ReviewPageContent = {
       "サイトの表示速度が遅くなることがある",
       "責任あるギャンブル機能が限定的",
     ],
+    avatarSrc: "/assets/casino/katsuwin.png",
+    avatarAlt: "Katsuwinのロゴ",
   },
   payments: {
     featured: [
@@ -216,7 +218,7 @@ export const reviewKatsuwin: ReviewPageContent = {
   ],
   editorial: {
     author: "Nanami",
-    profileHref: "https://casinotsu.com/authors/nanami",
+    profileHref: "/authors/rina-okabe",
     hook: "賭け条件8倍の¥5,000入金不要ボーナスは破格！パチンコ・パチスロ好きなら見逃せないカジノです。",
     theGoodStuff: "なんといっても業界トップクラスのパチンコ・パチスロの品揃えが魅力です。加えて、¥5,000という高額な入金不要ボーナスに8倍という甘い賭け条件は、新規プレイヤーにとって最高のスタートダッシュを約束してくれます。24時間日本語サポートも安心材料です。",
     theHeadsUp: "決済方法の種類がまだ少ない点が最大のネックです。特にクレジットカードが直接使えず、仮想通貨購入を経由する必要があるのは手間かもしれません。また、出金には入金額の2倍のベットが必要という点も注意が必要です。",
@@ -289,5 +291,12 @@ export const reviewKatsuwin: ReviewPageContent = {
   cta: {
     text: "勝WINで勝利を掴もう！",
     href: "https://go.japanesecasino.com/go/katsuwin",
+  },
+    images: {
+    casino: [
+      "/assets/casino/katsuwin.jpg",
+      "/assets/casinos/katsuwin_375x375.png",
+      "/assets/casino/katsuwin.png",
+    ],
   },
 };

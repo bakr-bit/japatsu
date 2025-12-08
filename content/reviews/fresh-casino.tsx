@@ -40,6 +40,8 @@ export const reviewFreshCasino: ReviewPageContent = {
       "サポートが外国人スタッフによる自動翻訳対応",
       "ボーナスの賭け条件が45倍とやや高め",
     ],
+    avatarSrc: "/assets/casino/fresh-casino.png",
+    avatarAlt: "Fresh casinoのロゴ",
   },
   payments: {
     featured: [
@@ -208,7 +210,7 @@ export const reviewFreshCasino: ReviewPageContent = {
   ],
   editorial: {
     author: "Kotone",
-    profileHref: "/authors/kotone",
+    profileHref: "/authors/rina-okabe",
     hook: "ゲームの種類の多さとボーナスの豪華さが際立つ一方、サポート体制には改善の余地あり。",
     theGoodStuff: "6,000種類を超えるゲームライブラリとスポーツブックは、どんなプレイヤーでも飽きさせません。特に、賭け条件をクリアすれば上限なく出金できるウェルカムボーナスは、大きな勝利を狙うプレイヤーにとって非常に魅力的です。",
     theHeadsUp: "最大の懸念点は、カスタマーサポートが自動翻訳を介した外国人スタッフ中心であることです。簡単な質問なら問題ありませんが、複雑なトラブルが発生した際にスムーズなコミュニケーションが難しい可能性があります。また、賭け条件45倍はやや厳しい設定です。",

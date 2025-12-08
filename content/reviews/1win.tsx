@@ -41,6 +41,8 @@ export const review1win: ReviewPageContent = {
       "ライブチャットの応答に時間がかかることがある",
       "休眠アカウントの残高が没収されるリスク",
     ],
+    avatarSrc: "/assets/casino/1win.png",
+    avatarAlt: "1winのロゴ",
   },
   payments: {
     featured: [
@@ -227,7 +229,7 @@ export const review1win: ReviewPageContent = {
   ],
   editorial: {
     author: "Nanami",
-    profileHref: "/authors/nanami",
+    profileHref: "/authors/rina-okabe",
     hook: "ゲーム数とボーナスの豪華さは業界トップクラス。ただし、サポート面など、経験者向けの一面も。",
     theGoodStuff: "11,000を超えるゲーム数と最大500%のウェルカムボーナスは、他の追随を許さないほどの魅力です。KYC不要で仮想通貨決済がスムーズな点も、現代のニーズに合っています。",
     theHeadsUp: "一方で、日本語サポートが翻訳ベースであることや、ライブチャットの応答に時間がかかる点は注意が必要です。サイト内に説明不足な部分も見られるため、自身で問題を解決できる経験者向けの側面があります。",
@@ -299,5 +301,13 @@ export const review1win: ReviewPageContent = {
   cta: {
     text: "CasinoTsu推薦！早速1winカジノでプレイ！",
     href: "https://go.japanesecasino.com/go/1win",
+  },
+    images: {
+    casino: [
+      "/assets/casino/1win.png",
+      "/assets/casinos/1win_300x150-2x.png",
+      "/assets/jp/1win.png",
+      "/assets/casino/1win.jpg",
+    ],
   },
 };

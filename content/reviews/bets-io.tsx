@@ -42,6 +42,8 @@ export const reviewBetsIo: ReviewPageContent = {
       "日本円（JPY）は使用不可",
       "ボーナス規約の日本語が分かりにくい場合がある",
     ],
+    avatarSrc: "/assets/casino/betsio.png",
+    avatarAlt: "Bets ioのロゴ",
   },
   payments: {
     featured: [
@@ -215,7 +217,7 @@ export const reviewBetsIo: ReviewPageContent = {
   ],
   editorial: {
     author: "Nanami",
-    profileHref: "/authors/nanami",
+    profileHref: "/authors/rina-okabe",
     hook: "ゲーム数とボーナスの豪華さは本物。仮想通貨ユーザーなら間違いなく満足できる高品質カジノです。",
     theGoodStuff: "10,000種類以上のゲーム数は圧巻の一言。特にCasinoTsu限定の200%・最大1BTCボーナスは破格の条件です。サイトの使いやすさ、サポートの迅速さ、出金スピード、どれをとっても高水準で、ストレスなく楽しめます。",
     theHeadsUp: "出金が仮想通貨のみである点は、法定通貨をメインで使いたいプレイヤーにとってはハードルになります。また、まだ新しいカジノなのでプレイヤーの口コミが少なく、評判を判断しにくい面もあります。",

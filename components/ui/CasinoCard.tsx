@@ -54,7 +54,7 @@ export default function CasinoCard({ casino, className = "", imageClassName = ""
     <div className={`bg-white rounded-lg shadow-sm overflow-hidden ${className}`}>
       {/* Image with optional bonus overlay */}
       <div className="relative">
-        <Link href={casino.playHref} className="group block focus:outline-none focus-visible:ring-2 focus-visible:ring-red-500">
+        <Link href={casino.playHref} className="group block focus:outline-none focus-visible:ring-2 focus-visible:ring-brand">
           {/* eslint-disable-next-line @next/next/no-img-element */}
           {casino.img ? (
             <img
@@ -71,7 +71,7 @@ export default function CasinoCard({ casino, className = "", imageClassName = ""
 
         {/* Bonus overlay */}
         {casino.bonusOverlay && (
-          <div className="absolute top-2 right-2 bg-[#4392f1] text-white px-2 py-1 rounded-md text-xs font-bold">
+          <div className="absolute top-2 right-2 bg-brand text-white px-2 py-1 rounded-md text-xs font-bold">
             <div className="text-center">
               <div>{casino.bonusOverlay.type}</div>
               <div className="font-extrabold">{casino.bonusOverlay.amount}</div>
@@ -95,7 +95,7 @@ export default function CasinoCard({ casino, className = "", imageClassName = ""
         <div className="space-y-2">
           <Link
             href={casino.playHref}
-            className="w-full text-center bg-[#4392f1] text-white font-bold py-2 px-4 rounded-md hover:bg-[#2f80e6] transition-colors focus:outline-none focus-visible:ring-2 focus-visible:ring-[#4392f1] block"
+            className="w-full text-center bg-brand text-white font-bold py-2 px-4 rounded-md hover:bg-brand-hover transition-colors focus:outline-none focus-visible:ring-2 focus-visible:ring-brand block"
           >
             今すぐプレイ！ ▶️
           </Link>

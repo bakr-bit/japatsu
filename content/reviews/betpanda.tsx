@@ -42,6 +42,8 @@ export const reviewBetpanda: ReviewPageContent = {
       "初回ボーナスの有効化条件が極めて厳しい（入金額の80倍ベット）",
       "ライセンスの正当性について疑問が呈されている",
     ],
+    avatarSrc: "/assets/casino/betpanda.png",
+    avatarAlt: "Betpandaのロゴ",
   },
   payments: {
     featured: [
@@ -204,7 +206,7 @@ export const reviewBetpanda: ReviewPageContent = {
   ],
   editorial: {
     author: "Nanami",
-    profileHref: "/authors/nanami",
+    profileHref: "/authors/rina-okabe",
     hook: "匿名性と限定ボーナスは魅力的ですが、出金トラブルの報告が多く、ハイリスクな選択肢と言わざるを得ません。",
     theGoodStuff: "メールアドレスだけで始められる手軽さと、仮想通貨によるスピーディーな決済は大きな利点です。CasinoTsu限定の賭け条件なしフリースピンは、リスクなく試せる絶好の機会です。",
     theHeadsUp: "最も懸念すべきは、勝利後のアカウント停止や出金拒否といったユーザーからの深刻な報告が多数ある点です。『匿名』を謳いながら、高額出金時に煩雑なKYCを要求されるケースもあり、矛盾を感じます。",

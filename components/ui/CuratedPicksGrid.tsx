@@ -10,7 +10,7 @@ type CuratedPicksGridProps = {
 export default function CuratedPicksGrid({ items, className = "" }: CuratedPicksGridProps) {
   return (
     <section className={className}>
-      <SectionTitle subtitle="編集部のおすすめ 🎯" title="Editor's Picks ✍️" align="start" />
+      <SectionTitle subtitle="Rina のおすすめ 🎯" title="Editor's Picks ✍️" align="start" />
       <CasinoGrid casinos={items} />
     </section>
   );

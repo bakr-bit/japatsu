@@ -33,7 +33,7 @@ export default function Sidebar({
           {seeAllHref ? (
             <Link
               href={seeAllHref}
-              className="hidden sm:inline text-xs text-[#4392f1] hover:text-[#2f80e6] font-semibold whitespace-nowrap"
+              className="hidden sm:inline text-xs text-brand hover:text-brand-hover font-semibold whitespace-nowrap"
             >
               すべて見る
             </Link>
@@ -45,7 +45,7 @@ export default function Sidebar({
             <Link
               href={casino.href}
               key={casino.id}
-              className="block hover:bg-gray-50 p-2 rounded-md focus:outline-none focus-visible:ring-2 focus-visible:ring-[#4392f1]"
+              className="block hover:bg-gray-50 p-2 rounded-md focus:outline-none focus-visible:ring-2 focus-visible:ring-brand"
             >
               <div className="flex items-center gap-4">
                 <span className="text-2xl font-bold text-gray-400 w-8 text-center">

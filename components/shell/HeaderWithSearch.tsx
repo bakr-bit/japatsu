@@ -54,12 +54,12 @@ export default function HeaderWithSearch({ initialQuery = "", ...props }: Header
                 value={q}
                 onChange={(e) => setQ(e.target.value)}
                 placeholder="検索..."
-                className="flex-1 border rounded-md px-3 py-2 focus:outline-none focus:ring-2 focus:ring-[#4392f1]"
+                className="flex-1 border rounded-md px-3 py-2 focus:outline-none focus:ring-2 focus:ring-brand"
                 aria-label="Search query"
               />
               <button
                 type="submit"
-                className="px-4 py-2 bg-[#4392f1] text-white rounded-md hover:bg-[#2f80e6]"
+                className="px-4 py-2 bg-brand text-white rounded-md hover:bg-brand-hover"
               >
                 検索
               </button>

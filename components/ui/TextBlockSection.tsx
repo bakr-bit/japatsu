@@ -30,7 +30,7 @@ export default function TextBlockSection({
   }
 
   return (
-    <div className={`rounded-2xl border ${accent} bg-white p-6 shadow-sm space-y-4`}>
+    <div className={`rounded-2xl border border-gray-200 ${accent} bg-white p-6 shadow-sm space-y-4`}>
       {title ? <h3 className="text-xl font-bold text-gray-900">{title}</h3> : null}
       {kicker ? <p className="text-sm font-semibold uppercase tracking-wide text-gray-500">{kicker}</p> : null}
 

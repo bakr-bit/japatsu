@@ -43,6 +43,8 @@ export const reviewCasinoX: ReviewPageContent = {
       "出金処理が週3回（月・水・金）のみとの報告あり",
       "責任あるギャンブルの自己規制ツールがサイトから直接設定できない",
     ],
+    avatarSrc: "/assets/casino/casino-x.png",
+    avatarAlt: "Casino-Xのロゴ",
   },
   payments: {
     featured: [
@@ -230,7 +232,7 @@ export const reviewCasinoX: ReviewPageContent = {
   ],
   editorial: {
     author: "Nanami",
-    profileHref: "/authors/nanami",
+    profileHref: "/authors/rina-okabe",
     hook: "ボーナスの豪華さとフィルター機能の使いやすさは最高レベル！ただし、サポートの応答速度には波があるようです。",
     theGoodStuff: "CasinoTsu限定の入金不要ボーナスと、5回目まで手厚く続くウェルカムパッケージは、間違いなく業界トップクラスです。ゲーム検索フィルターの優秀さは、膨大なゲームの中からお気に入りを見つけたいプレイヤーにとって最高のツールです。",
     theHeadsUp: "24時間対応の日本語サポートは心強いですが、時間帯によっては返答がかなり遅れることがあるようです。また、一部で出金遅延やアカウント閉鎖の報告も見られるため、利用規約をよく読み、慎重にプレイすることが推奨されます。",
@@ -295,5 +297,11 @@ export const reviewCasinoX: ReviewPageContent = {
   cta: {
     text: "CasinoTsu限定ボーナスでカジノエックスを始めよう！",
     href: "https://go.casinotsu.com/go/casino-x:casino-x?referrer_path=%2Freviews%2Fcasino-x",
+  },
+    images: {
+    casino: [
+      "/assets/casino/casino-x.png",
+      "/assets/casino/casino-x.jpg",
+    ],
   },
 };

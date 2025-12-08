@@ -42,6 +42,8 @@ export const review10bet: ReviewPageContent = {
       "ボーナスの賭け条件が40倍と厳しい",
       "FAQページがない",
     ],
+    avatarSrc: "/assets/casino/10bet.png",
+    avatarAlt: "10betのロゴ",
   },
   payments: {
     featured: [
@@ -206,7 +208,7 @@ export const review10bet: ReviewPageContent = {
   ],
   editorial: {
     author: "Kotone",
-    profileHref: "/authors/kotone",
+    profileHref: "/authors/rina-okabe",
     hook: "スポーツベットの強みと厳しいボーナス条件、そしてAIサポートが特徴的なカジノでした。",
     theGoodStuff: "スポーツベットの種類の多さと有利なオッズは、ファンにとって大きな魅力でした。また、マン島やMGAなど信頼性の高いライセンスを複数保有しており、安全性への評価は高かったです。",
     theHeadsUp: "一方で、カジノボーナスの賭け条件が（入金額＋ボーナス額）の40倍と非常に厳しく、達成は困難でした。また、24時間対応のチャットサポートがAIボットのみで、問題解決に時間がかかる点が大きな弱点でした。",

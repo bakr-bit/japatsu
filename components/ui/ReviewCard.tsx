@@ -1,18 +1,20 @@
 import Link from "next/link";
 import { Star, StarHalf } from "lucide-react";
 import type { ReviewSummary } from "@/content/reviews";
+import { getCasinoLogoUrl } from "@/lib/logos";
 
 function Stars({ score = 0, max = 5 }: { score?: number; max?: number }) {
   const safeMax = max && max > 0 ? max : 5;
   const clamped = Math.max(0, Math.min(safeMax, score ?? 0));
-  const normalized = Math.round((clamped / safeMax) * 10) / 10; // 0.1 precision
-  const fiveScale = Math.round((normalized * 5 / safeMax) * 2) / 2;
-  const full = Math.floor(fiveScale);
-  const hasHalf = fiveScale - full >= 0.5;
+
+  // Convert to 5-star scale (simpler logic)
+  const fiveStarRating = (clamped / safeMax) * 5;
+  const full = Math.floor(fiveStarRating);
+  const hasHalf = fiveStarRating - full >= 0.5;
   const empty = 5 - full - (hasHalf ? 1 : 0);
 
   return (
-    <div className="flex items-center" aria-label={`Rating ${normalized} / ${safeMax}`}>
+    <div className="flex items-center" aria-label={`Rating ${clamped} / ${safeMax}`}>
       {Array.from({ length: full }).map((_, i) => (
         <Star key={`full-${i}`} className="h-4 w-4 text-yellow-400 fill-yellow-400" aria-hidden="true" />
       ))}
@@ -38,6 +40,9 @@ export default function ReviewCard({ review }: { review: ReviewSummary }) {
   const showPlayButton = Boolean(review.playHref && review.status !== "retired");
   const detailHref = `/reviews/${review.slug}`;
 
+  // Auto-generate image from logo if not provided
+  const displayImage = review.image || getCasinoLogoUrl(review.slug);
+
   const accentMap: Record<string, { border: string; gradient: string; badge?: string }> = {
     "21-com": { border: "border-violet-100", gradient: "from-violet-50 via-white to-white", badge: "最新レビュー" },
     "2up": { border: "border-emerald-100", gradient: "from-emerald-50 via-white to-white", badge: "仮想通貨" },
@@ -55,10 +60,10 @@ export default function ReviewCard({ review }: { review: ReviewSummary }) {
   return (
     <div className={`flex flex-col overflow-hidden rounded-xl border bg-gradient-to-br ${accent.border} ${accent.gradient} shadow-sm`}>
       <div className="relative h-40 bg-gray-100">
-        {review.image ? (
+        {displayImage ? (
           // eslint-disable-next-line @next/next/no-img-element
           <img
-            src={review.image}
+            src={displayImage}
             alt={review.name}
             className="h-full w-full object-cover"
             loading="lazy"
@@ -75,7 +80,7 @@ export default function ReviewCard({ review }: { review: ReviewSummary }) {
           </span>
         ) : null}
         {review.bonusHighlight ? (
-          <span className="absolute right-3 top-3 rounded-full bg-[#4392f1] px-3 py-1 text-xs font-semibold text-white">
+          <span className="absolute right-3 top-3 rounded-full bg-brand px-3 py-1 text-xs font-semibold text-white">
             {review.bonusHighlight}
           </span>
         ) : null}
@@ -105,7 +110,7 @@ export default function ReviewCard({ review }: { review: ReviewSummary }) {
           {showPlayButton ? (
             <Link
               href={review.playHref!}
-              className="block w-full rounded-md bg-[#4392f1] py-2.5 text-center text-sm font-bold text-white transition-colors hover:bg-[#2f80e6] focus:outline-none focus-visible:ring-2 focus-visible:ring-[#4392f1]"
+              className="block w-full rounded-md bg-brand py-2.5 text-center text-sm font-bold text-white transition-colors hover:bg-brand-hover focus:outline-none focus-visible:ring-2 focus-visible:ring-brand"
             >
               公式サイトでプレイ
             </Link>

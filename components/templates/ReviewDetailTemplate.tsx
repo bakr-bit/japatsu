@@ -1,19 +1,39 @@
 import type { ReactNode } from "react";
 import Link from "next/link";
-// CHANGE 1: Import new icons for the editorial section
-import { ChevronRight, Star, ThumbsUp, AlertTriangle, CheckCircle2 } from "lucide-react";
+import { ChevronRight, Star } from "lucide-react";
 import SectionScaffold from "@/components/shell/SectionScaffold";
-import HeaderBanner from "@/components/ui/HeaderBanner";
 import CardHeader from "@/components/ui/CardHeader";
 import TextBlockSection, { TextBlockSectionProps } from "@/components/ui/TextBlockSection";
 import { paymentIcons } from "@/lib/data";
-import AccordionFaq from "@/components/ui/AccordionFaq";
+import { getCasinoLogoUrl, getCasinoLogoAlt } from "@/lib/logos";
+import {
+  ReviewHeroSection,
+  EditorialSection,
+  MethodologySection,
+  FAQSection,
+} from "@/components/sections";
+import type {
+  FAQItem,
+  ScoreBreakdown,
+  PaymentMethod,
+  BonusTableRow,
+  OfferItem,
+  CTAButton,
+  EditorialContent,
+  LongformSection,
+  HeroWithRating,
+} from "@/lib/types";
 
-export type ReviewScoreBreakdown = {
-  label: string;
-  percent: number;
-  note?: string;
-};
+// Re-export types for backward compatibility
+export type ReviewScoreBreakdown = ScoreBreakdown;
+export type ReviewPaymentMethod = PaymentMethod;
+export type ReviewBonusTableRow = BonusTableRow;
+export type ReviewOffer = OfferItem;
+export type ReviewFaq = FAQItem;
+export type ReviewCta = CTAButton;
+export type ReviewEditorial = EditorialContent;
+export type ReviewLongformSection = LongformSection;
+export type ReviewTextBlock = TextBlockSectionProps;
 
 export type ReviewPaymentCard = {
   name: string;
@@ -24,60 +44,9 @@ export type ReviewPaymentCard = {
   note?: string;
 };
 
-export type ReviewPaymentMethod = {
-  name:string;
-  icon?: string;
-  href?: string;
-};
-
-export type ReviewBonusTableRow = {
-  depositNumber: string;
-  percent: string;
-  cap: string;
-  code: string;
-};
-
-export type ReviewOffer = {
-  title: string;
-  description: string;
-  highlight?: string;
-};
-
 export type ReviewFact = {
   label: string;
   value: ReactNode;
-};
-
-export type ReviewFaq = {
-  question: string;
-  answer: string;
-};
-
-export type ReviewCta = {
-  text: string;
-  href: string;
-  label?: string;
-  badge?: string;
-};
-
-export type ReviewTextBlock = TextBlockSectionProps;
-
-// CHANGE 2: Define the new, more structured editorial type
-export type ReviewEditorial = {
-  hook: string;
-  theGoodStuff: string;
-  theHeadsUp: string;
-  finalThought: string;
-  author?: string;
-  role?: string;
-  avatarSrc?: string;
-  profileHref?: string;
-};
-
-export type ReviewLongformSection = {
-  title?: string;
-  paragraphs: string[];
-  kicker?: string;
 };
 
 export type ReviewPageContent = {
@@ -93,17 +62,63 @@ export type ReviewPageContent = {
     avatarSrc?: string;
     avatarAlt?: string;
   };
+  ratingsExternal?: { source: string; score: string }[];
   payments?: {
     featured?: ReviewPaymentCard[];
     deposits?: ReviewPaymentMethod[];
     withdrawals?: ReviewPaymentMethod[];
     notes?: string[];
+    tables?: { title: string; rows: string[][]; headers: string[] }[];
+    limitsNotes?: string[];
+    fiatSupported?: string;
   };
   bonuses?: {
     overview?: string;
     noDeposit?: string;
     extraSpins?: { summary: string; schedule?: string[]; warning?: string };
     welcomeRows?: ReviewBonusTableRow[];
+    loyaltyClub?: {
+      summary: string;
+      levels: { level: string; points: string; multiplier: string }[];
+      rakeback: string;
+    };
+    welcomeWheel?: {
+      title: string;
+      description: string;
+      rows: string[][];
+      fsGame?: string;
+      expiry?: string;
+      notes?: string[];
+    };
+    welcomeCryptoCB?: {
+      title: string;
+      description: string;
+      code?: string;
+      stackable?: string;
+      wagering?: string;
+    };
+    welcomeLiveCB?: {
+      title: string;
+      description: string;
+      steps?: string[];
+      timezoneNote?: string;
+    };
+    welcomeSports?: {
+      title: string;
+      description: string;
+      code?: string;
+      note?: string;
+    };
+    recurringWheel?: {
+      title: string;
+      description: string;
+      thresholds?: string[];
+    };
+    vip?: {
+      title: string;
+      perks?: string[];
+      note?: string;
+    };
     conditions?: string[];
     prohibitedGames?: string[];
   };
@@ -126,6 +141,7 @@ export type ReviewPageContent = {
   textBlocks?: ReviewTextBlock[];
   editorial?: ReviewEditorial;
   longform?: ReviewLongformSection;
+  images?: Record<string, string[]>;
 };
 
 function paymentIconForName(name?: string, provided?: string) {
@@ -174,35 +190,39 @@ function PaymentList({
   );
 }
 
-export default function ReviewDetailTemplate({ content }: { content: ReviewPageContent }) {
+export default function ReviewDetailTemplate({ content, slug }: { content: ReviewPageContent; slug?: string }) {
   const scoreMax = content.hero.scoreMax ?? 5;
   const introParagraphs = content.intro?.paragraphs ?? [];
   const introPrimaryParagraph = introParagraphs[0];
   const introSecondaryParagraph = introParagraphs[1];
   const introCtas = content.intro?.ctas ?? [];
   const introPrimaryCtas = introCtas.slice(0, 2);
-  const editorialAuthor = content.editorial?.author ?? "CasinoTsu編集部";
-  const editorialProfileHref = content.editorial?.profileHref;
+
+  // Auto-inject logo based on slug
+  const logoUrl = slug ? getCasinoLogoUrl(slug) : null;
+  const logoAlt = slug ? getCasinoLogoAlt(slug, content.hero.title.split(/[（(]/)[0].trim()) : "";
 
   return (
     <SectionScaffold title={content.hero.title}>
-      <HeaderBanner
-        title={content.hero.title}
-        subheading={content.hero.subheading}
-        description={content.hero.description}
-        avatarSrc={content.hero.avatarSrc}
-        avatarAlt={content.hero.avatarAlt ?? content.hero.title}
-        color="violet"
-        cta={
-          content.cta
-            ? {
-                href: content.cta.href,
-                label: content.cta.text,
-                badge: content.cta.badge,
-              }
-            : undefined
-        }
+      {/* Hero Section */}
+      <ReviewHeroSection
+        hero={content.hero as HeroWithRating}
+        logoUrl={logoUrl}
+        logoAlt={logoAlt}
+        gamesCount={content.games?.length}
+        featuresCount={content.features?.length}
+        securityCount={content.security?.length}
       />
+
+      {/* Last Updated Date */}
+      <div className="mt-6 flex justify-center">
+        <div className="inline-flex items-center gap-2 rounded-full bg-gray-100 px-4 py-2 text-sm text-gray-600">
+          <svg className="h-4 w-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
+          </svg>
+          <span className="font-medium">最終更新日: 2025-09-30</span>
+        </div>
+      </div>
 
       {/* ============== TOP BOX COMPONENTS ============== */}
       <div className="mt-10">
@@ -213,7 +233,7 @@ export default function ReviewDetailTemplate({ content }: { content: ReviewPageC
               <div>
                 <div className="flex items-start justify-between">
                   <div>
-                    <h3 className="text-lg font-bold text-violet-900">{content.hero.title} 総合スコア</h3>
+                    <h2 className="text-lg font-bold text-violet-900">{content.hero.title} 総合スコア</h2>
                     <p className="text-xs font-semibold uppercase tracking-wide text-violet-600">CasinoTsu独自評価</p>
                   </div>
                   <span className="rounded-full bg-white px-3 py-1 text-xs font-semibold text-violet-700 shadow">最新</span>
@@ -258,7 +278,7 @@ export default function ReviewDetailTemplate({ content }: { content: ReviewPageC
                   <div className="mt-6 space-y-4">
                     {content.hero.highlights?.length ? (
                       <div>
-                        <p className="text-xl font-semibold uppercase tracking-wide text-rose-500">良かった点 👍</p>
+                        <h3 className="text font-semibold uppercase tracking-wide text-rose-500">良かった点 👍</h3>
                         <ul className="mt-2 space-y-2 text-sm leading-relaxed text-gray-800">
                           {content.hero.highlights.map((point) => (
                             <li key={point} className="flex items-start gap-2">
@@ -271,7 +291,7 @@ export default function ReviewDetailTemplate({ content }: { content: ReviewPageC
                     ) : null}
                     {content.hero.watchouts?.length ? (
                       <div>
-                        <p className="text font-semibold uppercase tracking-wide text-gray-500">注意したい点 👎</p>
+                        <h3 className="text font-semibold uppercase tracking-wide text-gray-500">注意したい点 👎</h3>
                         <ul className="mt-2 space-y-2 text-sm leading-relaxed text-gray-800">
                           {content.hero.watchouts.map((point) => (
                             <li key={point} className="flex items-start gap-2">
@@ -364,7 +384,7 @@ export default function ReviewDetailTemplate({ content }: { content: ReviewPageC
                             )
                           )}
                           <div>
-                            <h3 className="text-sm font-semibold text-gray-900">
+                            <h4 className="text-sm font-semibold text-gray-900">
                               {paymentPageHref ? (
                                 <Link href={paymentPageHref} className="hover:underline">
                                   {method.name}
@@ -372,7 +392,7 @@ export default function ReviewDetailTemplate({ content }: { content: ReviewPageC
                               ) : (
                                 method.name
                               )}
-                            </h3>
+                            </h4>
                             {method.note && <p className="text-xs text-gray-600">{method.note}</p>}
                           </div>
                         </div>
@@ -433,97 +453,10 @@ export default function ReviewDetailTemplate({ content }: { content: ReviewPageC
         <div className="space-y-10">
 
         {content.editorial && (
-          <section className="relative overflow-hidden rounded-3xl border border-rose-100 bg-gradient-to-br from-rose-50/80 via-white to-white shadow-sm">
-            {/* Decorative background elements */}
-            <div className="pointer-events-none absolute -left-12 top-10 h-32 w-32 rounded-full bg-rose-100/60 blur-3xl" aria-hidden="true" />
-            <div className="pointer-events-none absolute -right-10 bottom-0 hidden h-48 w-48 rounded-full bg-rose-200/40 blur-3xl md:block" aria-hidden="true" />
-
-            {/* Main container with padding */}
-            <div className="relative p-6 md:p-8">
-              
-              {/* --- Author Quote Section --- */}
-              <div className="flex flex-col gap-5 md:pt-12 md:flex-row md:items-center md:gap-6">
-                {/* Avatar and Author Info (name/role below image) */}
-                <div className="flex-shrink-0 flex flex-col items-center">
-                  {content.editorial.avatarSrc ? (
-                    <img
-                      src={content.editorial.avatarSrc}
-                      alt={editorialAuthor}
-                      className="h-20 w-20 rounded-full border border-rose-100 bg-white object-cover p-1 shadow-md md:h-24 md:w-24"
-                    />
-                  ) : (
-                    <div className="flex h-20 w-20 items-center justify-center rounded-full border border-rose-100 bg-rose-50 text-3xl font-semibold text-rose-500 md:h-24 md:w-24">
-                      {editorialAuthor.slice(0, 1).toUpperCase()}
-                    </div>
-                  )}
-                  <div className="mt-2 flex flex-col items-center text-xs text-gray-700">
-                    {editorialProfileHref ? (
-                      <Link href={editorialProfileHref} className="font-semibold text-rose-600 hover:text-rose-700">
-                        {editorialAuthor}
-                      </Link>
-                    ) : (
-                      <span className="font-semibold">{editorialAuthor}</span>
-                    )}
-                    {content.editorial.role && (
-                      <span className="text-gray-500">{content.editorial.role}</span>
-                    )}
-                    {content.editorial.profileHref && (
-                      <Link href={content.editorial.profileHref} className="mt-1 text-rose-500 hover:text-rose-600 underline">
-                        プロフィールを見る
-                      </Link>
-                    )}
-                  </div>
-                </div>
-
-                {/* Text Content & Bubble */}
-                <div className="relative w-full">
-                  {/* Author Info Badge */}
-                  <div className="mb-2">
-                    <span className="inline-flex items-center gap-2 rounded-full bg-gradient-to-r from-rose-500 to-rose-400 px-3 py-1 text-xs font-semibold tracking-wide text-white shadow-sm">
-                      編集部レビュー
-                    </span>
-                  </div>
-
-                  {/* The Speech Bubble */}
-                  <div className="relative mt-4 w-full rounded-2xl bg-white p-6 shadow-lg ring-1 ring-rose-100/80 sm:max-w-xl md:mt-0 md:max-w-lg has-speech-bubble-tail">
-                    <p className="text-xs font-semibold uppercase tracking-wide text-rose-500">著者コメント</p>
-                    <p className="mt-2 text-base italic leading-relaxed text-rose-800">
-                      &ldquo;{content.editorial.hook}&rdquo;
-                    </p>
-                  </div>
-                </div>
-              </div>
-
-              {/* --- Three-Column Grid Section --- */}
-              <div className="mt-12 grid gap-5 md:grid-cols-3">
-                {/* Card 1 */}
-                <div className="rounded-2xl bg-white/80 p-5 shadow-sm ring-1 ring-rose-100/60">
-                  <div className="flex items-center gap-2 text-rose-500">
-                    <ThumbsUp className="h-5 w-5" />
-                    <h3 className="text-sm font-semibold tracking-wide">注目ポイント</h3>
-                  </div>
-                  <p className="mt-3 text-sm leading-relaxed text-gray-700">{content.editorial.theGoodStuff}</p>
-                </div>
-                {/* Card 2 */}
-                <div className="rounded-2xl bg-white/80 p-5 shadow-sm ring-1 ring-amber-100/60">
-                  <div className="flex items-center gap-2 text-amber-600">
-                    <AlertTriangle className="h-5 w-5" />
-                    <h3 className="text-sm font-semibold tracking-wide">注意したい点</h3>
-                  </div>
-                  <p className="mt-3 text-sm leading-relaxed text-gray-700">{content.editorial.theHeadsUp}</p>
-                </div>
-                {/* Card 3 */}
-                <div className="rounded-2xl bg-white/80 p-5 shadow-sm ring-1 ring-slate-100/60">
-                  <div className="flex items-center gap-2 text-slate-600">
-                    <CheckCircle2 className="h-5 w-5" />
-                    <h3 className="text-sm font-semibold tracking-wide">編集部の総評</h3>
-                  </div>
-                  <p className="mt-3 text-sm leading-relaxed text-gray-700">{content.editorial.finalThought}</p>
-                </div>
-              </div>
-            </div>
-          </section>
+          <EditorialSection editorial={content.editorial} />
         )}
+
+
           {content.longform?.paragraphs?.length ? (
             <section className="relative overflow-hidden rounded-3xl border border-rose-100 bg-gradient-to-br from-rose-50/70 via-white to-white shadow-sm">
               <div className="pointer-events-none absolute -right-10 top-1/2 hidden h-40 w-40 -translate-y-1/2 rounded-full bg-rose-100/60 blur-3xl md:block" aria-hidden />
@@ -692,16 +625,13 @@ export default function ReviewDetailTemplate({ content }: { content: ReviewPageC
             </section>
           ) : null}
 
-          {content.faq?.length && (
-            <section>
-              <CardHeader title="よくある質問" badge="FAQ" accent="bg-slate-100 text-slate-900" />
-              <AccordionFaq items={content.faq.map((qa) => ({ question: qa.question, answer: qa.answer }))} className="mt-4" />
-            </section>
-          )}
+          {content.faq?.length ? (
+            <FAQSection items={content.faq} />
+          ) : null}
 
           {content.cta && (
             <section>
-              <div className="rounded-lg border bg-gradient-to-r from-rose-50 to-white p-5 flex items-center justify-between gap-4">
+              <div className="rounded-lg shadow-sm bg-gradient-to-r from-rose-50 to-white p-5 flex items-center justify-between gap-4">
                 <p className="text-gray-900 font-semibold">{content.cta.text}</p>
                 <Link
                   href={content.cta.href}
@@ -712,6 +642,9 @@ export default function ReviewDetailTemplate({ content }: { content: ReviewPageC
               </div>
             </section>
           )}
+
+          {/* Review Methodology Section */}
+          <MethodologySection className="mt-12" />
         </div>
       </div>
     </SectionScaffold>

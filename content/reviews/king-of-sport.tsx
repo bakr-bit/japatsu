@@ -202,7 +202,7 @@ export const reviewKingsOfSport: ReviewPageContent = {
   ],
   editorial: {
     author: "Nanami",
-    profileHref: "/authors/nanami",
+    profileHref: "/authors/rina-okabe",
     hook: "ボーナスは超豪華、でも安全性には大きな疑問符。光と影がはっきりしたカジノです。",
     theGoodStuff: "合計500%のウェルカムボーナスや$8の入金不要ボーナスは、新規プレイヤーにとって非常に魅力的です。4,000を超えるゲーム数とシンプルなサイト設計も高く評価できます。",
     theHeadsUp: "しかし、Casino Guruの安全性評価が3.1/10と極めて低い点は見過ごせません。小規模な運営体制に加え、プレイヤーからの苦情、特に出金遅延やアカウント閉鎖の報告が多数あることは、資金を預ける上で重大なリスクとなります。",

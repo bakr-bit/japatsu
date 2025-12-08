@@ -61,7 +61,7 @@ export default function TopBanner({
           {cta ? (
             <Link
               href={cta.href}
-              className={`bg-[#4392f1] text-white px-4 py-2 rounded hover:bg-[#2f80e6] transition-colors ${cta.className ?? ""}`}
+              className={`bg-brand text-white px-4 py-2 rounded hover:bg-brand-hover transition-colors ${cta.className ?? ""}`}
               target={cta.newTab ? "_blank" : undefined}
               rel={cta.newTab ? "noopener noreferrer" : undefined}
             >

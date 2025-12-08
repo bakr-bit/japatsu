@@ -42,6 +42,8 @@ export const reviewCasinoSky: ReviewPageContent = {
       "一部のゲームで起動や検索に不具合あり（改善中）",
       "ライブチャットの対応時間が限定的",
     ],
+    avatarSrc: "/assets/casino/casino-sky.png",
+    avatarAlt: "カジノスカイのロゴ",
   },
   payments: {
     featured: [

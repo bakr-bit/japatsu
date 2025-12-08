@@ -207,7 +207,7 @@ export const reviewHunnyPlay: ReviewPageContent = {
   ],
   editorial: {
     author: "Nanami",
-    profileHref: "/authors/nanami",
+    profileHref: "/authors/rina-okabe",
     hook: "ボーナスは業界トップクラスに豪華ですが、その蜜は甘い毒かもしれません。",
     theGoodStuff: "合計150回の入金不要スピン、最大300%の入金ボーナス、そして入金額に賭け条件がないという規約は、間違いなく魅力的です。匿名で手軽に始められる点も、多くのプレイヤーにとってメリットでしょう。",
     theHeadsUp: "しかし、その魅力はすべて、根本的な信頼性の欠如によって覆されています。ライセンスが無効または偽物である可能性、7万ドルを超える賞金未払いの苦情、そして極端に低い安全性評価は、プレイヤーの資金が深刻なリスクに晒されることを意味します。",

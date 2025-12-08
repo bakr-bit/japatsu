@@ -1,266 +1,161 @@
 import Link from "next/link";
 import type { ReviewPageContent } from "@/components/templates/ReviewDetailTemplate";
 
-export const reviewDafabet: ReviewPageContent = {
+export const reviewDuelbits: ReviewPageContent = {
   hero: {
-    title: "ダファベット（Dafabet）レビュー",
-    subheading: "最大$500ボーナス＋寛容な賭け条件",
-    description: "セルティックFCのスポンサーとしても知られる、2004年設立の老舗カジノDafabet。スポーツベットとユニークなゲームが満載ですが、注意点も。CasinoTsuがその評判と実態を徹底解説します。",
-    score: 3.8,
+    title: "デュエルビッツ（Duelbits）の評判・ボーナス・入出金【徹底解説】",
+    subheading: "CasinoTsu推薦：500フリースピン＆最大48.5%レーキバックの仮想通貨特化カジノ",
+    description:
+      "2020年登場のDuelbitsは、FS勝利金W/Rなし、スポーツ100%初回最大$100（5x）、VIPビッツで最大48.5%のレーキバックが魅力。約3,800+スロットとオリジナルゲーム、スポーツベットにも対応。",
+    score: 4.2,
     scoreMax: 5,
     scoreBreakdown: [
-      {
-        label: "人気指数",
-        percent: 69,
-        note: "運営歴は長いが、日本市場での知名度はまだ発展途上。今後の展開に期待。",
-      },
-      {
-        label: "規約",
-        percent: 73,
-        note: "賭け条件が10倍または20倍と比較的寛容で、プレイヤーにとって魅力的。",
-      },
-      {
-        label: "操作性",
-        percent: 87,
-        note: "専用アプリや2種類のスポーツブックは良いが、ゲームセクション毎の個別ウォレットは不便に感じる可能性あり。",
-      },
-      {
-        label: "サポート",
-        percent: 74,
-        note: "無料の国際電話サポートは珍しく高評価。しかし、現代の標準であるライブチャットが無いのは大きな欠点。",
-      },
+      { label: "人気指数", percent: 86, note: "スポーツ系公式パートナー実績で知名度上昇中。" },
+      { label: "規約", percent: 82, note: "FS勝利金0x／スポーツ初回5xと良心的（内容は変動あり）。" },
+      { label: "操作性", percent: 81, note: "軽快UI。ゲーム検索◎。決済は好みが分かれる。" },
+      { label: "サポート", percent: 84, note: "24hチャット（日本語は時間帯/機械翻訳）。応対品質はばらつきも。" },
     ],
     highlights: [
-      "幅広いゲームの種類とオリジナルスロット",
-      "プロモーションが豊富で賭け条件が優しい",
-      "国際的なサッカークラブのスポンサーで信頼性あり",
-      "無料の国際電話による日本語サポート",
+      "入金フリースピン合計500回（勝利金W/R 0x）",
+      "スポーツ100%初回最大$100（賭け条件5x）",
+      "VIP“ビッツ”合算で最大48.5%レーキバック",
+      "約3,800+スロット＆オリジナルゲーム／eスポーツ対応",
     ],
     watchouts: [
-      "ライブチャットサポートが無い",
-      "ゲームセクションごとにウォレットが分かれている",
-      "出金遅延やアカウント閉鎖など、深刻なユーザーからの苦情が多数報告されている",
-      "一部の人気スロットがプレイできない",
+      "決済の中心が仮想通貨（一部フィアット入金は地域/手段限定）",
+      "KYCや高額出金時の審査で時間を要するケースあり",
+      "ライブは主にEvolution/Pragmatic中心でやや限定的",
     ],
+    avatarSrc: "/assets/casino/duelbits.png",
+    avatarAlt: "Duelbitsのロゴ",
   },
+
   payments: {
     featured: [
-      {
-        name: "銀行振込",
-        icon: "/assets/payments/bank-transfer.svg",
-        href: "https://casinotsu.com/payment/bank-transfer",
-        badge: "定番",
-        note: "日本のプレイヤーに広く利用される安心の決済手段",
-      },
-      {
-        name: "Payz",
-        icon: "/assets/payments/payz.svg",
-        href: "https://casinotsu.com/payment/payz",
-        badge: "Eウォレット",
-        note: "迅速な処理が可能な人気の電子ウォレット",
-      },
-      {
-        name: "Vega Wallet",
-        icon: "/assets/payments/vega-wallet.svg",
-        href: "https://casinotsu.com/payment/vega-wallet",
-        badge: "Eウォレット",
-        note: "ポイントでの管理が便利な決済サービス",
-      },
-      {
-        name: "Bitcoin",
-        icon: "/assets/payments/bitcoin.svg",
-        href: "https://casinotsu.com/payment/bitcoin",
-        badge: "仮想通貨",
-        note: "高額決済にも対応する代表的な暗号資産",
-      },
+      { name: "Bitcoin", icon: "/assets/payments/bitcoin.svg", href: "https://www.casinotsu.com/payment/bitcoin", badge: "最速", note: "入出金とも即時〜数分。" },
+      { name: "Ethereum", icon: "/assets/payments/ethereum.svg", href: "https://www.casinotsu.com/payment/ethereum", badge: "人気", note: "安定運用の主力チェーン。" },
+      { name: "USDT (複数ネット)", icon: "/assets/payments/tether.svg", href: "https://www.casinotsu.com/payment/usdt", badge: "安定通貨", note: "ネットワーク選択で手数料最適化。" },
+      { name: "VISA/Mastercard/JCB", icon: "/assets/payments/visa.svg", href: "https://www.casinotsu.com/payment/visa", badge: "フィアット入金", note: "地域によりSkrill/PayPal等も対応。" },
     ],
     deposits: [
-      { name: "銀行振込", icon: "/assets/payments/bank-transfer.svg", href: "https://casinotsu.com/payment/bank-transfer" },
-      { name: "Payz", icon: "/assets/payments/payz.svg", href: "https://casinotsu.com/payment/payz" },
-      { name: "Vega Wallet", icon: "/assets/payments/vega-wallet.svg", href: "https://casinotsu.com/payment/vega-wallet" },
-      { name: "Bitcoin (BTC)", icon: "/assets/payments/bitcoin.svg", href: "https://casinotsu.com/payment/bitcoin" },
-      { name: "Dogecoin (DOGE)" },
-      { name: "Ethereum (ETH)" },
-      { name: "Tether (USDT)" },
-      { name: "USD Coin (USDC)" },
-      { name: "Litecoin (LTC)" },
-      { name: "DASH" },
-      { name: "EOS" },
-      { name: "Gocash" },
-      { name: "AstroPay" },
-      { name: "Todito cash" },
-      { name: "WebMoney" },
-      { name: "Paysafe Card" },
-      { name: "Unified Payments Interface (UPI)" },
+      { name: "Bitcoin", icon: "/assets/payments/bitcoin.svg" },
+      { name: "Ethereum", icon: "/assets/payments/ethereum.svg" },
+      { name: "Litecoin", icon: "/assets/payments/litecoin.svg" },
+      { name: "USDT", icon: "/assets/payments/tether.svg" },
+      { name: "BNB" }, { name: "TRX" }, { name: "DOGE" }, { name: "SHIB" }, { name: "XRP" }, { name: "SOL" }, { name: "DAI" }, { name: "USDC" }, { name: "APE" }, { name: "TRUMP" },
+      { name: "VISA", icon: "/assets/payments/visa.svg" },
+      { name: "Mastercard", icon: "/assets/payments/mastercard.svg" },
+      { name: "JCB", icon: "/assets/payments/jcb.svg" },
+      { name: "Skrill" }, { name: "PayPal" }, { name: "Paysafecard" }, { name: "Interac" }, { name: "Online Banking" }, { name: "WebMoney" }, { name: "PIX" }, { name: "PayDo" }, { name: "Revolut" }, { name: "Gift Cards" }, { name: "Interac e-Transfer" },
     ],
     withdrawals: [
-      { name: "銀行振込", icon: "/assets/payments/bank-transfer.svg", href: "https://casinotsu.com/payment/bank-transfer" },
-      { name: "Payz", icon: "/assets/payments/payz.svg", href: "https://casinotsu.com/payment/payz" },
-      { name: "Vega Wallet", icon: "/assets/payments/vega-wallet.svg", href: "https://casinotsu.com/payment/vega-wallet" },
-      { name: "Bitcoin (BTC)", icon: "/assets/payments/bitcoin.svg", href: "https://casinotsu.com/payment/bitcoin" },
-      { name: "Dogecoin (DOGE)" },
-      { name: "Ethereum (ETH)" },
-      { name: "Tether (USDT)" },
-      { name: "USD Coin (USDC)" },
-      { name: "Litecoin (LTC)" },
-      { name: "DASH" },
-      { name: "EOS" },
+      { name: "Crypto（各通貨）", icon: "/assets/payments/bitcoin.svg" },
+      { name: "VISA/Skrill 等（地域制限）" },
     ],
     notes: [
-      "クレジットカードは利用できません。",
-      "ゲームセクション（カジノ、スポーツブックなど）ごとにウォレットが分かれています。ウォレット間の資金移動は可能ですが、最低$15からです。",
-      "出金時間は電子ウォレットで0〜24時間、銀行振込で2〜5日、保留期間は最大96時間です。",
+      "平均着金：仮想通貨 入金〜約5分／出金は即時〜。混雑・審査で前後。",
+      "手数料：カジノ側の出金手数料は原則なし（チェーン手数料は別）。",
+      "フィアットは地域により提供。Visa/Skrill等は週$5,000・月$15,000上限の一例あり。",
+      "最低出金：50 Bits（約$0.5）相当（通貨/時期で変更の可能性）。",
     ],
   },
+
   bonuses: {
     overview:
-      "Dafabetは特に賭け条件が寛容なボーナスを提供しているのが特徴です。初回入金ボーナスは入金額に応じて2つのプランから選べます。",
-    noDeposit:
-      "現在、入金不要ボーナスは提供されていません。",
+      "ジャパカジ経由のFS合計500回（勝利金0x）、スポーツ初回100%$100（5x）、高還元VIP“ビッツ”で最大48.5%レーキバックなど、仮想通貨カジノ屈指のオファー群。",
     extraSpins: {
-      summary: "ウェルカムボーナスにフリースピンは含まれていませんが、VIPプログラムや他のプロモーションで提供される場合があります。",
-      schedule: [],
-      warning: "",
+      summary: "20ドル以上入金＆対象スロットの指定額ベットで段階的に合計500FS。",
+      schedule: ["FS付与から48時間有効", "スピン価値$0.2", "各ステップ達成は7日以内"],
+      warning: "内容は時期で変動。最新はプロモ/マイリワードを確認。",
     },
     welcomeRows: [
-      { depositNumber: "初回 ($15-$250)", percent: "100%", cap: "$250", code: "DFGMFDB250JP" },
-      { depositNumber: "初回 ($251-$500)", percent: "100%", cap: "$500", code: "DFGMFDB500JP" },
+      { depositNumber: "スポーツ初回", percent: "100%", cap: "$100", code: "" },
     ],
     conditions: [
-      "初回入金額に応じて賭け条件が異なります（$250まで: 10倍、$500まで: 20倍）。",
-      "ボーナスの受け取りには、入金時に対応するボーナスコードの入力が必須です。",
-      "最低入金額は$15です。",
-      "一部のゲームは賭け条件の消化から除外されるか、消化率が低く設定されています。",
+      "スポーツ初回：賭け条件5x（時期で変動）",
+      "FS勝利金：賭け条件0x（対象機種・有効期限あり）",
     ],
-    prohibitedGames: [],
+    prohibitedGames: ["各種トーナメント・オファーの対象/除外は都度ページで要確認"],
   },
+
   offers: [
-    {
-      title: "最大$25の100%リファンドボーナス",
-      description: "新規プレイヤー向けに、ベット初日の損失額を最大$25まで100%還元するボーナスです。受け取ったボーナスには10倍の賭け条件が適用されます。最初のベット前に申請が必要です。",
-      highlight: "初回入金ボーナスとの併用は不可",
-    },
-    {
-      title: "ビットコインボーナス",
-      description: "ビットコインでの入金者向けに、最大10 mBTCの50%ボーナスが提供されています。",
-    },
-    {
-      title: "カジノリロードボーナス",
-      description: "1日に3回まで請求可能な5%リロードボーナス（最大$45）。賭け条件は5倍です。",
-    },
-    {
-      title: "多彩なスポーツボーナス",
-      description: "通常ボーナスに加え、インド市場向けの200%ボーナスや、代替スポーツボーナスなど、地域やプレイスタイルに応じた複数のスポーツベット用ボーナスが用意されています。",
-    },
+    { title: "入金フリースピン合計500回（勝利金0x）", description: "段階チャレンジ型：$50/$500/$1,000相当の指定ベットで50/150/300FS。" },
+    { title: "スポーツ 100% 初回最大$100（5x）", description: "参加時期で内容変動。プロモ/マイリワードで要確認。" },
+    { title: "VIP“ビッツ”で最大48.5%レーキバック", description: "インスタント/デイリー/ウィークリー/マンスリー/レベルアップ等を合算。" },
+    { title: "テレグラム限定ボーナス", description: "入金履歴ありの全プレイヤー対象。ユーザーID送信で進呈（内容変動）。" },
   ],
+
   facts: [
-    { label: "名称", value: "Dafabet (ダファベット)" },
-    { label: "ローンチ", value: "2004" },
-    { label: "運営会社", value: "Osmila N.V." },
-    { label: "ライセンス", value: "Antillephone (Curaçao), Cagayan Economic Zone Authority (CEZA), UK Gaming Commission" },
-    { label: "VIPプログラム", value: "✅" },
-    { label: "対応言語", value: "日本語, 英語など" },
-    {
-      label: "ゲームタイプ",
-      value: "バカラ, ブラックジャック, クラップス, ゲームショー, ライブカジノ, ポーカー, ルーレット, スロット, ビンゴ, キノ, スクラッチカード, 宝くじ, バーチャルスポーツ, クラッシュゲーム, eスポーツ, フィナンシャルベット, アーケードゲーム",
-    },
-    {
-      label: "ゲームプロバイダー",
-      value: (
-        <span>
-          <Link href="https://casinotsu.com/providers/betsoft">BetSoft</Link>, <Link href="https://casinotsu.com/providers/blueprint-gaming">Blueprint Gaming</Link>, <Link href="https://casinotsu.com/providers/booming-games">Booming Games</Link>, <Link href="https://casinotsu.com/providers/habanero">Habanero</Link>, <Link href="https://casinotsu.com/providers/hacksaw-gaming">Hacksaw Gaming</Link>, <Link href="https://casinotsu.com/providers/microgaming">Microgaming</Link>, <Link href="https://casinotsu.com/providers/netent">NetEnt</Link>, <Link href="https://casinotsu.com/providers/nolimit-city">Nolimit City</Link>, <Link href="https://casinotsu.com/providers/pg-soft">PG SOFT</Link>, <Link href="https://casinotsu.com/providers/playtech">Playtech</Link>, <Link href="https://casinotsu.com/providers/play-n-go">Play’n GO</Link>, <Link href="https://casinotsu.com/providers/pragmatic-play">Pragmatic Play</Link>, <Link href="https://casinotsu.com/providers/red-tiger">Red Tiger</Link>, <Link href="https://casinotsu.com/providers/relax-gaming">Relax</Link>, Slingshot Studios, <Link href="https://casinotsu.com/providers/yggdrasil">Yggdrasil</Link>, Evolution Gaming, Ezugi, GamePlay
-        </span>
-      ),
-    },
-    { label: "最小入金額", value: "$10 (銀行振込)" },
-    { label: "最小出金額", value: "情報なし" },
-    { label: "電話サポート", value: "✅" },
-    { label: "電話番号", value: "800-7423-2274" },
-    { label: "メールサポート", value: "✅" },
-    { label: "Eメール", value: <Link href="mailto:jpsupport@dafabet.com">jpsupport@dafabet.com</Link> },
-    { label: "ライブチャット", value: "❌" },
+    { label: "名称", value: "Duelbits" },
+    { label: "ローンチ", value: "2020" },
+    { label: "ライセンス", value: "Gaming Curaçao（例：OGL/2024/1507/0838）" },
+    { label: "運営会社", value: "Liquid Entertainment N.V." },
+    { label: "VIPプログラム", value: "✅（“ビッツ”キャッシュバック/レベル報酬）" },
+    { label: "ゲームタイプ", value: "Slots, Live, Table, Originals, Game Shows, Sports, eSports" },
+    { label: "プロバイダー例", value: "BGaming, BTG, Blueprint, Elk, Fantasma, Hacksaw, Microgaming, NetEnt, Nolimit, PG SOFT, Playson, Play’n GO, Pragmatic, Print Studios, Quickspin, Red Tiger, Relax, Spinomenal ほか" },
+    { label: "スポーツベット", value: "✅（eスポ含む。一部配信あり）" },
+    { label: "サポート", value: "24hライブチャット／メール support@duelbits.com" },
   ],
-  intro: {
-    paragraphs: [
-      "Dafabet（ダファベット）は、2004年に設立された長い歴史を持つオンラインカジノで、特にアジア市場とスポーツベットに強みを持っています。日本人選手が所属するサッカーチーム「セルティックFC」のスポンサーとしても知られ、その信頼性は高い評価を得ています。",
-      "フィリピンでスポーツブックとして始まった背景から、ライブカジノにはフィリピンのスタジオが多く参加しており、他のカジノとは一味違った体験ができます。また、オリジナルのスロットゲームも提供しています。",
-      "CasinoTsuでは、この老舗カジノの魅力的なボーナス、豊富なゲーム、そしてライブチャットがないなどの注意点まで、あらゆる側面から徹底的にレビューします。",
-    ],
-    ctas: [
-      { text: "👉 ダファベットで今すぐプレイ！", href: "https://go.japanesecasino.com/go/dafabet" },
-      { text: "🔰 カジノ用語集をチェック", href: "https://casinotsu.com/guides/glossary" },
-    ],
-  },
-  games: [
-    "Dafabetは3,000種類以上のスロットを提供しており、中にはDafabet限定のオリジナルゲームも含まれます。ただし、『ムーンプリンセス』のような一部の超人気機種がプレイできない点は注意が必要です。",
-    "ライブカジノは特筆すべき充実度で、Evolutionなどの大手だけでなく、フィリピンのライブスタジオも含む10社以上のプロバイダーが参加し、合計23のロビーに300以上のテーブルが用意されています。",
-    "さらに、ポーカー、ビンゴ、宝くじ、フィナンシャルベットまで、非常に幅広いジャンルのゲームを提供しています。",
-  ],
-  features: [
-    "Dafabetの最大の特徴は、「OWスポーツ」と「Dafaスポーツ」という2つの独立したスポーツブックを提供している点です。それぞれでラインナップやオッズが異なるため、プレイヤーはより有利な条件を選んでベットできます。",
-    "Androidユーザー向けには、スポーツ用とカジノ用に分かれた専用アプリが提供されており、快適なモバイルプレイが可能です。また、モバイル専用のロビー「iPlay」も用意されています。",
-  ],
-  editorial: {
-    author: "Kotone",
-    profileHref: "/authors/kotone",
-    hook: "長い歴史と信頼性、寛容なボーナス条件が魅力。しかし、ライブチャットの不在と多数のユーザーからの苦情は無視できない。",
-    theGoodStuff: "2004年からの運営実績と複数の有力ライセンスは、安全性を重視するプレイヤーにとって大きな安心材料です。賭け条件が10倍からと非常に緩やかで、初心者でもボーナスを活用しやすい点は高く評価できます。",
-    theHeadsUp: "最大の問題は、現代のオンラインカジノの標準装備であるライブチャットサポートが完全に欠如していることです。さらに、Trustpilotなどには出金の大幅な遅延や理由なきアカウント閉鎖といった深刻な苦情が多数寄せられており、これは非常に大きなリスク要因です。",
-    finalThought: "Dafabetは、専門家レビューと実際のユーザー体験の間に大きな隔たりがあるカジノです。寛容なボーナスや豊富なゲームは魅力的ですが、サポート体制の不備と深刻なユーザーからの苦情を十分に理解した上で、自己責任で利用を判断する必要があります。",
-  },
+
   longform: {
-    kicker: "CasinoTsuレビュー",
-    title: "編集部による詳説",
+    kicker: "Crypto×高還元で伸びる新定番",
+    title: "FS勝利金0xと最大48.5%レーキバック。“稼働しやすい”条件が魅力",
     paragraphs: [
-      "Dafabetは、2004年の設立以来、特にアジアのスポーツベット市場で確固たる地位を築いてきたベテランのオンラインカジノです。セルティックFCのような著名なサッカークラブのスポンサーを務めることで、そのブランド力と信頼性を世界に示しています。複数の権威あるライセンスを保持し、強力な暗号化技術を導入している点からも、運営の安全性と公平性に対する姿勢は評価できます。",
-      "このカジノの魅力の一つは、非常にプレイヤーフレンドリーなボーナス規約にあります。初回入金ボーナスの賭け条件が最大でも20倍、最低では10倍というのは、業界標準と比較しても際立って寛容です。これにより、プレイヤーはボーナスを現実的な勝利金に変えるチャンスを十分に得られます。",
-      "ゲームの多様性もDafabetの強みです。3,000を超えるスロット、そして特筆すべきは10社以上のプロバイダーがひしめくライブカジノのセクションです。フィリピンのスタジオが提供するユニークなテーブルは、他では味わえない独特の雰囲気を提供します。さらに、2つの異なるスポーツブックや、ポーカー、宝くじまで網羅するそのラインナップは圧巻です。",
-      "しかし、Dafabetにはいくつかの大きな欠点が存在します。最も不可解なのは、即時性が求められる現代において、ライブチャットサポートを一切提供していない点です。無料の国際電話があるとはいえ、これは大きな利便性の損失です。また、ゲームセクションごとに資金を管理する個別ウォレットシステムは、プレイヤーによっては煩雑に感じられるでしょう。",
-      "そして、最も深刻な懸念点は、ユーザーレビューサイトに見られる数々の否定的な報告です。専門家からの評価が高い一方で、Trustpilotなどでは「詐欺」という言葉まで使われるほどの深刻な苦情が後を絶ちません。数ヶ月に及ぶ出金遅延、理由なきアカウント凍結、機能しないサポートといった報告は、Dafabetの信頼性に大きな影を落としています。",
-      "結論として、Dafabetは確かな運営基盤と魅力的なコンテンツを持つ一方で、時代遅れのサポート体制と、無視できない深刻なユーザーからの苦情という二面性を持っています。利用を検討する際は、これらのリスクを十分に天秤にかけ、慎重に判断することが不可欠です。",
+      "仮想通貨中心の入出金と軽快UI、FS勝利金0xやスポーツ初回5xなど現実的な条件設計が強み。VIP“ビッツ”は即時/日次/週次/月次/レベル報酬を積み上げられ、高回転のプレイヤーほど還元が厚くなります。",
+      "ゲームは約3,800+スロットとオリジナル10種前後、ライブはEvolution/Pragmaticが軸。スポーツは主要種目からeスポまで幅広く、配信連動の没入感も◎。",
+      "一方で、KYC審査や高額出金時の追加検証、サポート品質のばらつきなど、ユーザー体験に個人差が出る場面も。地域によりフィアット手段の可用性・上限が異なる点にも注意。",
     ],
   },
-  security: [
-    "キュラソー、フィリピン(CEZA)、英国(UKGC)の複数のライセンスを取得",
-    "448ビットBlowfishキーブロック暗号化と1024ビットRSAキー交換暗号化による強固なデータ保護",
-    "業界標準のファイアウォールを導入",
-    "ライセンス当局による定期的な監査を実施 (公表ペイアウト率97.76%)",
-  ],
+
   responsiblePlay: [
-    "サイトフッターの「責任あるゲーミング」セクションで情報を提供",
-    "ギャンブル依存症に関する情報や自己診断ツールへのアクセス",
+    "自己排除（一定期間〜永久）をサポート窓口に依頼可能",
+    "入金/ベット上限などはサポート経由での設定（セルフ操作は限定的）",
+    "外部支援機関の活用やプレイ時間/予算管理を推奨",
   ],
-  complaintStats: [],
-  awards: [],
-  restrictedCountries: [],
+
   userConcerns: [
-    "出金遅延（数週間から数ヶ月に及ぶとの報告あり）",
-    "入金がアカウントに反映されない問題",
-    "理由なくアカウントが閉鎖・凍結される事例",
-    "サポートからの返信が機械的で問題解決に至らないとの苦情",
-    "ユーザーレビューサイト（例: Trustpilot）での評価が非常に低い",
+    "KYCの厳格化や高額時の手動審査で遅延するケース",
+    "応対品質のばらつき報告（迅速/不親切双方の声）",
+    "一部レビューサイトで低評価・苦情事例（出金/制限関連）",
+    "地域によりフィアット入金の提供可否・上限が異なる",
   ],
+
   summary: [
-    "2004年設立の老舗で、特にスポーツベットに強みを持つ信頼性の高いブランド。",
-    "ボーナスの賭け条件が10倍からと非常に緩やかで、プレイヤーに有利。",
-    "ライブチャットサポートがなく、電話かメールでの問い合わせのみ。",
-    "ユーザーレビューサイトでは出金遅延などの深刻な苦情が多数報告されており、利用には注意が必要。",
+    "FS 500回（勝利金0x）やスポーツ初回5x、VIP“ビッツ”で高還元と回しやすさを両立。",
+    "仮想通貨を主軸に、地域次第でクレカ/各種決済のフィアット入金にも対応。",
+    "審査・サポートの個体差には注意しつつ、“高回転×還元重視”派に好相性。",
   ],
-  extraLinks: [
-    { text: "🔰 オンラインカジノの本人確認（KYC）について", href: "https://casinotsu.com/guides/document-verification" },
-  ],
+
   faq: [
     {
-      question: "ダファベットに入金不要ボーナスはありますか？",
-      answer: "いいえ、現在のところ、Dafabetでは入金不要ボーナスは提供されていません。",
+      question: "500フリースピンの条件は？",
+      answer:
+        "20ドル以上入金後、対象スロットで指定額を段階ベット（$50/$500/$1,000）すると50/150/300FS。FSは$0.2/回、付与から48時間、勝利金はW/Rなし。",
     },
     {
-      question: "ダファベットのチャットサポートはどこから問い合わせできますか？",
-      answer: "残念ながら、Dafabetではライブチャットサポートは提供されていません。問い合わせはメール、無料の国際電話、またはWhatsApp/Lineを利用する必要があります。",
+      question: "スポーツの初回入金ボーナスは？",
+      answer:
+        "100%最大$100で賭け条件5x（時期により変更あり）。参加前にプロモ/マイリワードで要確認。",
+    },
+    {
+      question: "出金は速い？手数料は？",
+      answer:
+        "仮想通貨は即時〜数分が目安。カジノ側の出金手数料は基本なし（ネットワーク手数料は別途）。審査状況により時間が延びる場合あり。",
+    },
+    {
+      question: "仮想通貨以外も使える？",
+      answer:
+        "地域によりVISA/Mastercard/JCBやSkrill、PayPal、Interac、Paysafecard、Online Banking等で入金可。上限や提供可否は手段/地域で異なります。",
+    },
+    {
+      question: "ライブカジノやeスポは？",
+      answer:
+        "ライブはEvolution/Pragmatic中心。スポーツは主要競技〜eスポまで幅広く、一部はライブ配信連動で観戦しながらベット可能。",
+    },
+    {
+      question: "KYCは必要？",
+      answer:
+        "規約順守のためKYCが求められます。高額出金時や不正検知時に追加書類や審査で時間を要する場合があります。",
     },
   ],
-  cta: {
-    text: "ダファベットのボーナスとゲームをチェックする",
-    href: "https://go.japanesecasino.com/go/dafabet:dafabet?referrer_path=%2Freviews%2Fdafabet",
-  },
 };

@@ -35,7 +35,7 @@ export default function TextBanner({
       <div className={`${fullWidth ? "w-full max-w-none" : "container mx-auto"} px-4`}>
         <div className={`${isCenter ? "text-center" : ""} space-y-2 max-w-3xl ${isCenter ? "mx-auto" : ""}`}>
           {subtitle ? (
-            <p className="text-sm font-semibold text-[#4392f1] tracking-wide">{subtitle}</p>
+            <p className="text-sm font-semibold text-brand tracking-wide">{subtitle}</p>
           ) : null}
           <h2 className="text-2xl sm:text-3xl font-bold text-gray-900">{title}</h2>
           {children ? <div className="text-gray-700 leading-relaxed">{children}</div> : null}
@@ -43,7 +43,7 @@ export default function TextBanner({
             <div className={`mt-4 ${isCenter ? "justify-center" : ""} flex`}>
               <Link
                 href={cta.href}
-                className="inline-flex items-center gap-2 bg-[#4392f1] text-white font-bold py-2.5 px-5 rounded-md hover:bg-[#2f80e6] transition-colors focus:outline-none focus-visible:ring-2 focus-visible:ring-[#4392f1]"
+                className="inline-flex items-center gap-2 bg-brand text-white font-bold py-2.5 px-5 rounded-md hover:bg-brand-hover transition-colors focus:outline-none focus-visible:ring-2 focus-visible:ring-brand"
               >
                 {cta.label}
               </Link>

@@ -19,7 +19,7 @@ export default function PromoBlockWithExpiry({ promos, title = "⏰ 期間限定
       <h3 className="text-xl font-bold text-gray-800 mb-4">{title}</h3>
       <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
         {promos.map((p, idx) => (
-          <Link key={idx} href={p.href} className="group block bg-white rounded-lg shadow-sm overflow-hidden border">
+          <Link key={idx} href={p.href} className="group block bg-white rounded-lg shadow-sm overflow-hidden border-gray-200 border">
             {/* eslint-disable-next-line @next/next/no-img-element */}
             {p.img ? (
               <img src={p.img} alt={p.title} className="w-full h-40 object-cover group-hover:opacity-95 transition" />

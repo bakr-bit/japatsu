@@ -43,6 +43,8 @@ export const reviewInterCasino: ReviewPageContent = {
       "VIPプログラムは完全招待制",
       "銀行送金での出金には1.5%の手数料がかかる",
     ],
+    avatarSrc: "/assets/casino/intercasino.png",
+    avatarAlt: "Intercasinoのロゴ",
   },
   payments: {
     featured: [
@@ -207,7 +209,7 @@ export const reviewInterCasino: ReviewPageContent = {
   ],
   editorial: {
     author: "Nanami",
-    profileHref: "/authors/nanami",
+    profileHref: "/authors/rina-okabe",
     hook: "老舗の信頼性と革新的なボーナスシステムが融合した、理想的なカジノの一つです。",
     theGoodStuff: "なんと言っても、出金条件のない$500ウェルカムキャッシュバックが最高です。勝敗に関わらずプレイするだけで現金が還元されるため、純粋にゲームに集中できます。CasinoTsu限定の150回入金不要フリースピンも、サイトを試す絶好の機会になります。",
     theHeadsUp: "日本語ライブチャットが24時間対応でない点は少し残念ですが、対応時間内であれば電話サポートもあり、品質は非常に高いです。また、$50未満の出金に手数料がかかる点には注意が必要です。",
@@ -275,5 +277,11 @@ export const reviewInterCasino: ReviewPageContent = {
   cta: {
     text: "インターカジノに登録して限定フリースピンをGET！",
     href: "https://go.japanesecasino.com/go/intercasino-japan:inter-casino?referrer_path=%2Freviews%2Finter-casino",
+  },
+    images: {
+    casino: [
+      "/assets/casino/intercasino.jpg",
+      "/assets/casino/intercasino.png",
+    ],
   },
 };

@@ -1,6 +1,7 @@
 "use client";
 
-import { useMemo, useRef, useState } from "react";
+import Image from "next/image";
+import { useRef, useState } from "react";
 
 type QuizOption = {
   label: string;
@@ -65,11 +66,11 @@ export default function Quiz({
   const finished = index === questions.length - 1 && revealed;
 
   return (
-    <section className={`bg-white rounded-lg border shadow-sm overflow-hidden ${className}`}>
+    <section className={`bg-white rounded-lg border-gray-200 border shadow-sm overflow-hidden ${className}`}>
       <div className="px-4 py-4 sm:px-6 bg-gradient-to-r from-rose-50 to-white border-b">
         <div className="flex items-center justify-between">
           <h3 className="text-lg font-bold text-gray-900">{title}</h3>
-          <span className="text-xs font-semibold text-gray-700 bg-gray-100 border rounded-full px-2 py-0.5">
+          <span className="text-xs font-semibold text-gray-700 bg-gray-100 border-gray-300 border rounded-full px-2 py-0.5">
             問 {index + 1} / {questions.length}
           </span>
         </div>
@@ -102,7 +103,7 @@ export default function Quiz({
                 onClick={() => onChoose(i)}
                 role="radio"
                 aria-checked={isSelected}
-                className={`text-left px-3 py-2 rounded-md border transition-colors flex items-start gap-2 ${cls}`}
+                className={`text-left px-3 py-2 rounded-md border-gray-300 border transition-colors flex items-start gap-2 ${cls}`}
                 disabled={revealed}
               >
                 <span className={`mt-0.5 h-5 w-5 rounded-full flex items-center justify-center text-xs font-bold ${isSelected ? "bg-red-600 text-white" : "bg-gray-200 text-gray-700"}`}>
@@ -124,9 +125,18 @@ export default function Quiz({
                 </div>
                 <div className={`absolute top-1/2 -mt-2 w-4 h-4 rotate-45 border ${q.options[selected].correct ? "bg-green-50 border-green-200" : "bg-red-50 border-red-200"} right-[-6px]`} aria-hidden="true" />
               </div>
-              <div className="mt-2 flex items-center justify-end gap-2">
-                <div className="text-xs text-gray-500">専門家</div>
-                <div className="h-6 w-6 rounded-full bg-gray-300" aria-hidden="true" />
+              <div className="mt-2 flex items-center justify-end gap-3 text-right">
+                <div className="text-xs leading-tight text-gray-500">
+                  <div className="font-semibold text-gray-700">Rina Okabe</div>
+                  <div>CasinoTsu 編集長</div>
+                </div>
+                <Image
+                  src="/rina/avatar.png"
+                  alt="Rina Okabe"
+                  width={32}
+                  height={32}
+                  className="h-8 w-8 rounded-full object-cover"
+                />
               </div>
             </div>
           </div>

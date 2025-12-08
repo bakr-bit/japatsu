@@ -43,6 +43,8 @@ export const reviewBetgoat: ReviewPageContent = {
       "サイト内で利用規約などの情報が見つけにくい",
       "仮想通貨以外の決済方法には非対応",
     ],
+    avatarSrc: "/assets/casino/betgoat.png",
+    avatarAlt: "Betgoatのロゴ",
   },
   payments: {
     featured: [
@@ -214,7 +216,7 @@ export const reviewBetgoat: ReviewPageContent = {
   ],
   editorial: {
     author: "Nanami",
-    profileHref: "/authors/nanami",
+    profileHref: "/authors/rina-okabe",
     hook: "サイトの応答速度とKYC不要の手軽さは感動的！ただし、情報整理にはまだ改善の余地あり。",
     theGoodStuff: "実際にプレイして最も感心したのは、サイトの軽快な動作とゲームの起動速度です。KYC不要で登録から出金までできる手軽さは、仮想通貨ユーザーにとって大きなメリット。ゲーム数も豊富で飽きさせません。",
     theHeadsUp: "一方で、新しいカジノのためか、サイト内の情報整理がまだ不十分な印象です。責任あるギャンブルのページが見つけにくかったり、ボーナスの説明が実際と異なったりする点がありました。今後の改善に期待したいです。",
@@ -295,5 +297,11 @@ export const reviewBetgoat: ReviewPageContent = {
   cta: {
     text: "ベットゴートで匿名性の高いプレイを始める🐐",
     href: "https://go.japanesecasino.com/go/betgoat",
+  },
+    images: {
+    casino: [
+      "/assets/casino/betgoat.png",
+      "/assets/casino/betgoat.jpg",
+    ],
   },
 };

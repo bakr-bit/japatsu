@@ -16,8 +16,6 @@ type HeaderProps = {
   onLogoClickHref?: string;
   nav?: NavItem[];
   socials?: SocialItem[];
-  showSearchButton?: boolean;
-  onSearchClick?: () => void;
   sticky?: boolean;
   shadow?: boolean;
   containerClassName?: string;
@@ -25,14 +23,6 @@ type HeaderProps = {
 
 const defaultNav: NavItem[] = [];
 
-function IconSearch(props: React.SVGProps<SVGSVGElement>) {
-  return (
-    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true" {...props}>
-      <circle cx="11" cy="11" r="8" />
-      <path d="m21 21-3.5-3.5" />
-    </svg>
-  );
-}
 
 function IconMenu(props: React.SVGProps<SVGSVGElement>) {
   return (
@@ -50,8 +40,6 @@ export default function Header({
   onLogoClickHref = "/",
   nav = defaultNav,
   socials = [],
-  showSearchButton = true,
-  onSearchClick,
   sticky = true,
   shadow = true,
   containerClassName = "",
@@ -95,7 +83,7 @@ export default function Header({
   return (
     <header ref={headerRef} className={headerClasses}>
       <div className={`mx-auto max-w-screen-xl px-4 py-3 flex items-center justify-between ${containerClassName}`}>
-        <Link href={onLogoClickHref} className="flex-shrink-0 focus:outline-none focus-visible:ring-2 focus-visible:ring-red-500 rounded">
+        <Link href={onLogoClickHref} className="flex-shrink-0 focus:outline-none focus-visible:ring-2 focus-visible:ring-brand rounded">
           {logoSrc ? (
             <Image
               src={logoSrc}
@@ -121,7 +109,7 @@ export default function Header({
                 <Link
                   key={item.href}
                   href={item.href}
-                  className="text-[#4392f1] hover:text-[#4392f1] transition-colors focus:outline-none focus-visible:ring-2 focus-visible:ring-red-500 rounded inline-flex items-center gap-1"
+                  className="text-brand hover:text-brand-hover transition-colors focus:outline-none focus-visible:ring-2 focus-visible:ring-brand rounded inline-flex items-center gap-1"
                 >
                   {Icon ? <Icon className="h-4 w-4" aria-hidden="true" /> : null}
                   <span>{item.label}</span>
@@ -132,7 +120,7 @@ export default function Header({
               <div key={item.href} className="relative">
                 <button
                   type="button"
-                  className="inline-flex items-center gap-1 text-[#4392f1] hover:text-[#4392f1] focus:outline-none focus-visible:ring-2 focus-visible:ring-red-500 rounded"
+                  className="inline-flex items-center gap-1 text-brand hover:text-brand-hover focus:outline-none focus-visible:ring-2 focus-visible:ring-brand rounded"
                   aria-haspopup="menu"
                   aria-expanded={isOpen}
                   onClick={() => setOpenMenu((cur) => (cur === idx ? null : idx))}
@@ -148,15 +136,20 @@ export default function Header({
                     role="menu"
                     className="absolute left-0 mt-2 w-56 rounded-md bg-white shadow-lg ring-1 ring-black/5 py-2 z-50"
                   >
-                    {item.items!.map((child) => (
-                      <Link
-                        key={child.href}
-                        href={child.href}
-                        className="block px-4 py-2 text-sm text-[#4392f1] hover:text-[#4392f1] transition-colors focus:outline-none"
-                      >
-                        {child.label}
-                      </Link>
-                    ))}
+                    {item.items!.map((child) => {
+                      const isMainPage = child.href === item.href;
+                      return (
+                        <Link
+                          key={child.href}
+                          href={child.href}
+                          className={`block px-4 py-2 text-sm text-brand hover:text-brand-hover transition-colors focus:outline-none ${
+                            isMainPage ? 'font-bold' : ''
+                          }`}
+                        >
+                          {child.label}
+                        </Link>
+                      );
+                    })}
                   </div>
                 )}
               </div>
@@ -165,24 +158,13 @@ export default function Header({
         </nav>
 
         <div className="flex items-center gap-4">
-          {showSearchButton && (
-            <button
-              type="button"
-              aria-label="Search"
-              className="p-1 text-[#4392f1] hover:text-[#4392f1] transition-colors focus:outline-none focus-visible:ring-2 focus-visible:ring-red-500 rounded"
-              onClick={onSearchClick}
-            >
-              <IconSearch className="h-6 w-6" />
-            </button>
-          )}
-
-          <div className="hidden md:flex items-center gap-3 text-[#4392f1]">
+          <div className="hidden md:flex items-center gap-3 text-brand">
             {socials.map((s) => (
               <Link
                 key={s.href}
                 href={s.href}
                 aria-label={s.label}
-                className="hover:text-[#4392f1] transition-colors focus:outline-none focus-visible:ring-2 focus-visible:ring-red-500 rounded"
+                className="hover:text-brand-hover transition-colors focus:outline-none focus-visible:ring-2 focus-visible:ring-brand rounded"
               >
                 {s.icon ?? (
                   <span className="text-xs font-semibold">{s.label}</span>
@@ -193,7 +175,7 @@ export default function Header({
 
           <button
             type="button"
-            className="lg:hidden p-1 text-[#4392f1] hover:text-[#4392f1] focus:outline-none focus-visible:ring-2 focus-visible:ring-red-500 rounded"
+            className="lg:hidden p-1 text-brand hover:text-brand-hover focus:outline-none focus-visible:ring-2 focus-visible:ring-brand rounded"
             aria-label="Toggle menu"
             aria-expanded={open}
             onClick={() => setOpen((v) => !v)}
@@ -220,7 +202,7 @@ export default function Header({
                   <Link
                     key={item.href}
                     href={item.href}
-                    className="py-2 text-[#4392f1] hover:text-[#4392f1] transition-colors inline-flex items-center gap-2"
+                    className="py-2 text-brand hover:text-brand-hover transition-colors inline-flex items-center gap-2"
                     onClick={() => setOpen(false)}
                   >
                     {Icon ? <Icon className="h-4 w-4" aria-hidden="true" /> : null}
@@ -232,7 +214,7 @@ export default function Header({
                 <div key={item.href} className="border-b last:border-b-0">
                   <button
                     type="button"
-                    className="w-full flex items-center justify-between py-2 text-[#4392f1] hover:text-[#4392f1]"
+                    className="w-full flex items-center justify-between py-2 text-brand hover:text-brand-hover"
                     aria-expanded={isOpen}
                     onClick={() => setMobileOpenMenus((m) => ({ ...m, [idx]: !m[idx] }))}
                   >
@@ -246,16 +228,21 @@ export default function Header({
                   </button>
                   {isOpen && (
                     <div className="pb-2 pl-2">
-                      {item.items!.map((child) => (
-                        <Link
-                          key={child.href}
-                          href={child.href}
-                          className="block py-1 pl-2 text-[#4392f1] hover:text-[#4392f1] transition-colors"
-                          onClick={() => setOpen(false)}
-                        >
-                          {child.label}
-                        </Link>
-                      ))}
+                      {item.items!.map((child) => {
+                        const isMainPage = child.href === item.href;
+                        return (
+                          <Link
+                            key={child.href}
+                            href={child.href}
+                            className={`block py-1 pl-2 text-brand hover:text-brand-hover transition-colors ${
+                              isMainPage ? 'font-bold' : ''
+                            }`}
+                            onClick={() => setOpen(false)}
+                          >
+                            {child.label}
+                          </Link>
+                        );
+                      })}
                     </div>
                   )}
                 </div>
@@ -265,7 +252,7 @@ export default function Header({
           {socials.length > 0 && (
             <div className="mt-4 flex items-center gap-4 text-gray-600">
               {socials.map((s) => (
-                <Link key={s.href} href={s.href} aria-label={s.label} className="hover:text-[#4392f1] transition-colors">
+                <Link key={s.href} href={s.href} aria-label={s.label} className="hover:text-brand-hover transition-colors">
                   {s.icon ?? <span className="text-xs font-semibold">{s.label}</span>}
                 </Link>
               ))}

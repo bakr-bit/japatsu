@@ -42,6 +42,8 @@ export const reviewK8: ReviewPageContent = {
       "入出金時に不具合が発生することがある",
       "取引手数料が高くなる場合がある（特にビットコインの出金手数料）",
     ],
+    avatarSrc: "/assets/casino/k8.png",
+    avatarAlt: "K8のロゴ",
   },
   payments: {
     featured: [
@@ -237,7 +239,7 @@ export const reviewK8: ReviewPageContent = {
   ],
   editorial: {
     author: "Nanami",
-    profileHref: "/authors/nanami",
+    profileHref: "/authors/rina-okabe",
     hook: "オンラインで日本のパチンコ実機が打てるのは唯一無二の魅力！ただし、サポート体制には注意が必要です。",
     theGoodStuff: "懐かしのパチンコ・パチスロ台をオンラインで楽しめるのはK8カジノ最大の強みです。2万種類を超えるゲーム数、豊富なプロモーション、仮想通貨の利便性も非常に魅力的です。",
     theHeadsUp: "一方で、日本語ネイティブのサポートがいないため、コミュニケーションに翻訳ツールが必要になる場面があります。また、モバイルでのパチンコプレイは遅延が発生する可能性があり、PC環境が推奨されます。",

@@ -41,6 +41,8 @@ export const reviewCasinoSecret: ReviewPageContent = {
       "VIPプログラムは招待制で詳細が非公開",
       "日本語サポートの対応は24時間ではない",
     ],
+    avatarSrc: "/assets/casino/casino-secret.png",
+    avatarAlt: "カジノシークレットのロゴ",
   },
   payments: {
     featured: [
@@ -218,7 +220,7 @@ export const reviewCasinoSecret: ReviewPageContent = {
   ],
   editorial: {
     author: "Nanami",
-    profileHref: "/authors/nanami",
+    profileHref: "/authors/rina-okabe",
     hook: "キャッシュバックの魅力は絶大ですが、入金額への2倍の賭け条件は考慮すべき点です。",
     theGoodStuff: "何と言っても賭け条件なしのインスタントキャッシュバックが素晴らしいです。気づかないうちに貯まっていて、いざという時の保険になります。限定の入金不要ボーナスや豪華なウェルカムパッケージも、新規プレイヤーにとって非常に魅力的です。",
     theHeadsUp: "注意すべきは、入金したリアルマネー自体に2倍の賭け条件が課される点です。これは一般的なカジノの1倍よりも厳しく、すぐに出金したい場合には障壁となり得ます。",

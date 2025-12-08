@@ -43,6 +43,8 @@ export const reviewEldoah: ReviewPageContent = {
       "クレジットカード入金や銀行送金出金に5%の手数料が発生",
       "12ヶ月間利用がないと休眠口座として残高が没収される可能性",
     ],
+    avatarSrc: "/assets/casino/eldoah-casino.png",
+    avatarAlt: "Eldoahのロゴ",
   },
   payments: {
     featured: [
@@ -132,8 +134,8 @@ export const reviewEldoah: ReviewPageContent = {
       warning: "",
     },
     welcomeRows: [
-      { depositNumber: "初回入金 (選択制)", percent: "70%キャッシュバック", cap: "¥50,000", code: "ジャパカジ70" },
-      { depositNumber: "初回入金 (選択制)", percent: "50%入金ボーナス", cap: "¥10,000", code: "週末限定" },
+      { depositNumber: "初回入金 (キャッシュバック)", percent: "70%キャッシュバック", cap: "¥50,000", code: "ジャパカジ70" },
+      { depositNumber: "初回入金 (入金ボーナス)", percent: "50%入金ボーナス", cap: "¥10,000", code: "週末限定" },
     ],
     conditions: [
       "入金不要ボーナス、キャッシュバック、入金ボーナスなど、ほとんどのボーナスの賭け条件は1倍です。",
@@ -207,7 +209,7 @@ export const reviewEldoah: ReviewPageContent = {
   ],
   editorial: {
     author: "Kotone",
-    profileHref: "/authors/kotone",
+    profileHref: "/authors/rina-okabe",
     hook: "ハイローラーにとって天国のような条件と、深刻な安全性への警告が同居する、評価が二分されるカジノです。",
     theGoodStuff: "出金上限なし、平均15分の超高速出金、賭け条件1倍のボーナス。これらは他のカジノの追随を許さない、エルドアカジノだけの強力な魅力です。特に高額を賭けるプレイヤーにとって、これ以上ない環境と言えるでしょう。24時間対応の日本語サポートの質も極めて高いです。",
     theHeadsUp: "しかし、Casino Guruの安全指数1.9/10という評価は看過できません。『強く距離を置くこと』を推奨されるほどの低評価は、賞金の支払いや運営の公正性に深刻な懸念があることを示唆しています。プレイヤーはこのリスクを十分に理解した上で、自己責任でプレイする必要があります。",
@@ -274,5 +276,13 @@ export const reviewEldoah: ReviewPageContent = {
   cta: {
     text: "エルドアカジノでプレイしてみる！",
     href: "https://go.japanesecasino.com/go/eldoah-casino:eldoah?referrer_path=%2Freviews%2Feldoah",
+  },
+    images: {
+    casino: [
+      "/assets/casino/eldoah-casino.jpg",
+      "/assets/casinos/eldoah_375x375-3.png",
+      "/assets/casino/eldoah-casino.png",
+      "/assets/jp/eldoah-casino.png",
+    ],
   },
 };

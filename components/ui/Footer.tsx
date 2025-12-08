@@ -2,7 +2,7 @@ import { Twitter, Instagram, Youtube } from "lucide-react";
 
 export default function Footer() {
   return (
-    <footer className="bg-[#003B6C] text-white">
+    <footer className="bg-blue-800 text-white">
       <div className="container mx-auto px-4 py-16 space-y-12">
         {/* Links */}
         <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-5 gap-8">
@@ -28,7 +28,7 @@ export default function Footer() {
 
         {/* Disclaimer */}
         <div className="text-blue-100 text-sm space-y-3 text-center max-w-4xl mx-auto">
-          <p className="font-semibold">⚓ CasinoTsuは、プレイヤーの安全を第一に考える情報提供サイトです。</p>
+          <p className="font-bold">⚓ CasinoTsuは、プレイヤーの安全を第一に考える情報提供サイトです。</p>
           <p>オンラインカジノはエンターテイメントであり、適度に楽しむことが大切です。常に自己責任の範囲内で、責任を持ってプレイしてください。当サイトは責任あるギャンブルを推進しており、GPWAやGambling Therapyといった第三者機関と提携しています。</p>
         </div>
 

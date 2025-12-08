@@ -1,0 +1,172 @@
+import Link from "next/link";
+import type { BonusPageContent } from "@/components/templates/BonusDetailTemplate";
+
+export const freshCasinoFreeSpins: BonusPageContent = {
+  hero: {
+    title: "フレッシュカジノの入金不要フリースピン50回をゲット！",
+    description: "CasinoTsu から、注目の新星カジノ『フレッシュカジノ』へのご案内です。ご登録いただくだけで、無料スピン50回分をお楽しみいただけます💖 少しマニアックながらも、一撃で高額配当を狙える人気スロットを無料でプレイできる、大変貴重な機会でございます。詳細と獲得方法を、CasinoTsu と共に確認してまいりましょう😎👇",
+    lastUpdated: "2024-10-10",
+  },
+
+  featuredOffers: [
+    {
+      casino: "フレッシュカジノ",
+      casinoSlug: "fresh-casino",
+      title: "【CasinoTsu限定】入金不要フリースピン50回（Alien Fruits、賭け条件45倍）",
+      imageUrl: "https://casinotsu.com/images/fresh_1440x320.png",
+      offerUrl: "https://go.casinotsu.com/go/fresh-casino_terms?referrer_path=%2Foffers%2Ffresh-casino-exclusive",
+      expiryDate: "2024-12-31",
+      featured: true,
+    },
+  ],
+
+  detailedCasinos: [
+    {
+      rank: 1,
+      casino: "フレッシュカジノ（Fresh Casino）",
+      casinoSlug: "fresh-casino",
+      heading: "CasinoTsu 限定✨ 登録フリースピン50回分の詳細",
+      description: [
+        "
+![Fresh限定オファー：コンテント・フィーチャーイメージ](LINK_NEEDS_REPAIR)
+</>,
+        <>最近、CasinoTsu の仲間入りをした「 <strong><a href="https://casinotsu.com/reviews/fresh-casino" target="_blank" rel="noopener noreferrer">フレッシュカジノ（Fresh Casino）</strong>」🎉</>,
+        "まだ新しいカジノではございますが、6,000種類以上のゲームを提供しており、その実力は確かです。",
+        "この度、フレッシュカジノより、CasinoTsu 経由で特別なオファーをご提供いただけることとなりました✨",
+        <>なんと今なら、CasinoTsu からのご登録で、<a href="https://casinotsu.com/slots/free" target="_blank" rel="noopener noreferrer">スロットのフリースピン **50回分** をプレゼント🎁🎰💖</>,
+        "### 【フリースピンの利用規約】",
+        "*   **登録フリースピン：** 50回分",
+        "*   **賭け条件：** 45倍\n    *   この賭け条件45倍は、フリースピンで獲得した賞金に対して適用されます。例えば、フリースピンで1,000円の賞金を獲得された場合、その1,000円の45倍、すなわち45,000円分のベットを行う必要がございます。",
+        "*   **対象機種：**\n    *   基本的には『 **エイリアン・フルーツ**（ **Alien Fruits**）』が対象となりますが、プロモーション期間や提携サイトによっては、『 **EGYPTIAN FORTUNES**』、『 **Doors of Fresh**』、『 **Gonzo's Quest**』、『 **Coins of Egypt**』、『 **Spinata Grande**』、『 **John Hunter and the Aztec Treasure**』、『 **Aloha!**』といった人気スロットでも提供されることがございます。最新の情報につきましては、プロモーションコードごとの利用規約をご確認くださいますようお願い申し上げます。",
+        "*   **フリースピンの有効期限：** 72時間（賭け条件達成までの期限も同様）",
+        "*   **スピンバリュー：** 1スピンあたり20円",
+        "*   **最大出金可能額：** フリースピンによる勝利金額の10倍（例：フリースピンで5,000円の勝利金を得られた場合、最大50,000円までの出金が可能となります）",
+        "*   **プロモーションコード：** コード欄にて「 **JAPACASI50FS**」 **をご入力の上、フリースピンの申請が必要** です。\n    *   **代替プロモーションコード:** 他の提携サイト経経由では、「**CASINOVA**」（Casinova.org）、「**CHIPY100**」（Chipy.com）、「**GAMESON50**」（CasinoGamesOnNet.com）、「**50SLOTSC**」（BetonValue.com, SlotsCalendar.com）といったコードもご利用いただける場合がございます。ただし、これらのコードで提供されるフリースピンの対象機種や条件は異なる可能性がございますので、必ず各サイトにてご確認ください。",
+        "*   **ボーナス申請前の認証：** メールアドレスおよび携帯電話の認証を完了させてください。",
+        "*   **アカウント情報登録：** アカウント登録後、プロフィールページにて個人情報、電話番号、国（日本）の登録を完了させてください。",
+        "*   フレッシュカジノの利用規約が適用されます。",
+        <>こちらのスロットは、グラフィックに定評のある <strong><a href="https://casinotsu.com/providers/bgaming" target="_blank" rel="noopener noreferrer">Bgaming</strong> 社よりリリースされている <strong><a href="https://casinotsu.com/slots" target="_blank" rel="noopener noreferrer">人気スロット</strong> で、なんと **賞金ポテンシャルが最高15,000倍** を誇る <strong><a href="https://casinotsu.com/slots/best-payout" target="_blank" rel="noopener noreferrer">高配当倍率スロット</strong> です 🔥</>,
+        "これは、迅速に登録を済ませ、高額配当を狙ってスピンする以外に道はないでしょうヾ(≧▽≦\\*)o",
+        <>🐱 **6,000種類以上のゲームと豊富なボーナスで注目の新星カジノ** <a href="https://casinotsu.com/reviews/fresh-casino" target="_blank" rel="noopener noreferrer">フレッシュカジノ（FRESH CASINO）のレビュー ページもぜひご覧ください。</>,
+      ],
+      cta: {
+        text: "オファーへ",
+        href: "https://go.casinotsu.com/go/fresh-casino_terms?referrer_path=%2Foffers%2Ffresh-casino-exclusive",
+      },
+    },
+  ],
+
+  educational: [
+    {
+      heading: "フレッシュカジノの入金不要フリースピン獲得方法",
+      paragraphs: [
+        "フレッシュカジノの登録 [フリースピン](LINK_NEEDS_REPAIR) は、大変おすすめです。なぜなら、ご登録いただくだけで簡単にお受け取りいただけるからです。</>,
+        "早速、CasinoTsu と一緒に手順を確認してまいりましょう(๑•̀ㅂ•́)و✧",
+      ],
+      subsections: <a href="https://casinotsu.com/images/Fresh-Sign-In1.jpg" target="_blank" rel="noopener noreferrer">
+        {
+          subheading: "【登録手順】",
+          paragraphs: [
+            "① CasinoTsu 経由でフレッシュカジノの登録ページへアクセスしてください。",
+            "② 登録フォームに必要事項をご入力ください。",
+            "
+![フレッシュカジノ｜限定オファー・入金不要フリースピン・獲得方法](LINK_NEEDS_REPAIR)
+</>,
+            "*   **メールアドレス、任意のパスワード、国【日本】、通貨【日本円】** をご入力ください。",
+            "*   プロモーションメールの受信をご希望され、プライバシーポリシーにご同意いただける場合はチェック✅を入れて、**「サインアップ」をクリック** してください。",
+            "③ 引き続き、個人情報（ **生年月日、氏名、性別、国（日本）、住所**） **のご入力を** お進みください。これにより、アカウント登録が完了いたします。",
+            <>
+!<a href="https://casinotsu.com/images/Fresh-Sign-In2.jpg" target="_blank" rel="noopener noreferrer">フレッシュカジノ｜限定オファー・入金不要フリースピン・獲得方法2
+</>,
+          ],
+        },
+        {
+          subheading: "【認証手続き】",
+          paragraphs: [
+            "④ **認証確認メール** が届きますので、メール内のリンクをクリックしてメールアドレスの認証を完了させてください。",
+            "⑤ 同様に、**携帯電話の認証** も完了させてください。",
+            "
+![フレッシュカジノ｜限定オファー・入金不要フリースピン・獲得方法3](LINK_NEEDS_REPAIR)
+</>,
+          ],
+        },
+        {
+          subheading: "【ボーナス申請】",
+          paragraphs: [
+            "⑥ 入金ページ、またはプロフィールページの「ボーナスコード」欄に『 **JAPACASI50FS**』 **をご入力の上、フリースピンを申請** してください。これで獲得完了となります🤩🙌",
+            "あとは、 **賞金ポテンシャルが最高** の対象スロットで無料スピンをお楽しみください(/≧▽≦)/",
+          ],
+        },
+        {
+          subheading: "【アカウント重複に関する注意】",
+          paragraphs: [
+            "フレッシュカジノでは、 **お一人様につき一つのアカウントのみ** の作成が許可されております。 **複数のアカウントを作成することは、利用規約にて禁止** されており、発覚した場合にはボーナスの没収やアカウントの凍結といった措置が取られる可能性がございます。過去にフレッシュカジノや関連カジノでアカウントを作成されたことがあるお客様は、今回のご利用いただけない可能性がございますので、ご注意ください。",
+            "**🆕 新カジノが続々登場しています！** [オンカジ新規オープン](LINK_NEEDS_REPAIR) サイトの最新情報をお見逃しなく。</>,
+          ],
+        },
+      ],
+    },
+    {
+      heading: "ユーザー体験とサポート",
+      paragraphs: [
+        "フレッシュカジノは、全体的にスムーズな登録プロセスと、迅速なサポート対応により、プレイヤーの皆様からご好評をいただいております。特に、ライブチャットでの問い合わせには即座に対応いただけるとの声が多く寄せられています。しかしながら、一部のプレイヤーからは、ゲームの読み込み速度や、特定のボーナスの利用条件に関する説明が分かりにくいといったご意見も頂戴しております。",
+      ],
+    },
+    {
+      heading: "他のオファーとの比較",
+      table: {
+        columns: ["ボーナス種類", "ボーナス額/内容", "賭け条件", "最大出金可能額", "備考"],
+        rows: [
+          ["**入金不要フリースピン**", "**50回**", "**45倍**", "**勝利金の10倍**", "CasinoTsu限定、Alien Fruits対象（プロモコード要入力）"],
+          ["ウェルカムボーナス（カジノ）", "最大9万円（初回・2回目入金）", "45倍", "-", "入金額＋ボーナス額に対して適用"],
+          ["ウェルカムボーナス（スポーツ）", "最大3万円（初回～3回目入金）", "10倍", "-", "入金額＋ボーナス額に対して適用"],
+          ["初回入金フリースピン", "最大500回", "-", "-", "入金額に応じて変動"],
+          ["キャッシュバック", "-", "-", "-", "プロモーション内容による"],
+          ["トーナメント", "賞金プールあり", "-", "-", "定期的に開催"],
+        ],
+      },
+      paragraphs: [
+        "この入金不要フリースピンは、リスクなくカジノをお試しいただける絶好の機会でございます。通常のウェルカムボーナスと比較すると、直接的なボーナス額は控えめですが、**賭け条件をクリアされれば実際に出金可能な現金** となる点が大きな魅力です。また、初回入金フリースピンは最大500回と大量ですが、こちらはご入金が必要となります。CasinoTsu は、正確さが第一。興奮はその次。をモットーに、皆様に正確な情報をお届けできるよう努めております。",
+      ],
+    },
+    {
+      heading: "まとめ｜爆裂スロットで高額賞金狙っちゃえ🔥",
+      paragraphs: [
+        "フレッシュカジノの [**入金不要フリースピン**](LINK_NEEDS_REPAIR) は、何と言っても **CasinoTsu 限定のスペシャル特典** 💕</>,
+        "しかも、皆様がよくご存知のスロットではなく、**高配当倍率スロット機種を無料でプレイできる** 点が、CasinoTsu としては大変気に入っております😍🎰",
+        <>さらに、<strong><a href="https://casinotsu.com/offers" target="_blank" rel="noopener noreferrer">限定オファー</strong> でプレイいただいた後は、最大4回目のご入金までお受け取りいただける <strong><a href="https://casinotsu.com/bonuses/welcome-bonus" target="_blank" rel="noopener noreferrer">豪華ウェルカムボーナス</strong> や、**<a href="https://casinotsu.com/free-spins" target="_blank" rel="noopener noreferrer">初回入金フリースピン 最大500回**、そして **キャッシュバック** など、豊富なキャンペーンもご用意しております。</>,
+        <>一度ご登録いただければ、長くお楽しみいただける <strong><a href="https://casinotsu.com/" target="_blank" rel="noopener noreferrer">おすすめのオンラインカジノ</strong> であるフレッシュカジノ😻</>,
+        "他では味わえないお得感を、この機会にぜひご満喫くださいませ♪(´▽｀)",
+        <>**😲負けても資金が戻ってくる！？**\n\n<a href="https://casinotsu.com/bonuses/cashback" target="_blank" rel="noopener noreferrer">オンラインカジノのキャッシュバック ボーナスについて、CasinoTsu が徹底解説いたします♪</>,
+      ],
+    },
+  ],
+
+  faq: [
+    {
+      question: "フレッシュカジノの入金不要フリースピンを受け取る際の注意点は何ですか？",
+      answer: "CasinoTsu 経由で新規登録後、入金ページもしくはプロフィールページのボーナスコード欄にて『JAPACASI50FS』をご入力の上、フリースピンを申請してください。メールアドレスと電話番号の認証、ならびにプロフィールへの個人情報登録も必要となります。CasinoTsu は、チェック、ダブルチェック、そして CasinoTsu チェックを徹底しております。",
+    },
+    {
+      question: "フレッシュカジノの入金不要フリースピンの対象機種は？",
+      answer: "基本的には『Alien Fruits』が対象となりますが、プロモーションコードや提携サイトにより、『EGYPTIAN FORTUNES』、『Doors of Fresh』、『Gonzo's Quest』といった他の人気スロットが対象となる場合もございます。必ず、ご利用になるコードの条件をご確認ください。",
+    },
+    {
+      question: "フレッシュカジノの入金不要フリースピンの最大出金可能額はいくらですか？",
+      answer: "入金不要フリースピンから得られた勝利金の最大出金可能額は、獲得された勝利金の10倍までとなります。例えば、フリースピンで5,000円の勝利金を得られた場合、最大50,000円まで出金申請が可能でございます。",
+    },
+    {
+      question: "フレッシュカジノで複数のアカウントを作成しても問題ありませんか？",
+      answer: "いいえ、フレッシュカジノでは、お一人様につき一つのアカウントのみ作成が許可されております。複数のアカウントを作成することは、利用規約にて固く禁止されております。発覚した場合、ボーナスの没収やアカウント凍結といった措置が取られる可能性がございますので、十分にご注意ください。",
+    },
+    {
+      question: "この入金不要フリースピンは、どこの国からでも受け取れますか？",
+      answer: "いいえ、このオファーには地域制限がございます。例えば、アメリカ合衆国は利用が制限されております。また、フィリピン、チェコ共和国、ブルガリア、ボスニア・ヘルツェゴビナ、インドネシア、南アフリカといった国々では、一部のオファーが対象外となる場合がございます。日本からのご登録・プレイは可能ですが、最新の制限につきましては、フレッシュカジノの利用規約をご確認くださいますようお願い申し上げます。CasinoTsu 推薦のオファーは、常に正確な情報を提供できるよう努めております。",
+    },
+  ],
+
+  cta: {
+    text: "フレッシュカジノでフリースピンをGET！",
+    href: "https://go.casinotsu.com/go/fresh-casino_terms?referrer_path=%2Foffers%2Ffresh-casino-exclusive",
+  },
+};

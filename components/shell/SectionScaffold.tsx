@@ -30,8 +30,7 @@ export default function SectionScaffold({
 }: SectionScaffoldProps) {
   return (
     <div className="min-h-screen bg-gray-50">
-      <FeaturedOfferStrip items={featuredItems} />
-
+      
       {/* Hero header */}
       {showHeader ? (
         <section className="relative">

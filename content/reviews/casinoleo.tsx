@@ -185,7 +185,7 @@ export const reviewCasinoLeo: ReviewPageContent = {
   ],
   editorial: {
     author: "Kotone",
-    profileHref: "/authors/kotone",
+    profileHref: "/authors/rina-okabe",
     hook: "ボーナスの魅力とサポートの質はトップクラスでしたが、基盤となるサービスの拡充が待たれる中での撤退となりました。",
     theGoodStuff: "賭け条件ゼロの入金不要スピンと、条件が緩めの最大15万円ウェルカムボーナスは、新規プレイヤーにとって非常に魅力的でした。また、24時間いつでも親切な日本人オペレーターにつながるチャットサポートは、絶大な安心感を提供していました。",
     theHeadsUp: "一方で、決済方法の種類が少なく、特に主要なEウォレットの選択肢が限られていた点は大きな弱点でした。また、長期プレイヤーを繋ぎ止めるためのVIPプログラムやロイヤリティ制度がなかったことも、今後の成長における課題と見られていました。",

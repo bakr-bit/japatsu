@@ -58,7 +58,7 @@ export default function RankingCard({ casino, paymentIconMap = {}, className = "
   const shiny = casino.rank >= 1 && casino.rank <= 3;
 
   return (
-    <div className={`bg-white border rounded-lg shadow-sm mb-6 flex flex-col lg:flex-row items-center p-4 ${className}`}>
+    <div className={`bg-white border-gray-200 border rounded-lg shadow-sm mb-6 flex flex-col lg:flex-row items-center p-4 ${className}`}>
       {/* Image & Rank */}
       <div className="flex-shrink-0 lg:w-1/5 relative mb-4 lg:mb-0">
         <div

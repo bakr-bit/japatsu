@@ -1,0 +1,331 @@
+import ProvidersTemplate, { ProvidersPageData } from "@/components/templates/ProvidersTemplate";
+
+const data: ProvidersPageData = {
+  title: "Octoplay（オクトプレイ）徹底レビュー：革新的なゲーム体験を提供する注目のプロバイダー ✨",
+  banner: {
+    title: "Octoplay（オクトプレイ）",
+    subheading: "革新的なゲーム体験を提供する注目のプロバイダー",
+    description: "設立からわずか数年で急速に注目を集めているOctoplay。シンプルながらもエンターテイメント性の高いスロットゲームで、多くのプレイヤーを魅了しています。",
+    avatarSrc: "/assets/provider/octoplay.png",
+    avatarAlt: "Octoplay Logo",
+  },
+  hero: {
+    highlights: [
+      "ユニークなゲームフィーチャー（ロック＆リスピン、カオスリール等）",
+      "ビデオゲームのような没入感のあるグラフィックとテーマ",
+      "モバイルデバイスに最適化されたプレイ体験",
+      "複数の主要ライセンスを保有し、高い安全性と公平性を確保",
+    ],
+    watchouts: [
+      "RTPが平均よりやや低めのゲームも存在する",
+      "設立が新しいため、長期的な実績はこれからの評価",
+    ],
+  },
+  intro: "CasinoTsuは、オンラインカジノのゲームプロバイダーを徹底レビュー！今回は、設立からわずか数年で急速に注目を集めている Octoplay（オクトプレイ） について、その魅力と特徴を深掘りしていきます。シンプルながらもエンターテイメント性の高いスロットゲームで、多くのプレイヤーを魅了しているオクトプレイ。どこで遊べるのか、どんなゲームがあるのか、安全性はどうかなど、気になる情報を網羅してご紹介します！",
+  authorCommentary: {
+    author: "CasinoTsu編集部",
+    commentary: "Octoplayは、比較的新しいプロバイダーでありながら、その革新的なゲームデザインと高品質なグラフィックで、瞬く間にオンラインカジノ業界で存在感を放っています。特に、独自性の高いフィーチャーと、ビデオゲームのような没入感は、従来のオンラインスロットに飽きたプレイヤーにとって、新鮮な刺激となるでしょう。モバイルでのプレイ体験の最適化にも注力しており、いつでもどこでも快適に楽しめる点も大きな魅力です。厳格なライセンスと第三者機関による監査を受けているため、安全性と公平性についても信頼がおけます。今後のOctoplayのさらなる進化に期待しましょう。",
+    avatarSrc: "/assets/authors/casinotsu-editor.png",
+    role: "オンラインカジノゲームレビュー専門家",
+    authorHref: "/authors/casinotsu-editor",
+    hook: "設立からわずか数年で業界を席巻するOctoplayの秘密とは？",
+    theGoodStuff: "独自性の高いゲームフィーチャーと、ビデオゲームのような没入感あふれるグラフィック。モバイルでのプレイ体験も抜群で、どこでも快適に楽しめます。",
+    theHeadsUp: "RTPが平均よりやや低めのゲームもあるため、プレイ前に確認することをおすすめします。",
+    finalThought: "新しい体験を求めるプレイヤーにとって、Octoplayは間違いなくチェックすべきプロバイダーです。",
+  },
+  featured: {
+    title: "Octoplayのおすすめゲーム",
+    items: [
+      {
+        name: "Mutant Potatoes",
+        logo: "/assets/provider/slots/mutant-potatoes.png",
+        href: "/slots/mutant-potatoes",
+        founded: "N/A",
+        hq: "Malta",
+        licenses: ["Malta", "UKGC", "ONJN", "AGCO", "HGC"],
+        gameTypes: ["Slots"],
+        tagline: "配当成立時にシンボルが固定され、配当が続く限りリスピンが発生する「ロック＆リスピン」機能が特徴。",
+        topGames: [
+          { name: "Mutant Potatoes", href: "/slots/mutant-potatoes" },
+          { name: "Pearly Shores", href: "/slots/pearly-shores" },
+          { name: "Salmon King", href: "/slots/salmon-king" },
+          { name: "Lollicat", href: "/slots/lollicat" },
+          { name: "Panda Bills", href: "/slots/panda-bills" },
+        ],
+      },
+      {
+        name: "Pearly Shores",
+        logo: "/assets/provider/slots/pearly-shores.png",
+        href: "/slots/pearly-shores",
+        founded: "N/A",
+        hq: "Malta",
+        licenses: ["Malta", "UKGC", "ONJN", "AGCO", "HGC"],
+        gameTypes: ["Slots"],
+        tagline: "海をテーマにしたスロットで、ユニークなゲームメカニクスを備えています。",
+        topGames: [],
+      },
+      {
+        name: "Salmon King",
+        logo: "/assets/provider/slots/salmon-king.png",
+        href: "/slots/salmon-king",
+        founded: "N/A",
+        hq: "Malta",
+        licenses: ["Malta", "UKGC", "ONJN", "AGCO", "HGC"],
+        gameTypes: ["Slots"],
+        tagline: "サケとクマのシンボルが同時に出現すると、サケに表示されたキャッシュを獲得できる「キャッシュコレクト」機能が搭載。",
+        topGames: [],
+      },
+      {
+        name: "Lollicat",
+        logo: "/assets/provider/slots/lollicat.png",
+        href: "/slots/lollicat",
+        founded: "N/A",
+        hq: "Malta",
+        licenses: ["Malta", "UKGC", "ONJN", "AGCO", "HGC"],
+        gameTypes: ["Slots"],
+        tagline: "キャンディーをテーマにした可愛らしいスロット。フリースピン中は巨大なネコ型キャンディーが固定され、最大100倍のマルチプライヤーが付与される可能性。",
+        topGames: [],
+      },
+      {
+        name: "Panda Bills",
+        logo: "/assets/provider/slots/panda-bills.png",
+        href: "/slots/panda-bills",
+        founded: "N/A",
+        hq: "Malta",
+        licenses: ["Malta", "UKGC", "ONJN", "AGCO", "HGC"],
+        gameTypes: ["Slots"],
+        tagline: "竹林を舞台にしたパンダがテーマのスロット。「ホールド＆ウィン」状態に突入し、「DOUBLE」パンダキングでキャッシュが2倍～最大25倍に増加。",
+        topGames: [],
+      },
+    ],
+  },
+  sections: [
+    {
+      heading: "Octoplay（オクトプレイ）とは？：会社概要とリーダーシップ 🧭",
+      paragraphs: [
+        "Octoplayは、2022年11月にマルタで設立された、比較的新しいオンラインカジノゲームプロバイダーです。しかし、その勢いは目覚ましく、短期間で多くのカジノに採用されています。",
+      ],
+      bullets: [
+        "経営陣とチーム: CEOは業界大手Red TigerやEvolutionでの経験を持つCarl Ejlertsson氏。約200名の従業員がマルタのSt Juliansに在籍。",
+        "連絡先情報: support@octoplay.com、公式ウェブサイト www.octoplay.com",
+        "Trustpilotでの評価: 現時点では未請求（Unclaimed）、2件のレビューに基づきTrustScoreは2.9/5。",
+      ],
+    },
+    {
+      heading: "Octoplayのおすすめゲーム：注目のタイトルと特徴 🌟",
+      paragraphs: [
+        "Octoplayは、ユニークなテーマと革新的なゲームプレイを組み合わせたスロットゲームで知られています。ここでは、特に人気のあるタイトルをいくつかご紹介します。",
+      ],
+      bullets: [
+        "Mutant Potatoes: 最大配当倍率x6,000、RTP 96%。ロック＆リスピン機能とクラスターペイを採用。",
+        "Pearly Shores: 最大配当倍率x11,000、RTP 96%。海をテーマにしたユニークなゲームメカニクス。",
+        "Salmon King: キャッシュコレクト機能搭載。フリースピン中は拡大ワイルドのグリズリーが登場。",
+        "Lollicat: 最大配当10,000倍。可愛らしいキャンディーテーマ。フリースピン中は最大100倍のマルチプライヤーが付与される可能性。",
+        "Panda Bills: 最大配当11,000倍。パンダテーマ。「ホールド＆ウィン」状態に突入し、「DOUBLE」パンダキングでキャッシュが2倍～最大25倍に増加。",
+        "Hot Harvest: 農場モチーフのクラスターペイスロット。「ロック＆リスピン」機能を搭載。",
+        "Eternal Clash: 最大配当12,000x、ボラティリティ高、RTP 95.70%。対戦（バトル）メカニクスが特徴。",
+        "Dystopia: Rebel Road: 最大配当5,000x、ボラティリティ低～中、RTP 95.76%。近未来的なテーマ。",
+        "Shaolin Panda Chaos Reels: 最大配当10,000x、ボラティリティ高、RTP 95.71%。カオスリール機能搭載。",
+        "Disco Dive: 最大配当22,000x、RTP 95.79%。Octoplayの中で最も高い配当倍率の一つ。",
+        "Coins & Diamonds: Hold & Win: 「ホールド＆ウィン」機能とグランドジャックポット（5,000x）搭載。",
+        "Caishen Smash: 最大配当500x、ボラティリティ低。キャッシュコレクト機能。",
+        "Cash Strike: 最大配当2,000x、RTP 95.72%。キャッシュコレクト機能。",
+        "Star Kingdom: RTP 95.83%。",
+        "Flame & Fortune: Hold & Win: 最大配当3,000x、RTP 92.78%。低めのRTP設定だが高額賞金を狙える。",
+        "5 Rings of Darkness: 最大配当6,666x。",
+      ],
+    },
+    {
+      heading: "Octoplayはどこで遊べる？：おすすめカジノとボーナス情報 🃏",
+      paragraphs: [
+        "Octoplayのゲームは、革新性とエンターテイメント性の高さから、多くのオンラインカジノで採用されています。ここでは、特におすすめのカジノをいくつかご紹介します。",
+      ],
+      table: {
+        caption: "Octoplay対応おすすめカジノ",
+        columns: ["カジノ名", "ボーナス", "賭け条件", "フリースピン", "特徴"],
+        rows: [
+          ["Mystino (ミスティーノ)", "最大 ¥154,500", "25倍", "-", "日本のプレイヤーに人気、直感的な操作性"],
+          ["Yuugado (遊雅堂)", "最大 ¥131,000", "20倍", "60回", "「和」をテーマにしたユニークなカジノ"],
+          ["Vera&John (ベラジョン)", "$1,000", "20倍", "150回 (賭け条件20倍)", "オンラインカジノの代名詞、信頼性と豊富なプロモーション"],
+          ["Casino-X (カジノ・エックス)", "最大 ¥204,500", "30倍", "200回 (賭け条件20倍)", "太っ腹なボーナスが豊富"],
+          ["Bitcasino.io (ビットカジノ)", "最大 ¥200,000", "40倍", "-", "仮想通貨でのプレイに特化"],
+          ["Winz (ウィンズ)", "$10,000", "-", "800回", "ウェルカムオファーやボーナスに賭け条件がない場合が多い"],
+          ["Sportsbet.io (スポーツベット)", "1,000 USDT", "-", "-", "スポーツベットとカジノゲームが充実"],
+          ["Casitabi (カジタビ)", "最大 $500", "20倍", "250回 (賭け条件20倍)", "RPG要素を取り入れたカジノ"],
+          ["Live Casino House (ライブカジノハウス)", "最大 ¥50,000", "20倍", "-", "ライブカジノを中心に多種多様なゲームを提供"],
+        ],
+      },
+    },
+    {
+      heading: "Octoplayのゲーム一覧・技術情報 ⚙️",
+      paragraphs: [
+        "Octoplayは、現在約80タイトル前後のゲームを提供しており、毎月1～2本のペースで新しいゲームをリリースしています。",
+      ],
+      table: {
+        title: "Octoplayゲーム比較",
+        columns: ["名称", "総合評価", "RTP", "最大配当倍率", "行数", "ペイライン"],
+        rows: [
+          ["Mutant Potatoes", "85", "95.8%", "x6,000", "6", "-"],
+          ["Pearly Shores", "66", "95.8%", "x11,000", "6", "-"],
+          ["Disco Dive", "-", "95.79%", "x22,000", "5", "10"],
+          ["Flame & Fortune: Hold & Win", "-", "92.78%", "x3,000", "5", "10"],
+          ["Shaolin Panda Chaos Reels", "-", "95.71%", "x10,000", "5", "-"],
+          ["Eternal Clash", "-", "95.70%", "x12,000", "5", "-"],
+          ["Dystopia: Rebel Road", "-", "95.76%", "x5,000", "5", "-"],
+          ["Cash Strike", "-", "95.72%", "x2,000", "5", "10"],
+        ],
+      },
+      bullets: [
+        "注記: 総合評価はCasinoTsuによる評価点、RTPはプレイヤーへの還元率、最大配当倍率はベット額に対して獲得できる可能性のある最大倍率、行数はリールの縦列数、ペイラインは配当が成立する組み合わせの数です。'-'はクラスターペイなどのシステムを採用していることを示します。",
+        "Octoplayのゲームは、RTPが92.78%から95.83%の範囲に収まっており、平均するとやや低めですが、ユニークなフィーチャーと高いエンターテイメント性でプレイヤーを惹きつけています。ボラティリティは、低～高まで幅広く提供されています。",
+      ],
+    },
+    {
+      heading: "プロバイダー情報： Octoplay 🌐",
+      paragraphs: [
+        "Octoplayは、2022年11月にマルタで設立された、革新的なオンラインカジノゲームプロバイダーです。同社は、独自のRGS（Remote Game Server）プラットフォームを所有しており、仮想通貨での取引にも対応しています。",
+      ],
+      bullets: [
+        "取得ライセンス: 英国ギャンブルコミッション (UKGC)、ルーマニア賭博委員会 (ONJN)、マルタゲーミングオーソリティ (MGA)、アルコール・ゲーミング委員会・オブ・オンタリオ (AGCO)、HGC (ギリシャ)",
+        "ISO認証: 2023年7月にISO 27001認証を取得。",
+        "ゲームタイプと提供数: 主にオンラインスロットを開発、現在約80タイトル以上を提供。リリースペースは4～5週間に1回。",
+        "提携カジノとアグリゲーター: SOFTSWISSなどの主要アグリゲーターを通じて、Paddy Power, PokerStars, Betfair, Ladbrokes, Casumo, LeoVegas, Coral, Betssonなど大手カジノに提供。",
+        "監査機関: Spelinspektionen（スウェーデン）などの第三者監査機関によって公平性がテストされている。",
+      ],
+    },
+    {
+      heading: "ゲーム体験：革新的なフィーチャーとグラフィック 🎨",
+      paragraphs: [
+        "Octoplayのゲームは、単にカジノゲームというだけでなく、ビデオゲームのような没入感とエンターテイメント性を提供することを目指しています。",
+      ],
+      bullets: [
+        "代表的なフィーチャー: ロック＆リスピン、キャッシュコレクト、拡大ワイルド、ボーナス購入、Chaos Reels (カオスリール)、Blue Blast & Red Blast、Free Smash、バトルメカニクス。",
+        "グラフィックとサウンド: 高品質なグラフィックと魅力的なサウンドデザイン。ゲームスタジオごとに異なるアートスタイルを採用。",
+        "スタジオ: Penguin King（ヨーロピアンテイスト、キャッシュコレクト）、Super Hippo（可愛らしいグラフィック、クラスターペイ）、Smash Games, Twice As Nice, Combat Royale（独自テーマ・メカニクス）。",
+        "全体的に、明るくカジュアルなテーマが多く、サウンドも軽快で遊びやすい。特に、ビデオゲームのようなアニメ調のテーマや、斬新なビジュアルは、若い世代や新しい体験を求めるプレイヤーに高く評価されている。",
+      ],
+    },
+    {
+      heading: "Octoplayをプレイできるカジノの詳細 🏛️",
+      paragraphs: [
+        "Octoplayのゲームは、多くのオンラインカジノで提供されています。ここでは、いくつかのカジノの概要と特徴を比較表でご紹介します。",
+      ],
+      table: {
+        caption: "Octoplay対応カジノ比較",
+        columns: ["名称", "総合評価", "人気指数", "操作性", "サポート", "ローンチ"],
+        rows: [
+          ["Bitz", "80", "73", "87", "84", "2024-01-20"],
+          ["Sushi Casino", "79", "82", "83", "77", "2023-01-01"],
+          ["2up", "79", "73", "87", "84", "2025-04-27"],
+          ["Lucky Block", "78", "73", "77", "84", "2022-11-28"],
+          ["WSM Casino", "76", "73", "77", "80", "2023-10-18"],
+          ["Ramenbet", "75", "69", "90", "57", "2024-02-01"],
+          ["Mega Dice", "74", "69", "77", "84", "2023-06-01"],
+        ],
+      },
+      bullets: [
+        "注記: 総合評価・人気指数・操作性・サポートはCasinoTsuによる評価点、ローンチはカジノの設立日です。",
+      ],
+    },
+    {
+      heading: "Octoplayはモバイル対応？ 📱",
+      paragraphs: [
+        "Octoplayのゲームは、最新のHTML5技術を使用して開発されており、PCはもちろん、タブレットやスマートフォン（iOS、Android）からも快適にプレイできます。特に、モバイルデバイスでのプレイ体験を最適化するため、ポートレートモード（縦画面）にも対応しており、いつでもどこでも臨場感あふれるゲームを楽しむことが可能です。",
+      ],
+    },
+    {
+      heading: "安全性・公平性・KYC ✅",
+      paragraphs: [
+        "Octoplayは、複数の厳格なライセンスを保有し、独立した第三者機関による定期的な監査を受けているため、ゲームの公平性、乱数発生器（RNG）の適正な運用、およびプレイヤー保護に関する高い基準を満たしています。Octoplay自体はゲームプロバイダーのため直接的なKYC手続きは行いませんが、提携カジノではマネーロンダリング防止や年齢確認のためにKYC手続きが義務付けられています。",
+      ],
+      bullets: [
+        "ライセンスと規制: UKGC, MGA, ONJN, AGCO, HGCなど。",
+        "第三者監査: 定期的にテストされ、公平性が証明されている。",
+        "KYC（本人確認）: Octoplay自体は行わないが、提携カジノでは必要。身分証明書や住所確認書類の提出が求められる場合がある。",
+      ],
+    },
+    {
+      heading: "ハイライト・強み：Octoplayの差別化要素 🚀",
+      bullets: [
+        "革新的なゲームフィーチャー: 独自の発想に基づくゲームメカニクス（ロック＆リスピン、カオスリール、バトルメカニクスなど）。",
+        "ユニークなビジュアルとテーマ: ビデオゲームのような没入感のあるグラフィックや、斬新なテーマ設定。",
+        "モバイル最適化: 特にポートレートモードでのプレイ体験を重視。",
+        "厳格なライセンスと監査: 複数の主要ライセンス取得と第三者監査による高い信頼性と安全性。",
+        "経験豊富な経営陣: EvolutionやRed Tiger出身のメンバーによる質の高いゲーム開発。",
+      ],
+    },
+    {
+      heading: "まとめ",
+      paragraphs: [
+        "Octoplayは、2022年に設立されたばかりの新しいプロバイダーですが、その革新的なアプローチと高品質なゲーム開発により、急速に業界内で存在感を増しています。特に、ユニークなゲームフィーチャー、魅力的なグラフィック、そしてモバイルフレンドリーな設計は、多くのプレイヤーから支持されています。",
+        "Octoplayのゲームは、以下のようなプレイヤーに特におすすめです。",
+        "<ul>",
+        "<li><b>新しいゲーム体験を求めるプレイヤー:</b> 既存のスロットに飽きた方、斬新なフィーチャーやメカニクスを試したい方。</li>",
+        "<li><b>クラスターペイのファン:</b> クラスターペイを採用したゲームが多く、配当成立時の興奮を味わいたい方。</li>",
+        "<li><b>ビデオゲームのような体験を求めるプレイヤー:</b> 没入感のあるグラフィックやテーマ設定を重視する方。</li>",
+        "<li><b>モバイルで快適にプレイしたいプレイヤー:</b> スマートフォンでのゲームプレイに最適化された体験を求める方。</li>",
+        "</ul>",
+        "Octoplayは、今後も目が離せない注目のプロバイダーです。ぜひ、お気に入りのカジノでOctoplayのゲームをプレイし、その革新性を体験してみてください。",
+      ],
+      cta: {
+        text: "Octoplayの人気スロットをお得なボーナスで楽しむなら！",
+        href: "/reviews/casitabi",
+      },
+    },
+  ],
+  games: [
+    "Mutant Potatoes",
+    "Pearly Shores",
+    "Salmon King",
+    "Lollicat",
+    "Panda Bills",
+    "Hot Harvest",
+    "Eternal Clash",
+    "Dystopia: Rebel Road",
+    "Shaolin Panda Chaos Reels",
+    "Disco Dive",
+    "Coins & Diamonds: Hold & Win",
+    "Caishen Smash",
+    "Cash Strike",
+    "Star Kingdom",
+    "Flame & Fortune: Hold & Win",
+    "5 Rings of Darkness",
+  ],
+  features: [
+    "ロック＆リスピン",
+    "キャッシュコレクト",
+    "拡大ワイルド",
+    "ボーナス購入",
+    "Chaos Reels",
+    "Blue Blast & Red Blast",
+    "Free Smash",
+    "バトルメカニクス",
+  ],
+  security: [
+    "UKGCライセンス",
+    "MGAライセンス",
+    "ONJNライセンス",
+    "AGCOライセンス",
+    "HGCライセンス",
+    "ISO 27001認証",
+    "第三者機関による監査",
+  ],
+  faq: [
+    {
+      q: "OctoplayのSuper HippoとPenguin Kingとは何ですか？",
+      a: "これらはOctoplayが所有するゲーム開発スタジオの名前です。それぞれ異なるアートスタイルやゲームメカニクスを持つタイトルを開発しています。Super Hippoは可愛らしいグラフィックとクラスターペイ、Penguin Kingはヨーロピアンテイストとキャッシュコレクト機能が特徴です。",
+    },
+    {
+      q: "Octoplayのゲームの還元率（RTP）はどれくらいですか？",
+      a: "OctoplayのゲームのRTPは、一般的に92.78%から95.83%の範囲に設定されています。平均すると、他のプロバイダーと比較してやや低めの設定ですが、ユニークなゲームフィーチャーと高いエンターテイメント性でプレイヤーに楽しまれています。",
+    },
+  ],
+  cta: {
+    text: "Octoplayの人気スロットをお得なボーナスで楽しむなら！",
+    href: "/reviews/casitabi",
+  },
+};
+
+export default function Page() {
+  return <ProvidersTemplate data={data} canonicalPath="/providers/octoplay" />;
+}

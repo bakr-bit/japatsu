@@ -43,6 +43,8 @@ export const reviewGamdom: ReviewPageContent = {
       "カスタマーサポートが日本語に非対応",
       "出金は仮想通貨のみ（2024年10月時点）",
     ],
+    avatarSrc: "/assets/casino/gamdom.png",
+    avatarAlt: "Gamdomのロゴ",
   },
   payments: {
     featured: [
@@ -218,7 +220,7 @@ export const reviewGamdom: ReviewPageContent = {
   ],
   editorial: {
     author: "Momo",
-    profileHref: "/authors/momo",
+    profileHref: "/authors/rina-okabe",
     hook: "初回ボーナスがない代わりに、長期プレイヤーを徹底的に優遇するレーキバックシステムが光る実力派カジノ。",
     theGoodStuff: "賭け条件のないレーキバックは、ボーナス条件に縛られたくないプレイヤーにとって最高のシステムです。ゲーム数の豊富さ、オリジナルゲームの面白さ、そしてCasino.Guruから9.8/10という極めて高い安全性評価を受けている点は、大きな信頼材料です。",
     theHeadsUp: "最大の障壁は言語と決済です。日本語サポートがなく、出金が仮想通貨に限られるため、英語や仮想通貨に不慣れな初心者にはハードルが高いかもしれません。また、初回入金ボーナスを求めるプレイヤーにも不向きです。",

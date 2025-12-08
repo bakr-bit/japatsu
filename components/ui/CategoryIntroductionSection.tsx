@@ -87,7 +87,7 @@ export default function CategoryIntroductionSection({
               <Link
                 key={`${cat.text}-${i}`}
                 href={cat.href}
-                className="group flex items-center justify-between rounded-md border bg-white px-3 py-2 hover:bg-gray-50 hover:border-gray-300 transition-colors"
+                className="group flex items-center justify-between rounded-md border-gray-200 border bg-white px-3 py-2 hover:bg-gray-50 hover:border-gray-300 transition-colors"
               >
                 <span className="text-sm font-semibold text-gray-800 line-clamp-1">{cat.text}</span>
                 <ChevronRight className="h-4 w-4 text-red-600 group-hover:text-gray-600" />

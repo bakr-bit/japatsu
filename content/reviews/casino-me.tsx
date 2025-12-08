@@ -42,6 +42,8 @@ export const reviewCasinoMe: ReviewPageContent = {
       "専用のモバイルアプリはない",
       "VIPプログラムが期待ほどではないという意見も",
     ],
+    avatarSrc: "/assets/casino/casino-me.png",
+    avatarAlt: "Casino meのロゴ",
   },
   payments: {
     featured: [

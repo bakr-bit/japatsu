@@ -42,6 +42,8 @@ export const reviewBetswap: ReviewPageContent = {
       "出金時に追加のデポジットを要求されるとの報告あり",
       "決済方法が実質的に仮想通貨のみ",
     ],
+    avatarSrc: "/assets/casino/betswap.png",
+    avatarAlt: "Betswapのロゴ",
   },
   payments: {
     featured: [
@@ -208,7 +210,7 @@ export const reviewBetswap: ReviewPageContent = {
   ],
   editorial: {
     author: "Kotone",
-    profileHref: "/authors/kotone",
+    profileHref: "/authors/rina-okabe",
     hook: "コンセプトは未来的で非常に面白い。しかし、現実の運営には深刻な問題が山積しています。",
     theGoodStuff: "プレイヤー間でベットを取引する『ベットエクスチェンジ』は、ギャンブルの未来を感じさせる素晴らしいアイデアです。4,000を超えるゲーム数や超高額なウェルカムボーナスも魅力的です。",
     theHeadsUp: "しかし、その魅力を全て打ち消すほど、出金に関するトラブル報告が多すぎます。出金遅延ならまだしも、アカウント凍結や追加の入金を要求する手口は悪質と言わざるを得ません。AskGamblersにブラックリスト掲載されている事実も、このカジノのリスクを物語っています。",

@@ -18,7 +18,7 @@ export default function ImageBannerGrid({ items, cols = 3, className = "" }: Ima
   return (
     <div className={`grid ${colClass} gap-4 ${className}`}>
       {items.map((it, idx) => (
-        <Link key={idx} href={it.href} className="group block rounded-lg overflow-hidden border bg-white">
+        <Link key={idx} href={it.href} className="group block rounded-lg overflow-hidden border-gray-200 border bg-white">
           {/* eslint-disable-next-line @next/next/no-img-element */}
           {it.img ? (
             <img src={it.img} alt={it.alt ?? it.label ?? "banner"} className="w-full h-28 sm:h-36 object-cover group-hover:opacity-95 transition" />

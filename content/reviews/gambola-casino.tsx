@@ -42,6 +42,8 @@ export const reviewGambola: ReviewPageContent = {
       "ライブチャットの対応時間が24時間ではなかった",
       "一部のボーナス条件が不公平であるとの報告があった",
     ],
+    avatarSrc: "/assets/casino/gambola.png",
+    avatarAlt: "Gambola casinoのロゴ",
   },
   payments: {
     featured: [

@@ -44,6 +44,8 @@ export const reviewAlohaShark: ReviewPageContent = {
       "CasinoMentor による信頼性評価が低く利用規約の公平性に懸念あり",
       "出金限度や反映時間の情報にばらつきがあった",
     ],
+    avatarSrc: "/assets/casino/aloha-shark.png",
+    avatarAlt: "Aloha sharkのロゴ",
   },
   payments: {
     featured: [

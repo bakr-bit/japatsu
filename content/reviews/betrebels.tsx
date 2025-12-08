@@ -43,6 +43,8 @@ export const reviewBetRebels: ReviewPageContent = {
       "一体型アカウントのため、ボーナス利用中はリアルマネーの出金に制限がある",
       "一部の国からの利用が制限されている",
     ],
+    avatarSrc: "/assets/casino/betrebels.png",
+    avatarAlt: "Betrebelsのロゴ",
   },
   payments: {
     featured: [
@@ -210,7 +212,7 @@ export const reviewBetRebels: ReviewPageContent = {
   ],
   editorial: {
     author: "Nanami",
-    profileHref: "/authors/nanami",
+    profileHref: "/authors/rina-okabe",
     hook: "スポーツベットの強豪でありながら、カジノゲームとボーナスの充実度も素晴らしいバランスの取れたサイトです。",
     theGoodStuff: "MGAライセンスという信頼性の高さに加え、約5,000種類という膨大なゲーム数、そしてほぼ毎日提供される既存プレイヤー向けボーナスは大きな魅力です。賭け条件の仕組みも実質的には良心的です。",
     theHeadsUp: "ライブチャットの対応時間が限られている点と、入金上限額がやや低めな点は注意が必要です。また、一体型ボーナスシステムは、途中で出金したいプレイヤーには不向きかもしれません。",

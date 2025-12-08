@@ -35,7 +35,7 @@ export default function Faq({ title = "よくある質問", items = defaultItems
         <h2 id="faq-title" className="text-2xl font-bold mb-6 text-gray-900">
           {title}
         </h2>
-        <div className="divide-y rounded-lg border bg-white">
+        <div className="divide-y rounded-lg border-gray-200 border bg-white">
           {items.map((it, idx) => (
             <details key={idx} className="group">
               <summary className="list-none cursor-pointer select-none px-4 py-4 flex items-center justify-between gap-4">

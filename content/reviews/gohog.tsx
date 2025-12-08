@@ -24,6 +24,8 @@ export const reviewGohog: ReviewPageContent = {
       "出金限度やKYC要件、入金のターンオーバーが細かく規定されている点に注意",
       "週／月の出金限度が設定されており、VIPでない場合は上限がある",
     ],
+    avatarSrc: "/assets/casino/gohog.png",
+    avatarAlt: "Gohogのロゴ",
   },
   payments: {
     featured: [

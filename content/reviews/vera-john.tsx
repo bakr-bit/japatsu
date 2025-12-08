@@ -50,6 +50,8 @@ export const reviewVeraJohn: ReviewPageContent = {
       "一部地域（米英加豪等）でサービスが制限されている",
       "仮想通貨ボーナスは現在提供なし（過去には実施例あり）",
     ],
+    avatarSrc: "/assets/casino/vera-john.png",
+    avatarAlt: "ベラジョンカジノのロゴ",
   },
   payments: {
     featured: [

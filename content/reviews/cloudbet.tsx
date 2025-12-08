@@ -43,6 +43,8 @@ export const reviewCloudbet: ReviewPageContent = {
       "一部の日本語訳に不自然な箇所がある",
       "プレイヤーからの評判にばらつきが見られる",
     ],
+    avatarSrc: "/assets/casino/cloudbet.png",
+    avatarAlt: "Cloudbetのロゴ",
   },
   payments: {
     featured: [

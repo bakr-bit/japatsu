@@ -42,6 +42,8 @@ export const reviewBcGame: ReviewPageContent = {
       "日本語サポートの応答に時間がかかることがある",
       "電子マネー決済がVega Walletのみ",
     ],
+    avatarSrc: "/assets/casino/bcgame.png",
+    avatarAlt: "BC.Gameのロゴ",
   },
   payments: {
     featured: [
@@ -212,7 +214,7 @@ export const reviewBcGame: ReviewPageContent = {
   ],
   editorial: {
     author: "Kotone",
-    profileHref: "/authors/kotone",
+    profileHref: "/authors/rina-okabe",
     hook: "仮想通貨ユーザーにとっては天国のようなカジノ。ただし、豪華なボーナスの裏には厳しい条件も。",
     theGoodStuff: "約120種類の仮想通貨対応は圧巻の一言。ゲーム数も膨大で、オリジナルゲームやパチンコまであるため、遊び尽くすことは不可能です。ボーナスも非常に豪華で、特に4段階のウェルカムパッケージは大きな魅力です。",
     theHeadsUp: "豪華なボーナスには、45倍や60倍といった厳しい賭け条件が付いてきます。フリースピンからの勝利金出金上限が$10というのも厳しい点です。また、サポートの応答速度やサイトの完全な日本語対応など、サービスの質にはまだ改善の余地があります。",
@@ -268,5 +270,11 @@ export const reviewBcGame: ReviewPageContent = {
   cta: {
     text: "BC.GAMEで豪華ボーナスをゲットする！",
     href: "https://go.japanesecasino.com/go/bc-game:bc-game?referrer_path=%2Freviews%2Fbc-game",
+  },
+    images: {
+    casino: [
+      "/assets/casino/bcgame.png",
+      "/assets/casino/bcgame.jpg",
+    ],
   },
 };

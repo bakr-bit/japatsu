@@ -42,6 +42,8 @@ export const reviewBigWins: ReviewPageContent = {
       "ライセンスの有効性に問題があった可能性が指摘されている",
       "Trustpilotなどで非常に低い評価を受けている",
     ],
+    avatarSrc: "/assets/casino/big-wins.png",
+    avatarAlt: "Big winsのロゴ",
   },
   payments: {
     featured: [
@@ -212,7 +214,7 @@ export const reviewBigWins: ReviewPageContent = {
   ],
   editorial: {
     author: "Kotone",
-    profileHref: "/authors/kotone",
+    profileHref: "/authors/rina-okabe",
     hook: "最高の使い心地と最悪の評判が同居する、非常に評価の難しいカジノでした。",
     theGoodStuff: "サイトの使いやすさは業界でもトップクラスでした。ボーナス条件、特に賭け条件ゼロのフリースピンは破格であり、ネイティブ日本人によるサポートも完璧。表面的には非の打ち所がない優良カジノに見えました。",
     theHeadsUp: "しかし、その裏ではライセンスの有効性に関する疑念や、出金遅延、アカウント凍結といった深刻なプレイヤーからの苦情が多数報告されていました。特にTrustpilotなどでの評価は非常に低く、信頼性には大きな疑問符がつきます。",

@@ -42,6 +42,8 @@ export const reviewEnergyCasino: ReviewPageContent = {
       "一部のプレイヤーから出金遅延やアカウント関連の問題が報告されている",
       "人気のGolden Hero社など一部プロバイダーのゲームがない",
     ],
+    avatarSrc: "/assets/casino/energy-casino.png",
+    avatarAlt: "Energy casinoのロゴ",
   },
   payments: {
     featured: [

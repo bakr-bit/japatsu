@@ -25,7 +25,7 @@ export default function SectionTitle({
   className = "",
   imageClassName = "h-16 w-auto",
   titleClassName = "text-2xl font-extrabold text-gray-800",
-  subtitleClassName = "text-[#4392f1] font-bold text-sm",
+  subtitleClassName = "text-brand font-bold text-sm",
 }: SectionTitleProps) {
   const Heading = as;
   const isCenter = align === "center";

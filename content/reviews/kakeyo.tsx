@@ -42,6 +42,8 @@ export const reviewKakeyo: ReviewPageContent = {
       "12ヶ月以上利用がない口座は資金を没収される可能性がある",
       "ボーナスの賭け条件に関する記載に矛盾がある（10倍と60倍）",
     ],
+    avatarSrc: "/assets/casino/kakeyo.png",
+    avatarAlt: "Kakeyoのロゴ",
   },
   payments: {
     featured: [
