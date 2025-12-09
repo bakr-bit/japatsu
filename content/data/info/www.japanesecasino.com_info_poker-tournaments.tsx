@@ -129,7 +129,7 @@ export const pokerTournamentsGuide: InfoPageContent = {
 
 🔍 **ポーカーには専門用語がいっぱい**
 
-知らないポーカー用語は全てここでチェック！ [ポーカー用語大辞典](LINK_NEEDS_REPAIR)
+知らないポーカー用語は全てここでチェック！ [ポーカー用語大辞典](https://www.casinotsu.com/poker)
       `,
     },
     {

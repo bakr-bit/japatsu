@@ -47,7 +47,7 @@ export const casinoGuinnessRecords: InfoPageContent = {
 
 |  | ギネス記録 |
 | --- | --- |
-| 1 | 世界一大きな[ブラックジャック](LINK_NEEDS_REPAIR)テーブル |
+| 1 | 世界一大きな[ブラックジャック](https://www.casinotsu.com/blackjack)テーブル |
 | 2 | 世界最大<a href="https://www.casinotsu.com/roulette" target="_blank" rel="noopener noreferrer">ルーレット |
 | 3 | 最大のスロットマシントーナメント |
 | 4 | 世界最高齢のカジノディーラー |

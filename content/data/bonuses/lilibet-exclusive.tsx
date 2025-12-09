@@ -52,7 +52,7 @@ export const lilibetExclusiveOffer: BonusPageContent = {
     {
       heading: "１. 導入・概要：オファーの概要とカジノの魅力",
       paragraphs: [
-        "リリベットは、特にカジノ初心者の方にとって魅力的なオンラインカジノです。「負けても安心」なデイリーキャッシュバックや、分かりやすいボーナス条件がその理由として挙げられます。今回、CasinoTsuでは、通常のウェルカムオファーに加え、新規ご登録者様限定の特別な[入金不要ボーナス](LINK_NEEDS_REPAIR)をご用意いたしました。さらに、CasinoTsu限定でパワーアップした3回目までのご入金ボーナスも提供されます。</>,
+        "リリベットは、特にカジノ初心者の方にとって魅力的なオンラインカジノです。「負けても安心」なデイリーキャッシュバックや、分かりやすいボーナス条件がその理由として挙げられます。今回、CasinoTsuでは、通常のウェルカムオファーに加え、新規ご登録者様限定の特別な[入金不要ボーナス](https://www.casinotsu.com/bonuses/no-deposit)をご用意いたしました。さらに、CasinoTsu限定でパワーアップした3回目までのご入金ボーナスも提供されます。</>,
         "🤔 **「リリベットについて詳しく知りたい」という方は…**",
         <>まずは <a href="https://casinotsu.com/reviews/lilibet" target="_blank" rel="noopener noreferrer">リリベットの徹底レビュー をご参照ください ♪</>,
       ],
@@ -79,7 +79,7 @@ export const lilibetExclusiveOffer: BonusPageContent = {
         {
           subheading: "パワーアップウェルカムボーナス",
           paragraphs: [
-            "太っ腹な[入金不要ボーナス](LINK_NEEDS_REPAIR)に加え、さらに <a href="https://casinotsu.com/reviews/lilibet" target="_blank" rel="noopener noreferrer">リリベット では特別サービスが続きます 😘</>,
+            "太っ腹な[入金不要ボーナス](https://www.casinotsu.com/bonuses/no-deposit)に加え、さらに <a href="https://casinotsu.com/reviews/lilibet" target="_blank" rel="noopener noreferrer">リリベット では特別サービスが続きます 😘</>,
             "通常、初回ご入金に対してのみウェルカムボーナスが付与されるところ、今回は**3回目までのご入金ボーナス**にまで拡充していただきました 💝お受け取りになる順番はご自由にお選びいただけます。",
             "その内容はこちらです 👇",
             `| ボーナス種別     | ボーナス額                            | 賭け条件                     | 対象ゲーム           | CasinoTsu限定 |
@@ -95,7 +95,7 @@ export const lilibetExclusiveOffer: BonusPageContent = {
     {
       heading: "３. 受け取り方法：入金不要ボーナスの獲得手順",
       paragraphs: [
-        "[入金不要ボーナス](LINK_NEEDS_REPAIR)の獲得方法は、大変簡単です 🌟</>,
+        "[入金不要ボーナス](https://www.casinotsu.com/bonuses/no-deposit)の獲得方法は、大変簡単です 🌟</>,
         "手順を追ってご案内いたします 🎉",
         <>1.  本ページの「オファーへ」ボタン、または <a href="https://casinotsu.com/reviews/lilibet" target="_blank" rel="noopener noreferrer">リリベットのレビューページ からリンクをクリックし、リリベットのページへアクセスしてください。</>,
         <>2.  アクセス先のページから、アカウント登録を行ってください。（アカウント登録方法については、 <a href="https://casinotsu.com/reviews/lilibet" target="_blank" rel="noopener noreferrer">リリベットのレビューページ からご確認ください ✅ ）</>,
@@ -107,7 +107,7 @@ export const lilibetExclusiveOffer: BonusPageContent = {
     {
       heading: "４. 利用規約・条件：賭け条件と出金について",
       paragraphs: [
-        "[入金不要ボーナス](LINK_NEEDS_REPAIR)は、**賭け条件1倍**という非常に緩やかな条件で提供されております。これは、ボーナス額と同額をベットしていただくことで、勝利金を出金可能な状態にできることを意味します。例えば、2,000円のボーナスを受け取られた場合、合計2,000円分のベットを行うことで、そこから得られた勝利金は実際に出金可能な資金となります。ただし、**出金申請前には最低2,000円（または20ドル）のご入金が必要**となりますので、ご留意ください。また、ボーナスには**3日間の有効期限**が設定されています。</>,
+        "[入金不要ボーナス](https://www.casinotsu.com/bonuses/no-deposit)は、**賭け条件1倍**という非常に緩やかな条件で提供されております。これは、ボーナス額と同額をベットしていただくことで、勝利金を出金可能な状態にできることを意味します。例えば、2,000円のボーナスを受け取られた場合、合計2,000円分のベットを行うことで、そこから得られた勝利金は実際に出金可能な資金となります。ただし、**出金申請前には最低2,000円（または20ドル）のご入金が必要**となりますので、ご留意ください。また、ボーナスには**3日間の有効期限**が設定されています。</>,
         "**禁止ゲームや最大ベット制限**に関する詳細につきましては、利用規約にて必ずご確認ください。これらの条件を遵守いただけない場合、ボーナスおよび勝利金が没収される可能性がございますので、事前に十分なご確認をお願いいたします。",
       ],
     },
@@ -123,7 +123,7 @@ export const lilibetExclusiveOffer: BonusPageContent = {
     {
       heading: "６. 対象ゲーム：ボーナスでプレイ可能なゲーム",
       paragraphs: [
-        "今回提供される[入金不要ボーナス](LINK_NEEDS_REPAIR)（2,000円）およびウェルカムボーナスは、**カジノスロットとライブカジノ**にてご利用いただけます。これにより、プレイヤーの皆様は幅広いゲーム体験をお楽しみいただけます。</>,
+        "今回提供される[入金不要ボーナス](https://www.casinotsu.com/bonuses/no-deposit)（2,000円）およびウェルカムボーナスは、**カジノスロットとライブカジノ**にてご利用いただけます。これにより、プレイヤーの皆様は幅広いゲーム体験をお楽しみいただけます。</>,
         <>*   **スロット:** 多種多様なテーマや機能を備えた<a href="https://casinotsu.com/slots" target="_blank" rel="noopener noreferrer">スロットゲームが豊富にご用意されています。人気の「Moon Princess」のフリースピンも、ウェルカムボーナスの一部として提供されます。</>,
         <>*   **ライブカジノ:** 本物のディーラーとリアルタイムで対戦できる<a href="https://casinotsu.com/live-casino" target="_blank" rel="noopener noreferrer">ライブカジノも対象です。<a href="https://casinotsu.com/blackjack" target="_blank" rel="noopener noreferrer">ブラックジャック、<a href="https://casinotsu.com/roulette" target="_blank" rel="noopener noreferrer">ルーレット、<a href="https://casinotsu.com/baccarat" target="_blank" rel="noopener noreferrer">バカラなど、臨場感あふれるゲームをご体験いただけます。</>,
         <>**ゲーム貢献率**につきましては、ボーナスの種類によって異なる場合がございます。一般的に、スロットは100%貢献することが多いですが、<a href="https://casinotsu.com/live-casino" target="_blank" rel="noopener noreferrer">ライブカジノやテーブルゲームでは貢献率が変動することがあります。詳細な貢献率につきましては、リリベット公式サイトの利用規約をご確認ください。</>,
@@ -142,7 +142,7 @@ export const lilibetExclusiveOffer: BonusPageContent = {
     {
       heading: "８. モバイル対応：いつでもどこでもカジノ体験",
       paragraphs: [
-        "リリベットは、**スマートフォンやタブレットなどのモバイルデバイスに完全対応**しております。特別なアプリのダウンロードは不要で、お使いのデバイスのウェブブラウザから公式サイトにアクセスしていただくだけで、PC版と変わらない快適な操作性でゲームをお楽しみいただけます。外出先からでも、[入金不要ボーナス](LINK_NEEDS_REPAIR)を受け取ったり、<a href="https://casinotsu.com/live-casino" target="_blank" rel="noopener noreferrer">ライブカジノで遊んだりすることが可能です。</>,
+        "リリベットは、**スマートフォンやタブレットなどのモバイルデバイスに完全対応**しております。特別なアプリのダウンロードは不要で、お使いのデバイスのウェブブラウザから公式サイトにアクセスしていただくだけで、PC版と変わらない快適な操作性でゲームをお楽しみいただけます。外出先からでも、[入金不要ボーナス](https://www.casinotsu.com/bonuses/no-deposit)を受け取ったり、<a href="https://casinotsu.com/live-casino" target="_blank" rel="noopener noreferrer">ライブカジノで遊んだりすることが可能です。</>,
       ],
     },
     {
@@ -151,14 +151,14 @@ export const lilibetExclusiveOffer: BonusPageContent = {
         {
           subheading: "ボーナス活用法",
           paragraphs: [
-            "*   **[入金不要ボーナス](LINK_NEEDS_REPAIR):** まずはリスクなくリリベットのゲームをお試しいただける絶好の機会です。賭け条件1倍という緩さですので、少額でも勝利金を得やすく、そのまま出金できる可能性も十分にございます。</>,
+            "*   **[入金不要ボーナス](https://www.casinotsu.com/bonuses/no-deposit):** まずはリスクなくリリベットのゲームをお試しいただける絶好の機会です。賭け条件1倍という緩さですので、少額でも勝利金を得やすく、そのまま出金できる可能性も十分にございます。</>,
             "*   **ウェルカムボーナス:** 特にCasinoTsu限定の①と③は、ボーナス率が高いため、少額のご入金でも資金を大きく増やせるチャンスがあります。ご自身のプレイスタイルに合わせて、どのボーナスを優先するかご検討ください。",
           ],
         },
         {
           subheading: "賭け条件クリア戦略",
           paragraphs: [
-            "*   **賭け条件1倍の活用:** [入金不要ボーナス](LINK_NEEDS_REPAIR)は、ほぼノーリスクで賭け条件をクリアできます。少額でも構いませんので、複数のゲームをお試しになりながら消化していくことをお勧めいたします。</>,
+            "*   **賭け条件1倍の活用:** [入金不要ボーナス](https://www.casinotsu.com/bonuses/no-deposit)は、ほぼノーリスクで賭け条件をクリアできます。少額でも構いませんので、複数のゲームをお試しになりながら消化していくことをお勧めいたします。</>,
             <>*   **高RTPゲームの選択:** 賭け条件消化に時間がかかる場合は、RTP（還元率）が高い<a href="https://casinotsu.com/slots" target="_blank" rel="noopener noreferrer">スロットゲームを選択することで、資金の消耗を抑えつつ効率的に条件をクリアできる可能性がございます。</>,
           ],
         },
@@ -174,7 +174,7 @@ export const lilibetExclusiveOffer: BonusPageContent = {
     {
       heading: "１０. 類似オファー：競合カジノとの比較",
       paragraphs: [
-        "リリベットの[入金不要ボーナス](LINK_NEEDS_REPAIR)は、**賭け条件1倍**という点が大変魅力的です。日本のオンラインカジノ市場には、他にも多くの<a href="https://casinotsu.com/bonuses/no-deposit" target="_blank" rel="noopener noreferrer">入金不要ボーナスを提供しているカジノがございますが、その賭け条件は様々です。</>,
+        "リリベットの[入金不要ボーナス](https://www.casinotsu.com/bonuses/no-deposit)は、**賭け条件1倍**という点が大変魅力的です。日本のオンラインカジノ市場には、他にも多くの<a href="https://casinotsu.com/bonuses/no-deposit" target="_blank" rel="noopener noreferrer">入金不要ボーナスを提供しているカジノがございますが、その賭け条件は様々です。</>,
         "例えば、",
         <>*   **KatsuBet Casino:** 2,000円相当の<a href="https://casinotsu.com/bonuses/no-deposit" target="_blank" rel="noopener noreferrer">入金不要ボーナス（賭け条件8倍）</>,
         <>*   **Ramenbet Casino:** 3,000円相当の<a href="https://casinotsu.com/bonuses/no-deposit" target="_blank" rel="noopener noreferrer">入金不要ボーナス（賭け条件30倍）</>,
@@ -184,7 +184,7 @@ export const lilibetExclusiveOffer: BonusPageContent = {
     {
       heading: "１１. まとめ：リリベットは初心者から上級者まで楽しめるオンラインカジノ",
       paragraphs: [
-        "『初心者の方にも使いやすいように』キャンペーンや[ボーナス](LINK_NEEDS_REPAIR)の工夫がされている <a href="https://casinotsu.com/reviews/lilibet" target="_blank" rel="noopener noreferrer">リリベット です。</>,
+        "『初心者の方にも使いやすいように』キャンペーンや[ボーナス](https://www.casinotsu.com/bonuses)の工夫がされている <a href="https://casinotsu.com/reviews/lilibet" target="_blank" rel="noopener noreferrer">リリベット です。</>,
         <>日本語ネイティブサポートも充実しており、オンラインカジノの初心者の方はもちろん、**賭け条件1倍の<a href="https://casinotsu.com/bonuses/no-deposit" target="_blank" rel="noopener noreferrer">入金不要ボーナス2,000円**という破格のオファーは、経験豊富なプレイヤーの方にとっても見逃せません。</>,
         "もしご登録がお済みでない場合は、今すぐCasinoTsu経由でご登録いただき、この限定ボーナスを獲得してくださいね ♪",
       ],
@@ -193,7 +193,7 @@ export const lilibetExclusiveOffer: BonusPageContent = {
 
   faq: <a href="https://casinotsu.com/bonuses/no-deposit" target="_blank" rel="noopener noreferrer">
     {
-      question: "Q1: リリベットの[入金不要ボーナス](LINK_NEEDS_REPAIR)は、どなたでも獲得できますか？</>,
+      question: "Q1: リリベットの[入金不要ボーナス](https://www.casinotsu.com/bonuses/no-deposit)は、どなたでも獲得できますか？</>,
       answer: "A1: いいえ、このボーナスはCasinoTsuを経由してリリベットに新規ご登録いただいた方限定となります。また、キャンペーン期間中に限られます。",
     },
     {

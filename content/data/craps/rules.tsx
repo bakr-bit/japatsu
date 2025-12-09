@@ -40,7 +40,7 @@ export const crapsGuide: CrapsPageContent = {
 
 しかしながら、賭け方には多くのバリエーションが存在し、それぞれの **賭け方に対する払い戻しの倍率（期待値）が異なる** ことを、まずご理解いただく必要がございます。実情を把握せず無計画に賭けてしまうと、損失を招く可能性のある賭け方も存在します。
 
-その一方で、クラップスには **プレイヤーにとって非常に有利な「オッズ」というベット** が存在します。総合的に見ると、クラップスは還元率において、[ブラックジャック](LINK_NEEDS_REPAIR)、<a href="https://casinotsu.com/roulette" target="_blank" rel="noopener noreferrer">ルーレット、<a href="https://casinotsu.com/baccarat" target="_blank" rel="noopener noreferrer">バカラ といった他のテーブルゲームと比較して **最も期待値が高いゲームの一つ** と言えるでしょう。
+その一方で、クラップスには **プレイヤーにとって非常に有利な「オッズ」というベット** が存在します。総合的に見ると、クラップスは還元率において、[ブラックジャック](https://www.casinotsu.com/blackjack)、<a href="https://casinotsu.com/roulette" target="_blank" rel="noopener noreferrer">ルーレット、<a href="https://casinotsu.com/baccarat" target="_blank" rel="noopener noreferrer">バカラ といった他のテーブルゲームと比較して **最も期待値が高いゲームの一つ** と言えるでしょう。
 
 🔰 **クラップスについて、まずは基本から！**
 

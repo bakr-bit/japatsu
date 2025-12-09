@@ -121,7 +121,7 @@ IR計画に対しては、国民の間で様々な意見や懸念が存在しま
       content: `
 初めてのランドカジノに足がすくむ方もいらっしゃるかもしれませんが、オンラインカジノですでにプレイ経験があれば、ご心配は不要です。
 
-オンラインカジノで遊べる [スロット](LINK_NEEDS_REPAIR) や <a href="https://casinotsu.com/blackjack" target="_blank" rel="noopener noreferrer">ブラックジャック、 <a href="https://casinotsu.com/baccarat" target="_blank" rel="noopener noreferrer">バカラ、 <a href="https://casinotsu.com/roulette" target="_blank" rel="noopener noreferrer">ルーレット は、ランドカジノで提供されるゲームと基本ルールが同じです。
+オンラインカジノで遊べる [スロット](https://www.casinotsu.com/slots) や <a href="https://casinotsu.com/blackjack" target="_blank" rel="noopener noreferrer">ブラックジャック、 <a href="https://casinotsu.com/baccarat" target="_blank" rel="noopener noreferrer">バカラ、 <a href="https://casinotsu.com/roulette" target="_blank" rel="noopener noreferrer">ルーレット は、ランドカジノで提供されるゲームと基本ルールが同じです。
 
 せっかく本場のカジノを訪れるなら、ドレスアップしてその場のゴージャスな雰囲気を楽しむのが醍醐味。ドレスコードはカジノによりますが、「 **スマートカジュアル**（襟付きシャツに、ビーチサンダル以外の靴など）」でOKな場合も多いです。
 

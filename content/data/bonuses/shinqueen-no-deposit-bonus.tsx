@@ -80,7 +80,7 @@ export const shinqueenNoDepositBonus: BonusPageContent = {
       paragraphs: [
         "CasinoTsu が、クイーンカジノの **入金不要ボーナス** と **フリースピン** の獲得方法を丁寧に解説いたします。いくつか登録箇所と順序がございますので、一緒に確認してまいりましょう。✨",
         "まずは、こちらのリンクからクイーンカジノの登録ページへお進みください。👇",
-        "[👉 **クイーンカジノに登録🎁**](LINK_NEEDS_REPAIR)</>,
+        "[👉 **クイーンカジノに登録🎁**](https://www.casinotsu.com/bonuses/no-deposit)</>,
       ],
       subsections: [
         {

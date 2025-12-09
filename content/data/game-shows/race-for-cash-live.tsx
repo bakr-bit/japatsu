@@ -38,7 +38,7 @@ export const raceForCashLive: GameShowPageContent = {
       description: [
         "画像：レース・フォー・キャッシュ・ライブ｜ベット",
         "「レース・フォー・キャッシュ・ライブ」は、競馬や競輪のようなレース形式のゲームです。 **お客様がベットしたレーサーが1位でゴールした場合、配当を獲得** できます♫",
-        "このゲームは、 **[ライブカジノ](LINK_NEEDS_REPAIR) のスタイル** で提供されており、実際のディーラーや進行役がゲームを盛り上げます。</>,
+        "このゲームは、 **[ライブカジノ](https://www.casinotsu.com/live-casino) のスタイル** で提供されており、実際のディーラーや進行役がゲームを盛り上げます。</>,
         "レーサーやペイアウトについて、さらに詳しく見ていきましょう💪。",
       ],
       subsections: [
@@ -85,7 +85,7 @@ export const raceForCashLive: GameShowPageContent = {
           ],
           features: <a href="https://casinotsu.com/slots/high-rtp" target="_blank" rel="noopener noreferrer">
             "😤 **CasinoTsuの提言：どうせ遊ぶなら、高RTPで勝てる可能性のあるゲームで楽しみたいものです！**",
-            "[勝てるスロットTOP10！人気の高RTP機種特集ページ](LINK_NEEDS_REPAIR) をぜひご確認ください。</>,
+            "[勝てるスロットTOP10！人気の高RTP機種特集ページ](https://www.casinotsu.com/slots) をぜひご確認ください。</>,
           ],
         },
         {
@@ -209,7 +209,7 @@ export const raceForCashLive: GameShowPageContent = {
       heading: "プレイ中にトラブルが発生した場合",
       paragraphs: [
         "ゲームプレイ中に誤ってブラウザを閉じてしまうなど、予期せぬ事態が発生してもご安心ください。ゲームは進行しており、 **結果についてはゲーム履歴で確認可能** です。",
-        "万が一、ソフトウェア側やカジノ側で問題が発生した場合は、速やかに [カスタマーサポート](LINK_NEEDS_REPAIR) へご連絡ください。</>,
+        "万が一、ソフトウェア側やカジノ側で問題が発生した場合は、速やかに [カスタマーサポート](https://www.casinotsu.com/customer-support) へご連絡ください。</>,
       ],
     },
     {
@@ -223,7 +223,7 @@ export const raceForCashLive: GameShowPageContent = {
           subheading: "",
           bullets: [
             "**レース・フォー・キャッシュ・シングルプレイ:** ライブゲームではありませんので、ご自身のペースでスムーズにプレイしたい方におすすめです👍。",
-            "**スーパーブロックス:** [ルーレット](LINK_NEEDS_REPAIR) のようなゲーム性を持っています🎡。</>,
+            "**スーパーブロックス:** [ルーレット](https://www.casinotsu.com/roulette) のようなゲーム性を持っています🎡。</>,
             <>**ホイール・オブ・ファイア:** 同じ <a href="https://casinotsu.com/providers/quik-gaming" target="_blank" rel="noopener noreferrer">Quik Gaming 社が提供するマネーホイールゲームです！</>,
           ],
         },

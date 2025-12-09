@@ -41,7 +41,7 @@ export const bonsCasinoBonusContent: BonusPageContent = {
       casinoSlug: "bons",
       heading: "無料で5,000円とフリースピン20回分両方貰える！ 超お得ボーナスをお見逃しなく♪",
       description: [
-        "マインクラフトのような独特な世界観を持つ [ボンズカジノ](LINK_NEEDS_REPAIR) から、 **ジャパカジ限定の超～お得なオファー** が届きましたよ😍🎉</>,
+        "マインクラフトのような独特な世界観を持つ [ボンズカジノ](https://www.casinotsu.com/reviews/bons) から、 **ジャパカジ限定の超～お得なオファー** が届きましたよ😍🎉</>,
         "登録するだけでもらえるのは、『 **入金不要ボーナス5,000円**』！",
         "＼ **だけじゃなーい！** 😲✨／",
         <>5,000円も無料で貰えるだけでもかなり豪華ですが、なんと！ 大人気スロットの <strong><a href="https://casinotsu.com/slots/moon-princess" target="_blank" rel="noopener noreferrer">Moon Princess</strong> の **フリースピン20回分** も一緒に貰えちゃうんです😍💖</>,
@@ -115,7 +115,7 @@ export const bonsCasinoBonusContent: BonusPageContent = {
     {
       title: "カジノのポジショニング",
       description: [
-        "ボンズカジノは、その豊富なボーナス種類とユニークなインターフェースにより、日本市場で高い評価を得ています。[Parimatch](LINK_NEEDS_REPAIR), <a href="https://casinotsu.com/reviews/stake" target="_blank" rel="noopener noreferrer">Stake, <a href="https://casinotsu.com/reviews/yuugado" target="_blank" rel="noopener noreferrer">遊雅堂, <a href="https://casinotsu.com/reviews/10bet" target="_blank" rel="noopener noreferrer">10Bet, <a href="https://casinotsu.com/reviews/bc-game" target="_blank" rel="noopener noreferrer">BC.GAME, <a href="https://casinotsu.com/reviews/vera-john" target="_blank" rel="noopener noreferrer">Vera&John, <a href="https://casinotsu.com/reviews/casino-sky" target="_blank" rel="noopener noreferrer">Casino Skyといった人気カジノと並び、トップクラスのオンラインカジノとして位置づけられています。特に、カジノ、ライブカジノ、スポーツベットのすべてにおいて多様なボーナスを提供している点が際立っています。CasinoTsu も、その信頼性と魅力的なオファーを高く評価しています。</>,
+        "ボンズカジノは、その豊富なボーナス種類とユニークなインターフェースにより、日本市場で高い評価を得ています。[Parimatch](https://www.casinotsu.com/reviews/bons), <a href="https://casinotsu.com/reviews/stake" target="_blank" rel="noopener noreferrer">Stake, <a href="https://casinotsu.com/reviews/yuugado" target="_blank" rel="noopener noreferrer">遊雅堂, <a href="https://casinotsu.com/reviews/10bet" target="_blank" rel="noopener noreferrer">10Bet, <a href="https://casinotsu.com/reviews/bc-game" target="_blank" rel="noopener noreferrer">BC.GAME, <a href="https://casinotsu.com/reviews/vera-john" target="_blank" rel="noopener noreferrer">Vera&John, <a href="https://casinotsu.com/reviews/casino-sky" target="_blank" rel="noopener noreferrer">Casino Skyといった人気カジノと並び、トップクラスのオンラインカジノとして位置づけられています。特に、カジノ、ライブカジノ、スポーツベットのすべてにおいて多様なボーナスを提供している点が際立っています。CasinoTsu も、その信頼性と魅力的なオファーを高く評価しています。</>,
       ],
       casinos: [],
     },
@@ -143,13 +143,13 @@ export const bonsCasinoBonusContent: BonusPageContent = {
         "8.  勝利金ゲット💰✨ & 残っている入金不要ボーナスもしくはフリースピンもGET💝",
         "9.  出金条件をクリアして、もう一度勝利金をゲット💰✨",
         "**ココモメモ:** 入金不要ボーナスとフリースピンは同時に利用できません。どちらかを先に使い終わるか、出金を完了することで次のボーナスが利用可能になります♪アカウント登録時に **ボーナスコードの入力** は必須ですので、必ず正確に入力してくださいね🚨！",
-        "アカウント登録が完了しましたら、プロモーションページの『 **獲得可能なギフト**』で、最初に使用したい入金不要ボーナスまたはフリースピンを選択してください。ボンズカジノのトップページ上部に表示されているプレゼントマーク『🎁』をクリックすると、プロモーションページを表示できますよ～(❁´◡`❁)利用したいボーナスを選択すると、 **[本人確認（KYC）](LINK_NEEDS_REPAIR)** がまだ完了していない場合は、本人確認手続きのページが表示されますので、そちらを完了させてボーナスをGETです♪あとはお好きなゲームを選んで、出金を目指して思いっきり楽しんでくださいo((>ω< ))o💓</>,
+        "アカウント登録が完了しましたら、プロモーションページの『 **獲得可能なギフト**』で、最初に使用したい入金不要ボーナスまたはフリースピンを選択してください。ボンズカジノのトップページ上部に表示されているプレゼントマーク『🎁』をクリックすると、プロモーションページを表示できますよ～(❁´◡`❁)利用したいボーナスを選択すると、 **[本人確認（KYC）](https://www.casinotsu.com/reviews/bons)** がまだ完了していない場合は、本人確認手続きのページが表示されますので、そちらを完了させてボーナスをGETです♪あとはお好きなゲームを選んで、出金を目指して思いっきり楽しんでくださいo((>ω< ))o💓</>,
       ],
     },
     {
       heading: "攻略法・注意点",
       paragraphs: [
-        "*   **ボーナス消化の戦略**: [賭け条件](LINK_NEEDS_REPAIR) を効率的にクリアするために、貢献率の高いゲーム（一般的にスロット）を中心にプレイすることをおすすめします。ライブカジノやテーブルゲームは貢献率が低い場合があるため、規約をよく確認しましょう。</>,
+        "*   **ボーナス消化の戦略**: [賭け条件](https://www.casinotsu.com/bonuses) を効率的にクリアするために、貢献率の高いゲーム（一般的にスロット）を中心にプレイすることをおすすめします。ライブカジノやテーブルゲームは貢献率が低い場合があるため、規約をよく確認しましょう。</>,
         "*   **禁止ゲーム**: ボーナスによっては、特定のゲーム（例：テーブルゲームの一部、ジャックポットスロットなど）でのプレイが禁止されている場合があります。必ず利用規約で禁止ゲームリストを確認してください。",
         "*   **最大ベット制限**: ボーナスプレイ中は、1回のベット額に上限が設けられていることがあります。この制限を超えてベットすると、ボーナス剥奪の対象となる可能性があるため注意が必要です。",
         "*   **フリースピンの有効活用**: フリースピンで得た勝利金もボーナスとして扱われ、賭け条件が適用されます。少額からでも着実に賭け条件をクリアしていくことが重要です。",

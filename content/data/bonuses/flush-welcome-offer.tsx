@@ -50,7 +50,7 @@ export const flushCasinoWelcomeBonus: BonusPageContent = {
         "フラッシュカジノの **初回入金ボーナス** の受け取り方法を、分かりやすくご案内いたしますd(^_^o)",
         "① まずは、CasinoTsu経由でフラッシュカジノの登録ページへアクセスしてください。",
         "② 登録フォームに必要事項をご入力ください。\n\n
-![フラッシュカジノ｜ボーナス獲得方法](LINK_NEEDS_REPAIR)
+![フラッシュカジノ｜ボーナス獲得方法](https://www.casinotsu.com/bonuses)
 \n\n「レジスター」（登録）ページを開きましたら、 **任意のユーザー名**、 **メールアドレス**、 **任意のパスワード** をご入力ください。\n<a href="https://casinotsu.com/about/cookie-policy" target="_blank" rel="noopener noreferrer">クッキーポリシー、<a href="https://casinotsu.com/about/privacy-policy" target="_blank" rel="noopener noreferrer">プライバシーポリシー、利用規約への同意に **チェック** ✅ を入れ、「 **今すぐプレイ**」をクリックして登録を完了させてください💪</>,
         <>③ ログイン後、初回入金ボーナスページ（または「ポートフォリオ」＞「ボーナス」）から、ボーナスの有効化手続きを行ってください。\n\n
 !<a href="https://casinotsu.com/images/flush-welcome-offer-how-to-get3.jpg" target="_blank" rel="noopener noreferrer">フラッシュカジノ｜ボーナス獲得方法3
@@ -114,7 +114,7 @@ export const flushCasinoWelcomeBonus: BonusPageContent = {
       paragraphs: [
         "フラッシュカジノでは、5,000種類以上の豊富なゲームを取り揃えています。",
         "*   **スロット:** 5,000種類以上",
-        "*   **ライブカジノ:** Evolution Gaming、Pragmatic Play Liveなどの人気プロバイダーによる、[ブラックジャック](LINK_NEEDS_REPAIR)、<a href="https://casinotsu.com/roulette" target="_blank" rel="noopener noreferrer">ルーレット、<a href="https://casinotsu.com/baccarat" target="_blank" rel="noopener noreferrer">バカラなどを楽しめます。</>,
+        "*   **ライブカジノ:** Evolution Gaming、Pragmatic Play Liveなどの人気プロバイダーによる、[ブラックジャック](https://www.casinotsu.com/blackjack)、<a href="https://casinotsu.com/roulette" target="_blank" rel="noopener noreferrer">ルーレット、<a href="https://casinotsu.com/baccarat" target="_blank" rel="noopener noreferrer">バカラなどを楽しめます。</>,
         "*   **テーブルゲーム:** クラシックなブラックジャックやルーレット、ビデオポーカーなどがプレイ可能です。",
         "*   **オリジナルゲーム:** Dice, Crash, Mines, Plinko, Limboなど、フラッシュカジノ独自のユニークなゲームが13種類以上あります。",
       ],
@@ -202,7 +202,7 @@ export const flushCasinoWelcomeBonus: BonusPageContent = {
     {
       heading: "類似オファー",
       paragraphs: [
-        "フラッシュカジノは、仮想通貨に特化した新しいカジノですが、他のオンラインカジノでも魅力的な初回入金ボーナスを提供しています。例えば、**カジノシークレット**では、初回入金で負けても最大$500までのキャッシュバックが受けられる「賭け条件なしボーナス」があります。また、**ボンズカジノ**では、最大$1,000の[ウェルカムボーナス](LINK_NEEDS_REPAIR)パッケージが用意されており、初回入金ボーナスに加えてフリースピンなども含まれます。</>,
+        "フラッシュカジノは、仮想通貨に特化した新しいカジノですが、他のオンラインカジノでも魅力的な初回入金ボーナスを提供しています。例えば、**カジノシークレット**では、初回入金で負けても最大$500までのキャッシュバックが受けられる「賭け条件なしボーナス」があります。また、**ボンズカジノ**では、最大$1,000の[ウェルカムボーナス](https://www.casinotsu.com/reviews/bons)パッケージが用意されており、初回入金ボーナスに加えてフリースピンなども含まれます。</>,
         "フラッシュカジノのボーナスは、特にボーナス還元率の高さと、仮想通貨でのプレイに魅力を感じるプレイヤーに適しています。",
       ],
     },
@@ -219,7 +219,7 @@ export const flushCasinoWelcomeBonus: BonusPageContent = {
           paragraphs: [
             "*   スポーツブックは提供しておりません。",
             "*   専用のモバイルアプリはありません（ブラウザ経由での利用となります）。",
-            "*   現在、[入金不要ボーナス](LINK_NEEDS_REPAIR)はありません。</>,
+            "*   現在、[入金不要ボーナス](https://www.casinotsu.com/bonuses/no-deposit)はありません。</>,
           ],
         },
       ],

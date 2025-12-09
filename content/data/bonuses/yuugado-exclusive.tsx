@@ -40,7 +40,7 @@ export const yuugadoExclusiveBonus: BonusPageContent = {
       casinoSlug: "yuugado",
       heading: "ジャパカジ限定！入金不要ボーナス3,000円 🌸👘",
       description: [
-        "2021年に開設された「[**遊雅堂**](LINK_NEEDS_REPAIR)」は、<a href="https://casinotsu.com/reviews/vera-john" target="_blank" rel="noopener noreferrer">ベラジョンの姉妹カジノでございます。</>,
+        "2021年に開設された「[**遊雅堂**](https://www.casinotsu.com/reviews/yuugado)」は、<a href="https://casinotsu.com/reviews/vera-john" target="_blank" rel="noopener noreferrer">ベラジョンの姉妹カジノでございます。</>,
         <>和風のウェブサイトデザインに加え、<a href="https://casinotsu.com/payment/japanese-yen-casinos" target="_blank" rel="noopener noreferrer"><strong>日本円でプレイ可能</strong>な、日本人プレイヤーの皆様のためのオンラインカジノです。🌸👘</>,
         <>この度、遊雅堂へジャパカジ経由でご登録いただきますと、通常提供されるボーナス1,500円分とスポーツフリーベット1,500円分を合わせた、合計<a href="https://casinotsu.com/bonuses/no-deposit" target="_blank" rel="noopener noreferrer"><strong>入金不要ボーナス</strong> **3,000円分** をプレゼントさせていただきます。😍✨</>,
         <>さらに、カジノ入金不要ボーナスの<a href="https://casinotsu.com/guides/wagering-requirements" target="_blank" rel="noopener noreferrer"><strong>賭け条件</strong>は **20倍** と比較的低めに設定されており、スポーツフリーベット勝利金には **賭け条件が一切ございません**！！😲🔥</>,
@@ -177,7 +177,7 @@ export const yuugadoExclusiveBonus: BonusPageContent = {
           subheading: "その他の注意点",
           paragraphs: [
             "- **スピンクレジット勝利金の有効期限:** スピンクレジットにて獲得された賞金には、通常48時間の有効期限が設けられております。",
-            "- **プレイヤー保護ツール:** 遊雅堂では、入金制限、プレイ時間制限、アカウント閉鎖などの自己制限ツールをご用意しており、責任あるギャンブルをサポートしております。ギャンブル依存症に関する問題につきましては、[Gamblingtherapy.org](LINK_NEEDS_REPAIR) などの支援機関へのリンクも提供しております。</>,
+            "- **プレイヤー保護ツール:** 遊雅堂では、入金制限、プレイ時間制限、アカウント閉鎖などの自己制限ツールをご用意しており、責任あるギャンブルをサポートしております。ギャンブル依存症に関する問題につきましては、[Gamblingtherapy.org](https://www.casinotsu.com/reviews/yuugado) などの支援機関へのリンクも提供しております。</>,
           ],
         },
       ],

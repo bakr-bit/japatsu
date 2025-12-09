@@ -38,7 +38,7 @@ export const shuffleCasinoExclusive: OfferPageContent = {
   intro: <a href="https://casinotsu.com/images/shuffle_960x495-1.png" target="_blank" rel="noopener noreferrer">
     "## シャッフルカジノの入金不要ボーナス20ドル！💰",
     "
-![シャッフル限定入金不要ボーナス：コンテントバナー](LINK_NEEDS_REPAIR)
+![シャッフル限定入金不要ボーナス：コンテントバナー](https://www.casinotsu.com/bonuses/no-deposit)
 </>,
     "スポーツベットからオリジナルゲームまで、多種多様なゲームをお楽しみいただけるクリプトカジノ『 **シャッフルカジノ（Shuffle）**』🌟",
     "この度、CasinoTsuをご利用の皆様に、特別なキャンペーンをご用意いたしました。 CasinoTsuからシャッフルカジノにご登録いただくと、",

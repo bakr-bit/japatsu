@@ -293,7 +293,7 @@ export const monopolyLive: GameShowPageContent = {
     {
       heading: "8. モバイル対応：いつでもどこでもモノポリー！ 📱",
       paragraphs: [
-        "「モノポリーライブ」は、Evolution Gamingの最先端技術によって開発されており、[モバイル](LINK_NEEDS_REPAIR)デバイスでのプレイも完璧に最適化されています。CasinoTsu は、プレイヤーが好きな時に好きな場所で楽しめることを重要視しています。</>,
+        "「モノポリーライブ」は、Evolution Gamingの最先端技術によって開発されており、[モバイル](https://www.casinotsu.com/providers/evolution)デバイスでのプレイも完璧に最適化されています。CasinoTsu は、プレイヤーが好きな時に好きな場所で楽しめることを重要視しています。</>,
       ],
       bullets: [
         "スマートフォン・タブレット対応: iOS、Androidなど、主要なモバイルオペレーティングシステムを搭載したスマートフォンやタブレットで、スムーズにプレイできます。",

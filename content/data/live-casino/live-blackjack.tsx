@@ -109,7 +109,7 @@ export const liveBlackjack: LiveCasinoPageContent = {
       heading: "ライブブラックジャックとは？",
       content: `
 
-![ブラックジャック｜ライブカジノ](LINK_NEEDS_REPAIR)
+![ブラックジャック｜ライブカジノ](https://www.casinotsu.com/blackjack)
 
 
 ライブブラックジャックとは、どのようなブラックジャックでしょうか？オンラインブラックジャックとの違いを詳しくご説明いたします。(=ﾟωﾟ)ﾉ

@@ -45,7 +45,7 @@ export const betrebelsExclusiveBonus: BonusPageContent = {
       },
       finalParagraphs: <a href="https://casinotsu.com/providers/pragmatic-play" target="_blank" rel="noopener noreferrer">
         "このように、$400もお得にゲームプレイをお楽しみいただける計算になります💝",
-        "さらに、この豪華なボーナスに加え、初回入金時には [**Pragmatic Play**](LINK_NEEDS_REPAIR) 社の人気スロット <strong><a href="https://casinotsu.com/slots/gates-of-olympus-1000" target="_blank" rel="noopener noreferrer">Gates of Olympus 1000</strong> の <a href="https://casinotsu.com/free-spins" target="_blank" rel="noopener noreferrer">フリースピン を40回分も進呈させていただきます😎🌟\n（※ボーナスによっては、Pragmatic Play社の「The Dog House - Muttley Crew」で50回のフリースピンが付与される場合もございます。）</>,
+        "さらに、この豪華なボーナスに加え、初回入金時には [**Pragmatic Play**](https://www.casinotsu.com/providers/pragmatic-play) 社の人気スロット <strong><a href="https://casinotsu.com/slots/gates-of-olympus-1000" target="_blank" rel="noopener noreferrer">Gates of Olympus 1000</strong> の <a href="https://casinotsu.com/free-spins" target="_blank" rel="noopener noreferrer">フリースピン を40回分も進呈させていただきます😎🌟\n（※ボーナスによっては、Pragmatic Play社の「The Dog House - Muttley Crew」で50回のフリースピンが付与される場合もございます。）</>,
         "出金条件はボーナスもフリースピンも共通で45倍と、やや高めではございますが、お試しプレイや追加プレイの機会として、ぜひご活用ください。当たった際は、幸運を喜んでいただければ幸いです♪",
       ],
       cta: {
@@ -163,7 +163,7 @@ export const betrebelsExclusiveBonus: BonusPageContent = {
         {
           title: "ゲームカテゴリ",
           list: <a href="https://casinotsu.com/slots/slots-strategies" target="_blank" rel="noopener noreferrer">
-            "**スロット:** ビデオスロット、クラシックスロット、プログレッシブジャックポットスロットなど、膨大な数のスロットゲームをご用意しております。[スロットの攻略法](LINK_NEEDS_REPAIR) も参考にしてください。</>,
+            "**スロット:** ビデオスロット、クラシックスロット、プログレッシブジャックポットスロットなど、膨大な数のスロットゲームをご用意しております。[スロットの攻略法](https://www.casinotsu.com/slots) も参考にしてください。</>,
             <>**ライブカジノ:** Evolution Gamingなどのトッププロバイダーによる、<a href="https://casinotsu.com/live-casino/live-blackjack" target="_blank" rel="noopener noreferrer">ブラックジャック、<a href="https://casinotsu.com/live-casino/live-roulette" target="_blank" rel="noopener noreferrer">ルーレット、<a href="https://casinotsu.com/live-casino/live-baccarat" target="_blank" rel="noopener noreferrer">バカラ、<a href="https://casinotsu.com/live-casino/live-poker" target="_blank" rel="noopener noreferrer">ポーカー などのライブゲームが充実しております。</>,
             <>**テーブルゲーム:** 上記以外にも、様々な種類のテーブルゲーム（<a href="https://casinotsu.com/poker" target="_blank" rel="noopener noreferrer">ビデオポーカー、ビンゴ、キノ、スクラッチカードなど）をご用意しております。</>,
           ]
@@ -249,7 +249,7 @@ export const betrebelsExclusiveBonus: BonusPageContent = {
         title: "類似オファーの例:",
         list: <a href="https://casinotsu.com/bonuses/welcome-bonus" target="_blank" rel="noopener noreferrer">
           "**同系列カジノ:** ベットレベルズ様と同じ運営会社が提供するカジノがあれば、同様のボーナスオファーが提供されている可能性がございます。",
-          "**他カジノの初回入金ボーナス:** 多くのオンラインカジノでは、初回入金時にマッチボーナスやフリースピンを提供しております。[初回入金ボーナス](LINK_NEEDS_REPAIR) の詳細を比較検討いただくことで、よりご自身に合ったオファーを見つけることができます。例えば、賭け条件が30倍程度と低いボーナスや、フリースピンの回数が多いボーナスなど、様々なタイプがございます。</>,
+          "**他カジノの初回入金ボーナス:** 多くのオンラインカジノでは、初回入金時にマッチボーナスやフリースピンを提供しております。[初回入金ボーナス](https://www.casinotsu.com/bonuses) の詳細を比較検討いただくことで、よりご自身に合ったオファーを見つけることができます。例えば、賭け条件が30倍程度と低いボーナスや、フリースピンの回数が多いボーナスなど、様々なタイプがございます。</>,
           "**スポーツブックのボーナス:** スポーツベットに特化したボーナスも多く提供されております。ベットLEVELS様にも、スポーツベット用の初回入金ボーナス（100%最大$150、賭け条件5倍）がございます。",
         ],
       },

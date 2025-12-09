@@ -77,7 +77,7 @@ export const christmasNewYearPromotions: BonusPageContent = {
       casinoSlug: "vera-john",
       heading: "ベラジョン｜大忘年会キャンペーン✨（12月1日～12月31日）",
       description: [
-        "オンラインカジノの代表格である[ベラジョンカジノ](LINK_NEEDS_REPAIR)では、年末キャンペーンも非常に大規模なオファーで開催されます。🎁</>,
+        "オンラインカジノの代表格である[ベラジョンカジノ](https://www.casinotsu.com/reviews/vera-john)では、年末キャンペーンも非常に大規模なオファーで開催されます。🎁</>,
         "「ベラジョン商店街」「もれなく横丁」「お楽しみ弁財天」「バトルホール」と、4つのエリアに分かれたベラジョンの仮想空間で、なんと9つもの企画が用意されています。🎉",
         "**【開催期間】**",
         "2024年12月1日19:00～2024年12月31日",
@@ -157,7 +157,7 @@ export const christmasNewYearPromotions: BonusPageContent = {
       casinoSlug: "casino-secret",
       heading: "カジノシークレット｜シークレットサラリー大抽選会2024✨（11月25日～12月19日）",
       description: [
-        "ユニークなボーナスシステムが魅力の[カジノシークレット](LINK_NEEDS_REPAIR)では、年末の恒例イベント『**シークレットサラリー大抽選会**』を開催中です。💕</>,
+        "ユニークなボーナスシステムが魅力の[カジノシークレット](https://www.casinotsu.com/reviews/casino-secret)では、年末の恒例イベント『**シークレットサラリー大抽選会**』を開催中です。💕</>,
         "なんと、2名の当選者には**最長5年間、最大180,000ドルの給料**が贈られるという、非常に大きなチャンスです。(❤´艸｀❤)",
         "賞金があまりに豪華なため、少し戸惑うかもしれませんが…😳 詳細を見ていきましょう。💖",
         "**【開催期間】**",
@@ -231,7 +231,7 @@ export const christmasNewYearPromotions: BonusPageContent = {
     {
       title: "日本のプレイヤーにおすすめ🎄 本命クリスマススロット5選",
       description: [
-        "この時期にはクリスマスをテーマにしたゲームが多数登場しますが、その中でも特に日本のプレイヤーに[人気のあるスロット](LINK_NEEDS_REPAIR)をご紹介します。</>,
+        "この時期にはクリスマスをテーマにしたゲームが多数登場しますが、その中でも特に日本のプレイヤーに[人気のあるスロット](https://www.casinotsu.com/slots)をご紹介します。</>,
         "日本でクリスマスを満喫するなら、これらのスロットで間違いありません。🎅🎰",
       ],
       casinos: <a href="https://casinotsu.com/slots/oiran-dream" target="_blank" rel="noopener noreferrer">
@@ -331,7 +331,7 @@ export const christmasNewYearPromotions: BonusPageContent = {
         "今シーズンおすすめのスロットをいくつかご紹介しましたが、オンラインカジノの年末年始はこれだけではありません。~\\(≧▽≦)/~",
         "まだまだ、紹介しきれなかった**人気ゲームが多数**ありますので、こちらもぜひチェックしてみてください。👀",
         "*   **Fortune Charm** – Red Tiger社\n*   **Lucky New Year** – Pragmatic Play社\n*   **New Year Bonanza** – Playtech社\n*   **Golden Dragon Inferno** – Betsoft社\n*   **Maneki 88 Fortunes** – BGAMING社\n*   **Christmas Morning** – Red Tiger社\n*   **Ding Dong Christmas Bells** – Reel Kingdom社\n*   **Sugar Rush Xmas** – Pragmatic Play社\n*   **Sweet Bonanza Xmas** – Pragmatic Play社\n*   **Big Bad Wolf Christmas Special** – Quickspin社",
-        "㊙️ **ベラジョンカジノ限定クリスマススロットもあります！**\n\n[VeraJohn’s Christmas Carol Megaways](LINK_NEEDS_REPAIR)をチェック！</>,
+        "㊙️ **ベラジョンカジノ限定クリスマススロットもあります！**\n\n[VeraJohn’s Christmas Carol Megaways](https://www.casinotsu.com/reviews/vera-john)をチェック！</>,
       ],
     },
   ],
@@ -346,7 +346,7 @@ export const christmasNewYearPromotions: BonusPageContent = {
     {
       heading: "ギャンブルの多様性と最新技術",
       paragraphs: [
-        "オンラインカジノは、スロットゲームだけでなく、ライブディーラーゲーム、伝統的なテーブルゲーム（[バカラ](LINK_NEEDS_REPAIR)、<a href="https://casinotsu.com/roulette" target="_blank" rel="noopener noreferrer">ルーレット、<a href="https://casinotsu.com/blackjack" target="_blank" rel="noopener noreferrer">ブラックジャックなど）、さらに<a href="https://casinotsu.com/crash-games" target="_blank" rel="noopener noreferrer">クラッシュゲームや麻雀など、多種多様なゲームを提供しています。近年では、**VPNとの互換性**も向上し、プライバシー保護を強化したプレイが可能になっています。また、**ビットコイン（BTC）やテザー（USDT）などの仮想通貨**での入出金に対応するカジノも増えており、迅速かつ安全な取引を実現しています。これらの最新技術を取り入れたプラットフォームは、プレイヤーに快適なゲーム体験を提供します。</>,
+        "オンラインカジノは、スロットゲームだけでなく、ライブディーラーゲーム、伝統的なテーブルゲーム（[バカラ](https://www.casinotsu.com/baccarat)、<a href="https://casinotsu.com/roulette" target="_blank" rel="noopener noreferrer">ルーレット、<a href="https://casinotsu.com/blackjack" target="_blank" rel="noopener noreferrer">ブラックジャックなど）、さらに<a href="https://casinotsu.com/crash-games" target="_blank" rel="noopener noreferrer">クラッシュゲームや麻雀など、多種多様なゲームを提供しています。近年では、**VPNとの互換性**も向上し、プライバシー保護を強化したプレイが可能になっています。また、**ビットコイン（BTC）やテザー（USDT）などの仮想通貨**での入出金に対応するカジノも増えており、迅速かつ安全な取引を実現しています。これらの最新技術を取り入れたプラットフォームは、プレイヤーに快適なゲーム体験を提供します。</>,
       ],
       subsections: [
         {

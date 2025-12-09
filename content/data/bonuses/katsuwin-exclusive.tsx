@@ -43,7 +43,7 @@ export const katsuwinExclusiveBonus: BonusPageContent = {
       casinoSlug: "katsuwin",
       heading: "勝WINのカジノ入金不要ボーナス💰【CasinoTsu限定】",
       description: [
-        "豊富なオンラインパチンコ・パチスロゲームが遊べる日本人向け **[オンラインカジノ](LINK_NEEDS_REPAIR)**『 <strong><a href="https://casinotsu.com/reviews/katsuwin" target="_blank" rel="noopener noreferrer">勝WIN</strong>』が、CasinoTsu読者のために **超豪華カジノ <a href="https://casinotsu.com/bonuses/no-deposit" target="_blank" rel="noopener noreferrer">入金不要ボーナス** を、 **5,000円分** ご用意いたしました。</>,
+        "豊富なオンラインパチンコ・パチスロゲームが遊べる日本人向け **[オンラインカジノ](https://www.casinotsu.com/bonuses/no-deposit)**『 <strong><a href="https://casinotsu.com/reviews/katsuwin" target="_blank" rel="noopener noreferrer">勝WIN</strong>』が、CasinoTsu読者のために **超豪華カジノ <a href="https://casinotsu.com/bonuses/no-deposit" target="_blank" rel="noopener noreferrer">入金不要ボーナス** を、 **5,000円分** ご用意いたしました。</>,
         <>さらに、この勝WINのCasinoTsu限定入金不要ボーナスは、無料で5,000円分ボーナスがもらえるだけでなく、 **<a href="https://casinotsu.com/guides/wagering-requirements" target="_blank" rel="noopener noreferrer">賭け条件 が8倍** と、大変利用しやすい設定となっております。😍</>,
         <>これは、早速 <strong><a href="https://casinotsu.com/bonuses" target="_blank" rel="noopener noreferrer">ボーナス</strong> をGETして、出金を目指してプレイする絶好の機会と言えるでしょう。ᕦ(ò_óˇ)ᕤ🔥</>,
         "それでは、詳細を詳しく確認してまいりましょう。🥳🌟",
@@ -75,7 +75,7 @@ export const katsuwinExclusiveBonus: BonusPageContent = {
     {
       title: "日本人向け🌟新カジノ・勝WIN！",
       description: [
-        "**勝WIN** は、24時間日本語対応のカスタマーサポート、日本円でのプレイ、そしてオンラインパチンコ・スロットが楽しめるという点で、まさに日本のお客様のニーズに応える **[新しいオンラインカジノ](LINK_NEEDS_REPAIR)** です。🥳</>,
+        "**勝WIN** は、24時間日本語対応のカスタマーサポート、日本円でのプレイ、そしてオンラインパチンコ・スロットが楽しめるという点で、まさに日本のお客様のニーズに応える **[新しいオンラインカジノ](https://www.casinotsu.com/slots)** です。🥳</>,
         <>CasinoTsu限定ボーナスに加え、 <strong><a href="https://casinotsu.com/bonuses/welcome-bonus" target="_blank" rel="noopener noreferrer">カジノ限定初回入金ボーナス</strong> や、充実した <strong><a href="https://casinotsu.com/guides/vip-program" target="_blank" rel="noopener noreferrer">VIPプログラム</strong> もご用意しております。🌟</>,
         "お得なボーナスを活用し、勝ウィンで6,000種類を超える豊富なゲームをぜひご体験ください。(❁´◡`❁)♪",
         <>**🎰パチンコ・パチスロが遊べるオンカジも一挙公開しちゃいます♪**\n\n<a href="https://casinotsu.com/guides/pachinko" target="_blank" rel="noopener noreferrer">オンラインパチンコ・パチスロ 徹底ガイド！</>,
@@ -91,7 +91,7 @@ export const katsuwinExclusiveBonus: BonusPageContent = {
         "まずは、入金不要ボーナスの **利用規約** をご確認ください。✅",
         "- **入金不要ボーナス額**: 5,000円\n- **賭け条件**: 8倍\n    - **計算例**: 5,000円のボーナスの場合、賭け条件達成には 5,000円 × 8倍 = 40,000円 のベットが必要です。\n- **対象ゲーム**: スロット／オンラインパチンコ・パチスロ\n- **最大ベット可能額**: 625円 (5ドル相当)\n- **最大出金可能額**: 15,000円\n- **ボーナス有効期限**: 30日間",
         "ライブカジノおよびスポーツベット（競馬）は、この入金不要ボーナスではご利用いただけません。こちらもご注意ください。♪",
-        "**🎁オンカジでお得に遊びたいなら、絶対チェック** ★\n\n[オンラインカジノでは毎日嬉しいボーナス](LINK_NEEDS_REPAIR) が！ 特設ページはこちら♪</>,
+        "**🎁オンカジでお得に遊びたいなら、絶対チェック** ★\n\n[オンラインカジノでは毎日嬉しいボーナス](https://www.casinotsu.com/) が！ 特設ページはこちら♪</>,
       ],
     },
     {
@@ -133,14 +133,14 @@ export const katsuwinExclusiveBonus: BonusPageContent = {
       paragraphs: [
         "それでは、皆様お待ちかね！ 勝WINのカジノ入金不要ボーナス **獲得方法** を確認してまいりましょう。(❁´◡`❁)♪",
         "まず、CasinoTsuから勝ウィンへアクセスし、「アカウント登録」ボタンをクリックしてください。✅👇",
-        "[**👉 勝WINに登録🔥**](LINK_NEEDS_REPAIR)</>
+        "[**👉 勝WINに登録🔥**](https://www.casinotsu.com/bonuses/no-deposit)</>
         ],
     },
     {
       heading: "利用可能なゲーム",
       paragraphs: [
         "勝WINでは、スロット、ライブカジノ、テーブルゲーム、そして日本のプレイヤー様に人気のオンラインパチンコ・パチスロなど、6,000種類以上の豊富なゲームを提供しております。",
-        "*   **スロット:** 人気のジャックポットスロットから最新スロットまで、多数取り揃えております。\n*   **ライブカジノ:** [ブラックジャック](LINK_NEEDS_REPAIR)、<a href="https://casinotsu.com/roulette" target="_blank" rel="noopener noreferrer">ルーレット、<a href="https://casinotsu.com/baccarat" target="_blank" rel="noopener noreferrer">バカラ など、臨場感あふれるゲームをディーラーと共にお楽しみいただけます。\n*   **テーブルゲーム:** <a href="https://casinotsu.com/blackjack" target="_blank" rel="noopener noreferrer">ブラックジャック、<a href="https://casinotsu.com/roulette" target="_blank" rel="noopener noreferrer">ルーレット、<a href="https://casinotsu.com/baccarat" target="_blank" rel="noopener noreferrer">バカラ といった定番テーブルゲームもご用意しております。\n*   **オンラインパチンコ・パチスロ:** 勝WINの大きな特徴として、日本のパチンコ・パチスロ機種をオンラインでプレイ可能です。</>,
+        "*   **スロット:** 人気のジャックポットスロットから最新スロットまで、多数取り揃えております。\n*   **ライブカジノ:** [ブラックジャック](https://www.casinotsu.com/blackjack)、<a href="https://casinotsu.com/roulette" target="_blank" rel="noopener noreferrer">ルーレット、<a href="https://casinotsu.com/baccarat" target="_blank" rel="noopener noreferrer">バカラ など、臨場感あふれるゲームをディーラーと共にお楽しみいただけます。\n*   **テーブルゲーム:** <a href="https://casinotsu.com/blackjack" target="_blank" rel="noopener noreferrer">ブラックジャック、<a href="https://casinotsu.com/roulette" target="_blank" rel="noopener noreferrer">ルーレット、<a href="https://casinotsu.com/baccarat" target="_blank" rel="noopener noreferrer">バカラ といった定番テーブルゲームもご用意しております。\n*   **オンラインパチンコ・パチスロ:** 勝WINの大きな特徴として、日本のパチンコ・パチスロ機種をオンラインでプレイ可能です。</>,
         "**注意:** 入金不要ボーナスは、スロットおよびオンラインパチンコ・パチスロでのみご利用いただけます。ライブカジノやスポーツベット（競馬）は対象外となります。",
       ],
     },
@@ -196,7 +196,7 @@ export const katsuwinExclusiveBonus: BonusPageContent = {
         {
           subheading: "賭け条件クリア戦略",
           paragraphs: [
-            "*   **還元率の高いスロットを選ぶ:** [RTP（還元率）](LINK_NEEDS_REPAIR)の高いスロット機種を選択することで、効率的に賭け条件を達成しやすくなります。\n*   **低リスクでプレイ:** 最大ベット制限を遵守しながら、着実にベットを積み重ねていくことが堅実な方法です。\n*   **ボーナス購入機能の利用は避ける:** 入金不要ボーナスの規約においては、ボーナス購入機能の利用が禁止されている場合が多いため、ご注意ください。</>,
+            "*   **還元率の高いスロットを選ぶ:** [RTP（還元率）](https://www.casinotsu.com/slots)の高いスロット機種を選択することで、効率的に賭け条件を達成しやすくなります。\n*   **低リスクでプレイ:** 最大ベット制限を遵守しながら、着実にベットを積み重ねていくことが堅実な方法です。\n*   **ボーナス購入機能の利用は避ける:** 入金不要ボーナスの規約においては、ボーナス購入機能の利用が禁止されている場合が多いため、ご注意ください。</>,
           ],
         },
         {

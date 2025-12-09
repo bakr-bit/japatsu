@@ -34,7 +34,7 @@ export const parimatchExclusiveBonus: BonusPageContent = {
       casinoSlug: "parimatch",
       heading: "ジャパカジ限定！スロット専用無料ボーナス！",
       description: [
-        "30年以上の歴史を持つ企業が運営する、日本人プレイヤー向けのオンラインカジノサイト、[パリマッチ](LINK_NEEDS_REPAIR) をご紹介します。</>,
+        "30年以上の歴史を持つ企業が運営する、日本人プレイヤー向けのオンラインカジノサイト、[パリマッチ](https://www.casinotsu.com/bonuses) をご紹介します。</>,
         <>ジャパカジの読者の皆様のために、特別な<a href="https://www.casinotsu.com/bonuses/no-deposit" target="_blank" rel="noopener noreferrer"><strong>入金不要ボーナス</strong> をご用意いただきました！🥳</>,
         "ジャパカジ経由でのご登録、および電話番号認証・メールアドレス認証を完了された方には、**カジノスロット**専用の無料ボーナスとして、**5,250円分** をプレゼントいたします。🎁",
         "この機会に、パリマッチが提供する豊富なゲームラインナップを無料で体験いただけます。早速、詳細をご確認ください。🌟",
@@ -54,7 +54,7 @@ export const parimatchExclusiveBonus: BonusPageContent = {
       heading: "1. 導入・概要：パリマッチのジャパカジ限定入金不要ボーナス5,250円！",
       paragraphs: [
         "簡単な登録手続きを完了するだけで、スロット専用の無料ボーナスを獲得いただけます。この機会に、ぜひパリマッチをリスクフリーでお楽しみください。",
-        "[Gamblingtherapy.org/ja](LINK_NEEDS_REPAIR) | 利用規約に関する詳細につきましては、公式サイトにてご確認いただきますようお願い申し上げます。 | <a href="https://go.casinotsu.com/go/parimatch_terms?referrer_path=%2Foffers%2Fparimatch-exclusive" target="_blank" rel="noopener noreferrer">利用規約が適用されます</>,
+        "[Gamblingtherapy.org/ja](https://www.casinotsu.com/bonuses/no-deposit) | 利用規約に関する詳細につきましては、公式サイトにてご確認いただきますようお願い申し上げます。 | <a href="https://go.casinotsu.com/go/parimatch_terms?referrer_path=%2Foffers%2Fparimatch-exclusive" target="_blank" rel="noopener noreferrer">利用規約が適用されます</>,
       ],
     },
     {
@@ -94,7 +94,7 @@ export const parimatchExclusiveBonus: BonusPageContent = {
       paragraphs: [
         "入金不要ボーナスの利用規約をご理解いただけましたら、次に**ボーナスの獲得方法**をステップごとにご説明いたします。",
         "まずは、こちらのページよりパリマッチへアクセスし、登録手続きを開始してください。",
-        "[**👉 パリマッチに登録！**](LINK_NEEDS_REPAIR)</>,
+        "[**👉 パリマッチに登録！**](https://www.casinotsu.com/bonuses/no-deposit)</>,
         "① パリマッチのページが開きましたら、画面右上の「**登録ボタン**」をクリックしてください。✅",
         "② アカウント登録フォームにて、必要情報をご入力ください。",
         "*   **メールアドレス**",
@@ -131,7 +131,7 @@ export const parimatchExclusiveBonus: BonusPageContent = {
       heading: "5. カジノ情報：ユニークな魅力いっぱいのパリマッチ！",
       paragraphs: [
         "**パリマッチ**は2007年に設立され、30年近くの歴史を持つオンラインカジノです。カジノゲームとスポーツベットが同一プラットフォームで楽しめ、「**クエスト**」と呼ばれる独自の機能では、ゲームをプレイしながら条件を達成してボーナスを獲得できるなど、ユニークな魅力にあふれています。🔥",
-        "さらに、日本人プレイヤー向けのゲームカテゴリー「**和風**」や、[**日本語対応の[カジノカスタマーサポート](LINK_NEEDS_REPAIR)**](https://www.casinotsu.com/customer-support) も完備されており、安心してプレイできる環境が整っています。(❁´◡`❁)💖</>,
+        "さらに、日本人プレイヤー向けのゲームカテゴリー「**和風**」や、[**日本語対応の[カジノカスタマーサポート](https://www.casinotsu.com/bonuses)**](https://www.casinotsu.com/customer-support) も完備されており、安心してプレイできる環境が整っています。(❁´◡`❁)💖</>,
         "パリマッチは**キュラソーライセンス**を取得しており、SSL技術によるセキュリティ対策も万全です。これにより、プレイヤーの皆様は安全にゲームをお楽しみいただけます。",
         <>パリマッチの<a href="https://www.casinotsu.com/bonuses/welcome-bonus" target="_blank" rel="noopener noreferrer"><strong>オンカジ限定初回入金ボーナス</strong> の詳細や、遊べるゲーム、決済方法など、カジノに関する詳細情報にご興味のある方は、ぜひ<strong><a href="https://www.casinotsu.com/reviews/parimatch" target="_blank" rel="noopener noreferrer">パリマッチのレビューページ</strong>をご覧ください。</>,
         "**運営会社:**",
@@ -155,14 +155,14 @@ export const parimatchExclusiveBonus: BonusPageContent = {
         "*   **Pragmatic Play**",
         "*   **NetEnt**",
         "*   **Microgaming**",
-        "これらのプロバイダーからは、人気タイトルから最新の[スロット](LINK_NEEDS_REPAIR) まで、幅広いゲームがお楽しみいただけます。</>,
+        "これらのプロバイダーからは、人気タイトルから最新の[スロット](https://www.casinotsu.com/bonuses/no-deposit) まで、幅広いゲームがお楽しみいただけます。</>,
         "**💡ヒント:**\nボーナスを受け取られましたら、まずは「賭け条件対象」と表示されているスロットの中から、お好みのゲームや、ペイアウト率（RTP）の高いゲームをお選びいただくことをお勧めいたします。",
       ],
     },
     {
       heading: "7. 入出金方法：パリマッチの入出金オプション",
       paragraphs: [
-        "パリマッチでは、プレイヤーの皆様の利便性を高めるため、多様な[決済方法](LINK_NEEDS_REPAIR) に対応しております。CasinoTsuは、正確な情報提供を心がけております。</>,
+        "パリマッチでは、プレイヤーの皆様の利便性を高めるため、多様な[決済方法](https://www.casinotsu.com/payment) に対応しております。CasinoTsuは、正確な情報提供を心がけております。</>,
         "**主な入金方法:**",
         "*   **クレジットカード:** Visa, Mastercard",
         "*   **電子ウォレット:** Skrill, Neteller, MuchBetter, WebMoney, Perfect Money, Advcash",
@@ -185,7 +185,7 @@ export const parimatchExclusiveBonus: BonusPageContent = {
         "パリマッチは、PCだけでなく、スマートフォンやタブレットからも快適にプレイいただけるよう設計されております。",
         "*   **モバイルブラウザ対応:**\n    特別なアプリのダウンロードは不要です。お使いのiOSまたはAndroidデバイスのウェブブラウザから、公式サイトにアクセスいただくだけで、PC版とほぼ同等の機能をお楽しみいただけます。",
         "*   **専用モバイルアプリ:**\n    パリマッチは、iOSおよびAndroid向けの専用モバイルアプリも提供しております。アプリをダウンロードいただくことで、よりスムーズで高速なゲーム体験が可能となります。",
-        "モバイル版においても、入金、出金、ボーナスのご利用、ライブチャットでのサポート、そして豊富なゲームのプレイなどが可能です。[モバイルカジノ](LINK_NEEDS_REPAIR) の利便性は格別です。</>,
+        "モバイル版においても、入金、出金、ボーナスのご利用、ライブチャットでのサポート、そして豊富なゲームのプレイなどが可能です。[モバイルカジノ](https://www.casinotsu.com/bonuses) の利便性は格別です。</>,
       ],
     },
     {
@@ -194,7 +194,7 @@ export const parimatchExclusiveBonus: BonusPageContent = {
         "CasinoTsuは、皆様がボーナスを最大限に活用できるよう、以下のポイントをお伝えいたします。",
         "**入金不要ボーナス活用法:**",
         "1.  **リスクフリーでサイトを試す:** まずは、このボーナスをご利用いただき、パリマッチのサイトの使いやすさや、ゲームのラインナップを無料で体験してみてください。",
-        "2.  **お気に入りのスロットを見つける:** 様々な[スロット](LINK_NEEDS_REPAIR) をプレイし、ご自身に合ったゲームを見つけるチャンスです。</>,
+        "2.  **お気に入りのスロットを見つける:** 様々な[スロット](https://www.casinotsu.com/bonuses/no-deposit) をプレイし、ご自身に合ったゲームを見つけるチャンスです。</>,
         "3.  **少額からベット:** 最大ベット額（750円/5ドル）を守りながら、賭け条件達成を目指しましょう。",
         "4.  **運が良ければ出金:** 賭け条件を達成し、さらに勝利金を出金できれば幸運です！最低入金と1倍のベット条件をクリアして、実際に出金をお試しください。",
         "**注意点:**",
@@ -212,7 +212,7 @@ export const parimatchExclusiveBonus: BonusPageContent = {
         "*   **スポーツウェルカムボーナス:** 最大300ドル（125%マッチ）。さらに、その後のご入金でも追加ボーナスがございます。スポーツベットを中心に楽しみたい方向けです。",
         "*   **ライブカジノ用ボーナス:** ライブカジノをプレイされたい方向けの特別なボーナスも提供されております。",
         "これらのボーナスは、それぞれ異なる条件や対象ゲームが設定されておりますので、ご自身のプレイスタイルに合わせてご選択いただくことが重要です。",
-        "**賭け条件なしのボーナスをお探しの方へ:**\nCasinoTsuでは、[賭け条件なしのボーナス](LINK_NEEDS_REPAIR) を提供しているカジノもご紹介しております。もし賭け条件の達成が煩わしいと感じられる場合は、こちらの情報もご参照ください。</>,
+        "**賭け条件なしのボーナスをお探しの方へ:**\nCasinoTsuでは、[賭け条件なしのボーナス](https://www.casinotsu.com/bonuses/no-deposit) を提供しているカジノもご紹介しております。もし賭け条件の達成が煩わしいと感じられる場合は、こちらの情報もご参照ください。</>,
       ],
     },
     {
@@ -222,7 +222,7 @@ export const parimatchExclusiveBonus: BonusPageContent = {
         "**こんなプレイヤーにおすすめ:**",
         "*   オンラインカジノ初心者で、まずは無料で試してみたい方。",
         "*   新しいカジノサイトに登録する際に、リスクを避けたい方。",
-        "*   [スロットゲーム](LINK_NEEDS_REPAIR) がお好きな方。</>,
+        "*   [スロットゲーム](https://www.casinotsu.com/bonuses/no-deposit) がお好きな方。</>,
         "*   パリマッチのサイトやゲーム性を試してみたい方。",
         "賭け条件は35倍と、やや高めではございますが、無料で5,250円分プレイできる点は大きなメリットと言えます。出金できたらラッキー！くらいの気持ちで、ぜひお気軽にお楽しみください。CasinoTsuは、皆様の健全なカジノ体験を応援しております。",
       ],

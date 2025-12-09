@@ -75,7 +75,7 @@ CasinoTsuでは、オンラインパチンコ・パチスロの世界を深く�
 
 また、かつての4号機や5号機を彷彿とさせる **高ボラティリティ設定や演出を特徴とする最新オリジナル機種** など、近年では非常に幅広いラインアップのパチンコゲームやオンラインパチスロがリアルマネーでプレイ可能となっています(๑•̀ㅂ•́)و✧
 
-⇓パチンコをプレイできるおすすめのオンラインカジノ、 **[ワンダーカジノ](LINK_NEEDS_REPAIR)** はこちらです🌟⇓
+⇓パチンコをプレイできるおすすめのオンラインカジノ、 **[ワンダーカジノ](https://www.casinotsu.com/reviews/wonder-casino)** はこちらです🌟⇓
 
 <a href="https://go.casinotsu.com/go/wonder-casino" target="_blank" rel="noopener noreferrer"><strong>👉 ワンダーカジノに登録！</strong>
 

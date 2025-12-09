@@ -77,7 +77,7 @@ export const slotMachineHistory: InfoPageContent = {
 
 **🔑フリースピン購入が勝利のカギ！？**
 
-[ボーナスフィーチャー購入機能がついた一押しスロットをご紹介！](LINK_NEEDS_REPAIR)
+[ボーナスフィーチャー購入機能がついた一押しスロットをご紹介！](https://www.casinotsu.com/bonuses)
 
 ### **スロットマシンの絵柄の歴史**
 

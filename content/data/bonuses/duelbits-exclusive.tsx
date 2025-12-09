@@ -38,7 +38,7 @@ export const duelbitsExclusiveOffer: BonusPageContent = {
         "今回、ジャパカジ経由で Duelbits に新規登録し、20ドル以上ご入金の上、対象スロットをごプレイいただくと、**合計500回のフリースピン** を獲得いただけます。",
         "特筆すべきは、**フリースピンによる勝利金に一切の賭け条件がない** 点です！🙌",
         "対象となるスロットは、**プラグマティックプレイ社** の中でも特に人気の高いオンラインスロットばかりです。",
-        "#### フリースピン獲得ステップと対象機種\n\n| リワード順番 | 賭け条件達成に必要なベット額 | 獲得フリースピン回数 | フリースピン対象機種 |\n| :-----------: | :-----------: | :-----------: | :-----------: |\n| リワード1 | 50ドル | 50スピン | [Pragmatic Playの「Sugar Rush」](LINK_NEEDS_REPAIR) |\n| リワード2 | 500ドル | 150スピン | <a href="https://casinotsu.com/slots/gates-of-olympus" target="_blank" rel="noopener noreferrer">「Gates of Olympus」 |\n| リワード3 | 1,000ドル | 300スピン | <a href="https://casinotsu.com/slots/sweet-bonanza" target="_blank" rel="noopener noreferrer">「Sweet Bonanza」 |\n\n※各リワードのフリースピンは、条件達成後にマイリワードにて自動的に表示されます。</>,
+        "#### フリースピン獲得ステップと対象機種\n\n| リワード順番 | 賭け条件達成に必要なベット額 | 獲得フリースピン回数 | フリースピン対象機種 |\n| :-----------: | :-----------: | :-----------: | :-----------: |\n| リワード1 | 50ドル | 50スピン | [Pragmatic Playの「Sugar Rush」](https://www.casinotsu.com/free-spins) |\n| リワード2 | 500ドル | 150スピン | <a href="https://casinotsu.com/slots/gates-of-olympus" target="_blank" rel="noopener noreferrer">「Gates of Olympus」 |\n| リワード3 | 1,000ドル | 300スピン | <a href="https://casinotsu.com/slots/sweet-bonanza" target="_blank" rel="noopener noreferrer">「Sweet Bonanza」 |\n\n※各リワードのフリースピンは、条件達成後にマイリワードにて自動的に表示されます。</>,
         "**さらに！** ✨",
         "**30ドル以上ご入金いただいたプレイヤー様** は、Duelbits 公式テレグラムアカウントにて申請いただくことで、**Amazonギフト券3,000円分** を追加でプレゼントいたします！😲😍",
         "これは、30ドル以上ご入金いただき、両方の特典を確実にゲットすべき機会と言えるでしょう。ᕦ(ò_óˇ)ᕤ",
@@ -61,7 +61,7 @@ export const duelbitsExclusiveOffer: BonusPageContent = {
       heading: "オファー概要：Duelbits限定フリースピン＆Amazonギフト券プレゼント",
       paragraphs: [
         "ジャパカジより新規でご登録いただき、条件を達成されたプレイヤー様には、**賭け条件なしのフリースピン最大500回** と、**Amazonギフト券3,000円分** をプレゼントいたします。Duelbits は、仮想通貨でのプレイが可能なクリプトカジノ＆スポーツブックとしても、高い評価を得ています。",
-        "[Gamblingtherapy.org/ja](LINK_NEEDS_REPAIR) | 【新規登録者限定】入金フリースピン合計500回（賭け条件無し）、スポーツブックウェルカムボーナス最大100ドル（賭け条件5倍） | <a href="https://go.casinotsu.com/go/duelbits_terms?referrer_path=%2Foffers%2Fduelbits-exclusive" target="_blank" rel="noopener noreferrer">利用規約が適用されます</>,
+        "[Gamblingtherapy.org/ja](https://www.casinotsu.com/free-spins) | 【新規登録者限定】入金フリースピン合計500回（賭け条件無し）、スポーツブックウェルカムボーナス最大100ドル（賭け条件5倍） | <a href="https://go.casinotsu.com/go/duelbits_terms?referrer_path=%2Foffers%2Fduelbits-exclusive" target="_blank" rel="noopener noreferrer">利用規約が適用されます</>,
       ],
     },
     {
@@ -94,7 +94,7 @@ export const duelbitsExclusiveOffer: BonusPageContent = {
       ],
       paragraphs: [
         "ココモ: Duelbits には、公式テレグラムへの情報送信で **5ドルのボーナス** もございますが、そのボーナスと今回の **ジャパカジ限定Amazonギフト券は、両方申請可能** です。",
-        "詳しくは、 [**Duelbits のレビュー**](LINK_NEEDS_REPAIR) ページでご確認ください。👀✅</>,
+        "詳しくは、 [**Duelbits のレビュー**](https://www.casinotsu.com/bonuses) ページでご確認ください。👀✅</>,
       ],
     },
     {
@@ -107,7 +107,7 @@ export const duelbitsExclusiveOffer: BonusPageContent = {
           subheading: "フリースピン獲得手順",
           paragraphs: [
             "まず、フリースピンの獲得方法からご説明します。😎🌟",
-            "1.  **アクセス:** 本ページ、またはレビューページより Duelbits にアクセスしてください。💨 [**👉 Duelbits 公式サイトへ！**](LINK_NEEDS_REPAIR)</>,
+            "1.  **アクセス:** 本ページ、またはレビューページより Duelbits にアクセスしてください。💨 [**👉 Duelbits 公式サイトへ！**](https://www.casinotsu.com/free-spins)</>,
             "2.  **登録:** Duelbits のページが開きましたら、画面右上の「 **登録**」ボタンをクリックしてください。",
             "3.  **情報入力:** 表示された登録フォームに従い、以下の必要情報を入力してください。\n    *   任意のユーザー名\n    *   メールアドレス\n    *   パスワード\n    入力後、再度「登録」をクリックするとアカウント登録が完了します。🎉",
             "4.  **メール認証:** ご登録のメールアドレスに届いた認証メールより、**メールアドレス認証を完了** させてください。✅",
@@ -142,7 +142,7 @@ export const duelbitsExclusiveOffer: BonusPageContent = {
         "さらに、公式テレグラムにて必要情報をご送信いただくだけで、**Amazonギフト券3,000円分** もプレゼント（30ドル以上の入金が必要）！🎁💖",
         "これほど多くの特典が一度に得られる機会は稀ですので、ぜひお早めにご利用ください。💪💪💨",
         "**😎 仮想通貨でのプレイがお好きな方へ！**",
-        "[クリプトカジノ](LINK_NEEDS_REPAIR) を厳選してご紹介しています。</>,
+        "[クリプトカジノ](https://www.casinotsu.com/free-spins) を厳選してご紹介しています。</>,
       ],
     },
     {
@@ -176,7 +176,7 @@ export const duelbitsExclusiveOffer: BonusPageContent = {
           subheading: "カジノゲーム",
           paragraphs: [
             "*   **スロット:** 数千種類以上のスロットゲームが用意されており、Pragmatic Play だけでなく、NetEnt、Play'n GO、Microgamingなど、様々な人気プロバイダーのゲームをお楽しみいただけます。",
-            "*   **ライブカジノ:** Evolution Gaming を中心に、臨場感あふれるライブディーラーゲーム（ブラックジャック、ルーレット、バカラなど）が充実しています。\n    *   [Evolution Gaming](LINK_NEEDS_REPAIR) のゲームも多数取り扱っています。</>,
+            "*   **ライブカジノ:** Evolution Gaming を中心に、臨場感あふれるライブディーラーゲーム（ブラックジャック、ルーレット、バカラなど）が充実しています。\n    *   [Evolution Gaming](https://www.casinotsu.com/blackjack) のゲームも多数取り扱っています。</>,
             "*   **テーブルゲーム:** ブラックジャック、ルーレット、バカラといったクラシックなテーブルゲームも提供されています。",
             "*   **オリジナルゲーム:** Crash や Dice Duels など、Duelbits 独自の「プロバブリーフェア」ゲームもプレイ可能です。",
           ],

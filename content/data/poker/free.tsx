@@ -69,7 +69,7 @@ export const freePokerGamesGuide: PokerPageContent = {
         altText: "オンラインポーカー無料ゲーム｜アメリカン・ポーカー・ヴィー",
         paragraphs: [
           "Wazdan社が提供する「American Poker V」は、**シンプルな5カードポーカー**であり、**2ペア以上で配当を獲得できる**のが特徴です。ルールも簡単ですので、ポーカー初心者の方でも安心して楽しんでいただけるかと存じます。",
-          "[**ミスティーノ**](LINK_NEEDS_REPAIR) では、<a href="https://casinotsu.com/bonuses/no-deposit" target="_blank" rel="noopener noreferrer"><strong>入金不要ボーナス</strong>🎁 もご用意されておりますので、アカウント登録後すぐに無料プレイをお試しいただけますよ！</>,
+          "[**ミスティーノ**](https://www.casinotsu.com/reviews/mystino) では、<a href="https://casinotsu.com/bonuses/no-deposit" target="_blank" rel="noopener noreferrer"><strong>入金不要ボーナス</strong>🎁 もご用意されておりますので、アカウント登録後すぐに無料プレイをお試しいただけますよ！</>,
         ],
         callout: {
           emoji: "🐰",
@@ -85,7 +85,7 @@ export const freePokerGamesGuide: PokerPageContent = {
         altText: "オンラインポーカー無料ゲーム｜スリーハンド・カジノ・ホールデム",
         paragraphs: [
           "「3 Hand Casino Hold’Em」は、**3つのハンドで同時に勝負するカジノホールデムポーカー**です。",
-          "ポーカー大会で一般的に見られるプレイヤー同士が対戦する「テキサスホールデム」とは異なり、こちらは[**ディーラーと対戦する形式**](LINK_NEEDS_REPAIR) となります。そのため、テキサスホールデムの練習にも最適と言えるでしょう。</>,
+          "ポーカー大会で一般的に見られるプレイヤー同士が対戦する「テキサスホールデム」とは異なり、こちらは[**ディーラーと対戦する形式**](https://www.casinotsu.com/poker) となります。そのため、テキサスホールデムの練習にも最適と言えるでしょう。</>,
           "グラフィックは美しくリアルであり、ビデオポーカーながら本場のカジノのような雰囲気を味わえます🍷 ご自身のペースでじっくりと楽しめるのも嬉しいポイントです。",
           <><a href="https://casinotsu.com/reviews/live-casino-house" target="_blank" rel="noopener noreferrer"><strong>ライブカジノハウス</strong> にて無料プレイが可能です。</>,
         ],
@@ -104,7 +104,7 @@ export const freePokerGamesGuide: PokerPageContent = {
         paragraphs: [
           "「Deuces Wild」は、**数字の「2」がワイルドカードとして機能するポーカー**です。ワイルドカードが存在するため役が揃いやすい反面、配当は3カード以上からとなります。",
           "通常の5カードポーカーに慣れてこられたら、一味違った「Deuces Wild」に挑戦してみてはいかがでしょうか？😁",
-          "無料版は [**オー・マイ・スピンズ**](LINK_NEEDS_REPAIR) でプレイいただけます。</>,
+          "無料版は [**オー・マイ・スピンズ**](https://www.casinotsu.com/poker) でプレイいただけます。</>,
         ],
         callout: {
           emoji: "🌀",
@@ -121,7 +121,7 @@ export const freePokerGamesGuide: PokerPageContent = {
         paragraphs: [
           "「Wild Texas」は、**キングのワンペア以上で配当獲得となる5カードポーカー**です。",
           "ポーカー名に「テキサス」とありますが、ホールデムではなく、グラフィックがテキサス風にデザインされているのが特徴です🤠",
-          "ゲームプロバイダー [**BGaming**](LINK_NEEDS_REPAIR) による、スタイリッシュなデザインをお楽しみいただけます。</>,
+          "ゲームプロバイダー [**BGaming**](https://www.casinotsu.com/poker) による、スタイリッシュなデザインをお楽しみいただけます。</>,
           <><a href="https://casinotsu.com/reviews/vulkanvegas" target="_blank" rel="noopener noreferrer"><strong>バルカンベガス</strong> にて無料で遊ぶことが可能です。</>,
         ],
         callout: {
@@ -159,7 +159,7 @@ export const freePokerGamesGuide: PokerPageContent = {
           "**はい、日本からオンラインカジノの無料ポーカーをプレイすることは合法です。**",
           "無料プレイは、あくまでゲームの練習やエンターテイメントとして提供されているため、法的な問題はございません。",
           "ただし、リアルマネーを賭けてプレイする場合、オンラインカジノの合法性は居住国の法律によって異なります。日本においては、海外で合法的に運営されているオンラインカジノを利用することは、法的なグレーゾーンとされています。リアルマネーでのプレイを検討される際は、ご自身の居住国の法律を必ずご確認いただき、自己責任で行うようにしてください💪",
-          "また、信頼性の低いサイトを利用されますと、ウイルス感染などのリスクも考えられます。必ず、正規の[**ゲーミングライセンス**](LINK_NEEDS_REPAIR) を取得している、信頼できるオンラインカジノをお選びください。</>,
+          "また、信頼性の低いサイトを利用されますと、ウイルス感染などのリスクも考えられます。必ず、正規の[**ゲーミングライセンス**](https://www.casinotsu.com/poker) を取得している、信頼できるオンラインカジノをお選びください。</>,
         ],
       },
       {
@@ -167,7 +167,7 @@ export const freePokerGamesGuide: PokerPageContent = {
         paragraphs: [
           "オンラインカジノが無料ゲーム（デモプレイ）を提供している主な理由は、**新規プレイヤーにカジノゲームを体験してもらい、実際のプレイへの興味を喚起すること**にあります。",
           "「まずは無料で試してみて、気に入ったら登録してリアルマネーで遊んでみようかな」という流れを期待しているのです。",
-          "この戦略はポーカーだけでなく、 [**無料スロット**](LINK_NEEDS_REPAIR) や <a href="https://casinotsu.com/roulette/free" target="_blank" rel="noopener noreferrer"><strong>無料ルーレット</strong>、 <a href="https://casinotsu.com/blackjack/free" target="_blank" rel="noopener noreferrer"><strong>無料ブラックジャック</strong> など、他のカジノゲームでも広く採用されています。</>,
+          "この戦略はポーカーだけでなく、 [**無料スロット**](https://www.casinotsu.com/poker) や <a href="https://casinotsu.com/roulette/free" target="_blank" rel="noopener noreferrer"><strong>無料ルーレット</strong>、 <a href="https://casinotsu.com/blackjack/free" target="_blank" rel="noopener noreferrer"><strong>無料ブラックジャック</strong> など、他のカジノゲームでも広く採用されています。</>,
         ],
         callout: {
           emoji: "🎰",
@@ -314,7 +314,7 @@ export const freePokerGamesGuide: PokerPageContent = {
       {
         number: 2,
         heading: "ポーカーのデモゲーム（無料プレイモード）",
-        description: "多くのオンラインカジノでは、実際のゲームと同じようにプレイできる「デモモード」を提供しております。カジノに登録されていなくても、または登録後にデモモードを選択することで、チップを失う心配なく様々なポーカーゲームをお試しいただけます。まずはデモプレイでゲームに慣れ、その後、同じゲームをリアルマネーでプレイするという流れもおすすめです。[ポーカーの無料プレイ](LINK_NEEDS_REPAIR)についてさらに詳しく解説しています。</>,
+        description: "多くのオンラインカジノでは、実際のゲームと同じようにプレイできる「デモモード」を提供しております。カジノに登録されていなくても、または登録後にデモモードを選択することで、チップを失う心配なく様々なポーカーゲームをお試しいただけます。まずはデモプレイでゲームに慣れ、その後、同じゲームをリアルマネーでプレイするという流れもおすすめです。[ポーカーの無料プレイ](https://www.casinotsu.com/poker)についてさらに詳しく解説しています。</>,
       },
       {
         number: 3,
@@ -348,7 +348,7 @@ export const freePokerGamesGuide: PokerPageContent = {
       {
         number: 3,
         name: "Oasis Poker（BGaming）",
-        description: "BGaming社が提供する「Oasis Poker」は、ディーラーのカードが1枚だけオープンになっている5カードポーカーです。相手のカードが見えているため、戦略的にプレイすることが可能です。[ポーカー戦略](LINK_NEEDS_REPAIR)を練るのに役立ちます。</>,
+        description: "BGaming社が提供する「Oasis Poker」は、ディーラーのカードが1枚だけオープンになっている5カードポーカーです。相手のカードが見えているため、戦略的にプレイすることが可能です。[ポーカー戦略](https://www.casinotsu.com/poker)を練るのに役立ちます。</>,
       },
     ],
     callout: {
@@ -407,7 +407,7 @@ export const freePokerGamesGuide: PokerPageContent = {
   faq: <a href="https://casinotsu.com/poker/rules" target="_blank" rel="noopener noreferrer">
     {
       question: "ポーカーの基本的な遊び方を教えてください。",
-      answer: "A: ポーカーの基本ルールやゲームの流れにつきましては、ジャパカジの記事「【ポーカーの基本ルール】遊び方やオッズ・配当がすぐ分かる！」にて詳しく解説しております。ぜひご参照ください。[ポーカーのルール](LINK_NEEDS_REPAIR)はこちら。</>,
+      answer: "A: ポーカーの基本ルールやゲームの流れにつきましては、ジャパカジの記事「【ポーカーの基本ルール】遊び方やオッズ・配当がすぐ分かる！」にて詳しく解説しております。ぜひご参照ください。[ポーカーのルール](https://www.casinotsu.com/poker)はこちら。</>,
       questionerCharacter: "casiko",
       questionerAvatarUrl: "https://casinotsu.com/images/casiko.svg",
       answererCharacter: "oka-kyoju",

@@ -111,7 +111,7 @@ export const pokerHandProbabilities: GuidePageContent = {
 
 **🔰オンラインポーカーの基礎知識と始め方をマスターしましょう！**
 
-[オンラインポーカー入門／どうやってプレイする？](LINK_NEEDS_REPAIR)
+[オンラインポーカー入門／どうやってプレイする？](https://www.casinotsu.com/poker)
       `
     },
     {

@@ -69,7 +69,7 @@ CasinoTsuでは、そのような麻雀がプレイできるオンラインカ�
       content: `
 | カジノ名 | ウェルカムボーナス | 登録画面 |
 | --- | --- | --- |
-| [**カジノミー**](LINK_NEEDS_REPAIR) | 100%ボーナス最大$777（麻雀にも使用可） | <a href="https://go.casinotsu.com/go/casino-me" target="_blank" rel="noopener noreferrer"><strong>カジノミーに登録する</strong> |
+| [**カジノミー**](https://www.casinotsu.com/reviews/casino-me) | 100%ボーナス最大$777（麻雀にも使用可） | <a href="https://go.casinotsu.com/go/casino-me" target="_blank" rel="noopener noreferrer"><strong>カジノミーに登録する</strong> |
 
 ⚔️ **攻略型オンラインカジノ**
 

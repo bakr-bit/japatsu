@@ -54,7 +54,7 @@ export const cosmoswinCashbackBonus: BonusPageContent = {
           subheading: "最強キャッシュバック、貰うしかない！ ✨",
           paragraphs: [
             "このキャッシュバックオファーは、賭け条件や禁止ゲームがなく、プレイヤー様が最も有利に遊べる条件となっています。最大10,000ドルという高額還元、そしてリアルマネーでの受け取りという点は、他のオンラインカジノと比較しても非常に魅力的です。CasinoTsu 推薦の、まさに「正確さが第一。興奮はその次。」を体現するオファーと言えるでしょう。",
-            "**🎁キャッシュバックボーナスがおすすめのカジノランキングも必見♪** [負けると獲得できるキャッシュバックボーナスについて徹底解説](LINK_NEEDS_REPAIR)</>,
+            "**🎁キャッシュバックボーナスがおすすめのカジノランキングも必見♪** [負けると獲得できるキャッシュバックボーナスについて徹底解説](https://www.casinotsu.com/bonuses)</>,
           ],
         },
       ],
@@ -189,7 +189,7 @@ export const cosmoswinCashbackBonus: BonusPageContent = {
           paragraphs: ["Cosmoswinでは、多種多様なゲームが楽しめます。<>],
           list: <a href="https://casinotsu.com/blackjack" target="_blank" rel="noopener noreferrer">
             "**スロット**: 数千種類以上の最新スロットからクラシックなものまで。",
-            "**ライブカジノ**: Evolution GamingやEzugiなどの人気プロバイダーによる、[ブラックジャック](LINK_NEEDS_REPAIR)、<a href="https://casinotsu.com/roulette" target="_blank" rel="noopener noreferrer">ルーレット、<a href="https://casinotsu.com/baccarat" target="_blank" rel="noopener noreferrer">バカラ、<a href="https://casinotsu.com/poker" target="_blank" rel="noopener noreferrer">ポーカー、<a href="https://casinotsu.com/game-shows" target="_blank" rel="noopener noreferrer">ゲームショーなど。</>,
+            "**ライブカジノ**: Evolution GamingやEzugiなどの人気プロバイダーによる、[ブラックジャック](https://www.casinotsu.com/blackjack)、<a href="https://casinotsu.com/roulette" target="_blank" rel="noopener noreferrer">ルーレット、<a href="https://casinotsu.com/baccarat" target="_blank" rel="noopener noreferrer">バカラ、<a href="https://casinotsu.com/poker" target="_blank" rel="noopener noreferrer">ポーカー、<a href="https://casinotsu.com/game-shows" target="_blank" rel="noopener noreferrer">ゲームショーなど。</>,
             <>**テーブルゲーム**: 様々な種類の<a href="https://casinotsu.com/blackjack" target="_blank" rel="noopener noreferrer">ブラックジャック、<a href="https://casinotsu.com/roulette" target="_blank" rel="noopener noreferrer">ルーレット、<a href="https://casinotsu.com/baccarat" target="_blank" rel="noopener noreferrer">バカラ、<a href="https://casinotsu.com/poker" target="_blank" rel="noopener noreferrer">ポーカー。</>,
             "**「Space」カテゴリー**: Cosmoswin独自のテーマに基づいたゲーム。",
             "**Provably Fairゲーム**: 一部のゲームでは、結果の公平性を自身で証明できる機能があります。",
@@ -294,7 +294,7 @@ export const cosmoswinCashbackBonus: BonusPageContent = {
           subheading: "類似ボーナス",
           list: <a href="https://casinotsu.com/bonuses/no-deposit" target="_blank" rel="noopener noreferrer">
             "**リアルマネーキャッシュバック**: 他のカジノでも、賭け条件なしのリアルマネーキャッシュバックを提供するプロモーションがあります。ただし、還元率や上限額、対象期間などはカジノによって異なります。",
-            "**[入金不要ボーナス](LINK_NEEDS_REPAIR)**: 登録するだけで受け取れるボーナス。</>,
+            "**[入金不要ボーナス](https://www.casinotsu.com/bonuses/no-deposit)**: 登録するだけで受け取れるボーナス。</>,
             <><strong><a href="https://casinotsu.com/free-spins" target="_blank" rel="noopener noreferrer">フリースピン</strong>: 特定のスロットで利用できる無料スピン。</>,
           ],
         },

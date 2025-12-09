@@ -88,7 +88,7 @@ export const pokerPreflopMistakes: GuidePageContent = {
 
 📖 **ポーカー用語に迷ったら、ここで全て解決！**
 
-[ポーカー専門用語大辞典](LINK_NEEDS_REPAIR)
+[ポーカー専門用語大辞典](https://www.casinotsu.com/poker)
       `
     },
     {

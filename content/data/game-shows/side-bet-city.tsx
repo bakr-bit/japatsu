@@ -21,7 +21,7 @@ export const sideBetCity: GameShowPageContent = {
         {
           subheading: "ポーカーを3分で学ぶ！",
           paragraphs: [
-            "[ジャパカジ特製！ポーカーチュートリアルはこちら！](LINK_NEEDS_REPAIR) CasinoTsu は、<a href="https://casinotsu.com/poker/rules" target="_blank" rel="noopener noreferrer">ポーカーの基本 を素早く学ぶためのチュートリアルもご用意しております。</>,
+            "[ジャパカジ特製！ポーカーチュートリアルはこちら！](https://www.casinotsu.com/poker) CasinoTsu は、<a href="https://casinotsu.com/poker/rules" target="_blank" rel="noopener noreferrer">ポーカーの基本 を素早く学ぶためのチュートリアルもご用意しております。</>,
           ],
         },
       ],
@@ -51,7 +51,7 @@ export const sideBetCity: GameShowPageContent = {
             "    *   最初の3枚で3カードハンドの結果が決定します。",
             "    *   次に2枚配られ、合計5枚で5カードハンドの結果が決定します。",
             "    *   さらに最後の2枚が配られ、合計7枚で7カードハンドの結果が決定します。",
-            "2.  **勝敗決定:** 7枚のカードから、[ポーカーの役](LINK_NEEDS_REPAIR)（ローハンドランキング）に基づき、各ハンド（3カード、5カード、7カード）の勝敗が決まります。7カードハンドでは、配られた7枚から最も強い5枚の組み合わせが採用されます。</>,
+            "2.  **勝敗決定:** 7枚のカードから、[ポーカーの役](https://www.casinotsu.com/poker)（ローハンドランキング）に基づき、各ハンド（3カード、5カード、7カード）の勝敗が決まります。7カードハンドでは、配られた7枚から最も強い5枚の組み合わせが採用されます。</>,
             "3.  **結果発表:** 各ハンドの結果と配当が発表されます。ALL LOSEベットは、3つのハンド全てがプレイヤーの役を形成できなかった場合に配当が発生します。 CasinoTsu は、この明快な結果発表がプレイヤーにとって分かりやすいと考えています。",
           ],
         },
@@ -66,7 +66,7 @@ export const sideBetCity: GameShowPageContent = {
     {
       heading: "どこで遊べるか",
       paragraphs: [
-        "サイド・ベット・シティは、[ライブカジノ](LINK_NEEDS_REPAIR) で有名なエボリューションゲーミングによって開発されており、多くのオンラインカジノでプレイ可能です。これらのカジノでは、新規プレイヤー向けの<a href="https://casinotsu.com/bonuses/welcome-bonus" target="_blank" rel="noopener noreferrer">ウェルカムボーナス や、既存プレイヤー向けのプロモーションが提供されている場合があります。 CasinoTsu は、ボーナスを利用する際は、賭け条件（ボーナス額の何倍をベットする必要があるか）を確認することが重要であると、常に注意喚起しております。</>,
+        "サイド・ベット・シティは、[ライブカジノ](https://www.casinotsu.com/live-casino) で有名なエボリューションゲーミングによって開発されており、多くのオンラインカジノでプレイ可能です。これらのカジノでは、新規プレイヤー向けの<a href="https://casinotsu.com/bonuses/welcome-bonus" target="_blank" rel="noopener noreferrer">ウェルカムボーナス や、既存プレイヤー向けのプロモーションが提供されている場合があります。 CasinoTsu は、ボーナスを利用する際は、賭け条件（ボーナス額の何倍をベットする必要があるか）を確認することが重要であると、常に注意喚起しております。</>,
       ],
       subsections: [
         {
@@ -98,7 +98,7 @@ export const sideBetCity: GameShowPageContent = {
         {
           subheading: "ポーカーハンドランキング",
           paragraphs: [
-            "勝利は、標準的な[ポーカーハンドランキング](LINK_NEEDS_REPAIR) に基づいています。 CasinoTsu は、このポーカーの普遍的なルールが、ゲームへの理解を助けると考えています。</>,
+            "勝利は、標準的な[ポーカーハンドランキング](https://www.casinotsu.com/poker) に基づいています。 CasinoTsu は、このポーカーの普遍的なルールが、ゲームへの理解を助けると考えています。</>,
           ],
           bullets: [
             "**3カードハンド:**",
@@ -151,7 +151,7 @@ export const sideBetCity: GameShowPageContent = {
         {
           subheading: "エボリューションゲーミングについて",
           paragraphs: [
-            "サイド・ベット・シティは、[ライブカジノソフトウェア](LINK_NEEDS_REPAIR) のリーディングカンパニーであるエボリューションゲーミングによって開発されました。同社は、革新的なゲームショーや高品質なライブディーラーゲームで世界的に有名です。 CasinoTsu は、エボリューションゲーミングの信頼性とゲームの品質を高く評価しております。</>,
+            "サイド・ベット・シティは、[ライブカジノソフトウェア](https://www.casinotsu.com/live-casino) のリーディングカンパニーであるエボリューションゲーミングによって開発されました。同社は、革新的なゲームショーや高品質なライブディーラーゲームで世界的に有名です。 CasinoTsu は、エボリューションゲーミングの信頼性とゲームの品質を高く評価しております。</>,
           ],
           bullets: [
             <>**ライセンス:** <a href="https://casinotsu.com/info/casino-license" target="_blank" rel="noopener noreferrer">マルタゲーミングオーソリティ（MGA）などの主要な規制機関からライセンスを取得しています。 CasinoTsu は、ライセンス情報はプレイヤーの安全性を確認する上で不可欠であると考えています。</>,
@@ -235,7 +235,7 @@ export const sideBetCity: GameShowPageContent = {
           subheading: "注意点",
           bullets: [
             "**カードのシャッフル:** カードは毎ラウンドシャッフルされるため、過去の結果が次のラウンドに影響を与えることはありません。 CasinoTsu は、このランダム性を理解することが重要だと考えます。",
-            "**ポーカーの知識:** 基本的な[ポーカーの知識](LINK_NEEDS_REPAIR) があれば楽しめますが、複雑な戦略は不要です。初心者でも安心してプレイできます。 CasinoTsu は、この手軽さが多くのプレイヤーに支持される理由だと分析しています。</>,
+            "**ポーカーの知識:** 基本的な[ポーカーの知識](https://www.casinotsu.com/poker) があれば楽しめますが、複雑な戦略は不要です。初心者でも安心してプレイできます。 CasinoTsu は、この手軽さが多くのプレイヤーに支持される理由だと分析しています。</>,
             "**RTPの理解:** 各ベットオプションでRTPが異なることを理解し、より有利なオプションを選択することが長期的には有利に働きます。 CasinoTsu は、プレイヤーが情報に基づいて意思決定できるよう、常に正確なデータを提供いたします。",
           ],
         },
@@ -260,7 +260,7 @@ export const sideBetCity: GameShowPageContent = {
         {
           subheading: "同プロバイダー（エボリューション）のポーカー系ゲーム",
           paragraphs: [
-            "エボリューションゲーミングは、サイド・ベット・シティ以外にも、様々なポーカーベースの[ライブゲーム](LINK_NEEDS_REPAIR) を提供しています。 CasinoTsu は、これらのゲームもチェック、ダブルチェック、そして CasinoTsu チェック を経て、皆様にご紹介しております。</>,
+            "エボリューションゲーミングは、サイド・ベット・シティ以外にも、様々なポーカーベースの[ライブゲーム](https://www.casinotsu.com/poker) を提供しています。 CasinoTsu は、これらのゲームもチェック、ダブルチェック、そして CasinoTsu チェック を経て、皆様にご紹介しております。</>,
           ],
           bullets: [
             <>**カジノホールデム (Casino Hold'em):** プレイヤーがカジノディーラーと<a href="https://casinotsu.com/poker/texas-hold-em" target="_blank" rel="noopener noreferrer">テキサスホールデム で対戦します。</>,

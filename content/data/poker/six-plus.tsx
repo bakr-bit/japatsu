@@ -210,7 +210,7 @@ export const pokerSixPlus: PokerPageContent = {
       heading: "ショートデックポーカー｜おすすめ",
       paragraphs: [
         "BetGames社のライブポーカー「6＋Poker」はいかがでしょうか🤓？",
-        "[**ライブカジノ**](LINK_NEEDS_REPAIR) でプレイできるショートデックポーカーは非常に珍しいため、大変おすすめです！</>,
+        "[**ライブカジノ**](https://www.casinotsu.com/poker) でプレイできるショートデックポーカーは非常に珍しいため、大変おすすめです！</>,
         <>臨場感あふれる <a href="https://www.casinotsu.com/live-casino" target="_blank" rel="noopener noreferrer"><strong>ライブカジノ</strong> でのプレイは、より一層盛り上がること間違いなしです🥳</>,
         "**ショートデックポーカーは、実際には3～6名でプレイ可能** です。\n相手のハンドを予想したり、逆に予想されたりする心理戦が魅力ですが、オンラインカジノではディーラーとの直接対決となるため、よりシンプルに楽しめます✨",
         "プレイ可能なカジノに早速登録し、ショートデックポーカーの練習を始めてみましょう！",
@@ -236,7 +236,7 @@ export const pokerSixPlus: PokerPageContent = {
   summary: {
     heading: "まとめ",
     paragraphs: [
-      "ショートデックポーカーは、テキサスホールデムと似たルールで覚えやすく、ハンドが作りやすいことから、[**ポーカー**](LINK_NEEDS_REPAIR) 好きの方には手が出しやすいポーカーの種類と言えます💡</>,
+      "ショートデックポーカーは、テキサスホールデムと似たルールで覚えやすく、ハンドが作りやすいことから、[**ポーカー**](https://www.casinotsu.com/poker) 好きの方には手が出しやすいポーカーの種類と言えます💡</>,
       "テキサスホールデムよりもカード枚数が少ないため、強いハンドが出現する**確率**が上がり、より刺激的で、ハイローラーにも楽しまれています🌟",
       <><a href="https://www.casinotsu.com/poker/texas-hold-em" target="_blank" rel="noopener noreferrer"><strong>テキサスホールデム</strong> と並んで、**初心者向けのポーカーの一種** でもありますが、そのスピーディーでアクション満載のゲーム性は、経験豊富なプレイヤーをも魅了します。ぜひ気軽にプレイしてみてください！</>,
     ],

@@ -34,7 +34,7 @@ export const joyCasinoExclusiveBonus: BonusPageContent = {
       casinoSlug: "joycasino",
       heading: "【カジノツ限定】ジョイカジノで入金不要ボーナス¥4,500ゲット",
       description: [
-        "[Gamblingtherapy.org/ja](LINK_NEEDS_REPAIR)｜【新規登録者限定】入金不要ボーナス：4,500円(賭け条件30倍)（カジノツ限定）、初回入金ボーナス：200％最大20万円(賭け条件30倍)+フリースピン200回（賭け条件20倍）｜<a href="https://go.casinotsu.com/go/joy-casino_terms?referrer_path=%2Foffers%2Fjoycasino-exclusive" target="_blank" rel="noopener noreferrer">利用規約が適用されます</>,
+        "[Gamblingtherapy.org/ja](https://www.casinotsu.com/bonuses/no-deposit)｜【新規登録者限定】入金不要ボーナス：4,500円(賭け条件30倍)（カジノツ限定）、初回入金ボーナス：200％最大20万円(賭け条件30倍)+フリースピン200回（賭け条件20倍）｜<a href="https://go.casinotsu.com/go/joy-casino_terms?referrer_path=%2Foffers%2Fjoycasino-exclusive" target="_blank" rel="noopener noreferrer">利用規約が適用されます</>,
         <>姉妹カジノである <a href="https://casinotsu.com/reviews/casino-x" target="_blank" rel="noopener noreferrer">カジノエックス と共に日本市場に再登場した <strong><a href="https://casinotsu.com/reviews/joycasino" target="_blank" rel="noopener noreferrer">ジョイカジノ（Joy Casino）</strong> より、カジノツ限定の特別なウェルカムオファーをご提供いただけました。</>,
         <>それは、 **ご登録いただくだけで、もれなく¥4,500相当の <a href="https://casinotsu.com/bonuses/no-deposit" target="_blank" rel="noopener noreferrer">入金不要ボーナス をプレゼント** いたします 🤑💰！！</>,
         "この度は、復活早々、ジョイカジノ様には大変太っ腹なご提供をいただきました✨",
@@ -64,7 +64,7 @@ export const joyCasinoExclusiveBonus: BonusPageContent = {
       heading: "カジノツから登録でジョイカジノの入金不要ボーナス",
       paragraphs: [
         "皆様に、ジョイカジノ様限定のウェルカムオファーをお届けいたします🍀",
-        "**カジノツ限定 [入金不要ボーナス](LINK_NEEDS_REPAIR) ¥4,500** をプレゼントさせていただきますよ～！🎁✨</>,
+        "**カジノツ限定 [入金不要ボーナス](https://www.casinotsu.com/bonuses/no-deposit) ¥4,500** をプレゼントさせていただきますよ～！🎁✨</>,
         <><a href="https://casinotsu.com/reviews/joycasino" target="_blank" rel="noopener noreferrer">ジョイカジノ へカジノツ経由でご登録いただくだけで、このボーナスをお受け取りいただけます。そして、このボーナスはカジノ内のあらゆるゲームにご利用いただけます。</>,
         "これはつまり、あなたにもジョイカジノで無料での勝利のチャンスがあるということです🌟",
       ],
@@ -80,7 +80,7 @@ export const joyCasinoExclusiveBonus: BonusPageContent = {
             "**最低入金額：** 各入金方法の最低入金額（※ボーナスを受け取られた後、実際に出金するには最低一度のご入金が必要となる場合がございます。詳細はレビューページにてご確認ください。）",
             "**最大ベット額：** 通常、ボーナスを賭け条件消化中にベットできる最大金額には制限がございます。一般的には€0.5（約75円）など、少額に制限されることが多いです。この制限を超えた場合、ボーナス規約違反となる可能性がございますのでご注意ください。",
             "**ボーナスの性質：** このボーナスが「スティッキーボーナス」である可能性がございます。スティッキーボーナスの場合は、出金時にボーナス額が差し引かれるため、実際に出金できるのは、ボーナス額を除いた勝利金のみとなります。",
-            "🤩 **カジノツ限定ボーナスも多数ご用意しております！**\n\n全ての魅力的な [カジノオファー](LINK_NEEDS_REPAIR) を今すぐチェック！</>,
+            "🤩 **カジノツ限定ボーナスも多数ご用意しております！**\n\n全ての魅力的な [カジノオファー](https://www.casinotsu.com/bonuses/no-deposit) を今すぐチェック！</>,
           ],
         },
       ],
@@ -124,7 +124,7 @@ export const joyCasinoExclusiveBonus: BonusPageContent = {
           paragraphs: [
             "カジノゲームに加え、スポーツベットをお楽しみになりたい方のために、以下のスポーツウェルカムボーナスもご用意しております。",
             "**100％最大相当額（10倍賭け条件）:** スポーツベットにてご利用いただけるボーナスで、賭け条件は10倍となっております。",
-            "詳細につきましては、 [ジョイカジノのレビューページ](LINK_NEEDS_REPAIR) にてご確認ください✅</>,
+            "詳細につきましては、 [ジョイカジノのレビューページ](https://www.casinotsu.com/bonuses/welcome-bonus) にてご確認ください✅</>,
             "この機会にカジノツからご登録いただき、入金不要ボーナスを存分にご活用の上、たくさんの勝利を掴んでください！",
             <>🏹 **日本市場へは姉妹サイトのカジノエックスと共に再上陸！**\n\n<a href="https://casinotsu.com/reviews/joycasino" target="_blank" rel="noopener noreferrer">Joy Casino（ジョイカジノ）レビューページをチェック</>,
           ],
@@ -135,7 +135,7 @@ export const joyCasinoExclusiveBonus: BonusPageContent = {
       heading: "ジョイカジノのゲームラインナップ",
       paragraphs: [
         "ジョイカジノ様は、その豊富なゲーム数でも注目を集めております。**6,900種類以上のスロット** をはじめ、**700種類以上のライブカジノゲーム** を含む、**合計8,000種類以上のゲーム** をご提供しております。",
-        "[NetEnt](LINK_NEEDS_REPAIR) や <a href="https://casinotsu.com/providers/microgaming" target="_blank" rel="noopener noreferrer">Microgaming といった、数多くのトップゲームプロバイダーが提供する最新の人気ゲームから、長年親しまれている定番ゲームまで、幅広いラインナップをお楽しみいただけます。CasinoTsu は、正確さが第一。興奮はその次。</>,
+        "[NetEnt](https://www.casinotsu.com/slots) や <a href="https://casinotsu.com/providers/microgaming" target="_blank" rel="noopener noreferrer">Microgaming といった、数多くのトップゲームプロバイダーが提供する最新の人気ゲームから、長年親しまれている定番ゲームまで、幅広いラインナップをお楽しみいただけます。CasinoTsu は、正確さが第一。興奮はその次。</>,
       ],
     },
     {

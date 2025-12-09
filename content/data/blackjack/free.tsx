@@ -124,7 +124,7 @@ CasinoTsuが、ブラックジャックをプレイしたいけれど、どの�
 
 |  | **ブラックジャック** | **無料で遊べるカジノ** |
 | --- | --- | --- |
-| **1.** | **Blackjack MH（Play’n Go）** | [**ライブカジノハウス**](LINK_NEEDS_REPAIR) |
+| **1.** | **Blackjack MH（Play’n Go）** | [**ライブカジノハウス**](https://www.casinotsu.com/reviews/livecasinohouse) |
 | **2.** | **Premier Blackjack with Side Bets（Switch Studios）** | <strong><a href="https://casinotsu.com/reviews/trustdice" target="_blank" rel="noopener noreferrer">トラストダイス</strong> |
 | **3.** | **Double Exposure Blackjack MH（Play’n Go）** | <a href="https://casinotsu.com/reviews/casino-secret" target="_blank" rel="noopener noreferrer"><strong>カジノシークレット</strong> |
 | **4.** | **Blackjack Neo（Relax Gaming）** | <a href="https://casinotsu.com/reviews/cloudbet" target="_blank" rel="noopener noreferrer"><strong>クラウドベット</strong> |

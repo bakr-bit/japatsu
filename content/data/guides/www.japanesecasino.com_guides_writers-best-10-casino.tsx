@@ -67,7 +67,7 @@ CasinoTsu の「キャンペーンポリス」の異名を持つ生真面目ラ�
 
 | **順位** | **カジノ** | **理由** |
 | --- | --- | --- |
-| 4位 | [インターカジノ](LINK_NEEDS_REPAIR) | ウェルカムオファーが魅力的です。ベラジョンと同じ運営会社という安心感も影響しているかもしれません。 |
+| 4位 | [インターカジノ](https://www.casinotsu.com/reviews/intercasino) | ウェルカムオファーが魅力的です。ベラジョンと同じ運営会社という安心感も影響しているかもしれません。 |
 | **3位** | <a href="https://www.casinotsu.com/reviews/casino-x" target="_blank" rel="noopener noreferrer">カジノX | ボーナスに頼らず、現金をそのままプレイする楽しさがあります。スポーツブックも備え、サイトの独特な雰囲気も気に入っています。 |
 | **2位** | <a href="https://www.casinotsu.com/reviews/vera-john" target="_blank" rel="noopener noreferrer">ベラジョンカジノ | 常に安定したサポート品質を維持しており、ストレスなく利用できます。検索機能の使いやすさも評価しています。 |
 | 🥇 **1位** | <a href="https://www.casinotsu.com/reviews/casitabi" target="_blank" rel="noopener noreferrer">カジ旅 | 逃げ切り型の賭け条件20倍は大変嬉しいポイントです。サポートの迅速な対応と、検索機能の優秀さにより、ストレスフリーでプレイできます。（※2020年10月追記：ボーナスマネーでの冒険は現在できなくなっております。） |

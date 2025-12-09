@@ -90,7 +90,7 @@ export const casinoCharactersGuide: InfoPageContent = {
       id: "online-casino-girls-character-sengoku-jidai",
       heading: "オンラインカジノの女子キャラ戦国時代",
       content: `
-数ある[オンラインカジノスロット](LINK_NEEDS_REPAIR)の中でも、常に人気ランキングの上位を争っているのが<a href="https://casinotsu.com/slots/moon-princess" target="_blank" rel="noopener noreferrer"><strong>ムーンプリンセス／Moon Princess</strong>と<a href="https://casinotsu.com/slots/hawaiian-dream" target="_blank" rel="noopener noreferrer"><strong>ハワイアンドリーム／HawaiianDream</strong>です。ご存知の通り、どちらのスロットも3人の女性キャラクターが登場します。さらに、昨夏には<a href="https://casinotsu.com/slots/oiran-dream" target="_blank" rel="noopener noreferrer"><strong>花魁ドリーム／OiranDream</strong>が人気スロット界に殴り込みをかけました。人気スロットランキングを目にするたびに、まるで女性同士のプロレスのような熱い戦いが繰り広げられているのを感じるのは、私だけではないはずです。
+数ある[オンラインカジノスロット](https://www.casinotsu.com/slots)の中でも、常に人気ランキングの上位を争っているのが<a href="https://casinotsu.com/slots/moon-princess" target="_blank" rel="noopener noreferrer"><strong>ムーンプリンセス／Moon Princess</strong>と<a href="https://casinotsu.com/slots/hawaiian-dream" target="_blank" rel="noopener noreferrer"><strong>ハワイアンドリーム／HawaiianDream</strong>です。ご存知の通り、どちらのスロットも3人の女性キャラクターが登場します。さらに、昨夏には<a href="https://casinotsu.com/slots/oiran-dream" target="_blank" rel="noopener noreferrer"><strong>花魁ドリーム／OiranDream</strong>が人気スロット界に殴り込みをかけました。人気スロットランキングを目にするたびに、まるで女性同士のプロレスのような熱い戦いが繰り広げられているのを感じるのは、私だけではないはずです。
 
 しかし、女性キャラクターの活躍が目立つのはスロットだけではありません。オンラインカジノ全体でも、まさに「女子キャラ戦国時代」が到来しているのかもしれません！ （もちろん、実際に戦っているわけではありませんが。）
       `,

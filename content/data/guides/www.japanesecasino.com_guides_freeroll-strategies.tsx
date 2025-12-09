@@ -87,7 +87,7 @@ CasinoTsu は、オンラインカジノのフリーロール戦略について�
 *   **練習の場**: 資金を失うリスクなしに、トーナメントの深い段階やバブルプレイ、様々なスタックサイズでのプレイを経験するのに最適です。
 *   **注意点**: 参加費は無料でも、賞金獲得は非常に困難であり、場合によっては「非効率的」と感じられることもあります。多くのプレイヤーがいるため、上位入賞には高いスキルと運が必要です。
 
-ちなみに、CasinoTsuから[**PokerStars／ポーカースターズ**](LINK_NEEDS_REPAIR)に登録すると、今なら <a href="https://casinotsu.com/guides/sit-and-go" target="_blank" rel="noopener noreferrer"><strong>Sit&Go／シット＆ゴー</strong> のフリーロールチケットが貰えることがあります♡
+ちなみに、CasinoTsuから[**PokerStars／ポーカースターズ**](https://www.casinotsu.com/poker)に登録すると、今なら <a href="https://casinotsu.com/guides/sit-and-go" target="_blank" rel="noopener noreferrer"><strong>Sit&Go／シット＆ゴー</strong> のフリーロールチケットが貰えることがあります♡
 
 さて、投資することなくお金を生み出せるチャンスはそう多くありません。ですから、このフリーロールトーナメント（条件が付いているものもあり）に参加できる機会があれば、ぜひ挑戦すべきです！失うものは何もありませんからね！
 

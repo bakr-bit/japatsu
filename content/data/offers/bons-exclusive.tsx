@@ -30,7 +30,7 @@ export const bonsCasinoExclusive: OfferPageContent = {
   ],
 
   intro: <a href="https://casinotsu.com/reviews/bons" target="_blank" rel="noopener noreferrer">
-    "マインクラフトのようなユニークな世界観を持つ [ボンズカジノ](LINK_NEEDS_REPAIR) から、**ジャパカジ様限定の大変お得なオファー** が届きました。</>,
+    "マインクラフトのようなユニークな世界観を持つ [ボンズカジノ](https://www.casinotsu.com/reviews/bons) から、**ジャパカジ様限定の大変お得なオファー** が届きました。</>,
     "ご登録いただくだけで、『**入金不要ボーナス5,000円**』をお受け取りいただけます！",
     "＼ **さらに！** 😲✨／",
     "5,000円を無料で進呈するだけでも大変豪華ですが、それだけではありません。",
@@ -95,7 +95,7 @@ export const bonsCasinoExclusive: OfferPageContent = {
       character: "casiko",
       characterName: "カジ子",
       avatarUrl: "https://img.casinotsu.com/svg/jp/mascots/happy/casiko.svg",
-      message: "ボーナスはカジノゲーム、[ライブカジノ](LINK_NEEDS_REPAIR)、スポーツベットでご利用いただけます。\nゲームによって賭け条件の消化率が異なりますので、プレイ前にボーナス利用規約ページにてご確認ください🌸</>,
+      message: "ボーナスはカジノゲーム、[ライブカジノ](https://www.casinotsu.com/live-casino)、スポーツベットでご利用いただけます。\nゲームによって賭け条件の消化率が異なりますので、プレイ前にボーナス利用規約ページにてご確認ください🌸</>,
     },
     {
       character: "cocomo",
@@ -132,7 +132,7 @@ export const bonsCasinoExclusive: OfferPageContent = {
     otherOffers: <a href="https://casinotsu.com/bonuses/welcome-bonus" target="_blank" rel="noopener noreferrer">
       {
         heading: "ウェルカムボーナスパッケージ",
-        description: "ボンズカジノでは、入金不要ボーナスに加え、初回から5回目のご入金までご利用いただける豪華な[ウェルカムボーナス](LINK_NEEDS_REPAIR)パッケージもご用意しております。</>,
+        description: "ボンズカジノでは、入金不要ボーナスに加え、初回から5回目のご入金までご利用いただける豪華な[ウェルカムボーナス](https://www.casinotsu.com/bonuses/welcome-bonus)パッケージもご用意しております。</>,
         bonuses: [
           { deposit: "初回入金", maxBonus: "最大¥5,000", percentage: "200%", wagering: "25倍" },
           { deposit: "2回目入金", maxBonus: "最大¥30,000", percentage: "100%", wagering: "15倍" },
@@ -226,7 +226,7 @@ export const bonsCasinoExclusive: OfferPageContent = {
       {
         subheading: "ボーナス活用法",
         tips: [
-          "賭け条件消化率の確認：ボーナスをご利用になる際は、各ゲームの賭け条件消化率をご確認いただき、効率的に条件をクリアできるゲームをお選びください。特に[スロット](LINK_NEEDS_REPAIR)は消化率が高い傾向にあります。</>,
+          "賭け条件消化率の確認：ボーナスをご利用になる際は、各ゲームの賭け条件消化率をご確認いただき、効率的に条件をクリアできるゲームをお選びください。特に[スロット](https://www.casinotsu.com/bonuses)は消化率が高い傾向にあります。</>,
           "ウェルカムボーナスパッケージの活用：初回入金ボーナスだけでなく、5回目までの入金ボーナスを計画的にご利用いただくことで、より多くの資金でゲームをお楽しみいただけます。",
           "VIPプログラムの活用：プレイ実績に応じてランクが上がるVIPプログラムでは、キャッシュバックやリベートボーナスなどが提供されます。これらの特典をうまく活用することで、実質的な負担を軽減できます。",
         ],
@@ -234,7 +234,7 @@ export const bonsCasinoExclusive: OfferPageContent = {
       {
         subheading: "賭け条件クリア戦略",
         tips: <a href="https://casinotsu.com/roulette" target="_blank" rel="noopener noreferrer">
-          "低リスクベット：賭け条件の消化には、ベット額を抑えつつ多くのゲームをプレイする方法や、リスクを抑えたベット戦略（例：[ルーレット](LINK_NEEDS_REPAIR)の赤黒賭けなど、ただし禁止ゲームや制限にご注意ください）が有効な場合があります。</>,
+          "低リスクベット：賭け条件の消化には、ベット額を抑えつつ多くのゲームをプレイする方法や、リスクを抑えたベット戦略（例：[ルーレット](https://www.casinotsu.com/roulette)の赤黒賭けなど、ただし禁止ゲームや制限にご注意ください）が有効な場合があります。</>,
           "フリースピンの活用：フリースピンで得た勝利金は、入金不要ボーナスよりも賭け条件が低い場合が多いです。これを活用して、効率的に資金を増やすことを目指しましょう。",
           "ボーナスの種類に応じた戦略：マッチボーナスやフリースピンなど、ボーナスの種類によって最適な戦略は異なります。利用規約をよくお読みになり、それぞれのボーナスに合ったアプローチをお取りください。",
         ],
@@ -252,7 +252,7 @@ export const bonsCasinoExclusive: OfferPageContent = {
     heading: "まとめ",
     paragraphs: [
       "ボンズカジノのジャパカジ様限定入金不要ボーナスは、**5,000円の現金ボーナス**と**人気スロット「Moon Princess」のフリースピン20回分**という、大変魅力的な組み合わせです。賭け条件も比較的緩やか（現金ボーナス40倍、フリースピン勝利金20倍）であり、出金上限額も12,000円と設定されているため、リスクを冒さずにカジノを体験したいプレイヤーや、「Moon Princess」のファンには特におすすめです。",
-      "さらに、ボンズカジノは充実した[ウェルカムボーナス](LINK_NEEDS_REPAIR)、豊富なゲームラインナップ、<a href="https://casinotsu.com/crypto" target="_blank" rel="noopener noreferrer">仮想通貨を含む多様な<a href="https://casinotsu.com/payment" target="_blank" rel="noopener noreferrer">入出金方法、そして使いやすいモバイルプラットフォームを提供しており、総合的に高い満足度が期待できるオンラインカジノです。</>,
+      "さらに、ボンズカジノは充実した[ウェルカムボーナス](https://www.casinotsu.com/reviews/bons)、豊富なゲームラインナップ、<a href="https://casinotsu.com/crypto" target="_blank" rel="noopener noreferrer">仮想通貨を含む多様な<a href="https://casinotsu.com/payment" target="_blank" rel="noopener noreferrer">入出金方法、そして使いやすいモバイルプラットフォームを提供しており、総合的に高い満足度が期待できるオンラインカジノです。</>,
     ],
     recommendedFor: [
       "リスクを冒さずにオンラインカジノを試してみたい方",
@@ -282,7 +282,7 @@ export const bonsCasinoExclusive: OfferPageContent = {
     },
     {
       question: "ボーナスはどのゲームで使えますか？",
-      answer: "入金不要ボーナスは、カジノゲーム、[ライブカジノ](LINK_NEEDS_REPAIR)、スポーツベットでご利用いただけます。ただし、ゲームによって賭け条件の消化率が異なります。フリースピンの対象ゲームは指定されております。</>,
+      answer: "入金不要ボーナスは、カジノゲーム、[ライブカジノ](https://www.casinotsu.com/live-casino)、スポーツベットでご利用いただけます。ただし、ゲームによって賭け条件の消化率が異なります。フリースピンの対象ゲームは指定されております。</>,
     },
     {
       question: "入金不要ボーナスとフリースピンは同時に使えますか？",

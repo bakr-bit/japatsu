@@ -475,7 +475,7 @@ CasinoTsu は、皆様が安全かつ責任あるギャンブルを楽しめる�
   faq: <a href="https://casinotsu.com/bonuses/no-deposit" target="_blank" rel="noopener noreferrer">
     {
       question: "オンラインカジノ無料版でも勝ったお金は現金としてもらえますか？",
-      answer: "残念ながら、無料オンラインカジノで勝った仮想マネーは、実際のお金として受け取ることはできません。無料で遊んで勝った資金を出金するには、[入金不要ボーナス](LINK_NEEDS_REPAIR)を利用する方法もございます。</>,
+      answer: "残念ながら、無料オンラインカジノで勝った仮想マネーは、実際のお金として受け取ることはできません。無料で遊んで勝った資金を出金するには、[入金不要ボーナス](https://www.casinotsu.com/bonuses/no-deposit)を利用する方法もございます。</>,
     },
     {
       question: "オンライン無料版のゲームデータは保存されますか？",

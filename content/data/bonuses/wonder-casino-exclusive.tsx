@@ -96,7 +96,7 @@ export const wonderCasinoExclusiveBonus: BonusPageContent = {
           subheading: "① CasinoTsu（カジノツウ）のリンクからワンダーカジノへアクセス！",
           paragraphs: [
             "このページにございます「CasinoTsu（カジノツウ）限定オファー」のリンクをクリックし、ワンダーカジノの公式サイトへお進みください。",
-            "![ワンダーカジノ｜アカウント登録](LINK_NEEDS_REPAIR)</>,
+            "![ワンダーカジノ｜アカウント登録](https://www.casinotsu.com/reviews/wonder-casino)</>,
           ],
         },
         {

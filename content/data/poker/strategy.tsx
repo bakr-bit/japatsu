@@ -164,7 +164,7 @@ export const pokerStrategy: PokerPageContent = {
           paragraphs: [
             "ポーカーで勝利を収めるためには、まず **ルールとその遊び方** を完全に理解することが何よりも重要です。役の種類、チップの賭け方、そして各役の強さを正確に把握しましょう。",
             "さらに、 **オッズ** （特定の役ができる確率や、ポットを獲得するために必要なベット額との比率）の概念を理解することは、より有利な判断を下すための基礎となります。",
-            "[ポーカーのルールと遊び方](LINK_NEEDS_REPAIR) をしっかりとマスターしてください。</>,
+            "[ポーカーのルールと遊び方](https://www.casinotsu.com/poker) をしっかりとマスターしてください。</>,
           ],
         },
         {
@@ -238,7 +238,7 @@ export const pokerStrategy: PokerPageContent = {
         heading: "ポーカー4種のプレイスタイル",
         paragraphs: [
           "ポーカープレイヤーは、そのプレイスタイルによって大きく4つに分類することができます。ご自身のスタイルを理解し、対戦相手のスタイルを見抜くことが重要です。",
-          "📝 **もっと細かく自分を分析！**\n[ポーカープレイスタイルを7つに分けてみた★](LINK_NEEDS_REPAIR)</>,
+          "📝 **もっと細かく自分を分析！**\n[ポーカープレイスタイルを7つに分けてみた★](https://www.casinotsu.com/poker)</>,
         ],
         playStyleTypes: [
           {
@@ -347,7 +347,7 @@ export const pokerStrategy: PokerPageContent = {
         paragraphs: [
           "**ブラフ** とは、ご自身のハンドが実際よりも強いかのように見せかけ、相手をフォールドさせるための戦略です。「ハッタリ」とも呼ばれます。",
           "ポーカーでは、相手のハンドが見えないため、ブラフが非常に有効な戦術となります。",
-          "🤩 **ブラフについてもっと知りたい！**\n[ブラフの種類や世界最高のブラフ王と言えば…！？](LINK_NEEDS_REPAIR)</>,
+          "🤩 **ブラフについてもっと知りたい！**\n[ブラフの種類や世界最高のブラフ王と言えば…！？](https://www.casinotsu.com/poker)</>,
         ],
         strategies: [
           {
@@ -376,7 +376,7 @@ export const pokerStrategy: PokerPageContent = {
         heading: "ハンドを読む（ハンドリーディング）",
         paragraphs: [
           "対戦相手のハンドを正確に読み解く「ハンドリーディング」は、ポーカーで勝利するために不可欠なスキルです。",
-          "👀 **ポーカーは心理戦！**\n[相手の仕草で敵のハンドを読むには…？！](LINK_NEEDS_REPAIR)</>,
+          "👀 **ポーカーは心理戦！**\n[相手の仕草で敵のハンドを読むには…？！](https://www.casinotsu.com/poker)</>,
         ],
         strategies: [
           {
@@ -418,7 +418,7 @@ export const pokerStrategy: PokerPageContent = {
     heading: "5つのヘッズアップ戦略",
     introduction: <a href="https://casinotsu.com/reviews/pokerstars" target="_blank" rel="noopener noreferrer">
       "ヘッズアップ（1対1）のポーカーは、通常の多人数戦とは異なるスキルと戦略が求められます。ここでは、ヘッズアップ戦で勝利するための5つの戦略を紹介します。",
-      "🔰 **ポーカースターズに登録まだの方〜！**\n[ポーカースターズのレビューページをチェック](LINK_NEEDS_REPAIR)</>,
+      "🔰 **ポーカースターズに登録まだの方〜！**\n[ポーカースターズのレビューページをチェック](https://www.casinotsu.com/poker)</>,
     ],
     strategies: [
       {
@@ -485,7 +485,7 @@ export const pokerStrategy: PokerPageContent = {
         heading: "ミスを特定する",
         paragraphs: [
           "ポーカーでのミスは、プレイ後に「あの時、こうしていれば良かった」と感じた時に見えてきます。ミスを犯したと認識したら、それは改善の第一歩です。",
-          "🤓 **テキサスホールデムを初めて最初に疑問を持つこと**\n**それは「ホールカード」についてではないですか？**\n[ホールカード（スターティングハンド）ランキング](LINK_NEEDS_REPAIR) を参考に、有利なハンドの知識を深めましょう。</>,
+          "🤓 **テキサスホールデムを初めて最初に疑問を持つこと**\n**それは「ホールカード」についてではないですか？**\n[ホールカード（スターティングハンド）ランキング](https://www.casinotsu.com/poker) を参考に、有利なハンドの知識を深めましょう。</>,
         ],
         points: [
           "プレイ後の振り返り: ゲームが終わった後、特にうまくいかなかったハンドについて、どのような判断を下したか、それが最善だったかを分析します。",
@@ -552,7 +552,7 @@ export const pokerStrategy: PokerPageContent = {
         heading: "上達の秘訣",
         paragraphs: [
           "WSOP（ポーカー世界大会）で3つのブレスレットを獲得したフィル・ガルフォンド氏は、「アクションのたびに、それは最善の決断を下す機会となる」と語っています。",
-          "😎 **ポーカースターズのボーナスを見逃すな！**\n**ボーナスコードはここでチェック👀**\n[ポーカースターズ PokerStars／徹底レビュー](LINK_NEEDS_REPAIR)</>,
+          "😎 **ポーカースターズのボーナスを見逃すな！**\n**ボーナスコードはここでチェック👀**\n[ポーカースターズ PokerStars／徹底レビュー](https://www.casinotsu.com/bonuses)</>,
         ],
         bullets: [
           "常に最善の判断を: どんな状況でも、その時点での最善のアクションを選択することを意識します。",

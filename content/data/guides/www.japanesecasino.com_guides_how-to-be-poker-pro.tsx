@@ -95,7 +95,7 @@ export const howToBePokerPro: GuidePageContent = {
       heading: "プロポーカープレイヤーになるための最初のステップ",
       content: `
 
-![プロポーカープレイヤー｜世界中のプレイヤーとプレイ](LINK_NEEDS_REPAIR)
+![プロポーカープレイヤー｜世界中のプレイヤーとプレイ](https://www.casinotsu.com/poker)
 
 
 まずは、 **初心者からプロを目指すための最初のステップ** として、注意すべき基礎中の基礎を学んでいきましょう。

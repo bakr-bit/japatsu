@@ -103,7 +103,7 @@ export const goldenWeekBonuses: BonusPageContent = {
       heading: "1. パリマッチ｜ゴールデンウィーク限定イベント！🎉",
       description: [
         "カジノゲームもスポーツベットも楽しめるユニークなオンラインカジノ『**パリマッチ**』。ゴールデンウィーク特別キャンペーンでは、高還元率の入金ボーナスや無料で参加できるラッキールーレットなど、魅力的なイベントが目白押しでした😍🌟",
-        "#### ① パリマッチ｜ 111％ライブカジノボーナス（4月27日～4月30日）※期間終了\n\n![オンラインカジノゴールデンウィークキャンペーン2025年｜パリマッチ 111％ライブカジノボーナス](LINK_NEEDS_REPAIR)\n\nパリマッチでは、**還元率111%のライブカジノ専用入金ボーナス**が提供されました🎉。30ドル以上の入金で、最大300ドルのボーナスを獲得できるビッグオファーでした🥳。\n\n**【開催期間】**※期間終了\n2025年4月27日（日） ～ 4月30日（水）23:59（日本時間）\n\n**【参加方法】**\n1.  期間中にプロモページから「**参加**」をクリック。\n2.  期間中に30ドル以上を入金。\n3.  還元率111％のライブカジノ専用ボーナスを獲得。\n\nカジ子：ボーナスの賭け条件は35倍、最大ボーナス獲得額は300ドルでした！</>,
+        "#### ① パリマッチ｜ 111％ライブカジノボーナス（4月27日～4月30日）※期間終了\n\n![オンラインカジノゴールデンウィークキャンペーン2025年｜パリマッチ 111％ライブカジノボーナス](https://www.casinotsu.com/bonuses)\n\nパリマッチでは、**還元率111%のライブカジノ専用入金ボーナス**が提供されました🎉。30ドル以上の入金で、最大300ドルのボーナスを獲得できるビッグオファーでした🥳。\n\n**【開催期間】**※期間終了\n2025年4月27日（日） ～ 4月30日（水）23:59（日本時間）\n\n**【参加方法】**\n1.  期間中にプロモページから「**参加**」をクリック。\n2.  期間中に30ドル以上を入金。\n3.  還元率111％のライブカジノ専用ボーナスを獲得。\n\nカジ子：ボーナスの賭け条件は35倍、最大ボーナス獲得額は300ドルでした！</>,
         <>#### ② パリマッチ｜ゴールデンウィーク大感謝ラッキールーレット（4月29日～5月6日）\n\n!<a href="https://casinotsu.com/images/parimatch-GW-offer2-1.jpg" target="_blank" rel="noopener noreferrer">オンラインカジノゴールデンウィークキャンペーン2025年｜パリマッチ ラッキールーレット\n\nさらに、パリマッチでは豪華な<a href="https://casinotsu.com/free-spins" target="_blank" rel="noopener noreferrer">フリースピンやボーナスがもらえる『**ゴールデンウィーク大感謝ラッキールーレット**』も開催されました。こちらは**入金不要で参加できる**イベントでした💪✨。\n\n**ラッキールーレットの当選プライズ例：**\n*   100回フリースピン\n*   50%ライブカジノ入金ボーナス\n*   75%ライブカジノ入金ボーナス\n*   100%スロット入金ボーナス\n*   20ドル/3,000円分のライブカジノボーナス\n*   25ドル/3,750円分のスロットボーナス\n*   10ドル/1,500円分のスロットボーナス\n\n**【開催期間】**\n2025年4月29日（火） ～ 5月6日（火）23:59（日本時間）\n\n**【参加方法】**\n1.  プロモ期間中にプロモページからラッキールーレットオファーを選択し、**有効化** する。\n2.  ラッキールーレットをスピンして賞品を獲得🎯\n\nサポ美：ラッキールーレットで獲得したボーナスの賭け条件は35倍、最大ボーナス獲得額は100ドルまででした！\n\nココモ：無料で豪華な賞品がもらえるチャンス！これは参加しなきゃ損ですよねー♪\n\nパリマッチでは、スポーツベット専用のゴールデンウィーク特別企画なども用意されていました。</>,
         <>パリマッチでは、ゴールデンウィーク特別キャンペーン以外にも、豪華な<a href="https://casinotsu.com/bonuses/welcome-bonus" target="_blank" rel="noopener noreferrer">ウェルカムボーナスも用意されています。登録がお済みでない方は、ぜひこちらもチェックしてみてください😎🔥👇\n\n**🌟詳しい3種類のウェルカムボーナス詳細については**\n<a href="https://casinotsu.com/reviews/parimatch" target="_blank" rel="noopener noreferrer">パリマッチのオファー 詳細ページをチェック✅</>,
       ],
@@ -119,7 +119,7 @@ export const goldenWeekBonuses: BonusPageContent = {
       heading: "2. コニベット｜ゴールデンウィーク特大キャンペーン👑",
       description: [
         "
-![オンラインカジノゴールデンウィークキャンペーン2025年｜コニベットのゴールデンウィーク特大キャンペーン](LINK_NEEDS_REPAIR)
+![オンラインカジノゴールデンウィークキャンペーン2025年｜コニベットのゴールデンウィーク特大キャンペーン](https://www.casinotsu.com/reviews/konibet)
 \nコニベットのゴールデンウィークキャンペーンは、スポーツベットのイベントが特に充実していました。世界中が注目する大谷翔平選手のホームランイベントや、RIZINのタイトルマッチ限定キャンペーンなど、スポーツファンには見逃せない内容でした😎💪🔥</>,
         <>#### ① コニベで応援！大谷翔平選手のホームランで稼ごう！キャンペーン（4月26日～5月6日）\n
 !<a href="https://casinotsu.com/images/konibet-GW-offer-otani-shohei.jpg" target="_blank" rel="noopener noreferrer">オンラインカジノゴールデンウィークキャンペーン2025年｜大谷正平ホームランキャンペーン
@@ -141,7 +141,7 @@ export const goldenWeekBonuses: BonusPageContent = {
       heading: "3. ベラジョンカジノ｜ゴールデンウィーク特別セール💰（4月26日～5月1日）※期間終了",
       description: [
         "
-![オンラインカジノゴールデンウィークキャンペーン2025年｜ベラジョンカジノのゴールデンウィークセール](LINK_NEEDS_REPAIR)
+![オンラインカジノゴールデンウィークキャンペーン2025年｜ベラジョンカジノのゴールデンウィークセール](https://www.casinotsu.com/reviews/vera-john)
 \nオンラインカジノで人気の**ベラジョンカジノ**でも、ゴールデンウィークスペシャルイベントとして**お得なセールが開催**されました🤩。\n\nベラジョンカジノの「ご褒美ショップ」で開催された**ゴールデンウィーク特別セール**では、期間限定で人気スロットのフリースピンを**最大70％割引**で購入可能でした。\n\n**【開催期間】**※期間終了\n2025年4月26日（土） ～ 5月1日（木）\n\n**【参加方法】**\n1.  メニューから「ご褒美ショップ」を選択✅\n2.  コインを「使う」「貯める」を選択し、ゲームをプレイしてコインを貯める。\n3.  コインが貯まったら、「コインを使う」を選択して、希望のアイテムを購入する！\n\nサポ美：ベラジョンカジノの「ご褒美ショップ」とは、リアルマネーでゲームをプレイした際に貰える「コイン」を利用してフリースピンやお買い物ができるショップのことです。\n\nカジ子：このベラジョンカジノの「ご褒美ショップ」は、ショップで使えるコインが早く貯まる「コイン割り増しゲーム」がいつでも遊べたり、「ベラガチャ」獲得チャンスが増えたりと、プレイヤーに嬉しいアップデートがありました。</>,
         <>ベラジョンカジノに新規登録する方は、CasinoTsu限定の<a href="https://casinotsu.com/bonuses/no-deposit" target="_blank" rel="noopener noreferrer"><strong>入金不要ボーナス</strong>も獲得できます👇。\n\n**📢 業界人気No1カジノ！** <a href="https://casinotsu.com/reviews/vera-john" target="_blank" rel="noopener noreferrer">ベラジョンカジノの銀行送金 についてはこちら★</>,
       ],
@@ -157,7 +157,7 @@ export const goldenWeekBonuses: BonusPageContent = {
       heading: "4. クイーンカジノ｜ゴールデンウィーク・エアドロップ祭り！（4月26日～5月6日）",
       description: [
         "
-![オンラインカジノゴールデンウィークキャンペーン2025年｜クイーンカジノ・エアドロップ祭り](LINK_NEEDS_REPAIR)
+![オンラインカジノゴールデンウィークキャンペーン2025年｜クイーンカジノ・エアドロップ祭り](https://www.casinotsu.com/offers)
 \n<a href="https://casinotsu.com/guides/pachinko" target="_blank" rel="noopener noreferrer">パチンコ・パチスロ も遊べる人気のカジノ、**クイーンカジノ**のゴールデンウィークイベントは、**総額300万円！** 毎日チャレンジできる『**エアドロップ祭り**』でした🎏🌟。\n\n**入金するだけで毎日参加可能**で、当選プライズには**特賞としてiPhone16**も含まれていました😲💖。\n\n**エアドロップ祭りの当選プライズ詳細：**\n*   **特賞**：iPhone16\n*   **A賞**：ハッピーセット(カタログギフト・クエスト25USDT ・ボーナス25USDT・無料スピン30回) or キャッシュ150USDT\n*   **B賞**：Amazonギフト券 10,000円 or お肉ギフトカード10,000円 or キャッシュ70USDT\n*   **C賞**：お米券 5,000円 or Uberギフトカード5,000円 or キャッシュ30USDT\n*   **D賞**：無料スピン 10回分\n\n**【開催期間】**\n2025年4月26日（土） ～ 5月6日（火）23:59（日本時間）\n\n**【参加方法】**\n1.  期間中に仮想通貨、日本円、ドルで**1万円以上**入金する。\n2.  当選者には翌日サイト上で通知。\n3.  通知を確認したらチャットサポートで、ゴールデンウィークエアドロップに当選したことを連絡。\n4.  翌日19時までにエアドロップの賞品が進呈（金曜日、土曜日、日曜日分については翌週の月曜日に進呈）。\n\nカジ子：当選ランクは前日の入金金額によって変動しました。\n*   特賞 : 前日の入金合計が30万円以上\n*   A賞：前日の入金合計が10万円以上\n*   B賞：前日の入金合計が5万円以上\n*   C賞：前日の入金合計が3万円以上\n*   D賞：前日の入金合計が1万円以上\n\nココモ：当選の通知から30分以内にカスタマーサポートに連絡しないと、進呈対象外となる場合があったので注意が必要でした。</>,
         <>クイーンカジノは登録時に**特大入金不要ボーナス**が利用可能です。\n\n**🎁ボーナス最大88USDTとフリースピン最大88回をゲット♪**\n<a href="https://casinotsu.com/offers/shinqueen-no-deposit-bonus" target="_blank" rel="noopener noreferrer">クイーンカジノのオファー 詳細と貰い方をチェック</>,
       ],
@@ -173,7 +173,7 @@ export const goldenWeekBonuses: BonusPageContent = {
       heading: "5. ウィンズアイオー｜ゴールデンウィーク特別キャンペーン（4月29日～5月6日）",
       description: [
         "
-![オンラインカジノゴールデンウィークキャンペーン2025年｜ウィンズアイオー・ゴールデンウィーク特別キャンペーン](LINK_NEEDS_REPAIR)
+![オンラインカジノゴールデンウィークキャンペーン2025年｜ウィンズアイオー・ゴールデンウィーク特別キャンペーン](https://www.casinotsu.com/offers)
 \n2024年4月に5周年を迎えた**ウィンズアイオー**でも、ゴールデンウィークに特別なキャンペーンが実施されましたᕦ(ò_óˇ)ᕤ🌟。\n\n**ゴールデンウィーク特別キャンペーン**では、一定額を入金しボーナスコードを入力することで、**毎日100回分のフリースピン**が獲得できました🤩。連休中は**最大800回分獲得可能**でした🥳🎰。\n\n**【開催期間】**\n2025年4月29日（火） ～ 5月6日（火）23:59（協定世界時）\n※日本時間の場合、**5月7日(水) 08:59** まで\n\n**【参加方法】**\n1.  入金時にボーナスコード **GOLDEN** を使用し、**8,000円以上**（または50ドル・0.0006BTC相当）を入金する。\n2.  期間中にプレイ可能な100スピンをGET！\n\nオカ教授：この入金フリースピンは、期間中毎日獲得可能でしたが、各日のフリースピンは日本時間で翌日の午前9時までに受け取らないと無効になる場合がありました。</>,
         <>ウィンズアイオーでは、**賭け条件なしのウェルカムボーナス**も用意されています。\n\n**💫日本円も使える仮想通貨カジノ！**\n<a href="https://casinotsu.com/reviews/winz-io" target="_blank" rel="noopener noreferrer">ウインズアイオーのレビュー はこちら★</>,
       ],
@@ -187,7 +187,7 @@ export const goldenWeekBonuses: BonusPageContent = {
   bonusTypeCategories: <a href="https://casinotsu.com/free-spins" target="_blank" rel="noopener noreferrer">
     {
       title: "① ゴールデンウィークオファー｜フリースピン",
-      description: "入金ボーナスやトーナメント賞品として、あるいはログイン特典として提供される**豪華なフリースピン**は人気のオファーの一つです🎰✨。カジノによっては、**入金不要で獲得できる限定フリースピン**もあります。スロットプレイヤーを中心に幅広く人気があります😘。\n\n🆓 **入金不要！登録するだけ！請求するだけ！**\nお得な[フリースピン](LINK_NEEDS_REPAIR)集はこちら★</>,
+      description: "入金ボーナスやトーナメント賞品として、あるいはログイン特典として提供される**豪華なフリースピン**は人気のオファーの一つです🎰✨。カジノによっては、**入金不要で獲得できる限定フリースピン**もあります。スロットプレイヤーを中心に幅広く人気があります😘。\n\n🆓 **入金不要！登録するだけ！請求するだけ！**\nお得な[フリースピン](https://www.casinotsu.com/free-spins)集はこちら★</>,
       casinos: [],
     },
     {
@@ -302,7 +302,7 @@ export const goldenWeekBonuses: BonusPageContent = {
           paragraphs: [
             "オンラインカジノの**ゴールデンウィークキャンペーンと、他のボーナスオファーを比較**した場合、どのような違いがあるのでしょうか？事前にその違いを理解しておくことで、あなたにぴったりの限定キャンペーンを見つけやすくなります✅。",
             "| ゴールデンウィーク限定オファー | その他のカジノボーナス |\n| :--- | :--- |\n| **日本人プレイヤー限定のボーナスやキャンペーン** ❗<br>（賞金獲得のチャンスもアップ⤴⤴） | ウェルカムボーナスなど **豪華なものから少額のものまで様々** |\n| **賭け条件が低め** に設定されているものが多数 | **長期的にそのカジノで遊びながら獲得** できる |\n| **期間限定オファー** | リベートボーナスなど **入金時やベットする毎に貰える** ものもある |\n| **大型賞金や景品** が用意されているものが多数 | **幅広いゲーム** で遊べる |",
-            "オカ教授：💡 **GW期間は決済方法に注意**！\n\n**国内銀行振込は、土日・祝日がお休みになる**ため、入出金で着金が休み明けになることがあります。入金はクレジットカード（**[VISA](LINK_NEEDS_REPAIR)**、 <strong><a href="https://casinotsu.com/payment/mastercard" target="_blank" rel="noopener noreferrer">Mastercard</strong>、 <strong><a href="https://casinotsu.com/payment/jcb" target="_blank" rel="noopener noreferrer">JCB</strong>）や、eウォレット（ <strong><a href="https://casinotsu.com/payment/payz" target="_blank" rel="noopener noreferrer">Payz</strong>、 <strong><a href="https://casinotsu.com/payment/venuspoint" target="_blank" rel="noopener noreferrer">VenusPoint</strong>、 <strong><a href="https://casinotsu.com/payment/muchbetter" target="_blank" rel="noopener noreferrer">Muchbetter</strong>）、または**仮想通貨**を利用するのがおすすめです。</>,
+            "オカ教授：💡 **GW期間は決済方法に注意**！\n\n**国内銀行振込は、土日・祝日がお休みになる**ため、入出金で着金が休み明けになることがあります。入金はクレジットカード（**[VISA](https://www.casinotsu.com/bonuses/welcome-bonus)**、 <strong><a href="https://casinotsu.com/payment/mastercard" target="_blank" rel="noopener noreferrer">Mastercard</strong>、 <strong><a href="https://casinotsu.com/payment/jcb" target="_blank" rel="noopener noreferrer">JCB</strong>）や、eウォレット（ <strong><a href="https://casinotsu.com/payment/payz" target="_blank" rel="noopener noreferrer">Payz</strong>、 <strong><a href="https://casinotsu.com/payment/venuspoint" target="_blank" rel="noopener noreferrer">VenusPoint</strong>、 <strong><a href="https://casinotsu.com/payment/muchbetter" target="_blank" rel="noopener noreferrer">Muchbetter</strong>）、または**仮想通貨**を利用するのがおすすめです。</>,
           ],
         },
       ],
