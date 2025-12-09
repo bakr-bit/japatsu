@@ -23,7 +23,7 @@ export const flushCasinoWelcomeBonus: BonusPageContent = {
   bonusTypeCategories: [
     {
       title: "最大200%🌟初回入金ボーナス最大2,000ドルの詳細",
-      description: "CasinoTsuファミリーに新たに加わった、仮想通貨対応オンラインカジノ「 **<a href="https://casinotsu.com/reviews/flush" target="_blank" rel="noopener noreferrer">フラッシュカジノ</a>**」👏\n\n**<a href="https://casinotsu.com/slots" target="_blank" rel="noopener noreferrer">オンラインスロット は5,000種類以上**、さらに **<a href="https://casinotsu.com/guides/casino-original-games" target="_blank" rel="noopener noreferrer">オリジナルゲーム も13種類** を誇る、その豊富なラインナップにご注目ください✨\n\nそんなフラッシュカジノから、なんと **最大200%**、そして **最大2,000ドル** もの初回入金ボーナスが進呈されます🔥\n\n💡ちなみに…\n\n入金額によって、ボーナス還元率や賭け条件消化時の最低ベット額が異なりますので、詳細をしっかりとご確認ください👇\n\n*   **ティア01:** **10ドル～200ドル未満** の初回入金で、 **100%ボーナス（最大200ドル**）が付与されます。\n*   **ティア02:** **200ドル〜1,000ドル** の初回入金で、 **150%ボーナス**（ **最大1,500ドル**）が付与されます。\n\nカジ子: 200ドル以上入金すれば、より高いレートでお得なボーナスがもらえるのですね～♪\n\n**🤘オリジナルゲームやゲーム数が豊富な新しい仮想通貨カジノ**\n\n<a href="https://casinotsu.com/reviews/flush" target="_blank" rel="noopener noreferrer">フラッシュカジノ（Flush）をレビューページでチェック ♪",
+      description: "CasinoTsuファミリーに新たに加わった、仮想通貨対応オンラインカジノ「 **[フラッシュカジノ](https://casinotsu.com/reviews/flush)**」👏\n\n**[オンラインスロット は5](https://casinotsu.com/slots),000種類以上**、さらに **[オリジナルゲーム も13種類** を誇る、その豊富なラインナップにご注目ください✨\n\nそんなフラッシュカジノから、なんと **最大200%**、そして **最大2,000ドル** もの初回入金ボーナスが進呈されます🔥\n\n💡ちなみに…\n\n入金額によって、ボーナス還元率や賭け条件消化時の最低ベット額が異なりますので、詳細をしっかりとご確認ください👇\n\n*   **ティア01:** **10ドル～200ドル未満** の初回入金で、 **100%ボーナス（最大200ドル**）が付与されます。\n*   **ティア02:** **200ドル〜1,000ドル** の初回入金で、 **150%ボーナス**（ **最大1](https://casinotsu.com/guides/casino-original-games),500ドル**）が付与されます。\n\nカジ子: 200ドル以上入金すれば、より高いレートでお得なボーナスがもらえるのですね～♪\n\n**🤘オリジナルゲームやゲーム数が豊富な新しい仮想通貨カジノ**\n\n[フラッシュカジノ（Flush）をレビューページでチェック ♪](https://casinotsu.com/reviews/flush)",
       table: {
         columns: ["項目", "ティア01", "ティア02"],
         rows: [
@@ -39,7 +39,7 @@ export const flushCasinoWelcomeBonus: BonusPageContent = {
     },
     {
         title: "【初回入金ボーナスの利用規約】",
-        description: "*   初回入金ボーナス：最大1,500ドル (※CasinoTsu限定オファー)\n*   **Tier01：10ドル〜200ドル未満**\n    *   ボーナス還元率：100%\n    *   賭け条件30倍（入金額＋ボーナス額）\n*   **Tier02：200ドル〜1,000ドル**\n    *   ボーナス還元率：150%\n    *   賭け条件35倍（入金額＋ボーナス額）\n*   賭け条件を消化する際の最高ベット額は、5ドルです（Tier01・02共通）。\n*   **賭け条件消化率**:\n    *   スロット：100%\n    *   ライブカジノ：0%\n    *   オリジナルゲーム：5% (※)\n    *   テーブルゲーム：0%\n    *   ボーナス購入機能：利用可能ですが、購入額が5ドルを超える場合、その購入額は賭け条件の消化にカウントされません。\n*   **禁止ゲームあり**: 禁止ゲームでのプレイは、ボーナスおよび入金額の没収につながる可能性があります。\n*   有効期限：30日間\n*   初回入金のみ対象です。2回目以降の入金には適用されません。\n*   入金が確認され次第、ボーナスがアカウントに追加されます。\n*   フラッシュカジノのボーナス規約が適用されます。\n\nココモ: 🔥注意点\n禁止ゲームで誤ってプレイされた場合、ボーナスだけでなく、入金額もすべて没収される可能性があります！ゲームをプレイする前には、必ずそのゲームが禁止ゲームではないかご確認ください🚨\n\n**😎仮想通貨に興味があるあなたに！**\n<a href="https://casinotsu.com/crypto" target="_blank" rel="noopener noreferrer">オンカジで仮想通貨を使って遊ぶやり方 を徹底解説！",
+        description: "*   初回入金ボーナス：最大1,500ドル (※CasinoTsu限定オファー)\n*   **Tier01：10ドル〜200ドル未満**\n    *   ボーナス還元率：100%\n    *   賭け条件30倍（入金額＋ボーナス額）\n*   **Tier02：200ドル〜1,000ドル**\n    *   ボーナス還元率：150%\n    *   賭け条件35倍（入金額＋ボーナス額）\n*   賭け条件を消化する際の最高ベット額は、5ドルです（Tier01・02共通）。\n*   **賭け条件消化率**:\n    *   スロット：100%\n    *   ライブカジノ：0%\n    *   オリジナルゲーム：5% (※)\n    *   テーブルゲーム：0%\n    *   ボーナス購入機能：利用可能ですが、購入額が5ドルを超える場合、その購入額は賭け条件の消化にカウントされません。\n*   **禁止ゲームあり**: 禁止ゲームでのプレイは、ボーナスおよび入金額の没収につながる可能性があります。\n*   有効期限：30日間\n*   初回入金のみ対象です。2回目以降の入金には適用されません。\n*   入金が確認され次第、ボーナスがアカウントに追加されます。\n*   フラッシュカジノのボーナス規約が適用されます。\n\nココモ: 🔥注意点\n禁止ゲームで誤ってプレイされた場合、ボーナスだけでなく、入金額もすべて没収される可能性があります！ゲームをプレイする前には、必ずそのゲームが禁止ゲームではないかご確認ください🚨\n\n**😎仮想通貨に興味があるあなたに！**\n[オンカジで仮想通貨を使って遊ぶやり方 を徹底解説！](https://casinotsu.com/crypto)",
     },
   ],
 
@@ -51,26 +51,26 @@ export const flushCasinoWelcomeBonus: BonusPageContent = {
         "① まずは、CasinoTsu経由でフラッシュカジノの登録ページへアクセスしてください。",
         "② 登録フォームに必要事項をご入力ください。\n\n
 ![フラッシュカジノ｜ボーナス獲得方法](https://www.casinotsu.com/bonuses)
-\n\n「レジスター」（登録）ページを開きましたら、 **任意のユーザー名**、 **メールアドレス**、 **任意のパスワード** をご入力ください。\n<a href="https://casinotsu.com/about/cookie-policy" target="_blank" rel="noopener noreferrer">クッキーポリシー、<a href="https://casinotsu.com/about/privacy-policy" target="_blank" rel="noopener noreferrer">プライバシーポリシー、利用規約への同意に **チェック** ✅ を入れ、「 **今すぐプレイ**」をクリックして登録を完了させてください💪",
+\n\n「レジスター」（登録）ページを開きましたら、 **任意のユーザー名**、 **メールアドレス**、 **任意のパスワード** をご入力ください。\n[クッキーポリシー、[プライバシーポリシー、利用規約への同意に **チェック** ✅ を入れ、「 **今すぐプレイ**」をクリックして登録を完了させてください💪](https://casinotsu.com/about/privacy-policy)](https://casinotsu.com/about/cookie-policy)",
         <>③ ログイン後、初回入金ボーナスページ（または「ポートフォリオ」＞「ボーナス」）から、ボーナスの有効化手続きを行ってください。\n\n
-!<a href="https://casinotsu.com/images/flush-welcome-offer-how-to-get3.jpg" target="_blank" rel="noopener noreferrer">フラッシュカジノ｜ボーナス獲得方法3
-\n\nもしくは、このページの「 **始める**」ボタンからアクセスし、「 **はい**」を選択して「 **送信**」をクリックしてください。",
+![フラッシュカジノ｜ボーナス獲得方法3
+\n\nもしくは、このページの「 **始める**」ボタンからアクセスし、「 **はい**」を選択して「 **送信**」をクリックしてください。](https://casinotsu.com/images/flush-welcome-offer-how-to-get3.jpg)",
         <>
-!<a href="https://casinotsu.com/images/flush-welcome-offer-how-to-get5.jpg" target="_blank" rel="noopener noreferrer">フラッシュカジノ｜ボーナス獲得方法5
-",
+![フラッシュカジノ｜ボーナス獲得方法5
+](https://casinotsu.com/images/flush-welcome-offer-how-to-get5.jpg)",
         "④ ボーナスを有効化するページが表示されますので、「 **はい**」を選択して「 **送信**」をクリックしてください。",
         "⑤ 最後に、入金ページより初回入金を完了していただければ、自動的に初回入金ボーナスがアカウントに反映されます🔥",
         "ボーナスを受け取ったら、さっそくスロットやオリジナルゲームでプレイをお楽しみください💕😆",
-        <>オカ教授: フラッシュカジノの公式サイトでは『最大200%の入金ボーナス』の情報が直接表示されないため、疑問に思われる方もいらっしゃるかもしれません。\nしかし、このプロモーションは、CasinoTsuのこのページ、または『 <a href="https://casinotsu.com/reviews/flush" target="_blank" rel="noopener noreferrer"><strong>フラッシュカジノのレビューページ</strong>』にあるリンクからご登録いただくことで適用される『㊙限定ボーナス』でございます。どうぞご安心の上、ご登録と入金ボーナスのお受け取りをお済ませくださいませ。",
+        <>オカ教授: フラッシュカジノの公式サイトでは『最大200%の入金ボーナス』の情報が直接表示されないため、疑問に思われる方もいらっしゃるかもしれません。\nしかし、このプロモーションは、CasinoTsuのこのページ、または『 [](https://casinotsu.com/reviews/flush)<strong>フラッシュカジノのレビューページ</strong>』にあるリンクからご登録いただくことで適用される『㊙限定ボーナス』でございます。どうぞご安心の上、ご登録と入金ボーナスのお受け取りをお済ませくださいませ。",
       ],
     },
     {
       heading: "初回入金ボーナスでお得にフラッシュ♪",
       paragraphs: [
         "**[仮想通貨カジノ](https://www.casinotsu.com/crypto)** は、少し難しそう…と感じられるかもしれませんが、\nフラッシュカジノでは、入金方法として **アップルペイ** や **グーグルペイ**、 **クレジットカード** から **仮想通貨** を購入して開始することも可能です♪",
-        <>今回の初回入金ボーナス以外にも、 **ポイントがリセットされない <a href="https://casinotsu.com/bonuses/vip" target="_blank" rel="noopener noreferrer">VIPプログラム** や、 **豊富なゲーム数、そしてオリジナルゲーム** など、お得で楽しい要素が満載です🤩",
+        "今回の初回入金ボーナス以外にも、 **ポイントがリセットされない [VIPプログラム** や、 **豊富なゲーム数、そしてオリジナルゲーム** など、お得で楽しい要素が満載です🤩](https://casinotsu.com/bonuses/vip)",
         "きっと、長くお楽しみいただけるカジノとなるはずです🎰 どうぞお見逃しなく~\\(≧▽≦)/~",
-        <>**💰いつかはもらいたい豪華なVIPボーナスの正体とは？**\n<a href="https://casinotsu.com/bonuses/vip" target="_blank" rel="noopener noreferrer">一番お得な好待遇カジノのVIPボーナスをまとめて一挙公開！",
+        "**💰いつかはもらいたい豪華なVIPボーナスの正体とは？**\n[一番お得な好待遇カジノのVIPボーナスをまとめて一挙公開！](https://casinotsu.com/bonuses/vip)",
       ],
     },
     {
@@ -114,7 +114,7 @@ export const flushCasinoWelcomeBonus: BonusPageContent = {
       paragraphs: [
         "フラッシュカジノでは、5,000種類以上の豊富なゲームを取り揃えています。",
         "*   **スロット:** 5,000種類以上",
-        "*   **ライブカジノ:** Evolution Gaming、Pragmatic Play Liveなどの人気プロバイダーによる、[ブラックジャック](https://www.casinotsu.com/blackjack)、<a href="https://casinotsu.com/roulette" target="_blank" rel="noopener noreferrer">ルーレット、<a href="https://casinotsu.com/baccarat" target="_blank" rel="noopener noreferrer">バカラなどを楽しめます。",
+        "*   **ライブカジノ:** Evolution Gaming、Pragmatic Play Liveなどの人気プロバイダーによる、[ブラックジャック](https://www.casinotsu.com/blackjack)、[ルーレット、[バカラなどを楽しめます。](https://casinotsu.com/baccarat)](https://casinotsu.com/roulette)",
         "*   **テーブルゲーム:** クラシックなブラックジャックやルーレット、ビデオポーカーなどがプレイ可能です。",
         "*   **オリジナルゲーム:** Dice, Crash, Mines, Plinko, Limboなど、フラッシュカジノ独自のユニークなゲームが13種類以上あります。",
       ],
@@ -229,11 +229,11 @@ export const flushCasinoWelcomeBonus: BonusPageContent = {
         paragraphs: [
             <>**ライター**
 
-<a href="https://casinotsu.com/authors/kotone" target="_blank" rel="noopener noreferrer">
-<img src="https://casinotsu.com/images/authors/kotone.jpg" alt="Kotone" />
+[
+](https://casinotsu.com/authors/kotone)<img src="https://casinotsu.com/images/authors/kotone.jpg" alt="Kotone" />
 </a>
 
-<a href="https://casinotsu.com/authors/kotone" target="_blank" rel="noopener noreferrer">Kotone</a>\n琴音\nコンテンツライター\n\n海外のランドカジノで約16年前に初めてカジノを体験。その後、オンラインカジノオペレーター企業でコンテンツマネージャーとしてサイト運営・マーケティングなどを約3年ほど携わる。 海外在住歴約17年のグローバルな経験や幅広いサイト管理の経験から、オンラインカジノ業界の最新情報やトレンドをリサーチしたり、各カジノを鋭くレビューするのを得意にしています！現在はジャパカジでカジノレビューや主要ページの校正や編集を担当。ユーザー目線の情報をいち早くお届けできるよう頑張ります✨",
+[Kotone](https://casinotsu.com/authors/kotone)\n琴音\nコンテンツライター\n\n海外のランドカジノで約16年前に初めてカジノを体験。その後、オンラインカジノオペレーター企業でコンテンツマネージャーとしてサイト運営・マーケティングなどを約3年ほど携わる。 海外在住歴約17年のグローバルな経験や幅広いサイト管理の経験から、オンラインカジノ業界の最新情報やトレンドをリサーチしたり、各カジノを鋭くレビューするのを得意にしています！現在はジャパカジでカジノレビューや主要ページの校正や編集を担当。ユーザー目線の情報をいち早くお届けできるよう頑張ります✨",
         ]
     },
     {

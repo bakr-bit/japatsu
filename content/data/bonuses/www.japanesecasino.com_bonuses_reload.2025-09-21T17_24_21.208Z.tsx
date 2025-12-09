@@ -51,8 +51,8 @@ export const reloadBonuses: BonusPageContent = {
       table: {
         columns: ["カジノ", "オファー", "賭け条件"],
         rows: [
-          ["<a href="https://casinotsu.com/reviews/shuffle" target="_blank" rel="noopener noreferrer">シャッフルカジノ（Shuffle）</a></>, "・賭け金と利益に基づいてボーナスを付与\n・毎日申請可能　（1日に最大3回まで）　\n・VIPプログラムのランクによってボーナスの詳細は異なる。", "無し"],
-          <a href="https://casinotsu.com/reviews/stake" target="_blank" rel="noopener noreferrer">"<a href="https://casinotsu.com/reviews/stake" target="_blank" rel="noopener noreferrer">ステークカジノ（Stake）</a></>, "・賭け金に基づいてボーナスを付与\n・毎日申請可能\n・VIPプログラムのランクによってボーナスの詳細は異なる。\n【VIPレベルプラチナのプレイヤーが対象】", "無し"],
+          ["[シャッフルカジノ（Shuffle）](https://casinotsu.com/reviews/shuffle)</>, "・賭け金と利益に基づいてボーナスを付与\n・毎日申請可能　（1日に最大3回まで）　\n・VIPプログラムのランクによってボーナスの詳細は異なる。", "無し"],
+          [](https://casinotsu.com/reviews/stake)"[ステークカジノ（Stake）](https://casinotsu.com/reviews/stake)</>, "・賭け金に基づいてボーナスを付与\n・毎日申請可能\n・VIPプログラムのランクによってボーナスの詳細は異なる。\n【VIPレベルプラチナのプレイヤーが対象】", "無し"],
         ],
       },
     },
@@ -122,7 +122,7 @@ export const reloadBonuses: BonusPageContent = {
         "例えば、毎週決まった曜日に入金するとボーナスがもらえたり、期間限定のプロモーションとして提供されていたりもいたします🔥😎✨",
         "教授",
         "カジノによっては、「リロードボーナス」という名称でなくとも、入金時に付与されるボーナスが実質的にリロードボーナスとなっている場合もございます。また、ボーナスマネーだけでなく、フリースピンなどの形で提供されるリロードボーナスも存在いたします。オンラインカジノのプロモーションページはこまめにチェックするのがおすすめです！",
-        <>**💰新規登録時の強い味方といえば！これでカジノを選ぶのもあり？！**\n<a href="https://casinotsu.com/bonuses/welcome-bonus" target="_blank" rel="noopener noreferrer">初回入金ボーナスの最新ランキング や、出金までの流れを見てみましょう！",
+        "**💰新規登録時の強い味方といえば！これでカジノを選ぶのもあり？！**\n[初回入金ボーナスの最新ランキング や、出金までの流れを見てみましょう！](https://casinotsu.com/bonuses/welcome-bonus)",
       ],
     },
     {
@@ -206,7 +206,7 @@ export const reloadBonuses: BonusPageContent = {
             "リロードボーナスを請求する条件として、 **入金方法が指定されている** 場合がございます💰",
             "特に、最近は手数料が少なく、プライベートな送金が可能な仮想通貨での入金をおすすめしているオンラインカジノが多く、仮想通貨で入金するだけで通常よりもお得なボーナスがもらえることもございます(\\*✧×✧\\*)",
             "**🤩クリプトユーザーは必見！(ﾉ◕ヮ◕)ﾉ**\n[仮想通貨入金限定でもらえるカジノボーナス](https://www.casinotsu.com/bonuses) を大公開",
-            <>**🇯🇵 日本市場に特化した入出金方法も！**\nJeton、Vega Wallet、Payz、MuchBetterといった、日本人プレイヤーに人気の決済サービスに対応しているカジノも増えています。また、<a href="https://casinotsu.com/payment/apple-pay" target="_blank" rel="noopener noreferrer">Apple Pay や <a href="https://casinotsu.com/payment/google-pay" target="_blank" rel="noopener noreferrer">Google Pay を利用できるカジノもあり、より手軽に入金できるようになっています。一部のカジノでは日本円でのプレイも可能なので、通貨換算の手数料を気にせず遊べるのも嬉しいポイントです。",
+            <>**🇯🇵 日本市場に特化した入出金方法も！**\nJeton、Vega Wallet、Payz、MuchBetterといった、日本人プレイヤーに人気の決済サービスに対応しているカジノも増えています。また、[Apple Pay や [Google Pay を利用できるカジノもあり、より手軽に入金できるようになっています。一部のカジノでは日本円でのプレイも可能なので、通貨換算の手数料を気にせず遊べるのも嬉しいポイントです。](https://casinotsu.com/payment/google-pay)](https://casinotsu.com/payment/apple-pay)",
           ],
         },
       ],
@@ -225,7 +225,7 @@ export const reloadBonuses: BonusPageContent = {
             "VPNを利用することで、IPアドレスが隠蔽され、より安全にアクセスすることが可能です。",
             "オンラインカジノをプレイする際には、各自治体の法律をしっかりと確認した上で、自己責任でプレイするようにしましょう✅",
             "サポ美",
-            <>リロードボーナスの利用に限ったことではございませんが、安全にオンラインカジノをプレイするためには「 <a href="https://casinotsu.com/info/responsible-gambling" target="_blank" rel="noopener noreferrer"><strong>責任あるギャンブル</strong>」もお忘れなく！ ご自身の身はご自身で守りましょうね🌟",
+            <>リロードボーナスの利用に限ったことではございませんが、安全にオンラインカジノをプレイするためには「 [](https://casinotsu.com/info/responsible-gambling)<strong>責任あるギャンブル</strong>」もお忘れなく！ ご自身の身はご自身で守りましょうね🌟",
           ],
         },
         {
@@ -234,7 +234,7 @@ export const reloadBonuses: BonusPageContent = {
             "リロードボーナスは、いつもオンラインカジノで遊んでくださっているプレイヤー様に「 **感謝の気持ち**」としてカジノからプレイヤー様へ提供される特典なのでございます( ⁎ᵕᴗᵕ⁎ )💖",
             "これからもゲームプレイをお楽しみいただく為に…！ という願いを込めて、カジノが用意してくれている太っ腹ボーナスなので、魅力的なリロードボーナスを見つけたら是非ご利用なさってくださいo((>ω< ))o🔥",
             "リロードボーナスは、 **[ビットスターズ](https://www.casinotsu.com/bonuses)** でも獲得可能です！💪😎",
-            <><a href="https://casinotsu.com/bitstarz" target="_blank" rel="noopener noreferrer"><strong>👉 ビットスターズで遊ぶ！</strong>",
+            <>[](https://casinotsu.com/bitstarz)<strong>👉 ビットスターズで遊ぶ！</strong>",
           ],
         },
       ],
@@ -254,7 +254,7 @@ export const reloadBonuses: BonusPageContent = {
           subheading: "リロードボーナス vs その他のボーナス",
           paragraphs: [
             "リロードボーナスと、オンラインカジノでよくオファーがあるボーナスを比較してみました。それぞれ一長一短、上手に利用しましょう😆",
-            "| | 利用できる頻度 | 既存プレイヤーへの恩恵 | ボーナス額 |\n| --- | --- | --- | --- |\n| **リロードボーナス** | ⭕ | ⭕ | 🔺 |\n| [**初回入金ボーナス**](https://www.casinotsu.com/bonuses) | ❌ | ❌ | ⭕ |\n| <a href="https://casinotsu.com/bonuses/no-deposit" target="_blank" rel="noopener noreferrer"><strong>入金不要ボーナス</strong> | ❌ | ❌ | 🔺 |\n| <a href="https://casinotsu.com/free-spins" target="_blank" rel="noopener noreferrer"><strong>フリースピン</strong> | ⭕ | ⭕ | ❌ |\n| <a href="https://casinotsu.com/bonuses/cashback" target="_blank" rel="noopener noreferrer"><strong>キャッシュバック</strong> | ⭕ | ⭕ | ❌ |",
+            "| | 利用できる頻度 | 既存プレイヤーへの恩恵 | ボーナス額 |\n| --- | --- | --- | --- |\n| **リロードボーナス** | ⭕ | ⭕ | 🔺 |\n| [**初回入金ボーナス**](https://www.casinotsu.com/bonuses) | ❌ | ❌ | ⭕ |\n| [](https://casinotsu.com/bonuses/no-deposit)<strong>入金不要ボーナス</strong> | ❌ | ❌ | 🔺 |\n| [](https://casinotsu.com/free-spins)<strong>フリースピン</strong> | ⭕ | ⭕ | ❌ |\n| [](https://casinotsu.com/bonuses/cashback)<strong>キャッシュバック</strong> | ⭕ | ⭕ | ❌ |",
           ],
         },
       ],
@@ -271,7 +271,7 @@ export const reloadBonuses: BonusPageContent = {
           paragraphs: [
             "ウェルカム入金ボーナスや、[入金不要ボーナス](https://www.casinotsu.com/bonuses/no-deposit) でもお馴染みの **ボーナスマネー** がもらえるタイプでございます🤑💰",
             "**分離型ボーナス** なのか、一体型ボーナスなのかは要チェック。分離型ボーナスは、リアルマネーを使い切ってからボーナスマネーが使用されるため、ボーナスの条件をクリアしやすいのが特徴です。",
-            <>**😲分離型、一体型って何！？ ボーナスタイプをおさらい！**\nこれで分かる！ <a href="https://casinotsu.com/bonuses/non-sticky" target="_blank" rel="noopener noreferrer">分離型ボーナス のすべて",
+            "**😲分離型、一体型って何！？ ボーナスタイプをおさらい！**\nこれで分かる！ [分離型ボーナス のすべて](https://casinotsu.com/bonuses/non-sticky)",
           ],
         },
         {
@@ -359,9 +359,9 @@ export const reloadBonuses: BonusPageContent = {
         {
           subheading: "入出金はスマートに！",
           paragraphs: [
-            "*   **仮想通貨の活用**: <a href="https://casinotsu.com/crypto" target="_blank" rel="noopener noreferrer">仮想通貨</a> （ビットコイン、イーサリアムなど）を利用すると、より迅速でプライベートな送金が可能です。手数料も抑えられる場合が多いので、積極的に活用してみましょう。",
+            "*   **仮想通貨の活用**: [仮想通貨](https://casinotsu.com/crypto) （ビットコイン、イーサリアムなど）を利用すると、より迅速でプライベートな送金が可能です。手数料も抑えられる場合が多いので、積極的に活用してみましょう。",
             "*   **日本円対応カジノ**: 日本円で直接プレイできるカジノでは、為替手数料を気にする必要がなく、より分かりやすく資金管理ができます。",
-            <>*   **主要な決済方法**: <a href="https://casinotsu.com/payment/jeton" target="_blank" rel="noopener noreferrer">Jeton, <a href="https://casinotsu.com/payment/vega-wallet" target="_blank" rel="noopener noreferrer">Vega Wallet, <a href="https://casinotsu.com/payment/payz" target="_blank" rel="noopener noreferrer">Payz, <a href="https://casinotsu.com/payment/muchbetter" target="_blank" rel="noopener noreferrer">MuchBetter など、日本で一般的に利用されている決済サービスに対応しているか確認しましょう。",
+            "*   **主要な決済方法**: [Jeton](https://casinotsu.com/payment/jeton), [Vega Wallet](https://casinotsu.com/payment/vega-wallet), [Payz](https://casinotsu.com/payment/payz), [MuchBetter など、日本で一般的に利用されている決済サービスに対応しているか確認しましょう。](https://casinotsu.com/payment/muchbetter)",
           ],
         },
         {
@@ -369,7 +369,7 @@ export const reloadBonuses: BonusPageContent = {
           paragraphs: [
             "*   **パチンコ・パチスロ**: オンラインカジノでは、日本のパチンコ・パチスロをモチーフにした[スロット](https://www.casinotsu.com/slots)ゲームも多数登場しております。アニメーションがリール演出を盛り上げ、ボーナスフィーチャーも搭載されている機種は、昔ながらのパチンコとは一味違う体験を提供いたします。",
             "*   **麻雀**: 和了（ホーラ）や役満を目指すだけでなく、サイドベットやリアルマネーを賭けたトーナメントが開催される麻雀ゲームもございます。",
-            <>*   **トーナメントやロイヤリティプログラムの活用**: 定期的に開催されるトーナメントに参加したり、<a href="https://casinotsu.com/bonuses/vip" target="_blank" rel="noopener noreferrer">VIPプログラム やロイヤリティプログラムを活用したりすることで、リロードボーナス以外にもお得な特典を得るチャンスが広がります。",
+            "*   **トーナメントやロイヤリティプログラムの活用**: 定期的に開催されるトーナメントに参加したり、[VIPプログラム やロイヤリティプログラムを活用したりすることで、リロードボーナス以外にもお得な特典を得るチャンスが広がります。](https://casinotsu.com/bonuses/vip)",
           ],
         },
         {

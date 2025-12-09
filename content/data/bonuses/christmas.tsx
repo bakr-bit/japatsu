@@ -82,13 +82,13 @@ export const christmasNewYearPromotions: BonusPageContent = {
         "**【開催期間】**",
         "2024年12月1日19:00～2024年12月31日",
         "【大忘年会杯】",
-        <>ベラジョン大忘年会の「バトルホール」では、賞金総額**140,000ドル**の<a href="https://casinotsu.com/info/poker-tournaments" target="_blank" rel="noopener noreferrer">トーナメントが期間中毎日開催されます。💰👏",
+        "ベラジョン大忘年会の「バトルホール」では、賞金総額**140,000ドル**の[トーナメントが期間中毎日開催されます。💰👏](https://casinotsu.com/info/poker-tournaments)",
         "高額賞金が狙える**「大入りスロット杯」**や、クリスマス気分を盛り上げる**「クリスマスのチャンピオンズ杯」**など、多彩なトーナメントで豪華賞金を獲得するチャンスです。💪✨",
         "各トーナメントは3～5日間開催されており、ご自身のプレイスタイルに合ったものを選んで参加することが可能です。",
         "「大入り杯」では賞金総額30,000ドルが70位まで配分され、**1位の賞金**はなんと**10,000ドル**にも上ります。70位でも60ドルが獲得できるというのは、大変魅力的ではないでしょうか。🤩💥",
         <>
-!<a href="https://casinotsu.com/images/svg/jp/mascots/happy/cocomo.svg" target="_blank" rel="noopener noreferrer">Cocomo Happy
-",
+![Cocomo Happy
+](https://casinotsu.com/images/svg/jp/mascots/happy/cocomo.svg)",
         "CasinoTsuからのアドバイス：期間中は多くのトーナメントに参加し、お年玉賞金をたくさん獲得しましょう。🧧✨",
         "【歳末✦大抽選会】",
         "さらに、大忘年会キャンペーンのもう一つの目玉イベント、『**歳末✦大抽選会**』も見逃せません。",
@@ -96,8 +96,8 @@ export const christmasNewYearPromotions: BonusPageContent = {
         "年末の宝くじのようなワクワク感を楽しみたい方は、ぜひ抽選券を購入してご参加ください。😊💰",
         "「歳末✦大抽選会」の参加期間は、**2024年12月24日 (火) 18:00～12月31日 (火)**までです。",
         "抽選日は1月1日ですので、新年の運試しにも最適と言えるでしょう。🎍💖",
-        <>もちろん、通常のジャパカジ限定<a href="https://casinotsu.com/free-spins" target="_blank" rel="noopener noreferrer">フリースピン **150回**も引き続き提供されますので、ジャパカジ経由でこの期間中に新規登録されることをお勧めします。",
-        <>👇 **オンラインカジノを始めるなら、初心者の方も安心なベラジョンがおすすめです！** <a href="https://casinotsu.com/bonuses" target="_blank" rel="noopener noreferrer">ベラジョンカジノのボーナスは出金しやすい？カジノの詳細については、レビューをご確認ください。",
+        "もちろん、通常のジャパカジ限定[フリースピン **150回**も引き続き提供されますので、ジャパカジ経由でこの期間中に新規登録されることをお勧めします。](https://casinotsu.com/free-spins)",
+        "👇 **オンラインカジノを始めるなら、初心者の方も安心なベラジョンがおすすめです！** [ベラジョンカジノのボーナスは出金しやすい？カジノの詳細については、レビューをご確認ください。](https://casinotsu.com/bonuses)",
       ],
       cta: {
         text: "ベラジョンカジノで遊ぶ！",
@@ -110,7 +110,7 @@ export const christmasNewYearPromotions: BonusPageContent = {
       casinoSlug: "casino-sky",
       heading: "カジノスカイ｜ホリデー抽選会✨（12月3日～1月1日）",
       description: [
-        "<a href="https://casinotsu.com/reviews/casino-sky" target="_blank" rel="noopener noreferrer">カジノスカイ</a>は、人気オンラインカジノ<a href="https://casinotsu.com/reviews/casitabi" target="_blank" rel="noopener noreferrer">カジ旅の姉妹カジノです。**最大5万円の初回入金マネーバック**や**ウィークリーキャッシュバック**など、充実したキャッシュバックボーナスが魅力のカジノです。✨",
+        "[カジノスカイ](https://casinotsu.com/reviews/casino-sky)は、人気オンラインカジノ[カジ旅の姉妹カジノです。**最大5万円の初回入金マネーバック**や**ウィークリーキャッシュバック**など、充実したキャッシュバックボーナスが魅力のカジノです。✨](https://casinotsu.com/reviews/casitabi)",
         "そんなカジノスカイでは、今年の年末年始特別イベントが**非常に豪華**となっています。❗❗ o((>ω< ))o",
         "早速、その詳細をチェックしていきましょう。😍🔥",
         "【ホリデー抽選会】",
@@ -137,14 +137,14 @@ export const christmasNewYearPromotions: BonusPageContent = {
 | 第3週     | 12月17日～12月24日       | **¥2,375,000**                                  |
 | 第4週     | 12月24日～1月1日         | **¥11,080,000**<br>または **テスラのサイバートラック**！！ |`,
         <>
-!<a href="https://casinotsu.com/images/svg/jp/mascots/happy/casiko.svg" target="_blank" rel="noopener noreferrer">Casiko Happy
-",
+![Casiko Happy
+](https://casinotsu.com/images/svg/jp/mascots/happy/casiko.svg)",
         "CasinoTsuからのコメント：今年の年末はカジノスカイでプレイして、テスラの高級車サイバートラックを狙ってみてはいかがでしょうか。♡",
         <>
-!<a href="https://casinotsu.com/images/svg/jp/mascots/happy/cocomo.svg" target="_blank" rel="noopener noreferrer">Cocomo Happy
-",
+![Cocomo Happy
+](https://casinotsu.com/images/svg/jp/mascots/happy/cocomo.svg)",
         "ココモ豆知識：サイバートラックは、現在日本にはまだ1台しか上陸していないそうです。😳 これは、ますます獲得したくなりますね！✨",
-        <>**😍登録するだけでもらえる7,777円の無料ボーナスでプレイしましょう！**\n\nカジノスカイの<a href="https://casinotsu.com/offers/casino-sky-exclusive" target="_blank" rel="noopener noreferrer">入金不要ボーナスの詳細はこちらでご確認ください。",
+        "**😍登録するだけでもらえる7,777円の無料ボーナスでプレイしましょう！**\n\nカジノスカイの[入金不要ボーナスの詳細はこちらでご確認ください。](https://casinotsu.com/offers/casino-sky-exclusive)",
       ],
       cta: {
         text: "カジノスカイでテスラを狙う！",
@@ -164,14 +164,14 @@ export const christmasNewYearPromotions: BonusPageContent = {
         "2024年11月25日〜2024年12月19日",
         "**【参加方法】**",
         "抽選会への参加ステップは以下の通りです。👇",
-        <>① 期間中に参加登録フォームから参加登録を完了させる。\n② 参加受付期間中に100ドル以上を入金する。\n③ 参加受付期間中に対象ゲーム（<a href="https://casinotsu.com/providers/evolution" target="_blank" rel="noopener noreferrer">エボリューション / <a href="https://casinotsu.com/providers/red-tiger" target="_blank" rel="noopener noreferrer">レッドタイガー / <a href="https://casinotsu.com/providers/netent" target="_blank" rel="noopener noreferrer">ネットエント / <a href="https://casinotsu.com/providers/nolimit-city" target="_blank" rel="noopener noreferrer">ノーリミットシティ の全ゲーム）のいずれかで、合計**100ドル以上ベット**すると、**抽選券1枚を獲得**できます！（リアルマネーでのプレイのみが対象となります）\n④ 抽選会に参加するためのリンクURLや抽選番号などが記載されたメールが届きます。\n⑤ 抽選会（ライブストリーミング）に参加しましょう！",
+        <>① 期間中に参加登録フォームから参加登録を完了させる。\n② 参加受付期間中に100ドル以上を入金する。\n③ 参加受付期間中に対象ゲーム（[エボリューション / ](https://casinotsu.com/providers/evolution)[レッドタイガー / ](https://casinotsu.com/providers/red-tiger)[ネットエント / [ノーリミットシティ の全ゲーム）のいずれかで、合計**100ドル以上ベット**すると、**抽選券1枚を獲得**できます！（リアルマネーでのプレイのみが対象となります）\n④ 抽選会に参加するためのリンクURLや抽選番号などが記載されたメールが届きます。\n⑤ 抽選会（ライブストリーミング）に参加しましょう！](https://casinotsu.com/providers/nolimit-city)](https://casinotsu.com/providers/netent)",
         "抽選会は2回開催され、それぞれの抽選会では当選者「**1,000ドルキャッシュが贈呈される合計10名**」と、「**サラリー大抽選へと進む1名**」が選出されます。😍🔥",
         "さらに、ライブストリーミング中にライブ視聴者の中から、サラリー大抽選に参加するプレイヤーが**もう1名**選ばれます。",
         "つまり、「抽選会」で選ばれた1名と、「サラリー大抽選」配信中に選ばれた1名、合計2名が**最長5年間、最大180,000ドルの給料**獲得に挑戦するチャンスを得るということになります。😤",
         "抽選のドキドキ感をライブで味わえるのも、他のカジノにはない「シークレットサラリー大抽選会」ならではの魅力です。(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧✨",
         "抽選会に参加するステップはやや長くなりますが、180,000ドルの賞金のためなら、それも苦にならないはずです。ᕦ(ò_óˇ)ᕤ🔥",
         "早速カジノシークレットでプレイして、5年間分の給料を獲得するチャンスを掴みましょう。🤑🎉",
-        <>**🎁35ドルの入金不要ボーナスを今すぐゲットしましょう♪** ジャパカジ限定！<a href="https://casinotsu.com/offers/casino-secret-exclusive" target="_blank" rel="noopener noreferrer">カジノシークレットのオファーの詳細はこちらでご確認ください。",
+        "**🎁35ドルの入金不要ボーナスを今すぐゲットしましょう♪** ジャパカジ限定！[カジノシークレットのオファーの詳細はこちらでご確認ください。](https://casinotsu.com/offers/casino-secret-exclusive)",
       ],
       cta: {
         text: "サラリー大抽選に参加する！",
@@ -201,25 +201,25 @@ export const christmasNewYearPromotions: BonusPageContent = {
     },
     {
       title: "クリスマス＆年末年始、お正月ゲーム特化型オファー",
-      description: "**クリスマスをテーマにしたスロットや、年末年始・お正月をテーマにしたゲームを対象としたイベントやプロモーション**も実施されます。\n\n12月中であれば、基本的に**クリスマステーマのゲーム**が中心となるのが一般的です。🎅\n\nクリスマススロットにはサンタやトナカイのシンボルが多く使われていたり、クリスマス時期のライブカジノでは、ディーラーがサンタの衣装を着用していることもあります。\n\nプロモーションの例としては、対象スロットを期間内に特定の回数スピンすると、ボーナスやフリースピンを獲得できる、といったものがあります。😄\n\n🎄 **クリスマス気分を盛り上げる、ジャパカジ厳選スロット特集はこちら！**\n\nクリスマスをテーマにしたおすすめ<a href="https://casinotsu.com/slots/xmas" target="_blank" rel="noopener noreferrer">スロットをまとめて紹介しています。",
+      description: "**クリスマスをテーマにしたスロットや、年末年始・お正月をテーマにしたゲームを対象としたイベントやプロモーション**も実施されます。\n\n12月中であれば、基本的に**クリスマステーマのゲーム**が中心となるのが一般的です。🎅\n\nクリスマススロットにはサンタやトナカイのシンボルが多く使われていたり、クリスマス時期のライブカジノでは、ディーラーがサンタの衣装を着用していることもあります。\n\nプロモーションの例としては、対象スロットを期間内に特定の回数スピンすると、ボーナスやフリースピンを獲得できる、といったものがあります。😄\n\n🎄 **クリスマス気分を盛り上げる、ジャパカジ厳選スロット特集はこちら！**\n\nクリスマスをテーマにしたおすすめ[スロットをまとめて紹介しています。](https://casinotsu.com/slots/xmas)",
     },
     {
       title: "クリスマス＆年末年始のフリースピン",
-      description: "既存プレイヤー向けのオファーとしてよく見られるのが、この<a href="https://casinotsu.com/free-spins" target="_blank" rel="noopener noreferrer">フリースピンオファーです。特に、ハイバリュープレイヤーとして認識されている**VIPプレイヤー**は、イベントごとにフリースピンオファーのようなプレゼントを受け取ることが多いです。🎁\n\n**ログインするだけでも獲得できる**ものや、**何らかの条件をクリアすることで獲得できる**ものなど、様々な形式があります。\n\nクリスマステーマのスロットや、お正月テーマのスロットでフリースピンを獲得し、お祝いムードを楽しみましょう。🎰",
+      description: "既存プレイヤー向けのオファーとしてよく見られるのが、この[フリースピンオファーです。特に、ハイバリュープレイヤーとして認識されている**VIPプレイヤー**は、イベントごとにフリースピンオファーのようなプレゼントを受け取ることが多いです。🎁\n\n**ログインするだけでも獲得できる**ものや、**何らかの条件をクリアすることで獲得できる**ものなど、様々な形式があります。\n\nクリスマステーマのスロットや、お正月テーマのスロットでフリースピンを獲得し、お祝いムードを楽しみましょう。🎰](https://casinotsu.com/free-spins)",
     },
     {
       title: "クリスマス＆年末年始のウェルカムボーナス",
-      description: "気合の入ったオンラインカジノでは、クリスマスの時期にこそ、ボーナス額が高額な<a href="https://casinotsu.com/bonuses/welcome-bonus" target="_blank" rel="noopener noreferrer">ウェルカムボーナスが最も狙い目です。期間限定で、この時期に限り初回入金ボーナスが大幅にアップすることもあります。😲💕\n\n気になるオンラインカジノがある場合は、この時期にぜひチェックしてみてください。\n\n**【ウェルカムボーナスについて】**\n新規プレイヤー向けに、初回入金額に対して一定の割合でボーナスが付与されるものです。例えば、「100%ボーナス」であれば、入金額と同額のボーナスがもらえます。",
+      description: "気合の入ったオンラインカジノでは、クリスマスの時期にこそ、ボーナス額が高額な[ウェルカムボーナスが最も狙い目です。期間限定で、この時期に限り初回入金ボーナスが大幅にアップすることもあります。😲💕\n\n気になるオンラインカジノがある場合は、この時期にぜひチェックしてみてください。\n\n**【ウェルカムボーナスについて】**\n新規プレイヤー向けに、初回入金額に対して一定の割合でボーナスが付与されるものです。例えば、「100%ボーナス」であれば、入金額と同額のボーナスがもらえます。](https://casinotsu.com/bonuses/welcome-bonus)",
     },
     {
       title: "クリスマス＆年末年始の入金不要ボーナス",
-      description: "皆様大好きな**入金不要ボーナス**！**登録するだけで、またはログインするだけで獲得できる**となれば、人気なのも頷けますね♡\n\nオンラインカジノによっては、ニュースレター経由で「先着〇〇名様限定プレゼント！」といった、**早い者勝ちのオファー**が提供されることもあります。\n\n🆓 **人気スロットを無料で楽しめる！**\n\nお得な<a href="https://casinotsu.com/free-spins" target="_blank" rel="noopener noreferrer">フリースピンを集めました！\n\n日頃からアンテナを張り、キャンペーンメールの受信設定をONにしておくと、良いことがあるかもしれません♪\n\n
-!<a href="https://casinotsu.com/images/dont-miss-offer-from-onlinecasino-1024x364.jpg" target="_blank" rel="noopener noreferrer">オンラインカジノ・年末年始特集｜オファーをチェック
-\n\n**【入金不要ボーナスについて】**\nアカウント登録のみで、入金せずに受け取れるボーナスです。少額であることが多いですが、リスクなくカジノを試せるのが魅力です。",
+      description: "皆様大好きな**入金不要ボーナス**！**登録するだけで、またはログインするだけで獲得できる**となれば、人気なのも頷けますね♡\n\nオンラインカジノによっては、ニュースレター経由で「先着〇〇名様限定プレゼント！」といった、**早い者勝ちのオファー**が提供されることもあります。\n\n🆓 **人気スロットを無料で楽しめる！**\n\nお得な[フリースピンを集めました！\n\n日頃からアンテナを張り、キャンペーンメールの受信設定をONにしておくと、良いことがあるかもしれません♪\n\n
+!](https://casinotsu.com/free-spins)[オンラインカジノ・年末年始特集｜オファーをチェック
+\n\n**【入金不要ボーナスについて】**\nアカウント登録のみで、入金せずに受け取れるボーナスです。少額であることが多いですが、リスクなくカジノを試せるのが魅力です。](https://casinotsu.com/images/dont-miss-offer-from-onlinecasino-1024x364.jpg)",
     },
     {
       title: "クリスマス＆年末年始の出金条件が低いボーナス",
-      description: "年末年始は出費もかさむ時期ですので、やはり「出金したい」と考える方も多いでしょう。💰\n\nそんな方におすすめのボーナスは、**賭け条件なし、または賭け条件1倍のボーナス**オファーです。(≧▽≦)/\n\n高額でなくとも、即時出金が可能な<a href="https://casinotsu.com/bonuses/cashback" target="_blank" rel="noopener noreferrer">キャッシュバックなども、やはりありがたいものです。🎁\n\n負けても現金還元してくれるカジノオファーなら、出費を気にせずプレイできるので安心です。(❁´◡`❁)\n\n**【キャッシュバックボーナスについて】**\n一定期間の純損失額に対して、一定の割合でキャッシュ（現金）が還元されるボーナスです。通常、賭け条件はありません。",
+      description: "年末年始は出費もかさむ時期ですので、やはり「出金したい」と考える方も多いでしょう。💰\n\nそんな方におすすめのボーナスは、**賭け条件なし、または賭け条件1倍のボーナス**オファーです。(≧▽≦)/\n\n高額でなくとも、即時出金が可能な[キャッシュバックなども、やはりありがたいものです。🎁\n\n負けても現金還元してくれるカジノオファーなら、出費を気にせずプレイできるので安心です。(❁´◡`❁)\n\n**【キャッシュバックボーナスについて】**\n一定期間の純損失額に対して、一定の割合でキャッシュ（現金）が還元されるボーナスです。通常、賭け条件はありません。](https://casinotsu.com/bonuses/cashback)",
     },
     {
       title: "クリスマス＆年末年始のトーナメントや参加者全員／抽選会",
@@ -238,29 +238,29 @@ export const christmasNewYearPromotions: BonusPageContent = {
         {
           casino: "1. Oiran Dream Xmas – RTP 96.34%",
           casinoSlug: "oiran-dream-xmas",
-          bonus: "昨年、**Golden Hero**社（**WinFast社**）の人気機種、<a href="https://casinotsu.com/slots/oiran-dream" target="_blank" rel="noopener noreferrer">花魁ドリーム</a>がクリスマスバージョンとしてリリースされました。その名も『**花魁ドリーム・クリスマス**』👘🤶\n\nサウンドやシンボルがクリスマス仕様になっているだけでなく、ボーナスゲームの**「ドキドキタイム」**では、レベルアップしていくと最終的に**花魁美女のサンタ水着姿**が見られるという演出も。💕\n\nやはり、<a href="https://casinotsu.com/guides/pachinko" target="_blank" rel="noopener noreferrer">パチスロ系スロットの代表格はプレイ必須でしょう。🎰 和洋折衷のクリスマスにぴったりのフィーチャー機能が満載です。\n\n「花魁ドリーム・クリスマス」は<strong><a href="https://casinotsu.com/reviews/mystino" target="_blank" rel="noopener noreferrer">ミスティーノ</strong>でプレイ可能です。",
+          bonus: "昨年、**Golden Hero**社（**WinFast社**）の人気機種、[花魁ドリーム](https://casinotsu.com/slots/oiran-dream)がクリスマスバージョンとしてリリースされました。その名も『**花魁ドリーム・クリスマス**』👘🤶\n\nサウンドやシンボルがクリスマス仕様になっているだけでなく、ボーナスゲームの**「ドキドキタイム」**では、レベルアップしていくと最終的に**花魁美女のサンタ水着姿**が見られるという演出も。💕\n\nやはり、[パチスロ系スロットの代表格はプレイ必須でしょう。🎰 和洋折衷のクリスマスにぴったりのフィーチャー機能が満載です。\n\n「花魁ドリーム・クリスマス」は**[ミスティーノ](https://casinotsu.com/reviews/mystino)**でプレイ可能です。](https://casinotsu.com/guides/pachinko)",
         },
         {
           casino: "2. Invading Vegas: Las Christmas – RTP 96.2%",
           casinoSlug: "invading-vegas-las-christmas",
-          bonus: <>あの**Play’n Go**社が今年の目玉クリスマススロットとしてリリースした、非常に面白いSFテーマの新作スロットです。💮\n\n他とは一味違うクリスマス気分を味わいたい方におすすめなのが、こちら『**インベイディング・ベガス・ラス・クリスマス**』👽🕺\n\n**サンタになった宇宙人がラスベガスを侵略していく**という、なんとも独創的なクリスマススロットです。🤣\n\nさらに、この宇宙人ワイルドはリスピンを提供し、フリースピン中に**拡張ワイルドとなって隣のリールに移動**していくため、まるでサンタクロースのように配当アップのチャンスを運んできてくれます。🎅\n\n**最大120回のフリースピン**が狙える、**中ボラティリティスロット**で、一風変わったSFクリスマスを楽しみましょう！\n\n🔥 **適度な当たりで選べる人気スロットはたくさんあります♪** おすすめの<a href="https://casinotsu.com/slots/medium-volatility" target="_blank" rel="noopener noreferrer">中ボラティリティスロットで楽しくプレイしましょう。",
+          bonus: "あの**Play’n Go**社が今年の目玉クリスマススロットとしてリリースした、非常に面白いSFテーマの新作スロットです。💮\n\n他とは一味違うクリスマス気分を味わいたい方におすすめなのが、こちら『**インベイディング・ベガス・ラス・クリスマス**』👽🕺\n\n**サンタになった宇宙人がラスベガスを侵略していく**という、なんとも独創的なクリスマススロットです。🤣\n\nさらに、この宇宙人ワイルドはリスピンを提供し、フリースピン中に**拡張ワイルドとなって隣のリールに移動**していくため、まるでサンタクロースのように配当アップのチャンスを運んできてくれます。🎅\n\n**最大120回のフリースピン**が狙える、**中ボラティリティスロット**で、一風変わったSFクリスマスを楽しみましょう！\n\n🔥 **適度な当たりで選べる人気スロットはたくさんあります♪** おすすめの[中ボラティリティスロットで楽しくプレイしましょう。](https://casinotsu.com/slots/medium-volatility)",
         },
         {
           casino: "3. Moon Princess Christmas Kingdom – RTP 94.2%",
           casinoSlug: "moon-princess-christmas-kingdom",
-          bonus: <>ムンプリファンの皆様なら、今年新しくリリースされた<a href="https://casinotsu.com/slots/moon-princess-trinity" target="_blank" rel="noopener noreferrer">ムーンプリンセス・トリニティはプレイされた方も多いのではないでしょうか。\n\nしかし、やはり<a href="https://casinotsu.com/slots/moon-princess" target="_blank" rel="noopener noreferrer">ムーンプリンセスでクリスマス気分に浸るなら、『<strong><a href="https://casinotsu.com/slots/moon-princess-christmas-kingdom" target="_blank" rel="noopener noreferrer">ムーンプリンセス・クリスマスキングダム</strong>』でしょう。🎄🎀\n\nシリーズの中でも、この「クリスマスキングダム」の最大の特徴は、画面右に登場する**キャラクターが3Dグラフィック仕様**になり、**リアル感が増している**点です。👀 美少女系アニメがお好きな方なら、この違いを楽しめるかもしれません。💕\n\nメリークリスマスな**雪国で繰り広げられる勝利への戦い**も、ガールズパワーで撃破しましょう！\n\n「ムーンプリンセス・クリスマスキングダム」は<a href="https://casinotsu.com/reviews/wonder-casino" target="_blank" rel="noopener noreferrer"><strong>ワンダーカジノ</strong>でプレイ可能です。\n\n🌙 **ムンプリシリーズの中でも賞金ポテンシャルが高く、フリースピンが選択可能！**\n\n<a href="https://casinotsu.com/slots/moon-princess-100" target="_blank" rel="noopener noreferrer">ムーンプリンセス100（Moon Princess 100）もこちらでチェック。",
+          bonus: <>ムンプリファンの皆様なら、今年新しくリリースされた[ムーンプリンセス・トリニティはプレイされた方も多いのではないでしょうか。\n\nしかし、やはり](https://casinotsu.com/slots/moon-princess-trinity)[ムーンプリンセスでクリスマス気分に浸るなら、『**[ムーンプリンセス・クリスマスキングダム](https://casinotsu.com/slots/moon-princess-christmas-kingdom)**』でしょう。🎄🎀\n\nシリーズの中でも、この「クリスマスキングダム」の最大の特徴は、画面右に登場する**キャラクターが3Dグラフィック仕様**になり、**リアル感が増している**点です。👀 美少女系アニメがお好きな方なら、この違いを楽しめるかもしれません。💕\n\nメリークリスマスな**雪国で繰り広げられる勝利への戦い**も、ガールズパワーで撃破しましょう！\n\n「ムーンプリンセス・クリスマスキングダム」は](https://casinotsu.com/slots/moon-princess)[](https://casinotsu.com/reviews/wonder-casino)<strong>ワンダーカジノ</strong>でプレイ可能です。\n\n🌙 **ムンプリシリーズの中でも賞金ポテンシャルが高く、フリースピンが選択可能！**\n\n[ムーンプリンセス100（Moon Princess 100）もこちらでチェック。](https://casinotsu.com/slots/moon-princess-100)",
         },
         {
           casino: "4. Santa vs Rudolf – RTP 96.35%",
           casinoSlug: "santa-vs-rudolf",
-          bonus: <>**NetEnt**社からリリースされた人気のクリスマススロットといえば、『**サンタ vs ルドルフ**』🦌🎅\n\n**アメコミ風のデザイン**に加え、**サンタとトナカイがバトルする**という、他のクリスマススロットとは一線を画すスロットです！\n\nそのフィーチャー機能もまた面白く、ワイルドシンボルである**サンタは右から左へ、トナカイは左から右へウォーキングワイルドとして移動**します。その移動中のサンタとトナカイのワイルドがリール上で衝突すると…喧嘩勃発！ということで、**フリースピンを獲得できます**。w🤣🎄\n\nストーリー性も豊かで、当たりやすさも手軽な、**初心者におすすめのクリスマススロット**です。✨\n\n「サンタ vs ルドルフ」は<strong><a href="https://casinotsu.com/reviews/stake" target="_blank" rel="noopener noreferrer">ステークカジノ</strong>でプレイ可能です♪",
+          bonus: "**NetEnt**社からリリースされた人気のクリスマススロットといえば、『**サンタ vs ルドルフ**』🦌🎅\n\n**アメコミ風のデザイン**に加え、**サンタとトナカイがバトルする**という、他のクリスマススロットとは一線を画すスロットです！\n\nそのフィーチャー機能もまた面白く、ワイルドシンボルである**サンタは右から左へ、トナカイは左から右へウォーキングワイルドとして移動**します。その移動中のサンタとトナカイのワイルドがリール上で衝突すると…喧嘩勃発！ということで、**フリースピンを獲得できます**。w🤣🎄\n\nストーリー性も豊かで、当たりやすさも手軽な、**初心者におすすめのクリスマススロット**です。✨\n\n「サンタ vs ルドルフ」は**[ステークカジノ](https://casinotsu.com/reviews/stake)**でプレイ可能です♪",
         },
         {
           casino: "5. Hawaiian Dream Xmas – RTP 97%",
           casinoSlug: "hawaiian-dream-xmas",
-          bonus: <>南国をテーマにした**パチスロ風高RTPスロット**として大人気の<a href="https://casinotsu.com/slots/hawaiian-dream" target="_blank" rel="noopener noreferrer">ハワイアンドリームのクリスマスバージョン、『**ハワイアンドリーム・クリスマス**』もリリースされています。👙🎅\n\n常夏仕様が魅力の**ビキニギャルたちが、サンタコスチューム**でプレイヤーの皆様をお出迎えしてくれています。💞\n\n
-!<a href="https://casinotsu.com/images/Xmas-New-Year-slot-Hawaiian-Dream-Xmas3.jpg" target="_blank" rel="noopener noreferrer">オンラインカジノ・年末年始特集｜クリスマススロット・ハワイアンドリーム・クリスマス2
-\n\n遊び方やフィーチャーは同じですが、フリースピン時にはクリスマス感満載のイルミネーション仕様になっていたり、**連チャン性能が向上し、ハイビスカスラッシュの最大継続率が91％**になっている点に注目です。\n\n「ハワイアンドリーム・クリスマス」は<a href="https://casinotsu.com/reviews/eldoah" target="_blank" rel="noopener noreferrer"><strong>エルドアカジノ</strong>でプレイできます。🎄\n\n**🎁 今だけ獲得できる賭け条件1倍の入金不要ボーナスをゲット♪**\n\nエルドアカジノに新規登録すると、現金2,000円チップが進呈されます。<a href="https://casinotsu.com/offers/eldoah-exclusive" target="_blank" rel="noopener noreferrer">チップの詳細はこちらでご確認ください。",
+          bonus: <>南国をテーマにした**パチスロ風高RTPスロット**として大人気の[ハワイアンドリームのクリスマスバージョン、『**ハワイアンドリーム・クリスマス**』もリリースされています。👙🎅\n\n常夏仕様が魅力の**ビキニギャルたちが、サンタコスチューム**でプレイヤーの皆様をお出迎えしてくれています。💞\n\n
+!](https://casinotsu.com/slots/hawaiian-dream)[オンラインカジノ・年末年始特集｜クリスマススロット・ハワイアンドリーム・クリスマス2
+\n\n遊び方やフィーチャーは同じですが、フリースピン時にはクリスマス感満載のイルミネーション仕様になっていたり、**連チャン性能が向上し、ハイビスカスラッシュの最大継続率が91％**になっている点に注目です。\n\n「ハワイアンドリーム・クリスマス」は](https://casinotsu.com/images/Xmas-New-Year-slot-Hawaiian-Dream-Xmas3.jpg)[](https://casinotsu.com/reviews/eldoah)<strong>エルドアカジノ</strong>でプレイできます。🎄\n\n**🎁 今だけ獲得できる賭け条件1倍の入金不要ボーナスをゲット♪**\n\nエルドアカジノに新規登録すると、現金2,000円チップが進呈されます。[チップの詳細はこちらでご確認ください。](https://casinotsu.com/offers/eldoah-exclusive)",
         },
       ],
     },
@@ -274,12 +274,12 @@ export const christmasNewYearPromotions: BonusPageContent = {
         {
           casino: "1. Floating Dragon New Year Festival – RTP 96.7%",
           casinoSlug: "floating-dragon-new-year-festival",
-          bonus: "2024年の干支は辰年（龍）。🐲 そんな新年を迎えるのにぴったりのお正月スロット『**<a href="https://casinotsu.com/slots/floating-dragon-new-year-festival" target="_blank" rel="noopener noreferrer">フローティング・ドラゴン・ニューイヤー・フェスティバル</a>**』が、**Reel Kingdom**社から最新リリースされました。🌟\n\n**147,456通りの<a href="https://casinotsu.com/slots/megaways" target="_blank" rel="noopener noreferrer">メガウェイズスロット**で、最高配当は20,000倍です。\n\n赤と金色の華やかなシンボル、そして**初詣の気分**にさせてくれる神社の背景など、新年にふさわしい機種です。🎰\n\nフリースピン中には、**お年玉のようなフィッシュマネーシンボル**がランダムに**配当金（ベット額の2～5,000倍）**を表示して着地します。o(≧∀≦)o\n\nボーナスフィーチャーでは、美しい女性シンボルが登場するたびに、累積回数が画面右でカウントされ、貯まれば追加フリースピンを獲得できます。💕\n\n今年のお正月は、「フローティング・ドラゴン・ニューイヤー・フェスティバル」で運試しをしましょう。🧧",
+          bonus: "2024年の干支は辰年（龍）。🐲 そんな新年を迎えるのにぴったりのお正月スロット『**[フローティング・ドラゴン・ニューイヤー・フェスティバル](https://casinotsu.com/slots/floating-dragon-new-year-festival)**』が、**Reel Kingdom**社から最新リリースされました。🌟\n\n**147,456通りの[メガウェイズスロット**で、最高配当は20,000倍です。\n\n赤と金色の華やかなシンボル、そして**初詣の気分**にさせてくれる神社の背景など、新年にふさわしい機種です。🎰\n\nフリースピン中には、**お年玉のようなフィッシュマネーシンボル**がランダムに**配当金（ベット額の2～5,000倍）**を表示して着地します。o(≧∀≦)o\n\nボーナスフィーチャーでは、美しい女性シンボルが登場するたびに、累積回数が画面右でカウントされ、貯まれば追加フリースピンを獲得できます。💕\n\n今年のお正月は、「フローティング・ドラゴン・ニューイヤー・フェスティバル」で運試しをしましょう。🧧](https://casinotsu.com/slots/megaways)",
         },
         {
           casino: "2. New Year Riches – RTP 94.25%",
           casinoSlug: "new-year-riches",
-          bonus: <>**Play’n Go**社からリリースされている、**世界中の大晦日カウントダウンがテーマ**の人気スロット『**ニューイヤー・リッチーズ**』🎆\n\nまさに大晦日にプレイするのに最適なこのスロットは、**年越しの0時を指す時計**のシンボル、日本のお城、自由の女神、シャンパンボトル、そして背景の花火など、すべての演出で**世界中のカウントダウン気分**を味わわせてくれます。🍾🥂\n\n**フリースピン**中に時計シンボルが出ると、**追加スピンを最大6回**まで獲得可能！フリースピンの最後の数回では、新年0時の**カウントダウンのように「3・2・1」**というサウンド演出が流れるなど、最高の体験が得られます。😆👍 まさに新年を迎えるのにぴったりな年末スロットです。(´▽｀)\n\n「ニューイヤー・リッチーズ」は<a href="https://casinotsu.com/reviews/lilibet" target="_blank" rel="noopener noreferrer"><strong>リリベット</strong>でプレイ可能です！",
+          bonus: <>**Play’n Go**社からリリースされている、**世界中の大晦日カウントダウンがテーマ**の人気スロット『**ニューイヤー・リッチーズ**』🎆\n\nまさに大晦日にプレイするのに最適なこのスロットは、**年越しの0時を指す時計**のシンボル、日本のお城、自由の女神、シャンパンボトル、そして背景の花火など、すべての演出で**世界中のカウントダウン気分**を味わわせてくれます。🍾🥂\n\n**フリースピン**中に時計シンボルが出ると、**追加スピンを最大6回**まで獲得可能！フリースピンの最後の数回では、新年0時の**カウントダウンのように「3・2・1」**というサウンド演出が流れるなど、最高の体験が得られます。😆👍 まさに新年を迎えるのにぴったりな年末スロットです。(´▽｀)\n\n「ニューイヤー・リッチーズ」は[](https://casinotsu.com/reviews/lilibet)<strong>リリベット</strong>でプレイ可能です！",
         },
         {
           casino: "3. Daruma’s Wealth – RTP 95.99%",
@@ -289,12 +289,12 @@ export const christmasNewYearPromotions: BonusPageContent = {
         {
           casino: "4. Densho – RTP 96.33%",
           casinoSlug: "densho",
-          bonus: <>オンラインカジノでしっとりと年末年始を楽しみたいなら、こちら『<strong><a href="https://casinotsu.com/slots/densho" target="_blank" rel="noopener noreferrer">伝承（デンショー）</strong>』🌸🍃\n\n**Hacksaw Gaming**社から今年リリースされた、**日本の文化をテーマ**にした大人なスロットです。\n\n水墨画や尺八の音色など、日本の伝統美が盛り込まれた本格的な和テイストのスロットですが、見た目とは裏腹に、しっかりと爆裂も狙える機種です。😍\n\n**カラスの伝承シンボル**が**拡大ワイルド**となり、ペイラインが成立すれば**最大100倍のマルチプライヤー**を発動させます。 <a href="https://casinotsu.com/slots/bonus-buy" target="_blank" rel="noopener noreferrer">ボーナスゲーム購入機能では、**少額フィーチャーからスーパーフリースピンまでの4種類**から選択できるのも魅力的です。(´▽`ʃ♡ƪ)\n\n「伝承（デンショー）」で幻想的な日本の美を感じる年末年始を味わってみませんか。🎍 CasinoTsuは<a href="https://casinotsu.com/reviews/casino-sky" target="_blank" rel="noopener noreferrer">カジノスカイでのプレイをおすすめします！",
+          bonus: "オンラインカジノでしっとりと年末年始を楽しみたいなら、こちら『**[伝承（デンショー）](https://casinotsu.com/slots/densho)**』🌸🍃\n\n**Hacksaw Gaming**社から今年リリースされた、**日本の文化をテーマ**にした大人なスロットです。\n\n水墨画や尺八の音色など、日本の伝統美が盛り込まれた本格的な和テイストのスロットですが、見た目とは裏腹に、しっかりと爆裂も狙える機種です。😍\n\n**カラスの伝承シンボル**が**拡大ワイルド**となり、ペイラインが成立すれば**最大100倍のマルチプライヤー**を発動させます。 [ボーナスゲーム購入機能では、**少額フィーチャーからスーパーフリースピンまでの4種類**から選択できるのも魅力的です。(´▽`ʃ♡ƪ)\n\n「伝承（デンショー）」で幻想的な日本の美を感じる年末年始を味わってみませんか。🎍 CasinoTsuは[カジノスカイでのプレイをおすすめします！](https://casinotsu.com/reviews/casino-sky)](https://casinotsu.com/slots/bonus-buy)",
         },
         {
           casino: "5. Chinese New Year 2 – RTP 96.5%",
           casinoSlug: "chinese-new-year-2",
-          bonus: <>20年以上の実績を持つ**実機スロットプロバイダー**、**Fa Chai Gaming**社からリリースされている、中国の旧正月を祝う人気スロットの第二弾がパワーアップして登場しました。『**チャイニーズ・ニューイヤー2**』🏮🎉\n\n**最高配当16,800倍**！ フリースピン獲得チャンスがアップする**エクストラベット機能**などもあり、新年最初のビッグヒットも狙える<a href="https://casinotsu.com/slots/best-payout" target="_blank" rel="noopener noreferrer">高配当スロットです。💰🐲\n\nちなみに、Fa Chaiは中国語で**「お金持ちになれますように」**という意味だそうです。(´▽｀)\n\n他にも、**Win Win Neko（お宝招き猫）**など、**縁起の良いスロット**も多数輩出しているFa Chai Gamingの「チャイニーズ・ニューイヤー2」で、今年の正月は金運アップを祈願してスピンしましょう。🎰\n\n<a href="https://casinotsu.com/reviews/konibet" target="_blank" rel="noopener noreferrer">コニベットで独占配信中です。\n\n😍 **ジャパカジ経由で追加のキャッシュスピン50回をゲット！**\n\nコニベットの独占ジャパカジ<a href="https://casinotsu.com/offers/konibet-exclusive" target="_blank" rel="noopener noreferrer">限定ボーナスの詳細はこちらでご確認ください。",
+          bonus: "20年以上の実績を持つ**実機スロットプロバイダー**、**Fa Chai Gaming**社からリリースされている、中国の旧正月を祝う人気スロットの第二弾がパワーアップして登場しました。『**チャイニーズ・ニューイヤー2**』🏮🎉\n\n**最高配当16,800倍**！ フリースピン獲得チャンスがアップする**エクストラベット機能**などもあり、新年最初のビッグヒットも狙える[高配当スロットです。💰🐲\n\nちなみに、Fa Chaiは中国語で**「お金持ちになれますように」**という意味だそうです。(´▽｀)\n\n他にも、**Win Win Neko（お宝招き猫）**など、**縁起の良いスロット**も多数輩出しているFa Chai Gamingの「チャイニーズ・ニューイヤー2」で、今年の正月は金運アップを祈願してスピンしましょう。🎰\n\n](https://casinotsu.com/slots/best-payout)[コニベットで独占配信中です。\n\n😍 **ジャパカジ経由で追加のキャッシュスピン50回をゲット！**\n\nコニベットの独占ジャパカジ[限定ボーナスの詳細はこちらでご確認ください。](https://casinotsu.com/offers/konibet-exclusive)](https://casinotsu.com/reviews/konibet)",
         },
       ],
     },
@@ -308,19 +308,19 @@ export const christmasNewYearPromotions: BonusPageContent = {
         {
           casino: "1. Dear Santa – RTP 95.76%",
           casinoSlug: "dear-santa",
-          bonus: "**Red Tiger**社から、今年12月に新リリースされたばかりの最新クリスマススロット『**ディア・サンタ**』🎅\n\nクリスマスのサウンドと、クラシックで可愛らしいサンタやキャンディケーン、ベルなどのシンボルが、冬のシーズンに心を温めてくれる愛らしいグラフィックです。💕🎄\n\nクリスマスレターのシンボルが出現するたびに、画面右上の「赤いポスト」に溜まっていきます。60通のクリスマスレターが溜まると、10回の**フリースピン**を獲得できます。📧🎀\n\nフリースピンのボーナスラウンド中には、サンタクロースのワイルドが中央のリールに出現し、クリスマスプレゼントのワイルドを投げてくれる演出もあります。🎁💝 クリスマス感満載で、とても可愛らしいスロットです。😊🌟\n\nルールも非常にシンプルで、まさに誰でも楽しめる**「THE・クリスマス」**の最新スロットなら、「ディア・サンタ」で決まりでしょう。💖\n\n<a href="https://casinotsu.com/reviews/stake" target="_blank" rel="noopener noreferrer">ステークカジノ</a>でプレイ可能です。\n\n**🎉ジャパカジ限定の登録ボーナスで、まずは無料プレイ！**\n\nステークカジノの限定<a href="https://casinotsu.com/offers/stake-exclusive" target="_blank" rel="noopener noreferrer">入金不要ボーナス2,500円の詳細と獲得方法はこちらでご確認ください。",
+          bonus: "**Red Tiger**社から、今年12月に新リリースされたばかりの最新クリスマススロット『**ディア・サンタ**』🎅\n\nクリスマスのサウンドと、クラシックで可愛らしいサンタやキャンディケーン、ベルなどのシンボルが、冬のシーズンに心を温めてくれる愛らしいグラフィックです。💕🎄\n\nクリスマスレターのシンボルが出現するたびに、画面右上の「赤いポスト」に溜まっていきます。60通のクリスマスレターが溜まると、10回の**フリースピン**を獲得できます。📧🎀\n\nフリースピンのボーナスラウンド中には、サンタクロースのワイルドが中央のリールに出現し、クリスマスプレゼントのワイルドを投げてくれる演出もあります。🎁💝 クリスマス感満載で、とても可愛らしいスロットです。😊🌟\n\nルールも非常にシンプルで、まさに誰でも楽しめる**「THE・クリスマス」**の最新スロットなら、「ディア・サンタ」で決まりでしょう。💖\n\n[ステークカジノ](https://casinotsu.com/reviews/stake)でプレイ可能です。\n\n**🎉ジャパカジ限定の登録ボーナスで、まずは無料プレイ！**\n\nステークカジノの限定[入金不要ボーナス2,500円の詳細と獲得方法はこちらでご確認ください。](https://casinotsu.com/offers/stake-exclusive)",
           offerLink: "https://go.casinotsu.com/go/stake",
         },
         {
           casino: "2. Santa’s Xmas Rush – RTP 96.51～94.48%",
           casinoSlug: "santas-xmas-rush",
-          bonus: <>**Santa’s Xmas Rush**は、超人気プロバイダーの**Pragmatic Play**から、2024年12月にリリースされたカスケード式のクリスマススロットです。🎅🌟\n\nシンボルにはトナカイ、靴下、スノードームなどのクリスマスモチーフが使われており、スロットのクリスマス感を盛り上げてくれます。(●ˇ∀ˇ●)⛄🎁🎄\n\n6つ以上の同じシンボルが隣接すると、配当獲得と共にサンタクロースが「Ho Ho Ho～」と喜んでくれるのが、とてもキュートです。🥳💝\n\nそんな可愛らしさ満点の「Santa’s Xmas Rush」ですが、実は見た目によらず最大配当倍率が10,000倍という、かなりのハイボラスロットなのです。o((>ω< ))o\n\n爆発力のある、おすすめのクリスマススロットをぜひ一度プレイしてみてください。🎀⚡\n\n<a href="https://casinotsu.com/reviews/fresh-casino" target="_blank" rel="noopener noreferrer">フレッシュカジノでプレイ可能です。\n\n👾 **ジャパカジ限定！登録だけで獲得できるフリスピでお得にプレイしましょう！**\n\nフレッシュカジノの入金不要<a href="https://casinotsu.com/free-spins" target="_blank" rel="noopener noreferrer">フリースピン50回分の詳細はこちらでご確認ください。",
+          bonus: <>**Santa’s Xmas Rush**は、超人気プロバイダーの**Pragmatic Play**から、2024年12月にリリースされたカスケード式のクリスマススロットです。🎅🌟\n\nシンボルにはトナカイ、靴下、スノードームなどのクリスマスモチーフが使われており、スロットのクリスマス感を盛り上げてくれます。(●ˇ∀ˇ●)⛄🎁🎄\n\n6つ以上の同じシンボルが隣接すると、配当獲得と共にサンタクロースが「Ho Ho Ho～」と喜んでくれるのが、とてもキュートです。🥳💝\n\nそんな可愛らしさ満点の「Santa’s Xmas Rush」ですが、実は見た目によらず最大配当倍率が10,000倍という、かなりのハイボラスロットなのです。o((>ω< ))o\n\n爆発力のある、おすすめのクリスマススロットをぜひ一度プレイしてみてください。🎀⚡\n\n[フレッシュカジノでプレイ可能です。\n\n👾 **ジャパカジ限定！登録だけで獲得できるフリスピでお得にプレイしましょう！**\n\nフレッシュカジノの入金不要[フリースピン50回分の詳細はこちらでご確認ください。](https://casinotsu.com/free-spins)](https://casinotsu.com/reviews/fresh-casino)",
           offerLink: "https://go.casinotsu.com/go/fresh-casino",
         },
         {
           casino: "3. Gates of Olympus Xmas 1000 – RTP 96.5%～94%",
           casinoSlug: "gates-of-olympus-xmas-1000",
-          bonus: <>2024年12月、**Pragmatic Play**社からリリースされた**Gates of Olympus Xmas 1000**は、高い人気を誇る「Gates of Olympus 1000」のクリスマスバージョンです。🎄🎀\n\nいつもプレイしているお気に入りのスロットも、クリスマス仕様になると雰囲気がガラッと変わり、新鮮な気持ちで楽しめますよね。🥳🌟\n\n「Gates of Olympus Xmas 1000」では、おなじみのゼウス様がクリスマス仕様になっています。🎅✨\n\n基本的な機能は「Gates of Olympus 1000」と同じですが、ゼウス様がサンタクロースの格好をしているだけでなく、サウンドもクリスマス仕様になっており、背景やシンボルにも雪が積もるなど、クリスマスの雰囲気を十分に楽しめます。(❁´◡`❁)💝\n\n出費がかさむこの季節、配当倍率**最大15,000倍**のハイボラスロットで、**爆発的な勝利**を狙ってみてはいかがでしょうか。🤑🌟\n\n「Gates of Olympus Xmas 1000」は、**遊雅堂**でプレイできます。🥳❗\n\n**😍登録するだけでもらえる♪**\n\n<a href="https://casinotsu.com/reviews/yuugado" target="_blank" rel="noopener noreferrer">遊雅堂の入金不要ボーナスでプレイしましょう！",
+          bonus: "2024年12月、**Pragmatic Play**社からリリースされた**Gates of Olympus Xmas 1000**は、高い人気を誇る「Gates of Olympus 1000」のクリスマスバージョンです。🎄🎀\n\nいつもプレイしているお気に入りのスロットも、クリスマス仕様になると雰囲気がガラッと変わり、新鮮な気持ちで楽しめますよね。🥳🌟\n\n「Gates of Olympus Xmas 1000」では、おなじみのゼウス様がクリスマス仕様になっています。🎅✨\n\n基本的な機能は「Gates of Olympus 1000」と同じですが、ゼウス様がサンタクロースの格好をしているだけでなく、サウンドもクリスマス仕様になっており、背景やシンボルにも雪が積もるなど、クリスマスの雰囲気を十分に楽しめます。(❁´◡`❁)💝\n\n出費がかさむこの季節、配当倍率**最大15,000倍**のハイボラスロットで、**爆発的な勝利**を狙ってみてはいかがでしょうか。🤑🌟\n\n「Gates of Olympus Xmas 1000」は、**遊雅堂**でプレイできます。🥳❗\n\n**😍登録するだけでもらえる♪**\n\n[遊雅堂の入金不要ボーナスでプレイしましょう！](https://casinotsu.com/reviews/yuugado)",
           offerLink: "https://go.casinotsu.com/go/yuugado",
         },
       ],
@@ -346,7 +346,7 @@ export const christmasNewYearPromotions: BonusPageContent = {
     {
       heading: "ギャンブルの多様性と最新技術",
       paragraphs: [
-        "オンラインカジノは、スロットゲームだけでなく、ライブディーラーゲーム、伝統的なテーブルゲーム（[バカラ](https://www.casinotsu.com/baccarat)、<a href="https://casinotsu.com/roulette" target="_blank" rel="noopener noreferrer">ルーレット、<a href="https://casinotsu.com/blackjack" target="_blank" rel="noopener noreferrer">ブラックジャックなど）、さらに<a href="https://casinotsu.com/crash-games" target="_blank" rel="noopener noreferrer">クラッシュゲームや麻雀など、多種多様なゲームを提供しています。近年では、**VPNとの互換性**も向上し、プライバシー保護を強化したプレイが可能になっています。また、**ビットコイン（BTC）やテザー（USDT）などの仮想通貨**での入出金に対応するカジノも増えており、迅速かつ安全な取引を実現しています。これらの最新技術を取り入れたプラットフォームは、プレイヤーに快適なゲーム体験を提供します。",
+        "オンラインカジノは、スロットゲームだけでなく、ライブディーラーゲーム、伝統的なテーブルゲーム（[バカラ](https://www.casinotsu.com/baccarat)、[ルーレット、](https://casinotsu.com/roulette)[ブラックジャックなど）、さらに[クラッシュゲームや麻雀など、多種多様なゲームを提供しています。近年では、**VPNとの互換性**も向上し、プライバシー保護を強化したプレイが可能になっています。また、**ビットコイン（BTC）やテザー（USDT）などの仮想通貨**での入出金に対応するカジノも増えており、迅速かつ安全な取引を実現しています。これらの最新技術を取り入れたプラットフォームは、プレイヤーに快適なゲーム体験を提供します。](https://casinotsu.com/crash-games)](https://casinotsu.com/blackjack)",
       ],
       subsections: [
         {
@@ -409,16 +409,16 @@ export const christmasNewYearPromotions: BonusPageContent = {
     {
       heading: "ライター",
       paragraphs: [
-        <><a href="https://www.casinotsu.com/authors/nanami" target="_blank" rel="noopener noreferrer"><img src="https://casinotsu.com/images/authors/nanami.jpg" alt="Nanami" /></a>",
-        <><a href="https://www.casinotsu.com/authors/nanami" target="_blank" rel="noopener noreferrer">Nanami\n\n奈々美\n\nコンテンツライター",
-        <>オンラインカジノ業界に4年以上携わり、現在はジャパカジにて専属ライターを務めています。元ライブカジノディーラーとしての経歴から、特に<a href="https://casinotsu.com/baccarat" target="_blank" rel="noopener noreferrer">バカラ、<a href="https://casinotsu.com/roulette" target="_blank" rel="noopener noreferrer">ルーレット、<a href="https://casinotsu.com/blackjack" target="_blank" rel="noopener noreferrer">ブラックジャックなどのテーブルゲームについての知識が豊富です。🃏💪\nジャパカジでは記事を最新の情報に更新したり、より楽しいコンテンツになるように編集したりする作業を主に担当しています！\nさらに皆さんのオンカジライフに役立つ情報などについても実体験を交えながら解説していますので、ぜひ記事を楽しんでいただけると嬉しいです。😉🌸",
+        <>[](https://www.casinotsu.com/authors/nanami)<img src="https://casinotsu.com/images/authors/nanami.jpg" alt="Nanami" /></a>",
+        "[Nanami\n\n奈々美\n\nコンテンツライター](https://www.casinotsu.com/authors/nanami)",
+        <>オンラインカジノ業界に4年以上携わり、現在はジャパカジにて専属ライターを務めています。元ライブカジノディーラーとしての経歴から、特に[バカラ、](https://casinotsu.com/baccarat)[ルーレット、[ブラックジャックなどのテーブルゲームについての知識が豊富です。🃏💪\nジャパカジでは記事を最新の情報に更新したり、より楽しいコンテンツになるように編集したりする作業を主に担当しています！\nさらに皆さんのオンカジライフに役立つ情報などについても実体験を交えながら解説していますので、ぜひ記事を楽しんでいただけると嬉しいです。😉🌸](https://casinotsu.com/blackjack)](https://casinotsu.com/roulette)",
       ],
     },
     {
       heading: "クッキーポリシー",
       paragraphs: [
         "当サイトはクッキーを使用しています。",
-        "続行することにより、お客様は当サイトの <a href="https://casinotsu.com/about/cookie-policy" target="_blank" rel="noopener noreferrer">Cookie Policy</a> クッキーポリシー.に同意したとみなされます。",
+        "続行することにより、お客様は当サイトの [Cookie Policy](https://casinotsu.com/about/cookie-policy) クッキーポリシー.に同意したとみなされます。",
       ],
     },
   ],

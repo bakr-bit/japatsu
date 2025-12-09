@@ -21,7 +21,7 @@ export const sideBetCity: GameShowPageContent = {
         {
           subheading: "ポーカーを3分で学ぶ！",
           paragraphs: [
-            "[ジャパカジ特製！ポーカーチュートリアルはこちら！](https://www.casinotsu.com/poker) CasinoTsu は、<a href="https://casinotsu.com/poker/rules" target="_blank" rel="noopener noreferrer">ポーカーの基本 を素早く学ぶためのチュートリアルもご用意しております。",
+            "[ジャパカジ特製！ポーカーチュートリアルはこちら！](https://www.casinotsu.com/poker) CasinoTsu は、[ポーカーの基本 を素早く学ぶためのチュートリアルもご用意しております。](https://casinotsu.com/poker/rules)",
           ],
         },
       ],
@@ -66,13 +66,13 @@ export const sideBetCity: GameShowPageContent = {
     {
       heading: "どこで遊べるか",
       paragraphs: [
-        "サイド・ベット・シティは、[ライブカジノ](https://www.casinotsu.com/live-casino) で有名なエボリューションゲーミングによって開発されており、多くのオンラインカジノでプレイ可能です。これらのカジノでは、新規プレイヤー向けの<a href="https://casinotsu.com/bonuses/welcome-bonus" target="_blank" rel="noopener noreferrer">ウェルカムボーナス や、既存プレイヤー向けのプロモーションが提供されている場合があります。 CasinoTsu は、ボーナスを利用する際は、賭け条件（ボーナス額の何倍をベットする必要があるか）を確認することが重要であると、常に注意喚起しております。",
+        "サイド・ベット・シティは、[ライブカジノ](https://www.casinotsu.com/live-casino) で有名なエボリューションゲーミングによって開発されており、多くのオンラインカジノでプレイ可能です。これらのカジノでは、新規プレイヤー向けの[ウェルカムボーナス や、既存プレイヤー向けのプロモーションが提供されている場合があります。 CasinoTsu は、ボーナスを利用する際は、賭け条件（ボーナス額の何倍をベットする必要があるか）を確認することが重要であると、常に注意喚起しております。](https://casinotsu.com/bonuses/welcome-bonus)",
       ],
       subsections: [
         {
           subheading: "Bitcoinカジノでのプレイ",
           paragraphs: [
-            "このゲームは、[ビットコイン](https://www.casinotsu.com/crypto) などの仮想通貨を利用できるカジノでも提供されています。仮想通貨カジノは、迅速な入出金や、より匿名性の高いプレイを求めるプレイヤーに人気があります。 CasinoTsu は、多様な<a href="https://casinotsu.com/payment" target="_blank" rel="noopener noreferrer">決済方法 に対応するカジノもご紹介しております。",
+            "このゲームは、[ビットコイン](https://www.casinotsu.com/crypto) などの仮想通貨を利用できるカジノでも提供されています。仮想通貨カジノは、迅速な入出金や、より匿名性の高いプレイを求めるプレイヤーに人気があります。 CasinoTsu は、多様な[決済方法 に対応するカジノもご紹介しております。](https://casinotsu.com/payment)",
           ],
         },
       ],
@@ -154,9 +154,9 @@ export const sideBetCity: GameShowPageContent = {
             "サイド・ベット・シティは、[ライブカジノソフトウェア](https://www.casinotsu.com/live-casino) のリーディングカンパニーであるエボリューションゲーミングによって開発されました。同社は、革新的なゲームショーや高品質なライブディーラーゲームで世界的に有名です。 CasinoTsu は、エボリューションゲーミングの信頼性とゲームの品質を高く評価しております。",
           ],
           bullets: [
-            <>**ライセンス:** <a href="https://casinotsu.com/info/casino-license" target="_blank" rel="noopener noreferrer">マルタゲーミングオーソリティ（MGA）などの主要な規制機関からライセンスを取得しています。 CasinoTsu は、ライセンス情報はプレイヤーの安全性を確認する上で不可欠であると考えています。",
+            "**ライセンス:** [マルタゲーミングオーソリティ（MGA）などの主要な規制機関からライセンスを取得しています。 CasinoTsu は、ライセンス情報はプレイヤーの安全性を確認する上で不可欠であると考えています。](https://casinotsu.com/info/casino-license)",
             "**リリース日:** サイド・ベット・シティは2019年にリリースされました。",
-            <>**他の人気作品:** 「<a href="https://casinotsu.com/game-shows/crazy-time" target="_blank" rel="noopener noreferrer">クレイジータイム」、「<a href="https://casinotsu.com/game-shows/monopoly-live" target="_blank" rel="noopener noreferrer">モノポリーライブ」、「<a href="https://casinotsu.com/game-shows/lightning-roulette" target="_blank" rel="noopener noreferrer">ライトニングルーレット」など、数々のヒットゲームを提供しています。 CasinoTsu は、これらの人気ゲームについても、随時レビューを更新してまいります。",
+            <>**他の人気作品:** 「[クレイジータイム」、「](https://casinotsu.com/game-shows/crazy-time)[モノポリーライブ」、「[ライトニングルーレット」など、数々のヒットゲームを提供しています。 CasinoTsu は、これらの人気ゲームについても、随時レビューを更新してまいります。](https://casinotsu.com/game-shows/lightning-roulette)](https://casinotsu.com/game-shows/monopoly-live)",
           ],
         },
       ],
@@ -222,7 +222,7 @@ export const sideBetCity: GameShowPageContent = {
           bullets: [
             "**3カードハンドを狙う:** 3カードハンドのRTPは96.69%と、4つのベットオプションの中で最も高いため、最も有利な賭け方と言えます。 CasinoTsu は、この有利なベットを優先することをお勧めします。",
             "**ALL LOSEベットの活用:** ALL LOSEベットのRTPも96.29%と比較的高いので、リスク分散のために組み合わせるのも良いでしょう。",
-            "**複数ハンドへの同時ベット:** 複数のハンドに同時にベットすることは可能ですが、それぞれのベット額が初期投資額をカバーできるか慎重に検討する必要があります。特に、1:1の配当（ペアなど）は頻繁に発生するわけではないため、[資金管理](https://www.casinotsu.com/) が重要になります。 CasinoTsu は、<a href="https://casinotsu.com/responsible-gambling" target="_blank" rel="noopener noreferrer">責任あるギャンブル の観点から、慎重なベットを推奨いたします。",
+            "**複数ハンドへの同時ベット:** 複数のハンドに同時にベットすることは可能ですが、それぞれのベット額が初期投資額をカバーできるか慎重に検討する必要があります。特に、1:1の配当（ペアなど）は頻繁に発生するわけではないため、[資金管理](https://www.casinotsu.com/) が重要になります。 CasinoTsu は、[責任あるギャンブル の観点から、慎重なベットを推奨いたします。](https://casinotsu.com/responsible-gambling)",
           ],
         },
         {
@@ -263,7 +263,7 @@ export const sideBetCity: GameShowPageContent = {
             "エボリューションゲーミングは、サイド・ベット・シティ以外にも、様々なポーカーベースの[ライブゲーム](https://www.casinotsu.com/poker) を提供しています。 CasinoTsu は、これらのゲームもチェック、ダブルチェック、そして CasinoTsu チェック を経て、皆様にご紹介しております。",
           ],
           bullets: [
-            <>**カジノホールデム (Casino Hold'em):** プレイヤーがカジノディーラーと<a href="https://casinotsu.com/poker/texas-hold-em" target="_blank" rel="noopener noreferrer">テキサスホールデム で対戦します。",
+            "**カジノホールデム (Casino Hold'em):** プレイヤーがカジノディーラーと[テキサスホールデム で対戦します。](https://casinotsu.com/poker/texas-hold-em)",
             "**スリーカードポーカー (Three Card Poker):** 3枚のカードでディーラーと勝負する、シンプルなポーカーゲームです。",
           ],
         },
@@ -290,7 +290,7 @@ export const sideBetCity: GameShowPageContent = {
     },
     {
       question: "モバイルデバイスでプレイできますか？",
-      answer: <>はい、スマートフォンやタブレットなど、あらゆるモバイルデバイスで快適にプレイできます。 CasinoTsu は、<a href="https://casinotsu.com/mobile" target="_blank" rel="noopener noreferrer">モバイル対応 の重要性を認識しております。",
+      answer: "はい、スマートフォンやタブレットなど、あらゆるモバイルデバイスで快適にプレイできます。 CasinoTsu は、[モバイル対応 の重要性を認識しております。](https://casinotsu.com/mobile)",
     },
   ],
 

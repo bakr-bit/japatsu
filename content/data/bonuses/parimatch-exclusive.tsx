@@ -35,7 +35,7 @@ export const parimatchExclusiveBonus: BonusPageContent = {
       heading: "ジャパカジ限定！スロット専用無料ボーナス！",
       description: [
         "30年以上の歴史を持つ企業が運営する、日本人プレイヤー向けのオンラインカジノサイト、[パリマッチ](https://www.casinotsu.com/bonuses) をご紹介します。",
-        <>ジャパカジの読者の皆様のために、特別な<a href="https://www.casinotsu.com/bonuses/no-deposit" target="_blank" rel="noopener noreferrer"><strong>入金不要ボーナス</strong> をご用意いただきました！🥳",
+        <>ジャパカジの読者の皆様のために、特別な[](https://www.casinotsu.com/bonuses/no-deposit)<strong>入金不要ボーナス</strong> をご用意いただきました！🥳",
         "ジャパカジ経由でのご登録、および電話番号認証・メールアドレス認証を完了された方には、**カジノスロット**専用の無料ボーナスとして、**5,250円分** をプレゼントいたします。🎁",
         "この機会に、パリマッチが提供する豊富なゲームラインナップを無料で体験いただけます。早速、詳細をご確認ください。🌟",
       ],
@@ -54,18 +54,18 @@ export const parimatchExclusiveBonus: BonusPageContent = {
       heading: "1. 導入・概要：パリマッチのジャパカジ限定入金不要ボーナス5,250円！",
       paragraphs: [
         "簡単な登録手続きを完了するだけで、スロット専用の無料ボーナスを獲得いただけます。この機会に、ぜひパリマッチをリスクフリーでお楽しみください。",
-        "[Gamblingtherapy.org/ja](https://www.casinotsu.com/bonuses/no-deposit) | 利用規約に関する詳細につきましては、公式サイトにてご確認いただきますようお願い申し上げます。 | <a href="https://go.casinotsu.com/go/parimatch_terms?referrer_path=%2Foffers%2Fparimatch-exclusive" target="_blank" rel="noopener noreferrer">利用規約が適用されます",
+        "[Gamblingtherapy.org/ja](https://www.casinotsu.com/bonuses/no-deposit) | 利用規約に関する詳細につきましては、公式サイトにてご確認いただきますようお願い申し上げます。 | [利用規約が適用されます](https://go.casinotsu.com/go/parimatch_terms?referrer_path=%2Foffers%2Fparimatch-exclusive)",
       ],
     },
     {
       heading: "2. オファー基本情報：ジャパカジ限定！スロット専用無料ボーナス！",
       paragraphs: [
         "30年以上の歴史を持つ企業が運営する、日本人プレイヤー向けのオンラインカジノサイト、[パリマッチ](https://www.casinotsu.com/) をご紹介します。",
-        <>ジャパカジの読者の皆様のために、特別な<a href="https://www.casinotsu.com/bonuses/no-deposit" target="_blank" rel="noopener noreferrer"><strong>入金不要ボーナス</strong> をご用意いただきました！🥳",
+        <>ジャパカジの読者の皆様のために、特別な[](https://www.casinotsu.com/bonuses/no-deposit)<strong>入金不要ボーナス</strong> をご用意いただきました！🥳",
         "ジャパカジ経由でのご登録、および電話番号認証・メールアドレス認証を完了された方には、**カジノスロット**専用の無料ボーナスとして、**5,250円分** をプレゼントいたします。🎁",
         "この機会に、パリマッチが提供する豊富なゲームラインナップを無料で体験いただけます。早速、詳細をご確認ください。🌟",
         "**🐶8,900種類以上のゲームを取り揃える、日本人向けカジノ！**",
-        <><a href="https://www.casinotsu.com/reviews/parimatch" target="_blank" rel="noopener noreferrer">パリマッチのレビュー ページはこちらでございます★",
+        "[パリマッチのレビュー ページはこちらでございます★](https://www.casinotsu.com/reviews/parimatch)",
       ],
       subsections: [
         {
@@ -107,7 +107,7 @@ export const parimatchExclusiveBonus: BonusPageContent = {
         "③ ログイン後、すぐに**電話番号認証**画面が表示されます。届いた認証番号を入力し、認証を完了させてください。😎",
         "④ 同様に、ご登録いただいたメールアドレス宛に、メールアドレス認証のご案内が届きます。「**メールアドレスを確認**」ボタンをクリックして、認証を完了させてください。",
         "⑤ 上記の手続きが完了しますと、入金不要ボーナスが**アカウントに自動で付与**されます。",
-        <>⑥ 入金不要ボーナスを受け取りましたら、スロットカテゴリーの「**賭け条件対象**」の中からお好きなゲームをお選びいただき、<a href="https://www.casinotsu.com/guides/wagering-requirements" target="_blank" rel="noopener noreferrer"><strong>出金条件</strong> 達成を目指してプレイをお楽しみください。💪🔥",
+        <>⑥ 入金不要ボーナスを受け取りましたら、スロットカテゴリーの「**賭け条件対象**」の中からお好きなゲームをお選びいただき、[](https://www.casinotsu.com/guides/wagering-requirements)<strong>出金条件</strong> 達成を目指してプレイをお楽しみください。💪🔥",
         "サポ美\n\n入金不要ボーナスの賭け条件達成状況は、ボーナスページにていつでもご確認いただけます💡",
       ],
     },
@@ -133,7 +133,7 @@ export const parimatchExclusiveBonus: BonusPageContent = {
         "**パリマッチ**は2007年に設立され、30年近くの歴史を持つオンラインカジノです。カジノゲームとスポーツベットが同一プラットフォームで楽しめ、「**クエスト**」と呼ばれる独自の機能では、ゲームをプレイしながら条件を達成してボーナスを獲得できるなど、ユニークな魅力にあふれています。🔥",
         "さらに、日本人プレイヤー向けのゲームカテゴリー「**和風**」や、[**日本語対応の[カジノカスタマーサポート](https://www.casinotsu.com/bonuses)**](https://www.casinotsu.com/customer-support) も完備されており、安心してプレイできる環境が整っています。(❁´◡`❁)💖",
         "パリマッチは**キュラソーライセンス**を取得しており、SSL技術によるセキュリティ対策も万全です。これにより、プレイヤーの皆様は安全にゲームをお楽しみいただけます。",
-        <>パリマッチの<a href="https://www.casinotsu.com/bonuses/welcome-bonus" target="_blank" rel="noopener noreferrer"><strong>オンカジ限定初回入金ボーナス</strong> の詳細や、遊べるゲーム、決済方法など、カジノに関する詳細情報にご興味のある方は、ぜひ<strong><a href="https://www.casinotsu.com/reviews/parimatch" target="_blank" rel="noopener noreferrer">パリマッチのレビューページ</strong>をご覧ください。",
+        <>パリマッチの[](https://www.casinotsu.com/bonuses/welcome-bonus)<strong>オンカジ限定初回入金ボーナス</strong> の詳細や、遊べるゲーム、決済方法など、カジノに関する詳細情報にご興味のある方は、ぜひ**[パリマッチのレビューページ](https://www.casinotsu.com/reviews/parimatch)**をご覧ください。",
         "**運営会社:**",
         "*   **会社名:** Parimatch N.V.",
         "*   **設立年:** 2007年",

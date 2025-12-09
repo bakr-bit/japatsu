@@ -36,16 +36,16 @@ export const stakeRakebackBonus: BonusPageContent = {
     {
       heading: "仮想通貨ユーザー必見！ レーキバックボーナスをゲット 💰",
       paragraphs: [
-        "[Gamblingtherapy.org/ja](https://www.casinotsu.com/bonuses) \| 利用規約の詳細につきましては、ステークカジノ公式サイトにてご確認くださいますようお願い申し上げます。 \| <a href="https://go.casinotsu.com/go/stake_terms?referrer_path=%2Foffers%2Fstake-rake-back" target="_blank" rel="noopener noreferrer">利用規約 が適用されます",
+        "[Gamblingtherapy.org/ja](https://www.casinotsu.com/bonuses) \| 利用規約の詳細につきましては、ステークカジノ公式サイトにてご確認くださいますようお願い申し上げます。 \| [利用規約 が適用されます](https://go.casinotsu.com/go/stake_terms?referrer_path=%2Foffers%2Fstake-rake-back)",
         "**ステークカジノ（Stake.com）** は、2021年に設立されたオンラインカジノで、**20種類以上の仮想通貨**に対応しており、仮想通貨ユーザーにとって大変魅力的なプラットフォームです💫",
         "さらに！ **賭け額に応じてハウスエッジの5%が還元されるレーキバック**ボーナスが提供されています🙌",
-        <>💡 <a href="https://casinotsu.com/guides/house-edge" target="_blank" rel="noopener noreferrer"><strong>ハウスエッジ</strong> とは、カジノ側の取り分を指します。ステークカジノは、その一部をプレイヤーの皆様に還元することで、より一層お楽しみいただけるように工夫されています💪✨",
-        <>特筆すべきは、この **レーキバックボーナスの** <a href="https://casinotsu.com/guides/wagering-requirements" target="_blank" rel="noopener noreferrer"><strong>賭け条件</strong> **が一切ない** 点です🔥",
+        <>💡 [](https://casinotsu.com/guides/house-edge)<strong>ハウスエッジ</strong> とは、カジノ側の取り分を指します。ステークカジノは、その一部をプレイヤーの皆様に還元することで、より一層お楽しみいただけるように工夫されています💪✨",
+        <>特筆すべきは、この **レーキバックボーナスの** [](https://casinotsu.com/guides/wagering-requirements)<strong>賭け条件</strong> **が一切ない** 点です🔥",
         "獲得したボーナスは、すぐに出金することも、そのままプレイを続けることも可能です🙆‍♀️ どのように活用するかは、プレイヤーの皆様の自由です🌟",
         "通常、10,000ドル以上の賭けを完了するとVIPのブロンズレベルに昇格し、レーキバックボーナスの対象となります。しかし、 **CasinoTsu / casinotsu.comを経由してご登録いただくと、開始直後から5%のレーキバックボーナスが適用** されます🎉",
         "プレイすればするほど、レーキバックが貯まっていくのを実感いただけるでしょう。",
         "この機会に、ぜひステークカジノで存分にお楽しみくださいませ😍",
-        <>**✨20種類以上の仮想通貨が利用可能！ スポーツベットからポーカーまで楽しめるクリプトカジノ★** <a href="https://casinotsu.com/reviews/stake" target="_blank" rel="noopener noreferrer">ステークカジノの入金不要ボーナスやカジノ詳細 については、レビューページも併せてご確認ください♪",
+        "**✨20種類以上の仮想通貨が利用可能！ スポーツベットからポーカーまで楽しめるクリプトカジノ★** [ステークカジノの入金不要ボーナスやカジノ詳細 については、レビューページも併せてご確認ください♪](https://casinotsu.com/reviews/stake)",
       ],
     },
     {
@@ -128,7 +128,7 @@ export const stakeRakebackBonus: BonusPageContent = {
           paragraphs: [
             "**ジャパカジ限定レーキバックオファー** は、[**ステークカジノのジャパカジ限定『入金不要ボーナス』『初回入金ボーナス』**](https://www.casinotsu.com/bonuses/no-deposit) とは **併用できません**。どちらのボーナスをご希望されるか、慎重にご検討の上、ボーナスコードをご入力ください。",
             "**ハウスエッジの割合について**: 5%というレーキバック率は、ハウスエッジの割合を示しており、総賭け額に対する割合ではございません。このため、他のレーキバックオファーと比較して、一部では還元率が低いと感じられる場合もございます。",
-            <>**予算を超えたプレイの禁止**: レーキバックボーナス獲得のみを目的として、ご自身の予算を超えるプレイをすることは推奨いたしません。常に<a href="https://casinotsu.com/info/responsible-gambling" target="_blank" rel="noopener noreferrer">責任あるギャンブルを心がけていただきますようお願い申し上げます。",
+            "**予算を超えたプレイの禁止**: レーキバックボーナス獲得のみを目的として、ご自身の予算を超えるプレイをすることは推奨いたしません。常に[責任あるギャンブルを心がけていただきますようお願い申し上げます。](https://casinotsu.com/info/responsible-gambling)",
           ],
         },
         {
@@ -179,7 +179,7 @@ export const stakeRakebackBonus: BonusPageContent = {
           subheading: "効率的なゲーム選択",
           paragraphs: [
             "レーキバックの効率を最大化するためには、ハウスエッジが2〜4%のゲームを選択することをお勧めいたします。これにより、良好なRTP（Return To Player：プレイヤーへの還元率）とレーキバック還元のバランスを取ることが可能となります。",
-            "例えば、[ブラックジャック](https://www.casinotsu.com/blackjack) や一部の<a href="https://casinotsu.com/roulette" target="_blank" rel="noopener noreferrer">ルーレット ゲームは、一般的にハウスエッジが低く設定されています。",
+            "例えば、[ブラックジャック](https://www.casinotsu.com/blackjack) や一部の[ルーレット ゲームは、一般的にハウスエッジが低く設定されています。](https://casinotsu.com/roulette)",
           ],
         },
         {
@@ -196,12 +196,12 @@ export const stakeRakebackBonus: BonusPageContent = {
       paragraphs: [
         "ステークカジノは、20種類以上の仮想通貨に対応しており、迅速な入出金が可能です。",
         "**主な仮想通貨**:",
-        "-   <a href="https://casinotsu.com/payment/bitcoin" target="_blank" rel="noopener noreferrer">ビットコイン (BTC)</a>",
-        <>-   <a href="https://casinotsu.com/payment/ethereum" target="_blank" rel="noopener noreferrer">イーサリアム (ETH)",
-        <>-   <a href="https://casinotsu.com/payment/crypto" target="_blank" rel="noopener noreferrer">ライトコイン (LTC)",
-        <>-   <a href="https://casinotsu.com/payment/crypto" target="_blank" rel="noopener noreferrer">リップル (XRP)",
-        <>-   <a href="https://casinotsu.com/payment/crypto" target="_blank" rel="noopener noreferrer">ドージコイン (DOGE)",
-        <>-   <a href="https://casinotsu.com/payment/usdt" target="_blank" rel="noopener noreferrer">テザー (USDT) など",
+        "-   [ビットコイン (BTC)](https://casinotsu.com/payment/bitcoin)",
+        "-   [イーサリアム (ETH)](https://casinotsu.com/payment/ethereum)",
+        "-   [ライトコイン (LTC)](https://casinotsu.com/payment/crypto)",
+        "-   [リップル (XRP)](https://casinotsu.com/payment/crypto)",
+        "-   [ドージコイン (DOGE)](https://casinotsu.com/payment/crypto)",
+        "-   [テザー (USDT) など](https://casinotsu.com/payment/usdt)",
         "**手数料**: 通常、仮想通貨のネットワーク手数料のみとなります。",
         "**処理時間**: 通常、数分から数時間で完了します。",
       ],

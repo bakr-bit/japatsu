@@ -75,11 +75,11 @@ export const vipBonuses: BonusPageContent = {
           paragraphs: [
             "CasinoTsuは、VIPボーナスの安全性について、信頼できるオンラインカジノに限って安全であると評価しています。",
             "[**ゲーミングライセンス**](https://www.casinotsu.com/bonuses) を取得しているオンラインカジノのご利用を推奨いたします⛑",
-            <>ライセンスを保有するカジノでは、 <a href="https://casinotsu.com/guides/rng-explained" target="_blank" rel="noopener noreferrer"><strong>RNG</strong> （乱数生成器）が使用されており、ゲームの公平性が保証されています⚖️ VIPゲームのRNG認証についても、各カジノのライセンス情報などでご確認いただけます。",
+            <>ライセンスを保有するカジノでは、 [](https://casinotsu.com/guides/rng-explained)<strong>RNG</strong> （乱数生成器）が使用されており、ゲームの公平性が保証されています⚖️ VIPゲームのRNG認証についても、各カジノのライセンス情報などでご確認いただけます。",
             "また、VIPボーナスが安全であっても、過度なプレイは避けるべきです🙀",
-            <>CasinoTsuは、<a href="https://casinotsu.com/info/responsible-gambling" target="_blank" rel="noopener noreferrer"><strong>責任あるギャンブル</strong> を心がけることを強く推奨いたします。",
+            <>CasinoTsuは、[](https://casinotsu.com/info/responsible-gambling)<strong>責任あるギャンブル</strong> を心がけることを強く推奨いたします。",
             "🚔 **プレイヤーをギャンブル依存から守る取組み**",
-            <><a href="https://casinotsu.com/info/responsible-gambling" target="_blank" rel="noopener noreferrer">オンラインカジノの責任あるギャンブルとは？ VIPプレイヤー向けの、より高度な自己制限ツール（入金制限、セッションタイマーなど）も提供されている場合がありますので、積極的にご活用ください。",
+            "[オンラインカジノの責任あるギャンブルとは？ VIPプレイヤー向けの、より高度な自己制限ツール（入金制限、セッションタイマーなど）も提供されている場合がありますので、積極的にご活用ください。](https://casinotsu.com/info/responsible-gambling)",
           ],
         },
         {
@@ -89,17 +89,17 @@ export const vipBonuses: BonusPageContent = {
             "多くのオンラインカジノでは、通常時にも様々なボーナスやキャンペーンを実施していますが、VIPプレイヤーにはさらに魅力的な限定オファーが用意されています。どのようなオファーが受けられるのか、期待が高まりますね😍",
             "**ボーナス内容は、ボーナスマネーやフリースピン** です。また、 [**オンカジ限定キャッシュバック**](https://www.casinotsu.com/) や **リベートボーナスの割合が向上** します。プレイすればするほど、お得になる仕組みです😆",
             "さらに、誕生日ボーナスがより豪華になったり、VIP限定フリースピンが付与されたりすることもあります❗️",
-            <>**CasinoTsu 推薦：<a href="https://casinotsu.com/reviews/wsm-casino" target="_blank" rel="noopener noreferrer">WSMカジノ** では、毎週最大25％のキャッシュバックボーナスも提供しています💰💰",
-            <><a href="https://go.casinotsu.com/go/wsm-casino" target="_blank" rel="noopener noreferrer"><strong>👉 WSMカジノに登録！</strong>",
+            "**CasinoTsu 推薦：[WSMカジノ** では、毎週最大25％のキャッシュバックボーナスも提供しています💰💰](https://casinotsu.com/reviews/wsm-casino)",
+            <>[](https://go.casinotsu.com/go/wsm-casino)<strong>👉 WSMカジノに登録！</strong>",
           ],
         },
         {
           subheading: "VIPボーナスで勝てるの？",
           paragraphs: [
-            "VIPボーナスであっても、 [**ウェルカムボーナス**](https://www.casinotsu.com/bonuses/welcome-bonus) や <a href="https://casinotsu.com/bonuses/no-deposit-bonus" target="_blank" rel="noopener noreferrer"><strong>入金不要ボーナス</strong>、リアルマネーでのプレイと同様に、 **勝利できるかどうかは運次第** です🎉",
+            "VIPボーナスであっても、 [**ウェルカムボーナス**](https://www.casinotsu.com/bonuses/welcome-bonus) や [](https://casinotsu.com/bonuses/no-deposit-bonus)<strong>入金不要ボーナス</strong>、リアルマネーでのプレイと同様に、 **勝利できるかどうかは運次第** です🎉",
             "運が良ければ勝利できますし、そうでない場合もあります😆",
             "🤩 **ジャパカジ限定ボーナスも盛りだくさん！**",
-            <><a href="https://casinotsu.com/offers" target="_blank" rel="noopener noreferrer">全てのお得なオファーを今すぐチェック！！",
+            "[全てのお得なオファーを今すぐチェック！！](https://casinotsu.com/offers)",
           ],
         },
       ],
@@ -131,7 +131,7 @@ export const vipBonuses: BonusPageContent = {
             "例えば [**ビットカジノ**](https://www.casinotsu.com/reviews/bitcasino) では、過去に以下のようなイベントが開催されています。",
             "- VIP弾丸ツアー in クロアチア\n- チャンピオンズリーグ決勝戦ツアー in キエフ",
             "💰 **ビットコインも日本円も便利に使い分けられる！**",
-            <><a href="https://casinotsu.com/reviews/bitcasino-io" target="_blank" rel="noopener noreferrer">ビットカジノ（Bitcasino.io）の徹底レビューをチェック★",
+            "[ビットカジノ（Bitcasino.io）の徹底レビューをチェック★](https://casinotsu.com/reviews/bitcasino-io)",
           ],
         },
         {
@@ -141,10 +141,10 @@ export const vipBonuses: BonusPageContent = {
             "VIP専用テーブルは、内装や雰囲気がより高級感にあふれています😁✨",
             "VIP専用テーブルの利用には、 **一定額以上の入金が必要** となったり、利用条件が設定されていたりします。また、 **最低・最高ベット額も通常テーブルよりも高く設定** されています💰",
             "一人でテーブルを独占できるため、ご自身のペースでディーラーと1対1でプレイすることが可能です。",
-            <><a href="https://casinotsu.com/providers/evolution" target="_blank" rel="noopener noreferrer"><strong>Evolution</strong> 社のSalon Priveシリーズなどが有名で、スタジオセットもVIP仕様となっています✨",
+            <>[](https://casinotsu.com/providers/evolution)<strong>Evolution</strong> 社のSalon Priveシリーズなどが有名で、スタジオセットもVIP仕様となっています✨",
             "また、日本のプレイヤー向けに、 **日本人ディーラーが対応するVIPテーブル** や、**アジア市場に特化したスタジオ** から配信されるテーブルも存在します。",
             "**CasinoTsu 推薦：豊富なライブカジノ種類とVIPランクごとのリベートボーナスに注目！**",
-            <><a href="https://casinotsu.com/reviews/live-casino-house" target="_blank" rel="noopener noreferrer">ライブカジノハウスの評判・レビューをチェック😎",
+            "[ライブカジノハウスの評判・レビューをチェック😎](https://casinotsu.com/reviews/live-casino-house)",
           ],
         },
         {
@@ -153,7 +153,7 @@ export const vipBonuses: BonusPageContent = {
             "多くのカジノでは、VIPプレイヤーに対して通常のカスタマーサポートよりも手厚いサポートを提供しています。",
             "例えば、VIPプレイヤー限定でLINE通話📞 によるサポートを提供していたり、24時間いつでも迅速なサポートが受けられたりします。 **専属のVIPマネージャー** がつき、 **数分以内** でのレスポンスが期待できる場合もあります。",
             "**CasinoTsu 推薦：[ウィキベット](https://www.casinotsu.com/customer-support) ではエリートチームが毎日プレイヤーを評価して特別招待**",
-            <><a href="https://go.casinotsu.com/go/wikibet" target="_blank" rel="noopener noreferrer"><strong>👉 ウィキベットに登録！</strong>",
+            <>[](https://go.casinotsu.com/go/wikibet)<strong>👉 ウィキベットに登録！</strong>",
           ],
         },
         {
@@ -178,8 +178,8 @@ export const vipBonuses: BonusPageContent = {
           subheading: "ハイローラーになる",
           paragraphs: [
             "多額の入金や高額ベットを行う [**ハイローラー**](https://www.casinotsu.com/guides/high-roller) になることは、VIPレベルを上げるための有効な手段の一つです✨",
-            <>例えば、 <a href="https://casinotsu.com/reviews/eldoah" target="_blank" rel="noopener noreferrer"><strong>エルドアカジノ</strong> では、「即時昇格プラン」が明記されており、一定額以上の入金を行うことで、すぐにVIPへ昇格することが可能です♪",
-            <>**CasinoTsu 推薦：最短1日で最上位VIPレベルになれるカジノとは！？** <a href="https://casinotsu.com/reviews/wonder-casino" target="_blank" rel="noopener noreferrer">ワンダーカジノに登録 して特別待遇を受けましょう♡",
+            <>例えば、 [](https://casinotsu.com/reviews/eldoah)<strong>エルドアカジノ</strong> では、「即時昇格プラン」が明記されており、一定額以上の入金を行うことで、すぐにVIPへ昇格することが可能です♪",
+            "**CasinoTsu 推薦：最短1日で最上位VIPレベルになれるカジノとは！？** [ワンダーカジノに登録 して特別待遇を受けましょう♡](https://casinotsu.com/reviews/wonder-casino)",
           ],
         },
         {
@@ -196,7 +196,7 @@ export const vipBonuses: BonusPageContent = {
             "多くのカジノで分散してプレイするよりも、 **一つのカジノに集中してプレイする** ことが、ランクアップへの近道となります。",
             "ただし、 [**コニベット**](https://www.casinotsu.com/reviews/konibet) のようなカジノでは、 **VIPランクの降格がない** ため、安心してプレイを続けることができます。",
             "それでも、カジノゲームのプレイしすぎには注意が必要です。",
-            <><a href="https://casinotsu.com/info/responsible-gambling" target="_blank" rel="noopener noreferrer"><strong>責任あるギャンブル</strong> を忘れずに行いましょう💡",
+            <>[](https://casinotsu.com/info/responsible-gambling)<strong>責任あるギャンブル</strong> を忘れずに行いましょう💡",
           ],
         },
       ],
@@ -206,13 +206,13 @@ export const vipBonuses: BonusPageContent = {
       paragraphs: [
         "VIPボーナスも、その内容はボーナスマネーやフリースピンであり、使い方は [**ウェルカムボーナス**](https://www.casinotsu.com/free-spins) などの他のボーナスと基本的に同様ですが、必ずボーナス規約をご確認ください。",
         "🔰 **ボーナスについてご不明な点がある方はこちら**",
-        <><a href="https://casinotsu.com/bonuses" target="_blank" rel="noopener noreferrer">オンカジでもらえるボーナス を徹底解説！",
+        "[オンカジでもらえるボーナス を徹底解説！](https://casinotsu.com/bonuses)",
       ],
       subsections: [
         {
           subheading: "VIPゲームのRTPと特徴",
           paragraphs: [
-            "VIPプレイヤーは、一般的に標準ゲームよりも高いRTP（還元率）を持つゲームにアクセスできる場合があります。例えば、シングルデッキ [**ブラックジャック**](https://www.casinotsu.com/blackjack) のRTPは99.55%、ヨーロピアン <a href="https://casinotsu.com/roulette" target="_blank" rel="noopener noreferrer"><strong>ルーレット</strong> は97.30%といった高い数値が期待できます。これらのゲームは、VIPプレイヤーがより有利にプレイできるように設計されている場合があります。",
+            "VIPプレイヤーは、一般的に標準ゲームよりも高いRTP（還元率）を持つゲームにアクセスできる場合があります。例えば、シングルデッキ [**ブラックジャック**](https://www.casinotsu.com/blackjack) のRTPは99.55%、ヨーロピアン [](https://casinotsu.com/roulette)<strong>ルーレット</strong> は97.30%といった高い数値が期待できます。これらのゲームは、VIPプレイヤーがより有利にプレイできるように設計されている場合があります。",
           ],
         },
         {
@@ -267,7 +267,7 @@ export const vipBonuses: BonusPageContent = {
             "普段ご利用の **[決済方法](https://www.casinotsu.com/payment)** が、ボーナス受け取りの条件に合致しているかも確認しましょう。",
             "決済方法によってボーナスが受け取れないといったケースは基本的にありませんが、念のため確認することをお勧めします😅",
             "**仮想通貨の活用**",
-            <>VIPプレイヤーは、 <strong><a href="https://casinotsu.com/payment/bitcoin" target="_blank" rel="noopener noreferrer">ビットコイン（BTC）</strong>、<strong><a href="https://casinotsu.com/payment/ethereum" target="_blank" rel="noopener noreferrer">イーサリアム（ETH）</strong>、ライトコイン（LTC）、ソラナ（SOL）、<a href="https://casinotsu.com/payment/usdt" target="_blank" rel="noopener noreferrer">テザー（USDT） などの主要な仮想通貨を利用できます。特に **TRC20やPolygonネットワーク** を利用することで、手数料を抑えつつ迅速な取引が可能です。仮想通貨は、 **即時出金、匿名性の高さ、低手数料** といったメリットがあり、VIPプレイヤーにとって非常に便利です。特に **USDT** は、その安定した価値から、高額取引でも安心して利用できます。",
+            "VIPプレイヤーは、 **[ビットコイン（BTC）](https://casinotsu.com/payment/bitcoin)**、**[イーサリアム（ETH）](https://casinotsu.com/payment/ethereum)**、ライトコイン（LTC）、ソラナ（SOL）、[テザー（USDT） などの主要な仮想通貨を利用できます。特に **TRC20やPolygonネットワーク** を利用することで、手数料を抑えつつ迅速な取引が可能です。仮想通貨は、 **即時出金、匿名性の高さ、低手数料** といったメリットがあり、VIPプレイヤーにとって非常に便利です。特に **USDT** は、その安定した価値から、高額取引でも安心して利用できます。](https://casinotsu.com/payment/usdt)",
           ],
         },
         {
@@ -276,9 +276,9 @@ export const vipBonuses: BonusPageContent = {
             "どれほど **VIPボーナスが魅力的であっても、そのVIPランクに到達できなければ意味がありません** w",
             "ご自身のプレイスタイルに合ったVIPランクアップの条件であるかも、しっかりと確認しましょう。",
             "**CasinoTsu 推薦：20種類以上の仮想通貨で遊ぼう！VIPクラブは何とレベルの降格なし！** [ステークカジノの入金ボーナス詳細＆カジノレビューはこちらからチェック♪](https://www.casinotsu.com/bonuses)",
-            <>ちなみに、 <a href="https://casinotsu.com/reviews/cybet" target="_blank" rel="noopener noreferrer">サイベット には、 **他のカジノで貯めたVIPランクをそのまま移行できる「VIP Transfer」** という業界初のレベル維持待遇があります👑⤴⤴",
+            "ちなみに、 [サイベット には、 **他のカジノで貯めたVIPランクをそのまま移行できる「VIP Transfer」** という業界初のレベル維持待遇があります👑⤴⤴](https://casinotsu.com/reviews/cybet)",
             "例えば、 **他のカジノで既にVIP会員となっている方であれば、サイベットでも同等のVIPレベルからスタート** でき、特別なボーナスや優遇サービスをすぐに享受できる点が魅力的です✨",
-            <><a href="https://go.casinotsu.com/go/cybet" target="_blank" rel="noopener noreferrer">👉 **CYBETで遊んでみる！**",
+            "[👉 **CYBETで遊んでみる！**](https://go.casinotsu.com/go/cybet)",
           ],
         },
         {
@@ -319,7 +319,7 @@ export const vipBonuses: BonusPageContent = {
         {
           subheading: "日本市場向け特典",
           paragraphs: [
-            "日本市場をターゲットにしたVIPプログラムでは、 **アニメをテーマにしたスロット** や、**日本のパチンコを彷彿とさせるゲーム**、**人気の高いPlinkoゲーム** などが提供されることがあります。また、[**Sic Bo（サイ）**](https://www.casinotsu.com/bonuses/vip) や <a href="https://casinotsu.com/game-shows/lightning-dragon-tiger" target="_blank" rel="noopener noreferrer"><strong>Dragon Tiger（ドラゴンタイガー）</strong> といったライブカジノゲームも、VIPプレイヤーに人気です。",
+            "日本市場をターゲットにしたVIPプログラムでは、 **アニメをテーマにしたスロット** や、**日本のパチンコを彷彿とさせるゲーム**、**人気の高いPlinkoゲーム** などが提供されることがあります。また、[**Sic Bo（サイ）**](https://www.casinotsu.com/bonuses/vip) や [](https://casinotsu.com/game-shows/lightning-dragon-tiger)<strong>Dragon Tiger（ドラゴンタイガー）</strong> といったライブカジノゲームも、VIPプレイヤーに人気です。",
           ],
         },
       ],

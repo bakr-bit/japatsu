@@ -34,7 +34,7 @@ export const bonsCasinoExclusive: OfferPageContent = {
     "ご登録いただくだけで、『**入金不要ボーナス5,000円**』をお受け取りいただけます！",
     "＼ **さらに！** 😲✨／",
     "5,000円を無料で進呈するだけでも大変豪華ですが、それだけではありません。",
-    <>なんと、人気スロット『<strong><a href="https://casinotsu.com/slots/moon-princess" target="_blank" rel="noopener noreferrer">Moon Princess</strong>』の**フリースピン20回分**も同時にプレゼントされます😍💖",
+    "なんと、人気スロット『**[Moon Princess](https://casinotsu.com/slots/moon-princess)**』の**フリースピン20回分**も同時にプレゼントされます😍💖",
     "無料で5,000円がもらえる上に、人気スロットのフリースピンまで楽しめるというのは、まさに太っ腹な企画と言えるでしょう😭✨ これは見逃せませんね！？",
     "いますぐボンズカジノへ向いたいという方も、利用規約や獲得方法などを、しっかりとご確認くださいますようお願いいたします★👇",
   ],
@@ -252,7 +252,7 @@ export const bonsCasinoExclusive: OfferPageContent = {
     heading: "まとめ",
     paragraphs: [
       "ボンズカジノのジャパカジ様限定入金不要ボーナスは、**5,000円の現金ボーナス**と**人気スロット「Moon Princess」のフリースピン20回分**という、大変魅力的な組み合わせです。賭け条件も比較的緩やか（現金ボーナス40倍、フリースピン勝利金20倍）であり、出金上限額も12,000円と設定されているため、リスクを冒さずにカジノを体験したいプレイヤーや、「Moon Princess」のファンには特におすすめです。",
-      "さらに、ボンズカジノは充実した[ウェルカムボーナス](https://www.casinotsu.com/reviews/bons)、豊富なゲームラインナップ、<a href="https://casinotsu.com/crypto" target="_blank" rel="noopener noreferrer">仮想通貨を含む多様な<a href="https://casinotsu.com/payment" target="_blank" rel="noopener noreferrer">入出金方法、そして使いやすいモバイルプラットフォームを提供しており、総合的に高い満足度が期待できるオンラインカジノです。",
+      "さらに、ボンズカジノは充実した[ウェルカムボーナス](https://www.casinotsu.com/reviews/bons)、豊富なゲームラインナップ、[仮想通貨を含む多様な[入出金方法、そして使いやすいモバイルプラットフォームを提供しており、総合的に高い満足度が期待できるオンラインカジノです。](https://casinotsu.com/payment)](https://casinotsu.com/crypto)",
     ],
     recommendedFor: [
       "リスクを冒さずにオンラインカジノを試してみたい方",

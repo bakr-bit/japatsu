@@ -178,7 +178,7 @@ export const sweetBonanzaCandyland: GameShowPageContent = {
             "🌶こちらも大人気スロットのライブカジノ版ゲームショー",
             "[スーパーチリペッパー・エピックスピンズ（Extra Chilli Epic Spins）をチェック](https://www.casinotsu.com/slots)",
             "🎰無料で最新スロットや人気スロットをプレイ♡",
-            <><a href="https://casinotsu.com/free-spins" target="_blank" rel="noopener noreferrer">フリースピンがおすすめ！最新の一押しオファーを一緒にチェック♪",
+            "[フリースピンがおすすめ！最新の一押しオファーを一緒にチェック♪](https://casinotsu.com/free-spins)",
           ],
         },
       ],

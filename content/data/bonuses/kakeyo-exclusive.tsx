@@ -36,7 +36,7 @@ export const kakeyoExclusiveBonus: BonusPageContent = {
       description: [
         "CasinoTsuからKakeyoに登録すると、無料で100フリースピンを獲得できます！[入金不要ボーナス](https://www.casinotsu.com/bonuses/no-deposit)としてフリースピンを提供しているカジノはいくつかありますが、100回という数は、一般的な20〜30回に比べてかなり多い方です。これは、Kakeyoがボーナスに寛大なカジノであることの証と言えるでしょう🙌",
         "例えば、20回や30回のフリースピンでは、運試し程度にプレイする感覚かもしれませんが、100回あれば、プレイ中にビッグウィンを狙えるチャンスも大いにあります。",
-        <>さらに、賭け条件も比較的緩やか（20倍）なので、まだ登録していない方は、とりあえず登録してプレイしてみる価値は十分にあります！その後に続く<a href="https://casinotsu.com/bonuses/welcome-bonus" target="_blank" rel="noopener noreferrer">ウェルカムボーナスも非常に魅力的ですので、新規プレイヤー特典を最大限に活用するのはいかがでしょうか。",
+        "さらに、賭け条件も比較的緩やか（20倍）なので、まだ登録していない方は、とりあえず登録してプレイしてみる価値は十分にあります！その後に続く[ウェルカムボーナスも非常に魅力的ですので、新規プレイヤー特典を最大限に活用するのはいかがでしょうか。](https://casinotsu.com/bonuses/welcome-bonus)",
         "こちらは現在、CasinoTsu限定の独占ボーナスですので、ぜひこの機会をお見逃しなく✅",
         "もらい方と条件をしっかり確認してから登録しましょうね！",
       ],
@@ -66,7 +66,7 @@ export const kakeyoExclusiveBonus: BonusPageContent = {
       paragraphs: [
         "獲得できるフリースピンは、NETENT（ネットエント）社の「[Magic Maid Cafe／マジック・メイド・カフェ](https://www.casinotsu.com/free-spins)」で利用できます。",
         "NETENTにしては珍しい、日本風のかわいらしいアニメをテーマにしたスロットです。可愛らしいキャラクターと美味しそうなスイーツが特徴で、見ているだけで甘いものが食べたくなってしまうようなデザイン🎀🍰",
-        <>ゲームシステムは、リール式と落下式が組み合わさったタイプで、NETENTの代表的な機種である「<a href="https://casinotsu.com/slots/gonzos-quest \"Gonzo's Quest\"" target="_blank" rel="noopener noreferrer">Gonzo's Quest」に似ています。ペイラインが成立すると、そのシンボルが消去され、マルチプライヤーが増加していくフィーチャーを搭載しています。",
+        "ゲームシステムは、リール式と落下式が組み合わさったタイプで、NETENTの代表的な機種である「[Gonzo's Quest」に似ています。ペイラインが成立すると、そのシンボルが消去され、マルチプライヤーが増加していくフィーチャーを搭載しています。](https://casinotsu.com/slots/gonzos-quest \)",
         "**Magic Maid CafeのRTP（還元率）は約96.01%で、ボラティリティは中程度です。** 中程度のボラティリティのため、頻繁に配当が発生するわけではありませんが、一度配当が発生した際には比較的高額になる可能性があります。",
       ],
       subsections: [
@@ -164,7 +164,7 @@ export const kakeyoExclusiveBonus: BonusPageContent = {
           subheading: "リアルな期待値とリスク管理",
           paragraphs: [
             "オンラインカジノのボーナス、特に賭け条件が付いているものは、必ずしも利益に繋がるわけではありません。多くのプレイヤーは、賭け条件をクリアできずに資金を失ってしまいます。このボーナスは比較的条件が緩いものの、それでも勝利金のすべてを出金できるとは限りません。",
-            "*   **「当たる」と過信しない:** あくまで運試し、またはカジノの雰囲気を知るための機会と捉え、過度な期待はしないようにしましょう。\n*   **失っても良い金額でプレイする:** 入金不要ボーナスはリスクが低いですが、もし[入金ボーナス](https://www.casinotsu.com/bonuses/no-deposit)を利用する場合は、失っても生活に影響のない範囲の金額でプレイすることを強く推奨します。\n*   **責任あるギャンブルの実践:** Kakeyoカジノは、<a href="https://gamblingtherapy.org/ja/" target="_blank" rel="noopener noreferrer">Gamblingtherapy.org などの外部機関と連携し、<a href="https://casinotsu.com/info/responsible-gambling" target="_blank" rel="noopener noreferrer">責任あるギャンブルを推進しています。もしギャンブル依存が心配な場合は、これらのリソースを利用したり、<a href="https://casinotsu.com/responsible-gambling/self-exclusion-tools" target="_blank" rel="noopener noreferrer">自己制限機能（入金制限、プレイ時間制限など）を活用したりすることを検討してください。",
+            "*   **「当たる」と過信しない:** あくまで運試し、またはカジノの雰囲気を知るための機会と捉え、過度な期待はしないようにしましょう。\n*   **失っても良い金額でプレイする:** 入金不要ボーナスはリスクが低いですが、もし[入金ボーナス](https://www.casinotsu.com/bonuses/no-deposit)を利用する場合は、失っても生活に影響のない範囲の金額でプレイすることを強く推奨します。\n*   **責任あるギャンブルの実践:** Kakeyoカジノは、[Gamblingtherapy.org などの外部機関と連携し、](https://gamblingtherapy.org/ja/)[責任あるギャンブルを推進しています。もしギャンブル依存が心配な場合は、これらのリソースを利用したり、[自己制限機能（入金制限、プレイ時間制限など）を活用したりすることを検討してください。](https://casinotsu.com/responsible-gambling/self-exclusion-tools)](https://casinotsu.com/info/responsible-gambling)",
           ],
         },
         {

@@ -43,9 +43,9 @@ export const katsuwinExclusiveBonus: BonusPageContent = {
       casinoSlug: "katsuwin",
       heading: "勝WINのカジノ入金不要ボーナス💰【CasinoTsu限定】",
       description: [
-        "豊富なオンラインパチンコ・パチスロゲームが遊べる日本人向け **[オンラインカジノ](https://www.casinotsu.com/bonuses/no-deposit)**『 <strong><a href="https://casinotsu.com/reviews/katsuwin" target="_blank" rel="noopener noreferrer">勝WIN</strong>』が、CasinoTsu読者のために **超豪華カジノ <a href="https://casinotsu.com/bonuses/no-deposit" target="_blank" rel="noopener noreferrer">入金不要ボーナス** を、 **5,000円分** ご用意いたしました。",
-        <>さらに、この勝WINのCasinoTsu限定入金不要ボーナスは、無料で5,000円分ボーナスがもらえるだけでなく、 **<a href="https://casinotsu.com/guides/wagering-requirements" target="_blank" rel="noopener noreferrer">賭け条件 が8倍** と、大変利用しやすい設定となっております。😍",
-        <>これは、早速 <strong><a href="https://casinotsu.com/bonuses" target="_blank" rel="noopener noreferrer">ボーナス</strong> をGETして、出金を目指してプレイする絶好の機会と言えるでしょう。ᕦ(ò_óˇ)ᕤ🔥",
+        "豊富なオンラインパチンコ・パチスロゲームが遊べる日本人向け **[オンラインカジノ](https://www.casinotsu.com/bonuses/no-deposit)**『 **[勝WIN](https://casinotsu.com/reviews/katsuwin)**』が、CasinoTsu読者のために **超豪華カジノ [入金不要ボーナス** を、 **5,000円分** ご用意いたしました。](https://casinotsu.com/bonuses/no-deposit)",
+        "さらに、この勝WINのCasinoTsu限定入金不要ボーナスは、無料で5,000円分ボーナスがもらえるだけでなく、 **[賭け条件 が8倍** と、大変利用しやすい設定となっております。😍](https://casinotsu.com/guides/wagering-requirements)",
+        "これは、早速 **[ボーナス](https://casinotsu.com/bonuses)** をGETして、出金を目指してプレイする絶好の機会と言えるでしょう。ᕦ(ò_óˇ)ᕤ🔥",
         "それでは、詳細を詳しく確認してまいりましょう。🥳🌟",
         "**🎰パチンコ・パチスロをオンラインで遊べちゃう日本人向けオンカジ♪**",
       ],
@@ -59,7 +59,7 @@ export const katsuwinExclusiveBonus: BonusPageContent = {
   bonusTypeCategories: [
     {
       title: "出金しやすい入金不要ボーナスをお探しの方へ",
-      description: "🤔賭け条件の達成がめんどうでボーナスに手が出ない… そんなお客様は、 <a href="https://casinotsu.com/bonuses/low-wagering" target="_blank" rel="noopener noreferrer">出金条件が甘い</a> ボーナス特集をぜひご確認ください。",
+      description: "🤔賭け条件の達成がめんどうでボーナスに手が出ない… そんなお客様は、 [出金条件が甘い](https://casinotsu.com/bonuses/low-wagering) ボーナス特集をぜひご確認ください。",
       casinos: [
         {
           casino: "勝WIN",
@@ -76,9 +76,9 @@ export const katsuwinExclusiveBonus: BonusPageContent = {
       title: "日本人向け🌟新カジノ・勝WIN！",
       description: [
         "**勝WIN** は、24時間日本語対応のカスタマーサポート、日本円でのプレイ、そしてオンラインパチンコ・スロットが楽しめるという点で、まさに日本のお客様のニーズに応える **[新しいオンラインカジノ](https://www.casinotsu.com/slots)** です。🥳",
-        <>CasinoTsu限定ボーナスに加え、 <strong><a href="https://casinotsu.com/bonuses/welcome-bonus" target="_blank" rel="noopener noreferrer">カジノ限定初回入金ボーナス</strong> や、充実した <strong><a href="https://casinotsu.com/guides/vip-program" target="_blank" rel="noopener noreferrer">VIPプログラム</strong> もご用意しております。🌟",
+        "CasinoTsu限定ボーナスに加え、 **[カジノ限定初回入金ボーナス](https://casinotsu.com/bonuses/welcome-bonus)** や、充実した **[VIPプログラム](https://casinotsu.com/guides/vip-program)** もご用意しております。🌟",
         "お得なボーナスを活用し、勝ウィンで6,000種類を超える豊富なゲームをぜひご体験ください。(❁´◡`❁)♪",
-        <>**🎰パチンコ・パチスロが遊べるオンカジも一挙公開しちゃいます♪**\n\n<a href="https://casinotsu.com/guides/pachinko" target="_blank" rel="noopener noreferrer">オンラインパチンコ・パチスロ 徹底ガイド！",
+        "**🎰パチンコ・パチスロが遊べるオンカジも一挙公開しちゃいます♪**\n\n[オンラインパチンコ・パチスロ 徹底ガイド！](https://casinotsu.com/guides/pachinko)",
       ],
       casinos: [],
     },
@@ -140,7 +140,7 @@ export const katsuwinExclusiveBonus: BonusPageContent = {
       heading: "利用可能なゲーム",
       paragraphs: [
         "勝WINでは、スロット、ライブカジノ、テーブルゲーム、そして日本のプレイヤー様に人気のオンラインパチンコ・パチスロなど、6,000種類以上の豊富なゲームを提供しております。",
-        "*   **スロット:** 人気のジャックポットスロットから最新スロットまで、多数取り揃えております。\n*   **ライブカジノ:** [ブラックジャック](https://www.casinotsu.com/blackjack)、<a href="https://casinotsu.com/roulette" target="_blank" rel="noopener noreferrer">ルーレット、<a href="https://casinotsu.com/baccarat" target="_blank" rel="noopener noreferrer">バカラ など、臨場感あふれるゲームをディーラーと共にお楽しみいただけます。\n*   **テーブルゲーム:** <a href="https://casinotsu.com/blackjack" target="_blank" rel="noopener noreferrer">ブラックジャック、<a href="https://casinotsu.com/roulette" target="_blank" rel="noopener noreferrer">ルーレット、<a href="https://casinotsu.com/baccarat" target="_blank" rel="noopener noreferrer">バカラ といった定番テーブルゲームもご用意しております。\n*   **オンラインパチンコ・パチスロ:** 勝WINの大きな特徴として、日本のパチンコ・パチスロ機種をオンラインでプレイ可能です。",
+        "*   **スロット:** 人気のジャックポットスロットから最新スロットまで、多数取り揃えております。\n*   **ライブカジノ:** [ブラックジャック](https://www.casinotsu.com/blackjack)、[ルーレット、](https://casinotsu.com/roulette)[バカラ など、臨場感あふれるゲームをディーラーと共にお楽しみいただけます。\n*   **テーブルゲーム:** ](https://casinotsu.com/baccarat)[ブラックジャック、](https://casinotsu.com/blackjack)[ルーレット、[バカラ といった定番テーブルゲームもご用意しております。\n*   **オンラインパチンコ・パチスロ:** 勝WINの大きな特徴として、日本のパチンコ・パチスロ機種をオンラインでプレイ可能です。](https://casinotsu.com/baccarat)](https://casinotsu.com/roulette)",
         "**注意:** 入金不要ボーナスは、スロットおよびオンラインパチンコ・パチスロでのみご利用いただけます。ライブカジノやスポーツベット（競馬）は対象外となります。",
       ],
     },
@@ -151,13 +151,13 @@ export const katsuwinExclusiveBonus: BonusPageContent = {
         {
           subheading: "入金方法:",
           paragraphs: [
-            "*   **クレジットカード:** <a href="https://casinotsu.com/payment/visa" target="_blank" rel="noopener noreferrer">Visa</a>, <a href="https://casinotsu.com/payment/mastercard" target="_blank" rel="noopener noreferrer">Mastercard など\n*   **電子ウォレット:** <a href="https://casinotsu.com/payment/jeton" target="_blank" rel="noopener noreferrer">Jeton, <a href="https://casinotsu.com/payment/venuspoint" target="_blank" rel="noopener noreferrer">Venus Point など\n*   **銀行送金:** <a href="https://casinotsu.com/payment/bank-transfer" target="_blank" rel="noopener noreferrer">銀行送金\n*   **仮想通貨:** <a href="https://casinotsu.com/payment/bitcoin" target="_blank" rel="noopener noreferrer">Bitcoin (BTC), <a href="https://casinotsu.com/payment/dogecoin" target="_blank" rel="noopener noreferrer">Dogecoin (DOGE), <a href="https://casinotsu.com/payment/usdc" target="_blank" rel="noopener noreferrer">USD Coin (USDC), <a href="https://casinotsu.com/payment/ethereum" target="_blank" rel="noopener noreferrer">Ethereum (ETH), <a href="https://casinotsu.com/payment/ripple" target="_blank" rel="noopener noreferrer">Ripple (XRP), <a href="https://casinotsu.com/payment/bitcoin-cash" target="_blank" rel="noopener noreferrer">Bitcoin Cash (BCH), <a href="https://casinotsu.com/payment/litecoin" target="_blank" rel="noopener noreferrer">Litecoin (LTC), <a href="https://casinotsu.com/payment/binance-coin" target="_blank" rel="noopener noreferrer">Binance Coin (BNB), <a href="https://casinotsu.com/payment/tron" target="_blank" rel="noopener noreferrer">Tron (TRX), <a href="https://casinotsu.com/payment/shiba-inu" target="_blank" rel="noopener noreferrer">Shiba Inu (SHIB), <a href="https://casinotsu.com/payment/usdt" target="_blank" rel="noopener noreferrer">Tether (USDT)",
+            "*   **クレジットカード:** [Visa](https://casinotsu.com/payment/visa), [Mastercard など\n*   **電子ウォレット:** [Jeton](https://casinotsu.com/payment/jeton), ](https://casinotsu.com/payment/mastercard)[Venus Point など\n*   **銀行送金:** ](https://casinotsu.com/payment/venuspoint)[銀行送金\n*   **仮想通貨:** [Bitcoin (BTC)](https://casinotsu.com/payment/bitcoin), [Dogecoin (DOGE)](https://casinotsu.com/payment/dogecoin), [USD Coin (USDC)](https://casinotsu.com/payment/usdc), [Ethereum (ETH)](https://casinotsu.com/payment/ethereum), [Ripple (XRP)](https://casinotsu.com/payment/ripple), [Bitcoin Cash (BCH)](https://casinotsu.com/payment/bitcoin-cash), [Litecoin (LTC)](https://casinotsu.com/payment/litecoin), [Binance Coin (BNB)](https://casinotsu.com/payment/binance-coin), [Tron (TRX)](https://casinotsu.com/payment/tron), [Shiba Inu (SHIB)](https://casinotsu.com/payment/shiba-inu), [Tether (USDT)](https://casinotsu.com/payment/usdt)](https://casinotsu.com/payment/bank-transfer)",
           ],
         },
         {
           subheading: "出金方法:",
           paragraphs: [
-            "*   **電子ウォレット:** <a href="https://casinotsu.com/payment/jeton" target="_blank" rel="noopener noreferrer">Jeton</a>, <a href="https://casinotsu.com/payment/venuspoint" target="_blank" rel="noopener noreferrer">Venus Point など\n*   **銀行送金:** <a href="https://casinotsu.com/payment/bank-transfer" target="_blank" rel="noopener noreferrer">銀行送金\n*   **仮想通貨:** 上記の仮想通貨に対応",
+            "*   **電子ウォレット:** [Jeton](https://casinotsu.com/payment/jeton), [Venus Point など\n*   **銀行送金:** [銀行送金\n*   **仮想通貨:** 上記の仮想通貨に対応](https://casinotsu.com/payment/bank-transfer)](https://casinotsu.com/payment/venuspoint)",
           ],
         },
         {

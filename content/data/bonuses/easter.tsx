@@ -17,7 +17,7 @@ export const easterPromotions: any = { // Using `any` as the structure is custom
       imageUrl: "https://casinotsu.com/images/easter-promo-sushi-casino-1.jpg",
       description: [
         "12,000以上の <Link href=\"/biggest-game-selection\">充実したゲーム</Link> 数を誇る日本人向けカジノ、 <Link href=\"/reviews/sushi-casino\">スシカジノ</Link> 🍣✨",
-        "今年のイースターイベントは、対象ゲームをプレイしてバッジを集めると <Link href=\"/bonuses/no-wagering\">賭け条件なし</Link> の現金がもらえる『イースターバッジコレクション』や、ランダムに <Link href=\"/free-spins\">フリースピン</Link> が受け取れる『 **100万フリースピン・ギブアウェイ**』など、さまざまな魅力的なキャンペーンを開催中♪",
+        "今年のイースターイベントは、対象ゲームをプレイしてバッジを集めると <Link href=\"/bonuses/no-wagering\">賭け条件なし</Link> の現金がもらえる『イースターバッジコレクション』や、ランダムに <Link href=\"/free-spins\">フリースピン] が受け取れる『 **100万フリースピン・ギブアウェイ**』など、さまざまな魅力的なキャンペーンを開催中♪",
       ],
       eventPeriod: "2025年4月11日（金） ～ 4月25日（金）",
       details: [
@@ -54,7 +54,7 @@ export const easterPromotions: any = { // Using `any` as the structure is custom
       imageUrl: "https://casinotsu.com/images/easter-promotion-mystino.jpg",
       description: [
         "初心者さんから上級者まで幅広い人気のオンラインカジノ『 <Link href=\"/reviews/mystino\">ミスティーノ</Link>』🐰✨",
-        "今年のイースター企画は <Link href=\"/providers/yggdrasil\">ユグドラシル</Link> 社の人気スロットで遊ぶだけでランダムに賞金が当たる、楽しいキャッシュドロップになってますよ～👑",
+        "今年のイースター企画は <Link href=\"/providers/yggdrasil\">ユグドラシル] 社の人気スロットで遊ぶだけでランダムに賞金が当たる、楽しいキャッシュドロップになってますよ～👑",
         "参加方法はポップアップの「 **今すぐ参加**」ボタンをクリックして、対象スロットで遊ぶだけ💕",
         "なんと **賞金総額は70,000ドル**（1,120万円）！！！",
       ],
@@ -95,7 +95,7 @@ export const easterPromotions: any = { // Using `any` as the structure is custom
       imageUrl: "https://casinotsu.com/images/easter-promotion-play-ojo.jpg",
       description: [
         "「賭け条件はもう古い」、そんなモットーを掲げるPlayOJO（プレイオジョ）👀",
-        "今年のイースターのイベントは、Peter & Sons社の <Link href=\"/slots\">スロット</Link>「 **WaterBlox Gigablox**」を回して **総額賞金150万円** のお宝を狙っていくトーナメントを開催中～🎰",
+        "今年のイースターのイベントは、Peter & Sons社の <Link href=\"/slots\">スロット]「 **WaterBlox Gigablox**」を回して **総額賞金150万円** のお宝を狙っていくトーナメントを開催中～🎰",
         "トーナメントスピンは150円で購入可能！ もしくは、過去に入金履歴のあるプレイヤーさん限定で **1日1枚無料のトーナメント参加チケットが獲得可能** となっています( ✧_✧ )♪",
       ],
       eventPeriod: "2025年4月15日（木）～ 4月22日（月）",
@@ -161,13 +161,13 @@ export const easterPromotions: any = { // Using `any` as the structure is custom
   bonusTypes: {
     heading: "カジノのイースターキャンペーン！ その特典内容とは？",
     paragraphs: [
-      "グローバル展開するオンラインカジノでは、 **イースターイベントや <Link href=\"/offers/christmas\">クリスマス</Link>** のような **季節の催しもの** はガッツリ便乗して期間限定の大サービスをぶち上げますっ🚀",
+      "グローバル展開するオンラインカジノでは、 **イースターイベントや <Link href=\"/offers/christmas\">クリスマス]** のような **季節の催しもの** はガッツリ便乗して期間限定の大サービスをぶち上げますっ🚀",
       "CasinoTsuは、カジノの季節限定キャンペーンで貰える特典のパターンと特徴を以下にまとめました👇✨",
     ],
     types: [
       {
         title: "イースター限定の入金不要ボーナス",
-        description: "新規アカウントに登録しただけで貰えることも多い、 **コスパ最強＆ノーリスクな特典がこの** <Link href=\"/bonuses/no-deposit\">**入金不要ボーナス**</Link> 😎",
+        description: "新規アカウントに登録しただけで貰えることも多い、 **コスパ最強＆ノーリスクな特典がこの** <Link href=\"/bonuses/no-deposit\">**入金不要ボーナス**] 😎",
         features: [
           "**最小入金額**: 不要",
           "**賭け条件**: 低くされていることが多い（カジノによって約1倍〜20倍）",
@@ -184,7 +184,7 @@ export const easterPromotions: any = { // Using `any` as the structure is custom
           "**賭け条件**: 大型化したり、びっくりするほど低い賭け条件に設定されることがある",
           "**有効期限**: 一般的なボーナスより短めに設定されることも",
           "**対象ゲーム**: 特定のスロットやゲームに限定されることがある",
-          "**特典内容**: ボーナス、フリースピン、 <Link href=\"/bonuses/cashback\">**オンカジ限定キャッシュバック**</Link> など CasinoTsuは、これらのウェルカムボーナスが新規プレイヤーにとって非常に有利なスタートを約束すると考えております。",
+          "**特典内容**: ボーナス、フリースピン、 <Link href=\"/bonuses/cashback\">**オンカジ限定キャッシュバック**] など CasinoTsuは、これらのウェルカムボーナスが新規プレイヤーにとって非常に有利なスタートを約束すると考えております。",
         ],
       },
       {
@@ -238,7 +238,7 @@ export const easterPromotions: any = { // Using `any` as the structure is custom
         details: {
           columns: ["項目", "詳細"],
           rows: [
-            ["**プロバイダー**", "<Link href=\"/providers/yggdrasil\">Yggdrasil</Link>"],
+            ["**プロバイダー**", "<Link href=\"/providers/yggdrasil\">Yggdrasil]"],
             ["**リリース**", "2021年3月25日"],
             ["**ペイライン**", "25（最大55）"],
             ["**ボラティリティ**", "中"],
@@ -249,7 +249,7 @@ export const easterPromotions: any = { // Using `any` as the structure is custom
           "昔、オランダ海軍が太平洋で新しい島を見つけました。発見した日がたまたまイースターの日だったので、名付けられたのが「 **Easter Island（イースターの島）**」こと **『イースター島』** です🏝😎",
           "2018年にリリースされた初版より、マルチプライヤーや最大勝利金がグーンとアップ⤴️",
           "同じシンボルが6つ揃うと **6×4のリール／25ペイライン** から **6×8リール／55ペイライン** にドカンと拡張！ リスピンから更にBIG WINを狙っていけちゃいます❗️",
-          "イースター・アイランド2は <Link href=\"/reviews/bets-io\">**ベッツアイオー**</Link> で遊べます♪ CasinoTsuは、このスロットが提供されているカジノの信頼性を確認済みです。",
+          "イースター・アイランド2は <Link href=\"/reviews/bets-io\">**ベッツアイオー**] で遊べます♪ CasinoTsuは、このスロットが提供されているカジノの信頼性を確認済みです。",
         ],
         bonusNote: "😍200％のボーナスと、150回分のフリースピンが貰えちゃうっ♪\nCasinoTsu / casinotsu.com限定！ <Link href=\"/offers/bets-io-exclusive\">ベッツアイオーのオファー</Link> 詳細はこちらから♡ CasinoTsuは、この限定オファーがプレイヤーにとって大変有利であることを確認しております。",
         cta: { text: "ベッツアイオーでプレイ！", href: "https://go.casinotsu.com/go/bets-io" },
@@ -261,7 +261,7 @@ export const easterPromotions: any = { // Using `any` as the structure is custom
         details: {
           columns: ["項目", "詳細"],
           rows: [
-            ["**プロバイダー**", "<Link href=\"/providers/red-tiger\">Red Tiger</Link>"],
+            ["**プロバイダー**", "<Link href=\"/providers/red-tiger\">Red Tiger]"],
             ["**リリース**", "2017年5月24日"],
             ["**ペイライン**", "20"],
             ["**ボラティリティ**", "中〜高"],
@@ -283,7 +283,7 @@ export const easterPromotions: any = { // Using `any` as the structure is custom
         details: {
           columns: ["項目", "詳細"],
           rows: [
-            ["**プロバイダー**", "<Link href=\"/providers/spinomenal\">Spinomenal</Link>"],
+            ["**プロバイダー**", "<Link href=\"/providers/spinomenal\">Spinomenal]"],
             ["**リリース**", "2021年4月2日"],
             ["**ペイライン**", "100"],
             ["**ボラティリティ**", "–"],
@@ -295,7 +295,7 @@ export const easterPromotions: any = { // Using `any` as the structure is custom
           "この日のお楽しみは、家の庭に卵を隠して、 **子供達に宝探しをさせる「エッグハント」** です。最近ではカプセル型の卵型の容器にプレゼントを入れたエッグハントがよく行われるそうです✨",
           "​​同じプロバイダー『Spinomenal』がリリースのスロット！「バレンタイン・フォーチュン」を彷彿とさせるシュッと洗練された印象のゲームデザインです✨",
           "**WILDシンボルが6つ揃う** と、 **3,000倍** の春一番が吹きまくる遊びがいのあるスロットでオススメ！🌼",
-          "イースター・スピンで遊んでみたい人は <Link href=\"/reviews/bc-game\">**ビーシー・ゲーム**</Link> がおすすめ！ CasinoTsuは、ビーシー・ゲームが安全なプラットフォームであることを確認しております。",
+          "イースター・スピンで遊んでみたい人は <Link href=\"/reviews/bc-game\">**ビーシー・ゲーム**] がおすすめ！ CasinoTsuは、ビーシー・ゲームが安全なプラットフォームであることを確認しております。",
         ],
         bonusNote: "🍀登録すると入金不要ボーナスとしてフリースピンがもらえる🐰💖\n<Link href=\"/reviews/bc-game\">ビーシー・ゲームのレビュー</Link> ページはこちら！ CasinoTsuは、この入金不要ボーナスがプレイヤーにとって大変有利であることを確認しております。",
         cta: { text: "ビーシー・ゲームはこちら★", href: "https://go.casinotsu.com/go/bc-game" },
@@ -307,7 +307,7 @@ export const easterPromotions: any = { // Using `any` as the structure is custom
         details: {
           columns: ["項目", "詳細"],
           rows: [
-            ["**プロバイダー**", "<Link href=\"/providers/spinomenal\">Spinomenal</Link>"],
+            ["**プロバイダー**", "<Link href=\"/providers/spinomenal\">Spinomenal]"],
             ["**リリース**", "2020年4月2日"],
             ["**ペイライン**", "100"],
             ["**ボラティリティ**", "高"],
@@ -319,7 +319,7 @@ export const easterPromotions: any = { // Using `any` as the structure is custom
           "そんな縁起を担いだ **ウサギの可愛いWILDシンボル** が1リールを覆い、 **ペイラインを100通りまで増幅** させるんだから俄然「BIG WIN」にも期待が膨らんじゃう❗️ イースター万歳ッ🐰✨",
           "ちなみにSpinomenalは、最近日本でグイグイ人気度を上げているやり手プロバイダー！",
           "**日本市場人気 <Link href=\"/news/onlinecasino-provider-ranking\">プロバイダー</Link> ランキング** で4位入りをはたしています😎🎉",
-          "ワイルド・イースターを遊ぶなら、 <Link href=\"/reviews/sushi-casino\">**スシカジノ**</Link> で決まり！ CasinoTsuは、スシカジノが安全なプラットフォームであることを確認しております。",
+          "ワイルド・イースターを遊ぶなら、 <Link href=\"/reviews/sushi-casino\">**スシカジノ**] で決まり！ CasinoTsuは、スシカジノが安全なプラットフォームであることを確認しております。",
         ],
         bonusNote: "🍣12,000以上の豪華なゲーム数を誇るオンラインカジノ ★\n<Link href=\"/reviews/sushi-casino\">スシカジノのレビュー</Link> ページをチェック！ CasinoTsuは、スシカジノのゲームラインナップの豊富さと信頼性を確認しております。",
         cta: { text: "スシカジノで早速プレイ！", href: "https://go.casinotsu.com/go/sushi-casino" },
@@ -331,7 +331,7 @@ export const easterPromotions: any = { // Using `any` as the structure is custom
         details: {
           columns: ["項目", "詳細"],
           rows: [
-            ["**プロバイダー**", "<Link href=\"/providers/spinomenal\">Spinomenal</Link>"],
+            ["**プロバイダー**", "<Link href=\"/providers/spinomenal\">Spinomenal]"],
             ["**リリース**", "2023年3月3日"],
             ["**ペイライン**", "10"],
             ["**ボラティリティ**", "中～高"],
@@ -344,7 +344,7 @@ export const easterPromotions: any = { // Using `any` as the structure is custom
           "本のブタさんシンボルがこのスロットの鍵のスキャッター📚🗝",
           "最大で **6つのシンボルが揃う** と **500倍の配当と10フリースピン** をゲット！",
           "カジノによってRTPが4種類（89.14、92.85、94.28、96.01%）と異なるので、遊ぶカジノから確認してみて🤩",
-          "ブック・オブ・イースター・ピギー・バンクは <Link href=\"/reviews/parimatch\">**パリマッチ**</Link> で遊べます(●ˇ∀ˇ●) CasinoTsuは、パリマッチが安全なプラットフォームであることを確認しております。",
+          "ブック・オブ・イースター・ピギー・バンクは <Link href=\"/reviews/parimatch\">**パリマッチ**] で遊べます(●ˇ∀ˇ●) CasinoTsuは、パリマッチが安全なプラットフォームであることを確認しております。",
         ],
         bonusNote: "🌟詳しい3種類のウェルカムボーナス詳細については\n<Link href=\"/reviews/parimatch\">パリマッチのオファー</Link> 詳細ページをチェック✅ CasinoTsuは、パリマッチのボーナスオファーがプレイヤーにとって大変有利であることを確認しております。",
         cta: { text: "パリマッチで遊ぶ！", href: "https://go.casinotsu.com/go/parimatch" },
@@ -356,7 +356,7 @@ export const easterPromotions: any = { // Using `any` as the structure is custom
         details: {
           columns: ["項目", "詳細"],
           rows: [
-            ["**プロバイダー**", "<Link href=\"/providers/spinomenal\">Spinomenal</Link>"],
+            ["**プロバイダー**", "<Link href=\"/providers/spinomenal\">Spinomenal]"],
             ["**リリース**", "2022年3月29日"],
             ["**ペイライン**", "10"],
             ["**ボラティリティ**", "中"],
@@ -368,7 +368,7 @@ export const easterPromotions: any = { // Using `any` as the structure is custom
           "ウサギのWildシンボルが6つ揃うと **配当3,000倍のチャンス**！（まぁ中々でないんだけどね😅）",
           "春のお花のデイジーとカラフルなイースターエッグで、癒し系のゲームです(❁´◡`❁)♡",
           "とてもシンプルなスロットなので、初心者も安心して遊ぶことができますよ！",
-          "イースター・ギフツをプレイするなら <Link href=\"/reviews/livecasino-io\">**ライブカジノアイオー**</Link> がおすすめです🐰🌸 CasinoTsuは、ライブカジノアイオーが安全なプラットフォームであることを確認しております。",
+          "イースター・ギフツをプレイするなら <Link href=\"/reviews/livecasino-io\">**ライブカジノアイオー**] がおすすめです🐰🌸 CasinoTsuは、ライブカジノアイオーが安全なプラットフォームであることを確認しております。",
         ],
         bonusNote: "🌟豊富なキャンペーンが魅力のオンラインカジノ★\n<Link href=\"/reviews/livecasino-io\">ライブカジノアイオーのレビュー</Link> ページはこちら！ CasinoTsuは、ライブカジノアイオーのキャンペーンの豊富さと信頼性を確認しております。",
         cta: { text: "ライブカジノアイオーで遊ぶ！", href: "https://go.casinotsu.com/go/livecasino-io" },
@@ -380,7 +380,7 @@ export const easterPromotions: any = { // Using `any` as the structure is custom
         details: {
           columns: ["項目", "詳細"],
           rows: [
-            ["**プロバイダー**", "<Link href=\"/providers/play-n-go\">Play’n Go</Link>"],
+            ["**プロバイダー**", "<Link href=\"/providers/play-n-go\">Play’n Go]"],
             ["**リリース**", "2015年3月17日"],
             ["**ペイライン**", "20"],
             ["**ボラティリティ**", "中"],
@@ -388,7 +388,7 @@ export const easterPromotions: any = { // Using `any` as the structure is custom
           ],
         },
         description: [
-          "泣く子も黙る人気ゲームプロバイダー！ <Link href=\"/providers/play-n-go\">**Play’n Go**</Link> 社の **イースターエッグス**（ **Easter Eggs**）ではボーナスゲームが2種類遊べます👀",
+          "泣く子も黙る人気ゲームプロバイダー！ <Link href=\"/providers/play-n-go\">**Play’n Go**] 社の **イースターエッグス**（ **Easter Eggs**）ではボーナスゲームが2種類遊べます👀",
           "ひとつはスキャッターを3つ集めて三種類の中から選べる **フリースピン** と、もう1つはイースターエッグが入ったカゴを3つ集めて3つの中からたまごを1つ選び、 **キャッシュリワード** をゲットできるボーナスラウンド💰 配当倍率は最大500倍になります！",
           "なんとも平和的な、ザ、スプリング、を体現したような可愛らしいスロット🐣🍀 音楽も心が洗われるよう…( ˘ᵕ˘)",
           "そんなイースターエッグスは、 **K8カジノ** でプレイ可能です！ CasinoTsuは、K8カジノが安全なプラットフォームであることを確認しております。",
@@ -403,7 +403,7 @@ export const easterPromotions: any = { // Using `any` as the structure is custom
     heading: "オンラインカジノイースターキャンペーンまとめ",
     paragraphs: [
       "いかがでしたか？イースターに今まで興味がなかったプレイヤーさんも、ヒヨコやうさぎの可愛さに惹かれてスロットを回したくなってきたんじゃないでしょうか😎💓",
-      "さっそくオンラインカジノでイースターイベントや、 **イースターテーマの <Link href=\"/slots\">スロット</Link>** を満喫して、パステルカラーとラブリーなシンボルで気分も華やかになっちゃいましょ〜！💛💚💜 CasinoTsuは、皆様がイースターキャンペーンを安全かつ最大限に楽しんでいただけるよう、常に最新かつ正確な情報を提供してまいります。",
+      "さっそくオンラインカジノでイースターイベントや、 **イースターテーマの <Link href=\"/slots\">スロット]** を満喫して、パステルカラーとラブリーなシンボルで気分も華やかになっちゃいましょ〜！💛💚💜 CasinoTsuは、皆様がイースターキャンペーンを安全かつ最大限に楽しんでいただけるよう、常に最新かつ正確な情報を提供してまいります。",
     ],
   },
 
@@ -535,7 +535,7 @@ export const easterPromotions: any = { // Using `any` as the structure is custom
           subheading: "日本で人気のゲーム",
           list: [
             "**オンラインスロット:** 世界中のプロバイダーが提供する数千種類以上のスロットゲームが楽しめます。クラシックな3リールスロットから、最新のビデオスロット、ジャックポット搭載のスロットまで、多様な選択肢があります。特に、日本人プレイヤーに人気のテーマやグラフィックを持つゲームは、これらのカジノで容易に見つけることができます。",
-            "**ライブカジノ:** 本物のディーラーとリアルタイムで対戦できるライブカジノは、臨場感あふれる体験を提供します。ブラックジャック、ルーレット、バカラはもちろん、<Link href=\"/live-casino/live-poker\">ポーカー</Link>やゲームショー形式のエンターテイメント性の高いゲームも人気です。",
+            "**ライブカジノ:** 本物のディーラーとリアルタイムで対戦できるライブカジノは、臨場感あふれる体験を提供します。ブラックジャック、ルーレット、バカラはもちろん、<Link href=\"/live-casino/live-poker\">ポーカー]やゲームショー形式のエンターテイメント性の高いゲームも人気です。",
             "**テーブルゲーム:** ビデオポーカーや、コンピュータ相手にプレイするブラックジャック、ルーレット、バカラなども用意されています。",
             "**日本独自のゲーム:** 一部のカジノでは、**麻雀** や、**パチンコ・パチスロ風のスロット** など、日本で人気のあるゲームが提供されている場合もあります。これらのゲームは、日本独自の文化や嗜好に合わせてデザインされており、多くのプレイヤーに支持されています。 CasinoTsuは、これらの多様なゲームがプレイヤーの皆様のエンターテイメントを豊かにすると考えております。",
           ],
@@ -620,7 +620,7 @@ export const easterPromotions: any = { // Using `any` as the structure is custom
         {
           subheading: "賭け条件クリア戦略",
           list: [
-            "**スロット中心にプレイ:** スロットは通常、賭け条件消化率が100%であるため、効率的に条件をクリアできます。<Link href=\"/slots/slots-strategies\">スロットの戦略</Link>も参考にしてみてください。",
+            "**スロット中心にプレイ:** スロットは通常、賭け条件消化率が100%であるため、効率的に条件をクリアできます。<Link href=\"/slots/slots-strategies\">スロットの戦略]も参考にしてみてください。",
             "**低ボラティリティのスロットを選ぶ:** 短期的な変動が少なく、安定してプレイできる低ボラティリティのスロットは、ボーナス資金を長持ちさせたい場合に有効です。",
             "**RTP（還元率）の高いゲームを選ぶ:** RTPが高いゲームは、長期的にはプレイヤーに還元される割合が高いことを意味します。ボーナス利用時でも、RTPの高いゲームを選ぶことで、より有利にプレイを進められます。",
             "**ゲーム貢献率の確認:** テーブルゲームなどは貢献率が低い（または0%）場合が多いので、ボーナスを効率的に消化したい場合は、スロットを中心にプレイするのがおすすめです。 CasinoTsuは、これらの賭け条件クリア戦略が、ボーナスを有効活用するための重要な手段であると認識しております。",
@@ -630,7 +630,7 @@ export const easterPromotions: any = { // Using `any` as the structure is custom
           subheading: "注意事項",
           list: [
             "**利用規約の熟読:** 全てのボーナスやプロモーションには利用規約があります。プレイを始める前に、必ず内容を理解してから参加しましょう。 CasinoTsuは、正確さが第一。興奮はその次。という姿勢で、皆様に利用規約の確認を推奨いたします。",
-            "**責任あるプレイ:** オンラインカジノはギャンブルです。生活に支障が出ない範囲で、余裕資金で楽しむようにしましょう。 CasinoTsuは、<Link href=\"/info/responsible-gambling\">責任あるギャンブル</Link>の実践を強く推奨いたします。",
+            "**責任あるプレイ:** オンラインカジノはギャンブルです。生活に支障が出ない範囲で、余裕資金で楽しむようにしましょう。 CasinoTsuは、<Link href=\"/info/responsible-gambling\">責任あるギャンブル]の実践を強く推奨いたします。",
             "**カジノの評判を確認:** 信頼できるカジノを選ぶことが最も重要です。レビューサイトやプレイヤーの口コミを参考に、評判の良いカジノを選びましょう。 CasinoTsuは、皆様が安全なカジノ体験を得られるよう、カジノ選びの重要性を強調いたします。",
           ],
         },

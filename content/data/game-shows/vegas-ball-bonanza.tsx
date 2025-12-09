@@ -48,7 +48,7 @@ export const vegasBallBonanza: GameShowPageContent = {
       ],
       bullets: [
         "**ゲーム名**: Vegas Ball Bonanza（ベガス・ボール・ボナンザ）",
-        "**プロバイダー**: [Pragmatic Play社</Link> 推薦",
+        "**プロバイダー**: [Pragmatic Play社] 推薦",
         "**RTP**: 95.97%（最低95.03%～最高95.97%）",
         "**ボラティリティ**: ミディアム（中程度）",
         "**フィーチャー**: ワイルドボーナス, スターボールボーナス",
@@ -60,7 +60,7 @@ export const vegasBallBonanza: GameShowPageContent = {
     {
       heading: "ベガス・ボール・ボナンザのレビュー",
       paragraphs: [
-        "**Vegas Ball Bonanza（ベガス・ボール・ボナンザ）** は、 **ビンゴゲーム** と **ロト** が融合した、 **Pragmatic Play社** によるエキサイティングな [**ゲームショー**</Link> です。",
+        "**Vegas Ball Bonanza（ベガス・ボール・ボナンザ）** は、 **ビンゴゲーム** と **ロト** が融合した、 **Pragmatic Play社** によるエキサイティングな [**ゲームショー**] です。",
         "昔懐かしい年末の宝くじ抽選を彷彿とさせる、クオリティの高いゲーム体験を提供します。",
         "最大配当は **ベット額の20,000倍** という驚異的な数字に達する可能性もあり、 **一攫千金** のチャンスを秘めた、賑やかな **ベガス・ボール・ボナンザ** の魅力を詳しく見ていきましょう。",
       ],
@@ -70,9 +70,9 @@ export const vegasBallBonanza: GameShowPageContent = {
       paragraphs: [
         "**CasinoTsu** では、厳選したオンラインカジノをご紹介しています。",
         "**CasinoTsu限定** の [**入金不要ボーナス**</Link> も豊富にご用意しています。",
-        <>ぜひお気に入りの <Link href="/"><strong>オンラインカジノ</strong></Link>に登録して、臨場感あふれる <Link href="/game-shows"><strong>ゲームショー</strong></Link> をお楽しみください。",
+        <>ぜひお気に入りの <Link href="/"><strong>オンラインカジノ</strong></Link>に登録して、臨場感あふれる <Link href="/game-shows"><strong>ゲームショー</strong>] をお楽しみください。",
         "**CasinoTsu 推薦** です。",
-        <>**CasinoTsu 推薦** プレイヤーの皆様へ： <Link href="/payment/japanese-yen-casinos">日本円でプレイできるオンカジまとめはこちら！</Link>",
+        "**CasinoTsu 推薦** プレイヤーの皆様へ： [日本円でプレイできるオンカジまとめはこちら！](/payment/japanese-yen-casinos)",
       ],
     },
     {
@@ -116,8 +116,8 @@ export const vegasBallBonanza: GameShowPageContent = {
             "ラインが1本でも揃えば、そのラインに対応した配当が確定します。",
             "成立したラインの数と、それぞれの配当倍率は以下の通りです。",
             "1ゲーム当たりの最大配当倍率は、 **1枚のチケット（カード）** あたり **20,000倍（または上限$500,000）** です。",
-            "これは、 [**ハイローラー**</Link> のプレイヤーにとっても非常に魅力的な数字と言えるでしょう。",
-            <>**CasinoTsu 推薦** のハイローラー向け情報： <Link href="/guides/high-roller">ハイローラーが知っておくと得する情報を徹底解説</Link>",
+            "これは、 [**ハイローラー**] のプレイヤーにとっても非常に魅力的な数字と言えるでしょう。",
+            "**CasinoTsu 推薦** のハイローラー向け情報： [ハイローラーが知っておくと得する情報を徹底解説](/guides/high-roller)",
           ],
           bullets: [
             "ライン1本: 1：1",
@@ -137,14 +137,14 @@ export const vegasBallBonanza: GameShowPageContent = {
         {
           subheading: "還元率（RTP）",
           paragraphs: [
-            "**還元率（RTP）** は **95.97%**（最低95.03%～最高95.97%）となっており、これはどの [**カジノサイト**</Link>でも共通の値です。",
+            "**還元率（RTP）** は **95.97%**（最低95.03%～最高95.97%）となっており、これはどの [**カジノサイト**]でも共通の値です。",
             "**CasinoTsu** は、常に正確な情報を提供します。",
           ],
         },
         {
           subheading: "ジャックポット＆最大勝利額",
           paragraphs: [
-            "ベガス・ボール・ボナンザには、残念ながら [**ジャックポット機能**</Link> は搭載されていません。",
+            "ベガス・ボール・ボナンザには、残念ながら [**ジャックポット機能**] は搭載されていません。",
             "しかし、1ゲームラウンドにおける **最大賞金額は$500,000** です（または、1チケットにつき **最高配当倍率20,000倍**）。",
           ],
         },
@@ -171,7 +171,7 @@ export const vegasBallBonanza: GameShowPageContent = {
             "「⭐」のマークが描かれた赤いボールが出現すると、 **スターボールボーナス** が発動します。",
             "このボーナスが発動すると、 **ペイラインの成立に関わらず**、プレイヤーが選択した **全てのカードの数字が、そのラウンドで抽選されたマルチプライヤーの対象** となります。",
             "もし、カード上に複数のマルチプライヤー数字が存在する場合、それらが全て適用されることで、 **信じられないほどの高額配当** を獲得できる可能性があります。",
-            "**CasinoTsu 推薦** のエンターテイメント： [カジノ版のゲームショーの詳細を徹底チェック♪</Link>",
+            "**CasinoTsu 推薦** のエンターテイメント： [カジノ版のゲームショーの詳細を徹底チェック♪]",
           ],
         },
       ],
@@ -196,7 +196,7 @@ export const vegasBallBonanza: GameShowPageContent = {
       bullets: [
         "[**スーパーチリペッパー・エピックスピンズ**</Link>",
         <><Link href="/game-shows/crazy-time"><strong>クレイジータイム</strong></Link>",
-        <><Link href="/game-shows/lightning-baccarat"><strong>ライトニングバカラ</strong></Link>",
+        <><Link href="/game-shows/lightning-baccarat"><strong>ライトニングバカラ</strong>]",
       ],
       paragraphsAfterBullets: [
         "**オンラインカジノ** の **ゲームショー** は、ライブ感とインタラクティブな体験が楽しめます。",
@@ -222,9 +222,9 @@ export const vegasBallBonanza: GameShowPageContent = {
     paragraphs: [
       "ビンゴゲームとロトの要素を融合させた **ベガス・ボール・ボナンザ** は、シンプルながらも中毒性の高いゲームです。",
       "**経験豊富なプレゼンター** が、たとえ英語が母国語でないプレイヤーでも理解しやすいように、明快な進行を行います。",
-      "**最大20,000倍の配当** が確定した時の興奮は格別で、まさに **パーティー気分** を味わえる新感覚 [**ゲームショー**</Link> と言えるでしょう。",
+      "**最大20,000倍の配当** が確定した時の興奮は格別で、まさに **パーティー気分** を味わえる新感覚 [**ゲームショー**] と言えるでしょう。",
       "**Evolution社のMega Ball** や **Monopoly Big Baller** といった他の人気ゲームショーと比較しても、 **ベガス・ボール・ボナンザ** はそのシンプルさから **初心者にも非常に親しみやすく**、気軽に挑戦できる点が魅力です。",
-      <>**CasinoTsu 推薦** のライブ体験： <Link href="/live-casino">ディーラーとカジノゲームをリアルタイムプレイ</Link>",
+      "**CasinoTsu 推薦** のライブ体験： [ディーラーとカジノゲームをリアルタイムプレイ](/live-casino)",
     ],
     suitedPlayers: [
       "短時間でエキサイティングな体験を求めるプレイヤー",

@@ -95,7 +95,7 @@ export const noWageringBonuses: BonusPageContent = {
       description: [
         "**[ウィンズアイオー（Winz）](https://www.casinotsu.com/free-spins)** では、初回入金時に「ウェルカムWOWボーナス（Winzホイール）」を選択いただきますと、入金額に応じて **最大10,000ドルの賞金**、または **800回分のフリースピン** が当たる機会がございます！🤩",
         "日本円で約145万円に相当する賞金が、賭け条件なしで獲得できる可能性があるとのこと、大変魅力的でございます。( ＾ω＾ 三 ＾ω＾ )",
-        <>さらに、フリースピンの対象機種は、 <strong><a href="https://casinotsu.com/providers/pragmatic-play" target="_blank" rel="noopener noreferrer">Pragmatic Play</strong> 社の人気スロット『Big Bass Bonanza』🎣となっております。",
+        "さらに、フリースピンの対象機種は、 **[Pragmatic Play](https://casinotsu.com/providers/pragmatic-play)** 社の人気スロット『Big Bass Bonanza』🎣となっております。",
         "いずれの賞品も、さらなる勝利を狙える可能性がございますので、ぜひこの機会をお見逃しなく！",
       ],
       cta: {
@@ -109,7 +109,7 @@ export const noWageringBonuses: BonusPageContent = {
       casinoSlug: "inter-casino",
       heading: "2位 InterCasino（インターカジノ）｜ウェルカムキャッシュバック総額500ドル",
       description: [
-        "**[インターカジノ](https://www.casinotsu.com/reviews/intercasino)** からは、出金条件なしでご利用いただける、 **総額500ドルの <a href="https://casinotsu.com/bonuses/cashback" target="_blank" rel="noopener noreferrer">キャッシュバック** をご提供しております。💰",
+        "**[インターカジノ](https://www.casinotsu.com/reviews/intercasino)** からは、出金条件なしでご利用いただける、 **総額500ドルの [キャッシュバック** をご提供しております。💰](https://casinotsu.com/bonuses/cashback)",
         "初回入金後にプレイされますと、勝敗に関わらず、 **プレイ金額に応じてクレジットが貯まる** 仕組みとなっております。このクレジットは、【インターショップ】にてキャッシュアイテム（$5〜$50）と交換可能で、全てのアイテムを合計すると500ドル相当になります。🎉",
         "全アイテムを獲得されるまで **何度でもご入金いただけます** ので、ぜひ皆様もこの機会に多数のキャッシュアイテム獲得を目指していただければと存じます。(/≧▽≦)/",
       ],
@@ -126,7 +126,7 @@ export const noWageringBonuses: BonusPageContent = {
       description: [
         "**[エルドアカジノ](https://www.casinotsu.com/reviews/eldoah)** では、出金条件が実質的にない、大変お得な **2,000円分のボーナス** をご用意しております。💖😍",
         "こちらは、ジャパカジ経由でエルドアカジノに **ご登録いただいた限定の無料チップ** となります。(っ _´∀｀_)っ",
-        <><strong><a href="https://casinotsu.com/bonuses/low-wagering" target="_blank" rel="noopener noreferrer">賭け条件は1倍</strong> となっておりますが、これは「2,000円分のボーナス額に相当する賭けを行っていただく」という意味合いですので、事実上、出金条件なしでお楽しみいただけます。😆",
+        "**[賭け条件は1倍](https://casinotsu.com/bonuses/low-wagering)** となっておりますが、これは「2,000円分のボーナス額に相当する賭けを行っていただく」という意味合いですので、事実上、出金条件なしでお楽しみいただけます。😆",
         "ボーナスを受け取るためには、ご登録時に **ボーナスコードが必要** となりますので、詳細は特設ページにてご確認くださいませ。👀",
       ],
       cta: {
@@ -144,7 +144,7 @@ export const noWageringBonuses: BonusPageContent = {
     {
       heading: "ボーナスの「出金条件」とは？",
       paragraphs: [
-        "そもそも **[オンラインカジノボーナス](https://www.casinotsu.com/bonuses)** における「出金条件／賭け条件」とは、どのようなものでしょうか？🤔 <strong><a href="https://casinotsu.com/guides" target="_blank" rel="noopener noreferrer">オンカジ初心者</strong> の方には、馴染みのない言葉かもしれません。改めて、その定義をしっかりと理解しておきましょう。",
+        "そもそも **[オンラインカジノボーナス](https://www.casinotsu.com/bonuses)** における「出金条件／賭け条件」とは、どのようなものでしょうか？🤔 **[オンカジ初心者](https://casinotsu.com/guides)** の方には、馴染みのない言葉かもしれません。改めて、その定義をしっかりと理解しておきましょう。",
         "オンラインカジノでは、「賭け条件」、「ベット要件」、「プレイスルーリクワイアメント」といった名称で呼ばれることもございますが、出金条件とは、 **ボーナスを現金化（実際に出金できる状態）するために満たすべき条件** のことを指します。",
         "この条件を達成するまで、ボーナスはあくまで「バーチャルマネー」として扱われ、 **そのままの状態でリアルマネー（現金）として出金することはできません。** 一般的には、「出金条件（賭け条件）○○倍」という形式で表示されます。",
         "では、 **賭け条件ありのボーナスと賭け条件なしのボーナス** では、どのような違いがあるのでしょうか？早見表にまとめました。👇",
@@ -190,9 +190,9 @@ export const noWageringBonuses: BonusPageContent = {
           subheading: "2. 出金条件なし「入金不要ボーナス」",
           paragraphs: [
             "オンカジにおける出金条件なしの **[入金不要ボーナス](https://www.casinotsu.com/)** とは、オンラインカジノへの初回登録時に進呈されるボーナスのことを指します。",
-            <>これは、 <strong><a href="https://casinotsu.com/bonuses/no-deposit" target="_blank" rel="noopener noreferrer">オンカジの入金不要ボーナス</strong> としても知られており、登録するだけで現金がもらえるため、非常に注目度が高いボーナスです。🤩",
+            "これは、 **[オンカジの入金不要ボーナス](https://casinotsu.com/bonuses/no-deposit)** としても知られており、登録するだけで現金がもらえるため、非常に注目度が高いボーナスです。🤩",
             "ご自身の資金を使うことなく、登録したオンラインカジノのゲーム性を試す絶好の機会となります。🌟",
-            <><strong><a href="https://casinotsu.com/bonuses/no-deposit" target="_blank" rel="noopener noreferrer">入金不要ボーナス</strong> は、一般的に入金ボーナスと比較すると金額は控えめですが、 <strong><a href="https://casinotsu.com/bonuses/low-wagering" target="_blank" rel="noopener noreferrer">出金条件が低い</strong> オンラインカジノも少なくありません。",
+            "**[入金不要ボーナス](https://casinotsu.com/bonuses/no-deposit)** は、一般的に入金ボーナスと比較すると金額は控えめですが、 **[出金条件が低い](https://casinotsu.com/bonuses/low-wagering)** オンラインカジノも少なくありません。",
             "**出金条件なしのカジノ入金不要ボーナス** が提供されているオンカジサイトでは、出金額に上限が設けられている場合もありますが、比較的容易に出金できる可能性がございます。😎",
           ],
         },
@@ -201,9 +201,9 @@ export const noWageringBonuses: BonusPageContent = {
           paragraphs: [
             "オンラインカジノでは、初回登録時のボーナスだけでなく、継続的なプレイヤーへの特典も用意されております。🔥",
             "プレイヤーが **[カジノアカウントに資金を入金](https://www.casinotsu.com/bonuses)** される際に、追加でボーナスが付与される「入金ボーナス」は、一般的に賭け条件が設定されています。💰",
-            <>しかし、ごく稀に、入金（リロードボーナスとも呼ばれます）を行うことで、 **賭け条件なしの <a href="https://casinotsu.com/bonuses" target="_blank" rel="noopener noreferrer">ボーナス** が手に入るケースもございます。",
+            "しかし、ごく稀に、入金（リロードボーナスとも呼ばれます）を行うことで、 **賭け条件なしの [ボーナス** が手に入るケースもございます。](https://casinotsu.com/bonuses)",
             "滅多にない機会ではございますが、もしそのようなボーナスが見つかった場合は、大変お得と言えるでしょう。😅",
-            <>それでも、 <strong><a href="https://casinotsu.com/bonuses/welcome-bonus" target="_blank" rel="noopener noreferrer">初回入金ボーナス</strong> は、 <strong><a href="https://casinotsu.com/bonuses/low-wagering" target="_blank" rel="noopener noreferrer">出金条件が甘い</strong> 傾向にございます。",
+            "それでも、 **[初回入金ボーナス](https://casinotsu.com/bonuses/welcome-bonus)** は、 **[出金条件が甘い](https://casinotsu.com/bonuses/low-wagering)** 傾向にございます。",
             "賭け条件なしでなくとも、プレイヤーにとって有利な条件であることが多いため、ぜひご活用くださいませ。😍",
           ],
         },
@@ -211,8 +211,8 @@ export const noWageringBonuses: BonusPageContent = {
           subheading: "4. その他の賭け条件なしボーナス",
           paragraphs: [
             "**オンラインカジノの出金条件なし** ボーナスは、主に **[オンラインスロット](https://www.casinotsu.com/bonuses)** で利用できるものが多いですが、カジノによっては他のゲームで利用できるものもございます。",
-            <> - <a href="https://casinotsu.com/roulette" target="_blank" rel="noopener noreferrer">ルーレット\n - <a href="https://casinotsu.com/blackjack" target="_blank" rel="noopener noreferrer">ブラックジャック\n - <a href="https://casinotsu.com/poker" target="_blank" rel="noopener noreferrer">ポーカー\n - <a href="https://casinotsu.com/baccarat" target="_blank" rel="noopener noreferrer">バカラ",
-            <>など。ただし、 <strong><a href="https://casinotsu.com/live-casino" target="_blank" rel="noopener noreferrer">ライブカジノ</strong> ゲームではなく、テーブルゲーム形式のゲームに限定される場合もございますので、ご利用前に必ず詳細をご確認ください。💡",
+            <> - [ルーレット\n - ](https://casinotsu.com/roulette)[ブラックジャック\n - ](https://casinotsu.com/blackjack)[ポーカー\n - [バカラ](https://casinotsu.com/baccarat)](https://casinotsu.com/poker)",
+            "など。ただし、 **[ライブカジノ](https://casinotsu.com/live-casino)** ゲームではなく、テーブルゲーム形式のゲームに限定される場合もございますので、ご利用前に必ず詳細をご確認ください。💡",
             "ライブカジノやテーブルゲームの中には、例えば「ルーレットの赤か黒か」のように、約50%の確率で当たるゲームも多く存在します。もし、多くのプレイヤーがボーナスをそのようなゲームに集中して使用した場合、カジノ側の収益が大幅に減少する可能性があります。そのため、お得なボーナスを継続的に提供するため、プレイ可能なゲームに制限を設けて調整しているのです。",
           ],
         },
@@ -251,7 +251,7 @@ export const noWageringBonuses: BonusPageContent = {
             "**オンカジの賭け条件なしボーナス** の中には、「テーブルゲームで利用できる○○ドル賭け条件なしボーナス」といった形で提供されるものもございます。",
             "「せっかく賭け条件なしでもらったのだから、そのまま出金すれば確実に資金が得られる」とお考えになるかもしれませんが、カジノ側もそのような状況を想定しております。",
             "この場合、ボーナスを出金するためには、最低金額以上の入金が必要であったり、テーブルゲームでプレイして賞金を得た後にのみ出金が可能となる、といった条件が課せられることがほとんどです。",
-            "賭け条件なしで、ボーナス額をそのまま現金として進呈するカジノもございますが、それは **[VIPカジノボーナス](https://www.casinotsu.com/)** として一部のプレイヤーに限られたり、損失額に応じて付与される <strong><a href="https://casinotsu.com/bonuses/cashback" target="_blank" rel="noopener noreferrer">キャッシュバック</strong> のような形式であったりすることが多いかと存じます。",
+            "賭け条件なしで、ボーナス額をそのまま現金として進呈するカジノもございますが、それは **[VIPカジノボーナス](https://www.casinotsu.com/)** として一部のプレイヤーに限られたり、損失額に応じて付与される **[キャッシュバック](https://casinotsu.com/bonuses/cashback)** のような形式であったりすることが多いかと存じます。",
           ],
         },
         {
@@ -266,9 +266,9 @@ export const noWageringBonuses: BonusPageContent = {
         {
           subheading: "5. 賭け条件なしボーナスは、フリースピンモードに制限がある場合も！",
           paragraphs: [
-            "**<a href="https://casinotsu.com/slots/high-volatility" target="_blank" rel="noopener noreferrer">ハイボラティリティ</a>** の高い <strong><a href="https://casinotsu.com/slots" target="_blank" rel="noopener noreferrer">スロット</strong> では、ゲームプレイ中に、ボーナスとして獲得した <strong><a href="https://casinotsu.com/free-spins" target="_blank" rel="noopener noreferrer">フリースピン</strong> が、さらにフリースピン（スロットでボーナス当選状態）に突入する場合がございます。",
+            "**[ハイボラティリティ](https://casinotsu.com/slots/high-volatility)** の高い **[スロット](https://casinotsu.com/slots)** では、ゲームプレイ中に、ボーナスとして獲得した **[フリースピン](https://casinotsu.com/free-spins)** が、さらにフリースピン（スロットでボーナス当選状態）に突入する場合がございます。",
             "オンラインカジノから提供される出金条件なしのボーナスでは、このような場合、プレイが無効とみなされたり、カウント対象外となったりする制約が設けられていることがございます。",
-            <>また、賭け条件なしボーナスでのプレイ中に <strong><a href="https://casinotsu.com/slots/bonus-buy" target="_blank" rel="noopener noreferrer">ボーナスフィーチャー購入</strong> ができない、といった制限もほとんどの場合ございます。出金条件なしのボーナスは、カジノからのサービスとして、純粋にノーマルスピンをお楽しみいただくのが賢明かと存じます。",
+            "また、賭け条件なしボーナスでのプレイ中に **[ボーナスフィーチャー購入](https://casinotsu.com/slots/bonus-buy)** ができない、といった制限もほとんどの場合ございます。出金条件なしのボーナスは、カジノからのサービスとして、純粋にノーマルスピンをお楽しみいただくのが賢明かと存じます。",
           ],
         },
       ],

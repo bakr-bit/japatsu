@@ -34,8 +34,8 @@ export const interCasinoFsBonus: BonusPageContent = {
       casinoSlug: "inter-casino",
       heading: "【CasinoTsu 限定】インターカジノで、入金不要フリースピン150回分を獲得！",
       description: [
-        "[Gamblingtherapy.org/ja](https://www.casinotsu.com/reviews/intercasino) | 新規プレイヤー限定：【CasinoTsu 限定】入金不要フリースピン150回分（出金条件20倍） 【キャッシュバックボーナス】最大$500まで（賭け条件ナシ） | <a href="https://casinotsu.com/about/privacy-policy" target="_blank" rel="noopener noreferrer">利用規約が適用されます",
-        <><a href="https://casinotsu.com/reviews/vera-john" target="_blank" rel="noopener noreferrer"><strong>ベラジョン</strong> の姉妹カジノであり、20年以上の歴史を持つ <a href="https://casinotsu.com/reviews/inter-casino" target="_blank" rel="noopener noreferrer"><strong>インターカジノ／InterCasino</strong>。",
+        "[Gamblingtherapy.org/ja](https://www.casinotsu.com/reviews/intercasino) | 新規プレイヤー限定：【CasinoTsu 限定】入金不要フリースピン150回分（出金条件20倍） 【キャッシュバックボーナス】最大$500まで（賭け条件ナシ） | [利用規約が適用されます](https://casinotsu.com/about/privacy-policy)",
+        <>[](https://casinotsu.com/reviews/vera-john)<strong>ベラジョン</strong> の姉妹カジノであり、20年以上の歴史を持つ [](https://casinotsu.com/reviews/inter-casino)<strong>インターカジノ／InterCasino</strong>。",
         "初心者向けの分かりやすいガイドや豊富な決済方法など、オンラインカジノ初心者にも人気が高い老舗カジノです。💕",
         "そんなインターカジノから、今なら登録するだけで **スロットのフリースピン150回分** をプレゼントいたします！(´▽`ʃ♡ƪ)",
         "通常は50回分のフリースピンですが、CasinoTsu 限定で **特別に3倍の150回分（30ドル相当）** を獲得できます。",
@@ -59,7 +59,7 @@ export const interCasinoFsBonus: BonusPageContent = {
           subheading: "フリースピン対象スロット「ムーンプリンセス100」について",
           paragraphs: [
             "このフリースピンでプレイできるのは、日本人プレイヤーから絶大な人気を誇る **[ムーンプリンセス100（Moon Princess100）](https://www.casinotsu.com/free-spins)** 🌙🎀です。",
-            <>「ムーンプリンセス100」は、数々の名機を輩出する <strong><a href="https://casinotsu.com/providers/play-n-go" target="_blank" rel="noopener noreferrer">Play’nGO社</strong> による人気スロット「ムーンプリンセス」（2017年リリース）の続編です。",
+            "「ムーンプリンセス100」は、数々の名機を輩出する **[Play’nGO社](https://casinotsu.com/providers/play-n-go)** による人気スロット「ムーンプリンセス」（2017年リリース）の続編です。",
             "**ムーンプリンセス100のゲーム仕様:**",
             "*   **グリッドレイアウト:** 5x5",
             "*   **ペイラインシステム:** クラスターペイ方式（3つ以上の同一シンボルが隣接して勝利）",
@@ -75,7 +75,7 @@ export const interCasinoFsBonus: BonusPageContent = {
             "*   **フリースピン選択:** プレイヤーは、異なるスピン回数と機能を持つプリンセスの中から1人を選んでフリースピンを開始できます。",
             "*   **ボーナスバイ機能:** 一部のプラットフォームでは、直接フリースピンを購入できる機能がありますが、国によっては利用が制限される場合があります。",
             "このように、「ムーンプリンセス100」は、前作の魅力を引き継ぎつつ、さらにパワーアップしたゲーム体験を提供します。",
-            <>CasinoTsu は、<a href="https://casinotsu.com/bonuses/no-deposit" target="_blank" rel="noopener noreferrer">入金不要ボーナス を利用して、カジノでのプレイを心ゆくまで堪能されることをお勧めいたします。",
+            "CasinoTsu は、[入金不要ボーナス を利用して、カジノでのプレイを心ゆくまで堪能されることをお勧めいたします。](https://casinotsu.com/bonuses/no-deposit)",
           ],
         },
         {
@@ -94,7 +94,7 @@ export const interCasinoFsBonus: BonusPageContent = {
       paragraphs: [
         "CasinoTsu から登録するだけで、インターカジノの **入金不要 [フリースピン](https://www.casinotsu.com/reviews/intercasino)** を獲得できます✨🔥",
         "登録はとても簡単ですので、以下のステップを CasinoTsu と一緒に確認しましょう💖",
-        <>1.  **CasinoTsu のサイトからインターカジノの登録ページへアクセスします。**\n<a href="https://casinotsu.com/bonuses" target="_blank" rel="noopener noreferrer"><strong>👉 インターカジノ公式サイトへ！</strong>",
+        <>1.  **CasinoTsu のサイトからインターカジノの登録ページへアクセスします。**\n[](https://casinotsu.com/bonuses)<strong>👉 インターカジノ公式サイトへ！</strong>",
         "2.  **「登録はこちらから」ボタンをクリックし、表示された登録フォームに必要な情報を入力します。**",
         "    *   メールアドレス",
         "    *   パスワード",
@@ -103,8 +103,8 @@ export const interCasinoFsBonus: BonusPageContent = {
         "    *   携帯番号",
         "    *   住所",
         "これらの情報入力後、広告設定の確認を行い、「 **アカウントの開設**」ボタンをクリックすれば、アカウント開設と同時にフリースピンの獲得が完了します！ผ(•̀\_•́ผ)💖",
-        <>これで、無料で <strong><a href="https://casinotsu.com/slots/moon-princess-100" target="_blank" rel="noopener noreferrer">ムーンプリンセス100</strong> をプレイできるようになります。プレイ後には、ぜひ初回入金してウェルカムキャッシュバックも獲得しましょう💪",
-        <>🎰 **無料でスロットをプレイ可能！人気のフリースピンとは？**\n<a href="https://casinotsu.com/free-spins" target="_blank" rel="noopener noreferrer">フリースピンボーナス のおすすめ情報や、もらい方、遊び方を分かりやすく解説しています。",
+        "これで、無料で **[ムーンプリンセス100](https://casinotsu.com/slots/moon-princess-100)** をプレイできるようになります。プレイ後には、ぜひ初回入金してウェルカムキャッシュバックも獲得しましょう💪",
+        "🎰 **無料でスロットをプレイ可能！人気のフリースピンとは？**\n[フリースピンボーナス のおすすめ情報や、もらい方、遊び方を分かりやすく解説しています。](https://casinotsu.com/free-spins)",
       ],
     },
     {
@@ -265,7 +265,7 @@ export const interCasinoFsBonus: BonusPageContent = {
       heading: "類似オファー",
       paragraphs: [
         "インターカジノは、魅力的なウェルカムオファーを提供していますが、他のオンラインカジノでも同様のボーナスが提供されています。CasinoTsu は、皆様に最適な情報を提供するため、常に市場を調査しています。",
-        "*   **同系列カジノ:** インターカジノと同じグループである[ベラジョンカジノ](https://www.casinotsu.com/reviews/vera-john) や<a href="https://casinotsu.com/reviews/yugadoplus" target="_blank" rel="noopener noreferrer">遊雅堂 などでも、独自のウェルカムボーナスが用意されています。",
+        "*   **同系列カジノ:** インターカジノと同じグループである[ベラジョンカジノ](https://www.casinotsu.com/reviews/vera-john) や[遊雅堂 などでも、独自のウェルカムボーナスが用意されています。](https://casinotsu.com/reviews/yugadoplus)",
         "*   **類似ボーナス:** 他のカジノでは、初回入金ボーナス（入金額の100%～200%など）、フリースピン（回数や対象ゲームは異なる）、リベートボーナス（ベット額の一部還元）などが提供されています。",
         "*   **競合他社との比較:** CasinoTsu 限定の入金不要フリースピン150回分は、業界内でも破格の条件と言えます。また、賭け条件なしのウェルカムキャッシュバックも、プレイヤーにとって非常に魅力的な特典です。",
       ],
@@ -281,8 +281,8 @@ export const interCasinoFsBonus: BonusPageContent = {
     {
       heading: "ライター",
       paragraphs: [
-        <><Link href="/authors/nanami"><img src="https://casinotsu.com/images/authors/nanami.jpg" alt="Nanami" /></Link>",
-        <><Link href="/authors/nanami">Nanami</Link>",
+        <><Link href="/authors/nanami"><img src="https://casinotsu.com/images/authors/nanami.jpg" alt="Nanami" />]",
+        "[Nanami](/authors/nanami)",
         "奈々美",
         "コンテンツライター",
         "オンラインカジノ業界に4年以上携わり、現在はCasinoTsuにて専属ライターを務めています。元ライブカジノディーラーとしての経歴から、特にバカラ・ルーレット・ブラックジャックなどのテーブルゲームについての知識が豊富です🃏💪\nCasinoTsu では記事を最新の情報に更新したり、より分かりやすく、正確な情報をお届けできるよう編集作業を主に担当しています！\nさらに皆様のオンカジライフに役立つ情報などについても実体験を交えながら解説していますので、是非記事を楽しんでいただけると嬉しいです😉🌸",

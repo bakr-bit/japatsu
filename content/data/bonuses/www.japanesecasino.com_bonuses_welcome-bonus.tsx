@@ -111,7 +111,7 @@ export const welcomeBonuses: BonusPageContent = {
       description: [
         "日本で高い人気を誇るベラジョンカジノは、充実したウェルカムボーナスを提供しています。初回から3回目の入金まで、合計で最高1,000ドルのボーナスを受け取ることができます。さらに、3回目の入金後には、人気ゲームで利用できる5ドル分のスピンクレジットが10日間連続で毎日提供されます。これは実質50ドル分の無料プレイに相当します。",
         "スピンクレジットは、フリースピンだけでなく、ジャパニーズルーレット、花路野三丁目スピードバカラ、ライブ・ブラックジャックなどの[ライブカジノゲーム](https://www.casinotsu.com/reviews/vera-john) で利用できるものも含まれています。ベラジョンカジノの入金ボーナスの賭け条件は20倍と比較的緩やかであり、ジャパカジ経由で登録すると、さらに入金不要ボーナスも獲得できます。",
-        <>**🔰初心者でも安心なベラジョンには、入金不要ボーナスも！**\nジャパカジ限定！ <a href="https://casinotsu.com/offers/vera-john-exclusive" target="_blank" rel="noopener noreferrer">ベラジョンカジノのオファー 入金不要フリスピ150回をチェックしてください。",
+        "**🔰初心者でも安心なベラジョンには、入金不要ボーナスも！**\nジャパカジ限定！ [ベラジョンカジノのオファー 入金不要フリスピ150回をチェックしてください。](https://casinotsu.com/offers/vera-john-exclusive)",
       ],
       cta: {
         text: "ベラジョンカジノのオファーをチェック",
@@ -150,7 +150,7 @@ export const welcomeBonuses: BonusPageContent = {
     },
     {
       title: "初回入金キャッシュバックボーナス",
-      description: "初回入金キャッシュバックボーナスは、初回入金で発生した損失の一部を還元するものです。多くの場合、賭け条件が1倍と低く、ボーナス資金の消化に手間がかからない点が魅力です。\n\n😍負けても安心？！人気の現金還元ボーナスを今すぐチェック！\n<a href="https://casinotsu.com/bonuses/cashback" target="_blank" rel="noopener noreferrer">オンカジのキャッシュバックボーナス おすすめ特集！",
+      description: "初回入金キャッシュバックボーナスは、初回入金で発生した損失の一部を還元するものです。多くの場合、賭け条件が1倍と低く、ボーナス資金の消化に手間がかからない点が魅力です。\n\n😍負けても安心？！人気の現金還元ボーナスを今すぐチェック！\n[オンカジのキャッシュバックボーナス おすすめ特集！](https://casinotsu.com/bonuses/cashback)",
       casinos: [
         {
           casino: "カジノスカイ",
@@ -226,7 +226,7 @@ export const welcomeBonuses: BonusPageContent = {
         {
           subheading: "ライブディーラーゲームについて",
           paragraphs: [
-            "<a href="https://casinotsu.com/live-casino" target="_blank" rel="noopener noreferrer">ライブディーラーゲーム</a> は、実際のディーラーとリアルタイムで対戦できる人気のゲームジャンルです。初回入金ボーナスがライブゲームで利用できるかは、カジノやボーナスの規約によります。多くのカジノでは、ライブゲームの賭け条件消化率はスロットよりも低く設定されている場合が多いですが、一部ではボーナス対象外となっていることもあります。",
+            "[ライブディーラーゲーム](https://casinotsu.com/live-casino) は、実際のディーラーとリアルタイムで対戦できる人気のゲームジャンルです。初回入金ボーナスがライブゲームで利用できるかは、カジノやボーナスの規約によります。多くのカジノでは、ライブゲームの賭け条件消化率はスロットよりも低く設定されている場合が多いですが、一部ではボーナス対象外となっていることもあります。",
           ],
         },
         {
@@ -440,7 +440,7 @@ export const welcomeBonuses: BonusPageContent = {
   faq: [
     {
       question: "初回入金ボーナスの対象ゲーム・禁止ゲームは、どこで確認できますか？",
-      answer: <>対象ゲームや禁止ゲーム、賭け条件など、初回入金ボーナスに関する重要な情報は、通常、ボーナスの「利用規約」に記載されています。不明な場合は、<a href="https://casinotsu.com/customer-support" target="_blank" rel="noopener noreferrer">カスタマーサポート に問い合わせてください。",
+      answer: "対象ゲームや禁止ゲーム、賭け条件など、初回入金ボーナスに関する重要な情報は、通常、ボーナスの「利用規約」に記載されています。不明な場合は、[カスタマーサポート に問い合わせてください。](https://casinotsu.com/customer-support)",
     },
     {
       question: "初回入金ボーナスから出金することは出来ますか？",

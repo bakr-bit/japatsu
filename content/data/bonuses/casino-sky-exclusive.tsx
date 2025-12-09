@@ -85,7 +85,7 @@ export const casinoSkyBonusContent: BonusPageContent = {
         "*   **賭け条件:** 40倍",
         "*   **有効期限:** ボーナス進呈後3日間",
         "*   **最大出金可能額:** 15,000円",
-        "*   **対象ゲーム:** [スロット](https://www.casinotsu.com/bonuses/no-deposit)（一部例外あり）、<a href="https://casinotsu.com/games" target="_blank" rel="noopener noreferrer">テーブルゲーム（一部例外あり）",
+        "*   **対象ゲーム:** [スロット](https://www.casinotsu.com/bonuses/no-deposit)（一部例外あり）、[テーブルゲーム（一部例外あり）](https://casinotsu.com/games)",
         "*   **ボーナスコード:** 不要（CasinoTsu経由での登録で自動付与されます）",
         "このボーナスは、オンラインカジノのご利用が初めての方や、新しいカジノをお探しの方にとって、大変魅力的な特典となるかと存じます。",
       ],
@@ -153,8 +153,8 @@ export const casinoSkyBonusContent: BonusPageContent = {
         "**反映率テーブル:**",
         "**最大100%**: [スロットマシン](https://www.casinotsu.com/bonuses/no-deposit)、および以下のゲーム以外の全てのゲーム",
         "**最大30%**: ビデオ・ポーカー",
-        <>**最大10%**: <a href="https://casinotsu.com/blackjack/rules" target="_blank" rel="noopener noreferrer">ブラックジャック（ポンツーン、ダブルエクスポージャーを含む）、<a href="https://casinotsu.com/poker/variants" target="_blank" rel="noopener noreferrer">オアシス・ポーカー、<a href="https://casinotsu.com/game-shows/crazy-time" target="_blank" rel="noopener noreferrer">Crazy Time、<a href="https://casinotsu.com/poker/texas-hold-em" target="_blank" rel="noopener noreferrer">テキサス・ホールデム・ポーカー、<a href="https://casinotsu.com/poker/variants" target="_blank" rel="noopener noreferrer">カジノ・ホールデム、<a href="https://casinotsu.com/live-casino" target="_blank" rel="noopener noreferrer">ライブカジノ全ゲーム",
-        <>**最大 5%**: <a href="https://casinotsu.com/roulette" target="_blank" rel="noopener noreferrer">ルーレット（ライブカジノを除く）、<a href="https://casinotsu.com/baccarat" target="_blank" rel="noopener noreferrer">バカラ（ライブカジノを除く）",
+        <>**最大10%**: [ブラックジャック（ポンツーン、ダブルエクスポージャーを含む）、](https://casinotsu.com/blackjack/rules)[オアシス・ポーカー、](https://casinotsu.com/poker/variants)[Crazy Time、](https://casinotsu.com/game-shows/crazy-time)[テキサス・ホールデム・ポーカー、](https://casinotsu.com/poker/texas-hold-em)[カジノ・ホールデム、[ライブカジノ全ゲーム](https://casinotsu.com/live-casino)](https://casinotsu.com/poker/variants)",
+        <>**最大 5%**: [ルーレット（ライブカジノを除く）、[バカラ（ライブカジノを除く）](https://casinotsu.com/baccarat)](https://casinotsu.com/roulette)",
         "**0%**: Gold Digger Mines、1000x Busta、プントバンコ、Spribe: Mines／Plinko／Keno／Hilo／Dice／Goal／Mini Roulette／Aviator、Hacksaw Gaming: Coins／Boxes／Mines",
         "さらに、こちらのボーナスマネーを使用してプレイが禁止されているゲームおよび除外ゲームは以下となります。",
         "事前にご確認いただきますようお願い申し上げます✅",
@@ -179,13 +179,13 @@ export const casinoSkyBonusContent: BonusPageContent = {
 ![カジノスカイ｜アカウント開設方法](https://www.casinotsu.com/)
 ",
             <>
-!<a href="https://casinotsu.com/images/casinosky-open2.jpg" target="_blank" rel="noopener noreferrer">カジノスカイ｜アカウント開設2
-",
+![カジノスカイ｜アカウント開設2
+](https://casinotsu.com/images/casinosky-open2.jpg)",
             <>
-!<a href="https://casinotsu.com/images/casinosky-open3.jpg" target="_blank" rel="noopener noreferrer">カジノスカイ｜アカウント開設3
-",
+![カジノスカイ｜アカウント開設3
+](https://casinotsu.com/images/casinosky-open3.jpg)",
             "この後、カジノスカイにログインしていただきますと、ご登録いただいたアカウントに7,777円の入金不要ボーナスが即時反映されていることをご確認いただけます。特別なボーナスコードの入力や申請は一切不要です。",
-            <>**🆕新カジノ続々増えています！** <a href="https://casinotsu.com/new-casinos" target="_blank" rel="noopener noreferrer">最新カジノ 多数！ジャパカジに新しく仲間入りしたカジノをチェック",
+            "**🆕新カジノ続々増えています！** [最新カジノ 多数！ジャパカジに新しく仲間入りしたカジノをチェック](https://casinotsu.com/new-casinos)",
           ],
         },
       ],
@@ -197,10 +197,10 @@ export const casinoSkyBonusContent: BonusPageContent = {
         "初回入金ボーナスを提供する新規カジノは数多くございますが、 **ラッキーセブン** にちなんだ **7,777円というボーナス額は、業界でもトップクラス** の高額ボーナスと言えるでしょう。",
         "さらに、その後の **初回入金マネーバックは最大5万円まで100％還元** 😍",
         "万が一、負けてしまっても入金額と同額が戻ってくるというのは、安心してプレイできる大きな要因となりますよねっ(❤´艸｀❤)",
-        "メジャーな人気[スロット](https://www.casinotsu.com/reviews/casitabi)から<a href="https://casinotsu.com/live-casino" target="_blank" rel="noopener noreferrer">ライブカジノまで、取り扱いゲームも豊富に用意されており、ご満足いただけることと存じます。",
-        <>この <strong><a href="https://casinotsu.com/bonuses" target="_blank" rel="noopener noreferrer">豪華ボーナス</strong> を獲得できる機会を、どうぞお見逃しなく～💕",
+        "メジャーな人気[スロット](https://www.casinotsu.com/reviews/casitabi)から[ライブカジノまで、取り扱いゲームも豊富に用意されており、ご満足いただけることと存じます。](https://casinotsu.com/live-casino)",
+        "この **[豪華ボーナス](https://casinotsu.com/bonuses)** を獲得できる機会を、どうぞお見逃しなく～💕",
         "**😲負けても資金が戻ってくるっ！？**",
-        <><a href="https://casinotsu.com/bonuses/cashback" target="_blank" rel="noopener noreferrer">キャッシュバックが貰えるオンラインカジノ を一挙公開♪",
+        "[キャッシュバックが貰えるオンラインカジノ を一挙公開♪](https://casinotsu.com/bonuses/cashback)",
       ],
     },
     {
@@ -291,7 +291,7 @@ export const casinoSkyBonusContent: BonusPageContent = {
     },
     {
       question: "どのようなゲームで遊べますか？",
-      answer: "カジノスカイでは、人気の[スロットゲーム](https://www.casinotsu.com/slots)はもちろんのこと、<a href="https://casinotsu.com/live-casino" target="_blank" rel="noopener noreferrer">ライブカジノ、<a href="https://casinotsu.com/games" target="_blank" rel="noopener noreferrer">テーブルゲームなど、豊富な種類のゲームを取り揃えております。クラシックなカジノゲームから最新のゲームまで、幅広いラインナップでプレイヤーの皆様をお楽しみいただけます。",
+      answer: "カジノスカイでは、人気の[スロットゲーム](https://www.casinotsu.com/slots)はもちろんのこと、[ライブカジノ、[テーブルゲームなど、豊富な種類のゲームを取り揃えております。クラシックなカジノゲームから最新のゲームまで、幅広いラインナップでプレイヤーの皆様をお楽しみいただけます。](https://casinotsu.com/games)](https://casinotsu.com/live-casino)",
     },
   ],
 

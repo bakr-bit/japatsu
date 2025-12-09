@@ -34,10 +34,10 @@ export const verajohnExclusiveBonus: BonusPageContent = {
       heading: "ベラジョンカジノ限定オファー詳細",
       description: [
         "2011年のサービス開始以来、着実にその地位を確立し、オンラインカジノのリーダーとして君臨する [**ベラジョンカジノ**](https://www.casinotsu.com/reviews/vera-john) は、多くのプレイヤーから厚い信頼を得ています。💖",
-        <>CasinoTsu では、ゲーム数、 <a href="https://www.casinotsu.com/offers" target="_blank" rel="noopener noreferrer">キャンペーン、 <a href="https://www.casinotsu.com/payment" target="_blank" rel="noopener noreferrer">決済方法、そして <a href="https://www.casinotsu.com/customer-support" target="_blank" rel="noopener noreferrer">日本語のオンラインカジノサポート といった、プレイヤーが求めるあらゆる点において、ご満足いただける情報を提供することを目指しております。😎",
+        <>CasinoTsu では、ゲーム数、 [キャンペーン、 ](https://www.casinotsu.com/offers)[決済方法、そして [日本語のオンラインカジノサポート といった、プレイヤーが求めるあらゆる点において、ご満足いただける情報を提供することを目指しております。😎](https://www.casinotsu.com/customer-support)](https://www.casinotsu.com/payment)",
         "それでは、CasinoTsu がご案内するベラジョンカジノのオファー詳細について、早速見ていきましょう。🎉",
         "📢 **業界で揺るぎないNo.1の人気を誇ります！まだご登録がお済みでない方は、ぜひチェックしてください。★**",
-        <><a href="https://www.casinotsu.com/reviews/vera-john" target="_blank" rel="noopener noreferrer">ベラジョンカジノに危険性 はあるか？CasinoTsu が詳細なレビューページで徹底解説いたします。",
+        "[ベラジョンカジノに危険性 はあるか？CasinoTsu が詳細なレビューページで徹底解説いたします。](https://www.casinotsu.com/reviews/vera-john)",
       ],
       cta: {
         text: "ベラジョンに登録！",
@@ -73,17 +73,17 @@ export const verajohnExclusiveBonus: BonusPageContent = {
     {
       heading: "オファー基本情報",
       paragraphs: [
-        "[Gamblingtherapy.org/ja](https://gamblingtherapy.org/ja/) | 利用規約については、公式サイトより最新情報をご確認ください。 | <a href="https://go.casinotsu.com/go/vera-john_terms?referrer_path=%2Foffers%2Fvera-john-exclusive" target="_blank" rel="noopener noreferrer">利用規約が適用されます",
+        "[Gamblingtherapy.org/ja](https://gamblingtherapy.org/ja/) | 利用規約については、公式サイトより最新情報をご確認ください。 | [利用規約が適用されます](https://go.casinotsu.com/go/vera-john_terms?referrer_path=%2Foffers%2Fvera-john-exclusive)",
       ],
     },
     {
       heading: "入金不要フリースピン150回｜ベラジョンの限定登録ボーナス",
       paragraphs: [
         "日本市場において **[オンカジ](https://www.casinotsu.com/)** の代表格であるベラジョンカジノ。 CasinoTsu は、そのベラジョンカジノが、新規登録者様限定で特別なボーナスをご用意してくださったことをご報告いたします。",
-        <>CasinoTsu 経由での新規登録者様には、 **<a href="https://www.casinotsu.com/free-spins" target="_blank" rel="noopener noreferrer">フリースピン 150回** をプレゼントさせていただきます。🎁✨",
-        <>このフリースピンは、 **<a href="https://www.casinotsu.com/providers/pragmatic-play" target="_blank" rel="noopener noreferrer">Pragmatic Play社** が提供する、爆発的な人気を誇るハイボラティリティスロット **『 <a href="https://www.casinotsu.com/slots/sweet-bonanza-1000" target="_blank" rel="noopener noreferrer">Sweet Bonanza 1000』🍬🍒🍇✨** でご利用いただけます。",
-        <>まずは、 CasinoTsu がおすすめする人気の <a href="https://www.casinotsu.com/slots" target="_blank" rel="noopener noreferrer"><strong>カジノスロット</strong> を無料で体験し、勝利金獲得のチャンスを掴みましょう。💗",
-        <>**🍓 超人気の前作もぜひチェックしてください！** <a href="https://www.casinotsu.com/slots/sweet-bonanza" target="_blank" rel="noopener noreferrer">スイートボナンザ のレビューは CasinoTsu の記事をご覧ください。",
+        "CasinoTsu 経由での新規登録者様には、 **[フリースピン 150回** をプレゼントさせていただきます。🎁✨](https://www.casinotsu.com/free-spins)",
+        <>このフリースピンは、 **[Pragmatic Play社** が提供する、爆発的な人気を誇るハイボラティリティスロット **『 [Sweet Bonanza 1000』🍬🍒🍇✨** でご利用いただけます。](https://www.casinotsu.com/slots/sweet-bonanza-1000)](https://www.casinotsu.com/providers/pragmatic-play)",
+        <>まずは、 CasinoTsu がおすすめする人気の [](https://www.casinotsu.com/slots)<strong>カジノスロット</strong> を無料で体験し、勝利金獲得のチャンスを掴みましょう。💗",
+        "**🍓 超人気の前作もぜひチェックしてください！** [スイートボナンザ のレビューは CasinoTsu の記事をご覧ください。](https://www.casinotsu.com/slots/sweet-bonanza)",
       ],
       subsections: [
         {
@@ -137,7 +137,7 @@ export const verajohnExclusiveBonus: BonusPageContent = {
         "[**ベラジョン**](https://www.casinotsu.com/reviews/vera-john) の入金不要フリースピンは、 **非常に簡単にお受け取りいただけます**。💙",
         "CasinoTsu と一緒に、獲得方法をご確認ください。",
         "まずは、CasinoTsu からベラジョンカジノへアクセスしてください。💨",
-        <><a href="https://go.casinotsu.com/go/vera-john" target="_blank" rel="noopener noreferrer"><strong>👉 ベラジョンに登録！</strong>",
+        <>[](https://go.casinotsu.com/go/vera-john)<strong>👉 ベラジョンに登録！</strong>",
         "1.「 **登録1分でゲット**」のボタン、もしくは「 **無料登録**」のボタンをクリックしてください。✅",
         "2. アカウント登録フォームが表示されますので、画面の指示に従って必要事項をご入力ください。..φ(．． )",
         "3．登録に必要な情報はこちらです👇\n- メールアドレス\n- パスワード\n- 名前\n- 性別\n- 利用通貨\n- 生年月日\n- 携帯番号\n- 住所",
@@ -145,17 +145,17 @@ export const verajohnExclusiveBonus: BonusPageContent = {
         "4．ご登録いただいたメールアドレスに、 **認証コード** がすぐに送信されます。そのコードをご入力いただければ、ベラジョンへの登録は完了です(｡･∀･)ﾉﾞ🎉",
         "5．その後、クーポンコードの入力やサポートへの連絡は一切不要です。入金不要フリースピンは、 **自動的にアカウントに反映** されます。🤩",
         "**獲得から48時間以内** に有効期限が切れてしまいますので、消滅する前にぜひプレイをお楽しみください。🎰✨",
-        <><a href="https://go.casinotsu.com/go/vera-john" target="_blank" rel="noopener noreferrer"><strong>👉 無料スピンを今すぐGET🎁</strong>",
+        <>[](https://go.casinotsu.com/go/vera-john)<strong>👉 無料スピンを今すぐGET🎁</strong>",
       ],
     },
     {
       heading: "登録ボーナスの後はウェルカムボーナスも忘れずに！",
       paragraphs: [
-        "ベラジョンカジノの [**入金不要フリースピン**](https://www.casinotsu.com/reviews/vera-john) をお楽しみいただいた後は、それに続く <a href="https://www.casinotsu.com/bonuses/welcome-bonus" target="_blank" rel="noopener noreferrer"><strong>ウェルカムボーナス</strong> も大変魅力的です。🎉",
+        "ベラジョンカジノの [**入金不要フリースピン**](https://www.casinotsu.com/reviews/vera-john) をお楽しみいただいた後は、それに続く [](https://www.casinotsu.com/bonuses/welcome-bonus)<strong>ウェルカムボーナス</strong> も大変魅力的です。🎉",
         "合計3回にわたり、 **最高$1,000のボーナス** をお受け取りいただけます。",
         "- 初回入金：入金額の100％、最大$500ボーナス\n- 2回目入金：入金額の50％、最大 $250ボーナス\n- 3回目入金：入金額の100％、最大$200ボーナス＋10日間連続、日替わりで$5分のフリースピンクレジット",
-        <>CasinoTsu では、この **ジャパカジ限定** の大変お得なボーナスを活用し、気になるゲームを存分にお楽しみいただくことをお勧めいたします。\nそして、 <a href="https://www.casinotsu.com/reviews/vera-john" target="_blank" rel="noopener noreferrer"><strong>ベラジョン</strong> の持つエンターテイメント性をぜひご体感ください。😍",
-        <>🤩 **ジャパカジ限定ボーナスも多数ご用意しております！**\n\nCasinoTsu が厳選した、お得な <a href="https://www.casinotsu.com/offers" target="_blank" rel="noopener noreferrer">カジノオファー を今すぐチェックしてください！！",
+        <>CasinoTsu では、この **ジャパカジ限定** の大変お得なボーナスを活用し、気になるゲームを存分にお楽しみいただくことをお勧めいたします。\nそして、 [](https://www.casinotsu.com/reviews/vera-john)<strong>ベラジョン</strong> の持つエンターテイメント性をぜひご体感ください。😍",
+        "🤩 **ジャパカジ限定ボーナスも多数ご用意しております！**\n\nCasinoTsu が厳選した、お得な [カジノオファー を今すぐチェックしてください！！](https://www.casinotsu.com/offers)",
       ],
     },
     {

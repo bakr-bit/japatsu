@@ -45,7 +45,7 @@ export const betrebelsExclusiveBonus: BonusPageContent = {
       },
       finalParagraphs: [
         "このように、$400もお得にゲームプレイをお楽しみいただける計算になります💝",
-        "さらに、この豪華なボーナスに加え、初回入金時には [**Pragmatic Play**](https://www.casinotsu.com/providers/pragmatic-play) 社の人気スロット <strong><a href="https://casinotsu.com/slots/gates-of-olympus-1000" target="_blank" rel="noopener noreferrer">Gates of Olympus 1000</strong> の <a href="https://casinotsu.com/free-spins" target="_blank" rel="noopener noreferrer">フリースピン を40回分も進呈させていただきます😎🌟\n（※ボーナスによっては、Pragmatic Play社の「The Dog House - Muttley Crew」で50回のフリースピンが付与される場合もございます。）",
+        "さらに、この豪華なボーナスに加え、初回入金時には [**Pragmatic Play**](https://www.casinotsu.com/providers/pragmatic-play) 社の人気スロット **[Gates of Olympus 1000](https://casinotsu.com/slots/gates-of-olympus-1000)** の [フリースピン を40回分も進呈させていただきます😎🌟\n（※ボーナスによっては、Pragmatic Play社の「The Dog House - Muttley Crew」で50回のフリースピンが付与される場合もございます。）](https://casinotsu.com/free-spins)",
         "出金条件はボーナスもフリースピンも共通で45倍と、やや高めではございますが、お試しプレイや追加プレイの機会として、ぜひご活用ください。当たった際は、幸運を喜んでいただければ幸いです♪",
       ],
       cta: {
@@ -146,8 +146,8 @@ export const betrebelsExclusiveBonus: BonusPageContent = {
         { key: "ライセンス", value: "マルタゲーミング委員会 (MGA): MGA/B2C/172/2009\nキュラソーライセンス" },
         { key: "対応言語", value: "英語、イタリア語、ギリシャ語、ドイツ語、スペイン語、フランス語、日本語、中国語、ポルトガル語、フィンランド語など、10言語に対応しております。" },
         { key: "対応通貨", value: "USD, EUR, CAD, INR, NZD, BRL, CLP, KRW, CHFなど、複数の通貨に対応しております。（※記事内では主にUSD表記を使用しております）" },
-        { key: "安全性", value: "MGAライセンスは、<a href="https://casinotsu.com/" target="_blank" rel="noopener noreferrer">オンラインギャンブル</a> 業界において最も厳格なライセンスの一つとされており、プレイヤー保護と公正なゲーム運営が保証されております。SSL暗号化技術により、プレイヤー様の個人情報および取引データは安全に保護されております。" },
-        { key: "評判", value: <>比較的長い運営実績があり、スポーツベットとカジノゲームの両方で多くのプレイヤー様にご利用いただいております。ただし、<a href="https://casinotsu.com/customer-support" target="_blank" rel="noopener noreferrer">カスタマーサポート の対応速度に改善の余地があるというご意見や、サイトデザインに関するご感想など、ユーザー様からのフィードバックは様々です。RTP（還元率）の公平性やゲームの興奮度につきましては、個々のゲームプロバイダーの評判に依存する部分が大きいです。" },
+        { key: "安全性", value: "MGAライセンスは、[オンラインギャンブル](https://casinotsu.com/) 業界において最も厳格なライセンスの一つとされており、プレイヤー保護と公正なゲーム運営が保証されております。SSL暗号化技術により、プレイヤー様の個人情報および取引データは安全に保護されております。" },
+        { key: "評判", value: "比較的長い運営実績があり、スポーツベットとカジノゲームの両方で多くのプレイヤー様にご利用いただいております。ただし、[カスタマーサポート の対応速度に改善の余地があるというご意見や、サイトデザインに関するご感想など、ユーザー様からのフィードバックは様々です。RTP（還元率）の公平性やゲームの興奮度につきましては、個々のゲームプロバイダーの評判に依存する部分が大きいです。](https://casinotsu.com/customer-support)" },
       ],
     },
     {
@@ -164,8 +164,8 @@ export const betrebelsExclusiveBonus: BonusPageContent = {
           title: "ゲームカテゴリ",
           list: [
             "**スロット:** ビデオスロット、クラシックスロット、プログレッシブジャックポットスロットなど、膨大な数のスロットゲームをご用意しております。[スロットの攻略法](https://www.casinotsu.com/slots) も参考にしてください。",
-            <>**ライブカジノ:** Evolution Gamingなどのトッププロバイダーによる、<a href="https://casinotsu.com/live-casino/live-blackjack" target="_blank" rel="noopener noreferrer">ブラックジャック、<a href="https://casinotsu.com/live-casino/live-roulette" target="_blank" rel="noopener noreferrer">ルーレット、<a href="https://casinotsu.com/live-casino/live-baccarat" target="_blank" rel="noopener noreferrer">バカラ、<a href="https://casinotsu.com/live-casino/live-poker" target="_blank" rel="noopener noreferrer">ポーカー などのライブゲームが充実しております。",
-            <>**テーブルゲーム:** 上記以外にも、様々な種類のテーブルゲーム（<a href="https://casinotsu.com/poker" target="_blank" rel="noopener noreferrer">ビデオポーカー、ビンゴ、キノ、スクラッチカードなど）をご用意しております。",
+            "**ライブカジノ:** Evolution Gamingなどのトッププロバイダーによる、[ブラックジャック](https://casinotsu.com/live-casino/live-blackjack)、[ルーレット](https://casinotsu.com/live-casino/live-roulette)、[バカラ](https://casinotsu.com/live-casino/live-baccarat)、[ポーカー](https://casinotsu.com/live-casino/live-poker)などのライブゲームが充実しております。",
+            "**テーブルゲーム:** 上記以外にも、様々な種類のテーブルゲーム（[ビデオポーカー](https://casinotsu.com/poker)、ビンゴ、キノ、スクラッチカードなど）をご用意しております。",
           ]
         },
         {
@@ -191,7 +191,7 @@ export const betrebelsExclusiveBonus: BonusPageContent = {
         methods: [
           { type: "電子ウォレット", value: "Neteller, Skrill, EcoPayz, Jeton, Mifinity, Vega Wallet" },
           { type: "クレジットカード", value: "Visa, Mastercard (※一部利用できない場合がございます)" },
-          { type: "仮想通貨", value: "[Bitcoin](https://www.casinotsu.com/crypto), <a href="https://casinotsu.com/payment/ethereum" target="_blank" rel="noopener noreferrer">Ethereum, Litecoin, Ripple, Tether, Dogecoin, Bitcoin Cash" },
+          { type: "仮想通貨", value: "[Bitcoin](https://www.casinotsu.com/crypto), [Ethereum, Litecoin, Ripple, Tether, Dogecoin, Bitcoin Cash](https://casinotsu.com/payment/ethereum)" },
           { type: "その他", value: "Paysafe Card, Neosurf, MuchBetter, Trustly, PIX, iWallet, Google Pay, Apple Pay" },
         ],
         details: [
@@ -204,7 +204,7 @@ export const betrebelsExclusiveBonus: BonusPageContent = {
         methods: [
           { type: "電子ウォレット", value: "Neteller, Skrill, EcoPayz, Jeton, Mifinity, Vega Wallet" },
           { type: "仮想通貨", value: "Bitcoin, Ethereum, Litecoin, Ripple, Tether, Dogecoin, Bitcoin Cash" },
-          { type: "銀行送金", value: "<a href="https://casinotsu.com/payment/bank-transfer" target="_blank" rel="noopener noreferrer">銀行送金</a> も可能です。" },
+          { type: "銀行送金", value: "[銀行送金](https://casinotsu.com/payment/bank-transfer) も可能です。" },
         ],
         details: [
           "**最大出金限度額:** $15,000～$20,000 (月間または週間)",
@@ -257,7 +257,7 @@ export const betrebelsExclusiveBonus: BonusPageContent = {
         title: "競合他社との比較:",
         description: "ベットレベルズ様の強みは、スポーツベットの豊富さと、カジノゲームの多様性、そして今回 CasinoTsu 限定でご提供するボーナスの豪華さにあります。他のカジノと比較する際は、以下の点を考慮すると良いでしょう。",
         list: [
-          "**ボーナス条件:** <a href="https://casinotsu.com/guides/wagering-requirements" target="_blank" rel="noopener noreferrer">賭け条件</a> の低さ、有効期限の長さなど。",
+          "**ボーナス条件:** [賭け条件](https://casinotsu.com/guides/wagering-requirements) の低さ、有効期限の長さなど。",
           "**ゲームラインナップ:** 提供されているゲームの種類や数、プロバイダー。",
           "**決済方法:** ご利用いただける入出金方法の多様性。",
           "**プロモーション:** 初回入金ボーナス以外の継続的なプロモーションの充実度。",

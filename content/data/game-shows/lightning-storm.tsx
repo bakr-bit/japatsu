@@ -238,7 +238,7 @@ export const lightningStorm: GameShowPageContent = {
             "スロ太郎: 僕のお気に入りは、ストームチェイザーとXチェイザーのダブルベット✨\n\nマルチプライヤーとライトニングストーム、両方狙えるのがいいね💪",
             "また、お気に入りのベット方法を見つけたら、多くのカジノサイトで利用できる [リピート機能](https://www.casinotsu.com/bonuses) を活用すると、効率的にベットを続けることができます。CasinoTsuは、この機能の便利さを推奨します。",
             "🎲 **3つのサイコロの合計値を当てるだけ！シックボーより簡単で初心者もOK**",
-            <>CasinoTsu 推薦のゲームショー <a href="https://casinotsu.com/game-shows/lightning-dice" target="_blank" rel="noopener noreferrer">「Lightning Dice」のレビュー を見てみましょう！",
+            "CasinoTsu 推薦のゲームショー [「Lightning Dice」のレビュー を見てみましょう！](https://casinotsu.com/game-shows/lightning-dice)",
           ],
         },
       ],
@@ -280,7 +280,7 @@ export const lightningStorm: GameShowPageContent = {
       paragraphs: ["Evolution社のホイールゲームがお好きなら、CasinoTsuは以下のタイトルもおすすめです。"],
       bullets: [
         "[**クレイジータイム (Crazy Time)**](https://www.casinotsu.com/game-shows/crazy-time)：こちらもEvolution社が提供する人気のホイールライブゲーム。ユニークな世界観と複数のボーナスゲームが特徴です。",
-        <><a href="https://casinotsu.com/game-shows/dream-catcher" target="_blank" rel="noopener noreferrer"><strong>ドリームキャッチャー (Dream Catcher)</strong>：ライトニング・ストームやクレイジータイムの源流とも言える、シンプルで分かりやすいホイールゲーム。初心者の方にもおすすめです。",
+        <>[](https://casinotsu.com/game-shows/dream-catcher)<strong>ドリームキャッチャー (Dream Catcher)</strong>：ライトニング・ストームやクレイジータイムの源流とも言える、シンプルで分かりやすいホイールゲーム。初心者の方にもおすすめです。",
       ],
     },
   ],
@@ -292,7 +292,7 @@ export const lightningStorm: GameShowPageContent = {
     },
     {
       question: "Lightning Stormは、どのカジノで遊べる？",
-      answer: <>オカ教授: Evolution社のゲームが提供されているオンラインカジノであれば、基本的にどのカジノでも遊べます。例えば、<a href="https://go.casinotsu.com/go/wonder-casino" target="_blank" rel="noopener noreferrer">ワンダーカジノ や <a href="https://go.casinotsu.com/go/eldoah-casino" target="_blank" rel="noopener noreferrer">エルドアカジノ などが挙げられます。ただし、提供状況はカジノによって異なる場合があります。CasinoTsuは、最新の情報を提供するよう努めます。\n\n**デモプレイについて**: ライトニング・ストームはライブカジノゲームのため、リアルマネーを賭けずにプレイできる無料デモモードは提供されていません。しかし、多くのカジノでは、ベットせずにゲームを視聴することができます。CasinoTsuは、この点も明確にお伝えします。",
+      answer: "オカ教授: Evolution社のゲームが提供されているオンラインカジノであれば、基本的にどのカジノでも遊べます。例えば、[ワンダーカジノ や [エルドアカジノ などが挙げられます。ただし、提供状況はカジノによって異なる場合があります。CasinoTsuは、最新の情報を提供するよう努めます。\n\n**デモプレイについて**: ライトニング・ストームはライブカジノゲームのため、リアルマネーを賭けずにプレイできる無料デモモードは提供されていません。しかし、多くのカジノでは、ベットせずにゲームを視聴することができます。CasinoTsuは、この点も明確にお伝えします。](https://go.casinotsu.com/go/eldoah-casino)](https://go.casinotsu.com/go/wonder-casino)",
     },
   ],
 

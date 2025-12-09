@@ -38,13 +38,13 @@ export const duelbitsExclusiveOffer: BonusPageContent = {
         "今回、ジャパカジ経由で Duelbits に新規登録し、20ドル以上ご入金の上、対象スロットをごプレイいただくと、**合計500回のフリースピン** を獲得いただけます。",
         "特筆すべきは、**フリースピンによる勝利金に一切の賭け条件がない** 点です！🙌",
         "対象となるスロットは、**プラグマティックプレイ社** の中でも特に人気の高いオンラインスロットばかりです。",
-        "#### フリースピン獲得ステップと対象機種\n\n| リワード順番 | 賭け条件達成に必要なベット額 | 獲得フリースピン回数 | フリースピン対象機種 |\n| :-----------: | :-----------: | :-----------: | :-----------: |\n| リワード1 | 50ドル | 50スピン | [Pragmatic Playの「Sugar Rush」](https://www.casinotsu.com/free-spins) |\n| リワード2 | 500ドル | 150スピン | <a href="https://casinotsu.com/slots/gates-of-olympus" target="_blank" rel="noopener noreferrer">「Gates of Olympus」 |\n| リワード3 | 1,000ドル | 300スピン | <a href="https://casinotsu.com/slots/sweet-bonanza" target="_blank" rel="noopener noreferrer">「Sweet Bonanza」 |\n\n※各リワードのフリースピンは、条件達成後にマイリワードにて自動的に表示されます。",
+        "#### フリースピン獲得ステップと対象機種\n\n| リワード順番 | 賭け条件達成に必要なベット額 | 獲得フリースピン回数 | フリースピン対象機種 |\n| :-----------: | :-----------: | :-----------: | :-----------: |\n| リワード1 | 50ドル | 50スピン | [Pragmatic Playの「Sugar Rush」](https://www.casinotsu.com/free-spins) |\n| リワード2 | 500ドル | 150スピン | [「Gates of Olympus」 |\n| リワード3 | 1](https://casinotsu.com/slots/gates-of-olympus),000ドル | 300スピン | [「Sweet Bonanza」 |\n\n※各リワードのフリースピンは、条件達成後にマイリワードにて自動的に表示されます。](https://casinotsu.com/slots/sweet-bonanza)",
         "**さらに！** ✨",
         "**30ドル以上ご入金いただいたプレイヤー様** は、Duelbits 公式テレグラムアカウントにて申請いただくことで、**Amazonギフト券3,000円分** を追加でプレゼントいたします！😲😍",
         "これは、30ドル以上ご入金いただき、両方の特典を確実にゲットすべき機会と言えるでしょう。ᕦ(ò_óˇ)ᕤ",
         "今すぐご登録の上、対象スロットでプレイし、Amazonギフト券を申請してください。✨",
         "👀 **約50％のレーキバックやフリーベット最大100ドルも同時獲得可能** です。",
-        <><a href="https://casinotsu.com/reviews/duelbits" target="_blank" rel="noopener noreferrer">Duelbits（デュエルビッツ）のレビュー ページも併せてご確認ください。",
+        "[Duelbits（デュエルビッツ）のレビュー ページも併せてご確認ください。](https://casinotsu.com/reviews/duelbits)",
       ],
       cta: {
         text: "👉 Duelbitsに登録する",
@@ -61,7 +61,7 @@ export const duelbitsExclusiveOffer: BonusPageContent = {
       heading: "オファー概要：Duelbits限定フリースピン＆Amazonギフト券プレゼント",
       paragraphs: [
         "ジャパカジより新規でご登録いただき、条件を達成されたプレイヤー様には、**賭け条件なしのフリースピン最大500回** と、**Amazonギフト券3,000円分** をプレゼントいたします。Duelbits は、仮想通貨でのプレイが可能なクリプトカジノ＆スポーツブックとしても、高い評価を得ています。",
-        "[Gamblingtherapy.org/ja](https://www.casinotsu.com/free-spins) | 【新規登録者限定】入金フリースピン合計500回（賭け条件無し）、スポーツブックウェルカムボーナス最大100ドル（賭け条件5倍） | <a href="https://go.casinotsu.com/go/duelbits_terms?referrer_path=%2Foffers%2Fduelbits-exclusive" target="_blank" rel="noopener noreferrer">利用規約が適用されます",
+        "[Gamblingtherapy.org/ja](https://www.casinotsu.com/free-spins) | 【新規登録者限定】入金フリースピン合計500回（賭け条件無し）、スポーツブックウェルカムボーナス最大100ドル（賭け条件5倍） | [利用規約が適用されます](https://go.casinotsu.com/go/duelbits_terms?referrer_path=%2Foffers%2Fduelbits-exclusive)",
       ],
     },
     {
@@ -306,7 +306,7 @@ export const duelbitsExclusiveOffer: BonusPageContent = {
     },
     {
       question: "Duelbits に入金不要ボーナスはありますか？",
-      answer: <>現在、Duelbits では入金不要ボーナスは提供されておりません。今回ご紹介しておりますフリースピンや、その他のプロモーションをご利用ください。 CasinoTsu は、常に最新の情報をお届けするため、<a href="https://casinotsu.com/bonuses/no-deposit" target="_blank" rel="noopener noreferrer">入金不要ボーナス についても注視してまいります。",
+      answer: "現在、Duelbits では入金不要ボーナスは提供されておりません。今回ご紹介しておりますフリースピンや、その他のプロモーションをご利用ください。 CasinoTsu は、常に最新の情報をお届けするため、[入金不要ボーナス についても注視してまいります。](https://casinotsu.com/bonuses/no-deposit)",
     },
   ],
 

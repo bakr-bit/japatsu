@@ -77,7 +77,7 @@ export const bitstarzNoDepositSpins: BonusPageContent = {
           ],
         },
       ],
-      footer: "<a href="https://gamblingtherapy.org/ja/" target="_blank" rel="noopener noreferrer">Gamblingtherapy.org/ja | 新規プレイヤー限定：当サイトから登録で30FS,賭け条件40倍 【4xウェルカムボーナス+180FS】最低入金額¥2,000, 賭け条件40倍 | <a href="https://casinotsu.com/about/privacy-policy" target="_blank" rel="noopener noreferrer">利用規約が適用されます",
+      footer: "[Gamblingtherapy.org/ja | 新規プレイヤー限定：当サイトから登録で30FS,賭け条件40倍 【4xウェルカムボーナス+180FS】最低入金額¥2,000](https://gamblingtherapy.org/ja/), 賭け条件40倍 | [利用規約が適用されます](https://casinotsu.com/about/privacy-policy)",
     },
     {
       heading: "オファー基本情報",
@@ -165,7 +165,7 @@ export const bitstarzNoDepositSpins: BonusPageContent = {
           ],
         },
       ],
-      footer: "🔰賭け条件ってなに？って思った方はこちら\n<a href="https://casinotsu.com/guides/wagering-requirements \"賭け条件って何？へ\"" target="_blank" rel="noopener noreferrer">オンカジの賭け条件って？ わかりやすく解説！\n\n**🔰ボーナスってどれを選べばいいの？？って思った方はこちら！**\n[オンラインカジノの入金ボーナスおすすめ最強](https://casinotsu.com/bonuses <>カジノボーナスの種類を知ろう！\")ガイドをチェック👩‍🏫",
+      footer: "🔰賭け条件ってなに？って思った方はこちら\n[オンカジの賭け条件って？ わかりやすく解説！\n\n**🔰ボーナスってどれを選べばいいの？？って思った方はこちら！**\n[オンラインカジノの入金ボーナスおすすめ最強](https://casinotsu.com/guides/wagering-requirements \)](https://casinotsu.com/bonuses <>カジノボーナスの種類を知ろう！\")ガイドをチェック👩‍🏫",
     },
     {
       heading: "カジノ情報",

@@ -27,7 +27,7 @@ export const megaWheel: GameShowPageContent = {
         { item: "ホイールセグメント数", detail: "合計54<> },
       ],
       paragraphs: [
-        "⭐️オンラインカジノの醍醐味と言えば、[ライブカジノ</Link>。ディーラーとリアルタイムでカジノゲームをプレイする体験は格別です。",
+        "⭐️オンラインカジノの醍醐味と言えば、[ライブカジノ]。ディーラーとリアルタイムでカジノゲームをプレイする体験は格別です。",
 
       ],
     },
@@ -47,7 +47,7 @@ export const megaWheel: GameShowPageContent = {
           paragraphs: [
             "![メガ・ホイール｜ライブディーラー・プレゼンター2](https://www.casinotsu.com/wp-content/uploads/Mega-Wheel-Dealer.jpg)",
             "ベットが完了したら、あとはプレゼンターがホイールを回すのを静かに待ちます。😉",
-            <>!<a href="https://www.casinotsu.com/wp-content/uploads/Mega-Wheel-Dealer.jpg" target="_blank" rel="noopener noreferrer">メガ・ホイール｜ライブディーラー・プレゼンター",
+            "![メガ・ホイール｜ライブディーラー・プレゼンター](https://www.casinotsu.com/wp-content/uploads/Mega-Wheel-Dealer.jpg)",
             "💡 **ベットエリア** で選択した数字にホイールが止まれば賞金獲得となります。もし外れてしまった場合は、ベットした賞金は没収となります。",
             "メガ・ホイールには複雑なテクニックは一切不要です。プレゼンターがゲームを進行してくれるため、カジノゲーム初心者の方でも、すぐに楽しんでいただけるでしょう。",
           ],
@@ -91,7 +91,7 @@ export const megaWheel: GameShowPageContent = {
           paragraphs: [
             "**還元率（RTP）** は **96.51%** と、市場平均と比較しても良好な数値です。",
             "**ボラティリティは高め** に設定されており、これは一撃で大きな勝利を狙える可能性を示唆しています。",
-            "📈 これまでの負けを一気に取り戻したい、そんな逆転を狙うプレイヤーには特におすすめです！\n[ハイボラティリティスロットで高額賞金ゲットを狙え</Link>",
+            "📈 これまでの負けを一気に取り戻したい、そんな逆転を狙うプレイヤーには特におすすめです！\n[ハイボラティリティスロットで高額賞金ゲットを狙え]",
           ],
         },
         {
@@ -109,10 +109,10 @@ export const megaWheel: GameShowPageContent = {
       subsections: [
         {
           subheading: "・メガラッキーナンバー",
-          paragraphs: ["![メガ・ホイール｜メガ・ラッキー・ナンバー</Link>",
+          paragraphs: ["![メガ・ホイール｜メガ・ラッキー・ナンバー]",
             "メガ・ホイールの最大の特徴と言えば、この **メガラッキーナンバー** です。✨🎯",
             "ベットが完了し、ホイールが回転し始めると、画面左側の「メガエリア」がランダムに選ばれます。このメガナンバーとそれに紐づくマルチプライヤー（倍率）は、 **ホイールのスピン前** に決定されます。これは、Evolution社のドリームキャッチャーなど、他のゲームショーとは異なり、 **RNG（乱数生成器）によって厳密に決定される** 点が大きな特徴です。この仕組みが、各ラウンドにさらなる興奮と期待感をもたらします。",
-            <>!<a href="https://www.casinotsu.com/wp-content/uploads/Mega-Wheel-Mega-Lucky-Numbe-Hit.jpg" target="_blank" rel="noopener noreferrer">メガ・ホイール｜メガ・ラッキー・ナンバー・配当",
+            "![メガ・ホイール｜メガ・ラッキー・ナンバー・配当](https://www.casinotsu.com/wp-content/uploads/Mega-Wheel-Mega-Lucky-Numbe-Hit.jpg)",
             "👆 こちらの例では、 **エリア2** が選ばれ、 **25倍** の配当倍率が適用されました！",
             "もし、ご自身がベットした **エリア** が **メガラッキーナンバー** として選ばれた場合、その **マルチプライヤーの倍率** があなたの賞金に掛け合わされます。😍",
           ],
@@ -147,13 +147,13 @@ export const megaWheel: GameShowPageContent = {
         "ゲームフィーチャー: メガラッキーナンバーで高配当を狙えます！💰",
       ],
       paragraphsAfterBullets: [
-        "🍬 高いペイアウト率や、Pragmatic Play社が展開する『ドロップ＆ウィン』キャンペーンにも注目です。\n[Pragmatic Play（プラグマティックプレイ）社のレビューはこちら</Link>！",
+        "🍬 高いペイアウト率や、Pragmatic Play社が展開する『ドロップ＆ウィン』キャンペーンにも注目です。\n[Pragmatic Play（プラグマティックプレイ）社のレビューはこちら]！",
       ],
     },
     {
       heading: "メガ・ホイールのモバイルプレイ",
       paragraphs: [
-        "1ラウンドの時間が短く、テンポの良いゲーム展開が特徴のメガ・ホイールは、[スマートフォン</Link> で手軽にプレイするのに最適です。(*‘ω‘ *)",
+        "1ラウンドの時間が短く、テンポの良いゲーム展開が特徴のメガ・ホイールは、[スマートフォン] で手軽にプレイするのに最適です。(*‘ω‘ *)",
         "Pragmatic Play社はHTML5技術を積極的に採用しており、メガ・ホイールはPCはもちろん、スマートフォンやタブレットなど、あらゆるデバイスで快適にプレイできるよう最適化されています。",
       ],
     },
@@ -225,9 +225,9 @@ export const megaWheel: GameShowPageContent = {
     ],
     paragraphsAfterBullets: [
       "メガ・ホイールが面白そうだと思ったら、以下のゲームもおすすめ！",
-      "[エクストリーム・ライトニング・ルーレット</Link> / <Link href="/game-shows/sweet-bonanza-candyland">スイートボナンザ・キャンディーランド</Link> / <Link href="/game-shows/vegas-ball-bonanza">ベガス・ボール・ボナンザ</Link>",
-      <>他の<Link href="/game-shows">ゲームショー</Link>もぜひお試しください！(ﾟ∀ﾟ)",
-      <>🌟 現実世界のゲームショーをオンラインでプレイできる！？\n<Link href="/game-shows">カジノ版のゲームショーの詳細を徹底チェック</Link> ♪",
+      "[エクストリーム・ライトニング・ルーレット] / [スイートボナンザ・キャンディーランド](/game-shows/sweet-bonanza-candyland) / [ベガス・ボール・ボナンザ](/game-shows/vegas-ball-bonanza)",
+      "他の[ゲームショー](/game-shows)もぜひお試しください！(ﾟ∀ﾟ)",
+      "🌟 現実世界のゲームショーをオンラインでプレイできる！？\n[カジノ版のゲームショーの詳細を徹底チェック](/game-shows) ♪",
     ],
   },
 

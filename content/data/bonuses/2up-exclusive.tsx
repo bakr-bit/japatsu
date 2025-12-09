@@ -40,7 +40,7 @@ export const twoUpCasinoBonus: BonusPageContent = {
         "さらに、人気のゲームプロバイダーである [**Pragmatic Play**](https://www.casinotsu.com/free-spins) 社のスロットで利用できる、 **最大500回分のフリースピンボーナス** もプレゼントいたします！🎰🎁",
         "これは見逃せませんね！(๑•̀ㅂ•́)و✧",
         "それでは、CasinoTsu限定の豪華ウェルカムオファーの詳細を早速確認していきましょう！😍🔥",
-        <>💫日本円でもプレイ可能◎ 最新の仮想通貨特化型カジノ！\n<a href="https://casinotsu.com/reviews/2up" target="_blank" rel="noopener noreferrer">2upカジノのレビュー はこちらから★",
+        "💫日本円でもプレイ可能◎ 最新の仮想通貨特化型カジノ！\n[2upカジノのレビュー はこちらから★](https://casinotsu.com/reviews/2up)",
       ],
       cta: {
         text: "2upカジノでプレイする！",
@@ -142,7 +142,7 @@ export const twoUpCasinoBonus: BonusPageContent = {
             "*   **VIPクラブ:** XP（経験値）ベースの11～12段階のランク\n    *   **VIP特典:** 即時レーキバック、レベルアップボーナス、ウィークリー/マンスリーボーナス、リロードボーナス、ロスバックボーナス、フリースピン、フリーベット、優先出金（高ランク）、専属VIPホスト、XPマルチプライヤーなど",
             "*   **その他のプロモーション:** 「Pachinko Has Arrived」「Combo Odds Boost」「Goalless Draw Refund」「VIP Telegram Bonus Drops」「VIP Transfer」「Exclusive VIP Rewards」など",
             "詳細にご興味のある方は、ぜひ [**2upカジノのレビュー**](https://www.casinotsu.com/free-spins) ページも併せてご覧ください( ⁎ᵕᴗᵕ⁎ )❤︎",
-            <>**😥使い慣れていない通貨で遊ぶのが不安…という方は！**\n<a href="https://casinotsu.com/payment/japanese-yen-casinos" target="_blank" rel="noopener noreferrer">日本円で遊べるおすすめオンラインカジノ をチェック★",
+            "**😥使い慣れていない通貨で遊ぶのが不安…という方は！**\n[日本円で遊べるおすすめオンラインカジノ をチェック★](https://casinotsu.com/payment/japanese-yen-casinos)",
           ],
         },
       ]
@@ -172,7 +172,7 @@ export const twoUpCasinoBonus: BonusPageContent = {
       paragraphs: [
         "2upカジノでは、スロット、[ライブカジノ](https://www.casinotsu.com/slots)、テーブルゲーム、そしてオリジナルゲームまで、幅広いジャンルのゲームをお楽しみいただけます。",
         "*   **スロット:** ビデオスロット、クラシックスロット、3Dスロットなど、多彩なテーマと機能を備えた5,000種類以上のスロットをご用意しております。",
-        <>*   **ライブカジノ:** <a href="https://casinotsu.com/blackjack" target="_blank" rel="noopener noreferrer">ブラックジャック、ルーレット、<a href="https://casinotsu.com/baccarat" target="_blank" rel="noopener noreferrer">バカラなどの人気ゲームを、リアルタイムでディーラーと臨場感あふれる対戦をお楽しみいただけます。",
+        "*   **ライブカジノ:** [ブラックジャック](https://casinotsu.com/blackjack)、[ルーレット](https://casinotsu.com/roulette)、[バカラ](https://casinotsu.com/baccarat)などの人気ゲームを、リアルタイムでディーラーと臨場感あふれる対戦をお楽しみいただけます。",
         "*   **テーブルゲーム:** 上記以外にも、様々な種類のテーブルゲームをご提供しております。",
         "*   **2UPオリジナル:** 「Dice」「Mines」「Plinko」といった2up限定のオリジナルゲームも用意されており、ハイローラー向けの最大100,000ドルのベットも可能です。",
         "*   **平均RTP:** プラットフォーム全体で96.2%と、プレイヤーにとって有利な設定となっております。",
@@ -193,14 +193,14 @@ export const twoUpCasinoBonus: BonusPageContent = {
           subheading: "入金方法",
           paragraphs: [
             "*   **仮想通貨:** 上記対応仮想通貨での入金が可能です。",
-            "*   **法定通貨:** Visa, Mastercard, Google Pay, Apple Pay, <a href="https://casinotsu.com/payment/bank-transfer" target="_blank" rel="noopener noreferrer">銀行送金</a>, Alipay, WeChat Pay, SEPA など。",
+            "*   **法定通貨:** Visa, Mastercard, Google Pay, Apple Pay, [銀行送金](https://casinotsu.com/payment/bank-transfer), Alipay, WeChat Pay, SEPA など。",
           ],
         },
         {
           subheading: "出金方法",
           paragraphs: [
             "*   **仮想通貨:** 対応仮想通貨での出金が可能です。",
-            "*   **法定通貨:** <a href="https://casinotsu.com/payment/bank-transfer" target="_blank" rel="noopener noreferrer">銀行送金</a>など。",
+            "*   **法定通貨:** [銀行送金](https://casinotsu.com/payment/bank-transfer)など。",
           ],
         },
         {

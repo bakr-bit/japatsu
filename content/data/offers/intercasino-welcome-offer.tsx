@@ -42,7 +42,7 @@ export const interCasinoExclusive: OfferPageContent = {
       title: "専用リンクから登録ページへアクセス",
       description: [
         "ジャパカジの専用リンクからインターカジノの登録ページへアクセスします。",
-        <Link href="https://casinotsu.com/reviews/inter-casino">👉 インターカジノ公式サイトへ！</Link>
+        [👉 インターカジノ公式サイトへ！](https://casinotsu.com/reviews/inter-casino)
       ],
       imageUrl: "https://casinotsu.com/images/inter-exclusive0.jpg",
       additionalImages: ["https://casinotsu.com/images/inter-exclusive.jpg"],
@@ -115,7 +115,7 @@ export const interCasinoExclusive: OfferPageContent = {
 
   targetGames: {
     heading: "フリースピン対象スロット：ムーンプリンセス100",
-    description: "今回プレゼントされるフリースピンは、日本のプレイヤー様から絶大な支持を得ているスロットゲーム <a href="https://casinotsu.com/slots/moon-princess-100" target="_blank" rel="noopener noreferrer">ムーンプリンセス100（Moon Princess100） にてご利用いただけます。このスロットは、数々の名機を生み出していることで知られる <a href="https://casinotsu.com/providers/play-n-go" target="_blank" rel="noopener noreferrer">Play’nGO社 によって開発されました。",
+    description: "今回プレゼントされるフリースピンは、日本のプレイヤー様から絶大な支持を得ているスロットゲーム [ムーンプリンセス100（Moon Princess100） にてご利用いただけます。このスロットは、数々の名機を生み出していることで知られる [Play’nGO社 によって開発されました。](https://casinotsu.com/providers/play-n-go)](https://casinotsu.com/slots/moon-princess-100)",
     eligibleGames: ["ムーンプリンセス100"],
     gameDetails: {
       name: "ムーンプリンセス100のゲーム概要",

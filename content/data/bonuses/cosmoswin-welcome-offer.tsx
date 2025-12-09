@@ -44,10 +44,10 @@ export const cosmoswinCashbackBonus: BonusPageContent = {
           paragraphs: [
             "Cosmoswinは2018年または2019年（情報源により若干の差異あり）に設立された、仮想通貨に特化したオンラインカジノです。ライセンスはキュラソー政府発行のマスターライセンス「1668/JAZ」を取得しており、信頼性の高い運営を行っております。CasinoTsuは、[ライセンスの有無](https://www.casinotsu.com/)を常にチェック、ダブルチェック、そして CasinoTsu チェック！しています。",
             "カジノ運営会社はFinal Enterprises N.V.です。",
-            <>提供されるゲーム数は、約2,500〜4,000種類以上（情報源により変動あり）と非常に豊富で、1x2 Gaming、Amatic、Betsoft、<a href="https://casinotsu.com/game-shows" target="_blank" rel="noopener noreferrer">Evolution Gaming、Netent、Pragmatic Playなど30社以上の有名プロバイダーが名を連ねています。",
-            <>カジノゲームは、<a href="https://casinotsu.com/live-casino" target="_blank" rel="noopener noreferrer">ライブカジノ、テーブルゲーム（<a href="https://casinotsu.com/blackjack" target="_blank" rel="noopener noreferrer">ブラックジャック、<a href="https://casinotsu.com/poker" target="_blank" rel="noopener noreferrer">ポーカー、<a href="https://casinotsu.com/baccarat" target="_blank" rel="noopener noreferrer">バカラ、<a href="https://casinotsu.com/roulette" target="_blank" rel="noopener noreferrer">ルーレット）、TVショーゲーム、そしてCosmoswin独自の「Space」カテゴリーゲームなどが楽しめます。また、一部ゲームでは「Provably Fair（証明可能公正）」機能も利用可能です。",
+            "提供されるゲーム数は、約2,500〜4,000種類以上（情報源により変動あり）と非常に豊富で、1x2 Gaming、Amatic、Betsoft、[Evolution Gaming、Netent、Pragmatic Playなど30社以上の有名プロバイダーが名を連ねています。](https://casinotsu.com/game-shows)",
+            <>カジノゲームは、[ライブカジノ、テーブルゲーム（](https://casinotsu.com/live-casino)[ブラックジャック、](https://casinotsu.com/blackjack)[ポーカー、](https://casinotsu.com/poker)[バカラ、[ルーレット）、TVショーゲーム、そしてCosmoswin独自の「Space」カテゴリーゲームなどが楽しめます。また、一部ゲームでは「Provably Fair（証明可能公正）」機能も利用可能です。](https://casinotsu.com/roulette)](https://casinotsu.com/baccarat)",
             "**💫オンラインカジノでも、時代はやっぱり仮想通貨！**",
-            <><a href="https://casinotsu.com/crypto" target="_blank" rel="noopener noreferrer">仮想通貨が使えるカジノはこちら♪",
+            "[仮想通貨が使えるカジノはこちら♪](https://casinotsu.com/crypto)",
           ],
         },
         {
@@ -189,8 +189,8 @@ export const cosmoswinCashbackBonus: BonusPageContent = {
           paragraphs: ["Cosmoswinでは、多種多様なゲームが楽しめます。"],
           list: [
             "**スロット**: 数千種類以上の最新スロットからクラシックなものまで。",
-            "**ライブカジノ**: Evolution GamingやEzugiなどの人気プロバイダーによる、[ブラックジャック](https://www.casinotsu.com/blackjack)、<a href="https://casinotsu.com/roulette" target="_blank" rel="noopener noreferrer">ルーレット、<a href="https://casinotsu.com/baccarat" target="_blank" rel="noopener noreferrer">バカラ、<a href="https://casinotsu.com/poker" target="_blank" rel="noopener noreferrer">ポーカー、<a href="https://casinotsu.com/game-shows" target="_blank" rel="noopener noreferrer">ゲームショーなど。",
-            <>**テーブルゲーム**: 様々な種類の<a href="https://casinotsu.com/blackjack" target="_blank" rel="noopener noreferrer">ブラックジャック、<a href="https://casinotsu.com/roulette" target="_blank" rel="noopener noreferrer">ルーレット、<a href="https://casinotsu.com/baccarat" target="_blank" rel="noopener noreferrer">バカラ、<a href="https://casinotsu.com/poker" target="_blank" rel="noopener noreferrer">ポーカー。",
+            "**ライブカジノ**: Evolution GamingやEzugiなどの人気プロバイダーによる、[ブラックジャック](https://www.casinotsu.com/blackjack)、[ルーレット、](https://casinotsu.com/roulette)[バカラ、](https://casinotsu.com/baccarat)[ポーカー、[ゲームショーなど。](https://casinotsu.com/game-shows)](https://casinotsu.com/poker)",
+            <>**テーブルゲーム**: 様々な種類の[ブラックジャック、](https://casinotsu.com/blackjack)[ルーレット、](https://casinotsu.com/roulette)[バカラ、[ポーカー。](https://casinotsu.com/poker)](https://casinotsu.com/baccarat)",
             "**「Space」カテゴリー**: Cosmoswin独自のテーマに基づいたゲーム。",
             "**Provably Fairゲーム**: 一部のゲームでは、結果の公平性を自身で証明できる機能があります。",
           ],
@@ -295,7 +295,7 @@ export const cosmoswinCashbackBonus: BonusPageContent = {
           list: [
             "**リアルマネーキャッシュバック**: 他のカジノでも、賭け条件なしのリアルマネーキャッシュバックを提供するプロモーションがあります。ただし、還元率や上限額、対象期間などはカジノによって異なります。",
             "**[入金不要ボーナス](https://www.casinotsu.com/bonuses/no-deposit)**: 登録するだけで受け取れるボーナス。",
-            <><strong><a href="https://casinotsu.com/free-spins" target="_blank" rel="noopener noreferrer">フリースピン</strong>: 特定のスロットで利用できる無料スピン。",
+            "**[フリースピン](https://casinotsu.com/free-spins)**: 特定のスロットで利用できる無料スピン。",
           ],
         },
         {

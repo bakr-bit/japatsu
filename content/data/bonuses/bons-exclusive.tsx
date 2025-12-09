@@ -20,7 +20,7 @@ export const bonsCasinoBonusContent: BonusPageContent = {
 
   rankings: {
     title: "ボンズカジノ限定入金不要ボーナス",
-    description: "マインクラフトのような独特な世界観を持つ <a href="https://casinotsu.com/reviews/bons" target="_blank" rel="noopener noreferrer">ボンズカジノ から、 **ジャパカジ限定の超～お得なオファー** が届きましたよ😍🎉 登録するだけでもらえるのは、『 **入金不要ボーナス5,000円**』！ 5,000円も無料で貰えるだけでもかなり豪華ですが、なんと！ 大人気スロットの <strong><a href="https://casinotsu.com/slots/moon-princess" target="_blank" rel="noopener noreferrer">Moon Princess</strong> の **フリースピン20回分** も一緒に貰えちゃうんです😍💖",
+    description: "マインクラフトのような独特な世界観を持つ [ボンズカジノ から、 **ジャパカジ限定の超～お得なオファー** が届きましたよ😍🎉 登録するだけでもらえるのは、『 **入金不要ボーナス5,000円**』！ 5](https://casinotsu.com/reviews/bons),000円も無料で貰えるだけでもかなり豪華ですが、なんと！ 大人気スロットの **[Moon Princess](https://casinotsu.com/slots/moon-princess)** の **フリースピン20回分** も一緒に貰えちゃうんです😍💖",
     columns: ["ランキング", "オンラインカジノ", "登録ボーナス詳細", "賭け条件"],
     rows: [
       {
@@ -44,7 +44,7 @@ export const bonsCasinoBonusContent: BonusPageContent = {
         "マインクラフトのような独特な世界観を持つ [ボンズカジノ](https://www.casinotsu.com/reviews/bons) から、 **ジャパカジ限定の超～お得なオファー** が届きましたよ😍🎉",
         "登録するだけでもらえるのは、『 **入金不要ボーナス5,000円**』！",
         "＼ **だけじゃなーい！** 😲✨／",
-        <>5,000円も無料で貰えるだけでもかなり豪華ですが、なんと！ 大人気スロットの <strong><a href="https://casinotsu.com/slots/moon-princess" target="_blank" rel="noopener noreferrer">Moon Princess</strong> の **フリースピン20回分** も一緒に貰えちゃうんです😍💖",
+        "5,000円も無料で貰えるだけでもかなり豪華ですが、なんと！ 大人気スロットの **[Moon Princess](https://casinotsu.com/slots/moon-princess)** の **フリースピン20回分** も一緒に貰えちゃうんです😍💖",
         "無料で5,000円と人気スロットのフリースピンまで貰えるなんて、大変太っ腹な企画ですね。これは是非とも獲得していただきたい、CasinoTsu 推薦のオファーです✨",
         "さあ、ボンズカジノへ急ぐ前に、利用規約や獲得方法をしっかりとチェックしていきましょうね★👇",
       ],
@@ -58,11 +58,11 @@ export const bonsCasinoBonusContent: BonusPageContent = {
   bonusTypeCategories: [
     {
       title: "ボンズカジノの入金不要ボーナス＆フリースピン利用規約",
-      description: "CasinoTsu では、提供された情報を責任を持って皆様にお届けします。チェック、ダブルチェック、そして CasinoTsu チェック済みの情報です。\n\n**規約一覧:**\n* 入金不要ボーナスの出金条件は **40倍** です。これは、ボーナス額の40倍にあたる金額を賭ける必要があることを意味します。\n* 入金不要ボーナスの出金上限額は **12,000円** です。このボーナスから得た勝利金を引き出せる最大金額となります。\n* フリースピンから得た勝利金にかかる出金条件は **20倍** です。\n* フリースピンの対象スロットは **[Moon Princess](https://www.casinotsu.com/slots/moon-princess)** で、スピンバリューは **32円** です。\n* フリースピンを獲得するには、ボーナスコード「 **japacasi**」を登録時に入力する必要があります。\n* ボーナス、フリースピンの受け取りには <strong><a href="https://casinotsu.com/guides/document-verification" target="_blank" rel="noopener noreferrer">本人確認（KYC）</strong> と **電話番号認証** が必須です。\n* ボーナス、フリースピンの有効期限は **30日間** です。\n* ボンズカジノの **一般利用規約** が適用されます。\n\n**カジ子メモ:** ボーナスは、カジノ、ライブカジノ、スポーツベットで利用可能とのことです。ゲームによって賭け条件消化率が異なりますので、プレイ前にボーナス利用規約のページでご確認くださいませ🌸",
+      description: "CasinoTsu では、提供された情報を責任を持って皆様にお届けします。チェック、ダブルチェック、そして CasinoTsu チェック済みの情報です。\n\n**規約一覧:**\n* 入金不要ボーナスの出金条件は **40倍** です。これは、ボーナス額の40倍にあたる金額を賭ける必要があることを意味します。\n* 入金不要ボーナスの出金上限額は **12,000円** です。このボーナスから得た勝利金を引き出せる最大金額となります。\n* フリースピンから得た勝利金にかかる出金条件は **20倍** です。\n* フリースピンの対象スロットは **[Moon Princess](https://www.casinotsu.com/slots/moon-princess)** で、スピンバリューは **32円** です。\n* フリースピンを獲得するには、ボーナスコード「 **japacasi**」を登録時に入力する必要があります。\n* ボーナス、フリースピンの受け取りには **[本人確認（KYC）](https://casinotsu.com/guides/document-verification)** と **電話番号認証** が必須です。\n* ボーナス、フリースピンの有効期限は **30日間** です。\n* ボンズカジノの **一般利用規約** が適用されます。\n\n**カジ子メモ:** ボーナスは、カジノ、ライブカジノ、スポーツベットで利用可能とのことです。ゲームによって賭け条件消化率が異なりますので、プレイ前にボーナス利用規約のページでご確認くださいませ🌸",
       table: {
         columns: ["項目", "詳細"],
         rows: [
-          ["**対象ゲーム**", "**[Moon Princess](https://www.casinotsu.com/slots/moon-princess)**],
+          ["**対象ゲーム**", "**[Moon Princess](https://www.casinotsu.com/slots/moon-princess)**"],
           ["**回数**", "**20回**"],
           ["**スピンバリュー**", "**32円**"],
           ["**出金条件**", "**20倍**"],
@@ -109,13 +109,13 @@ export const bonsCasinoBonusContent: BonusPageContent = {
       ],
       casinos: [
         { casino: "仮想通貨", casinoSlug: "crypto", bonus: "[Bitcoin](https://www.casinotsu.com/crypto)、イーサリアムなど、主要な仮想通貨での入出金が可能です。" },
-        { casino: "推奨電子ウォレット", casinoSlug: "ewallet", bonus: <><a href="https://casinotsu.com/payment/payz" target="_blank" rel="noopener noreferrer">Payz, <a href="https://casinotsu.com/payment/vega-wallet" target="_blank" rel="noopener noreferrer">Vega Wallet, <a href="https://casinotsu.com/payment/iwallet" target="_blank" rel="noopener noreferrer">iWallet, <a href="https://casinotsu.com/payment/muchbetter" target="_blank" rel="noopener noreferrer">MuchBetter, Jeton, <a href="https://casinotsu.com/payment/tiger-pay" target="_blank" rel="noopener noreferrer">Tiger Pay などの主要な電子ウォレットが利用できます。" },
+        { casino: "推奨電子ウォレット", casinoSlug: "ewallet", bonus: "[Payz](https://casinotsu.com/payment/payz), [Vega Wallet](https://casinotsu.com/payment/vega-wallet), [iWallet](https://casinotsu.com/payment/iwallet), [MuchBetter, Jeton](https://casinotsu.com/payment/muchbetter), [Tiger Pay などの主要な電子ウォレットが利用できます。](https://casinotsu.com/payment/tiger-pay)" },
       ],
     },
     {
       title: "カジノのポジショニング",
       description: [
-        "ボンズカジノは、その豊富なボーナス種類とユニークなインターフェースにより、日本市場で高い評価を得ています。[Parimatch](https://www.casinotsu.com/reviews/bons), <a href="https://casinotsu.com/reviews/stake" target="_blank" rel="noopener noreferrer">Stake, <a href="https://casinotsu.com/reviews/yuugado" target="_blank" rel="noopener noreferrer">遊雅堂, <a href="https://casinotsu.com/reviews/10bet" target="_blank" rel="noopener noreferrer">10Bet, <a href="https://casinotsu.com/reviews/bc-game" target="_blank" rel="noopener noreferrer">BC.GAME, <a href="https://casinotsu.com/reviews/vera-john" target="_blank" rel="noopener noreferrer">Vera&John, <a href="https://casinotsu.com/reviews/casino-sky" target="_blank" rel="noopener noreferrer">Casino Skyといった人気カジノと並び、トップクラスのオンラインカジノとして位置づけられています。特に、カジノ、ライブカジノ、スポーツベットのすべてにおいて多様なボーナスを提供している点が際立っています。CasinoTsu も、その信頼性と魅力的なオファーを高く評価しています。",
+        "ボンズカジノは、その豊富なボーナス種類とユニークなインターフェースにより、日本市場で高い評価を得ています。[Parimatch](https://www.casinotsu.com/reviews/bons), [Stake](https://casinotsu.com/reviews/stake), [遊雅堂](https://casinotsu.com/reviews/yuugado), [10Bet](https://casinotsu.com/reviews/10bet), [BC.GAME](https://casinotsu.com/reviews/bc-game), [Vera&John](https://casinotsu.com/reviews/vera-john), [Casino Skyといった人気カジノと並び、トップクラスのオンラインカジノとして位置づけられています。特に、カジノ、ライブカジノ、スポーツベットのすべてにおいて多様なボーナスを提供している点が際立っています。CasinoTsu も、その信頼性と魅力的なオファーを高く評価しています。](https://casinotsu.com/reviews/casino-sky)",
       ],
       casinos: [],
     },

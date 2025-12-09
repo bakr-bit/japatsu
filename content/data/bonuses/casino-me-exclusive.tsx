@@ -32,10 +32,10 @@ export const casinoMeExclusive: BonusPageContent = {
       casinoSlug: "casino-me",
       heading: "導入・概要：CasinoTsu限定！ 豪華ウェルカムパッケージ＋100回分のフリースピンをゲット！",
       description: [
-        "カジノミーは、その洗練されたインターフェースと迅速なサービスで、多くのプレイヤーから信頼を得ているオンラインカジノです。カジ旅の姉妹カジノとしても知られ、魅力的な[キャッシュバック</Link>制度や充実した<Link href="/customer-support">カスタマーサポート]体制を誇っています。",
-        <>この度、CasinoTsu（旧ジャパカジ）を通じてカジノミーにご登録いただき、<Link href="/bonuses/welcome-bonus">初回入金</Link>を$60以上行ったプレイヤー様限定で、特別なオファーをご提供いたします。通常の充実したウェルカムパッケージに加えて、カジノミー独占スロット**「Note of Death」**のフリースピン100回分をプレゼントいたします！",
+        "カジノミーは、その洗練されたインターフェースと迅速なサービスで、多くのプレイヤーから信頼を得ているオンラインカジノです。カジ旅の姉妹カジノとしても知られ、魅力的な[キャッシュバック]制度や充実した<Link href="/customer-support">カスタマーサポート]体制を誇っています。",
+        "この度、CasinoTsu（旧ジャパカジ）を通じてカジノミーにご登録いただき、[初回入金](/bonuses/welcome-bonus)を$60以上行ったプレイヤー様限定で、特別なオファーをご提供いたします。通常の充実したウェルカムパッケージに加えて、カジノミー独占スロット**「Note of Death」**のフリースピン100回分をプレゼントいたします！",
         "まだ初回入金を済ませていない既存プレイヤー様も、この限定オファーの対象となります。この機会に、カジノミーの素晴らしい体験を存分にお楽しみいただければ幸いです。⚓",
-        <><Link href="/responsible-gambling/gambling-addiction-help">Gamblingtherapy.org/ja</Link> | 各ボーナスなどの利用規約につきましては、カジノ公式ページからご確認頂きますようお願いいたします。 | <Link href="/about/privacy-policy">利用規約が適用されます</Link>",
+        "[Gamblingtherapy.org/ja](/responsible-gambling/gambling-addiction-help) | 各ボーナスなどの利用規約につきましては、カジノ公式ページからご確認頂きますようお願いいたします。 | [利用規約が適用されます](/about/privacy-policy)",
       ],
       cta: {
         text: "オファーへ",
@@ -62,13 +62,13 @@ export const casinoMeExclusive: BonusPageContent = {
         "初回入金で獲得できる77回のフリースピンは、毎日異なる人気スロットで提供されます。",
 `| 日数 | 対象ゲーム |
 | --- | --- |
-| 1日目 | <Link href="/slots/hawaiian-dream">ハワイアンドリーム</Link> 🌺 |
-| 2日目 | <Link href="/slots/moon-princess">ムーンプリンセス</Link> 👸 |
-| 3日目 | <Link href="/slots/white-rabbit">ホワイトラビット</Link> 🐰 |
-| 4日目 | <Link href="/slots/vampires-gone-wild">ヴァンパイヤ・ゴーン・ワイルド</Link> 🦇 |
-| 5日目 | <Link href="/slots/note-of-death">ノート・オブ・デス</Link> 📓 |
+| 1日目 | [ハワイアンドリーム](/slots/hawaiian-dream) 🌺 |
+| 2日目 | [ムーンプリンセス](/slots/moon-princess) 👸 |
+| 3日目 | [ホワイトラビット](/slots/white-rabbit) 🐰 |
+| 4日目 | [ヴァンパイヤ・ゴーン・ワイルド](/slots/vampires-gone-wild) 🦇 |
+| 5日目 | [ノート・オブ・デス](/slots/note-of-death) 📓 |
 | 6日目 | フルーツパーティー🍎 |
-| 7日目 | <Link href="/slots/jammin-jars-2">ジャミンジャーズ2</Link> 🕺 |`,
+| 7日目 | [ジャミンジャーズ2](/slots/jammin-jars-2) 🕺 |`,
       ],
     },
     {
@@ -97,7 +97,7 @@ export const casinoMeExclusive: BonusPageContent = {
           paragraphs: [
             "*   **最大ベット制限:** ボーナス資金をご利用中の場合、1スピンあたりの最大ベット額は$5に制限されます。この制限を超えてベットされた場合、ボーナス規約違反となり、勝利金が没収される可能性があります。",
             "*   **禁止ゲーム:** 特定のゲームは、ボーナスの賭け条件達成に貢献しない、またはプレイ自体が禁止されている場合があります。以下にその例を挙げます。\n    *   Blood Suckers、100 Bit Dice、The Wish Master: 賭け条件への貢献度 0%\n    *   進行型ゲーム（Castle Builder 1、2、Pearls of India、Immortal Romance、Tomb Raider – Secret of the Sword、Avalon 2、Thunderstruck 2、Jurassic Parkなど）でのボーナスマネーの利用は、勝利金の没収につながる可能性があります。",
-            "*   **ゲームごとの賭け条件消化率:**\n    *   スロットマシン（一部例外あり）: 最大100%\n    *   [ブラックジャック</Link>（ポントゥーン、ダブルエクスポージャー含む）: 最大10%\n    *   <Link href="/baccarat">バカラ</Link>（ライブカジノを除く）: 最大10%\n    *   <Link href="/roulette">ルーレット</Link>（ライブカジノを除く）: 最大5%\n    *   ビデオポーカー: 最大30%\n    *   プントバンコ: 0%\n    *   オアシスポーカー、テキサスホールデム<Link href="/poker">ポーカー</Link>、カジノホールデム: 10%\n    *   <Link href="/live-casino">ライブカジノ]: 最大10%\n    *   Crazy Time: 10%\n    *   その他のゲーム: 最大100%",
+            "*   **ゲームごとの賭け条件消化率:**\n    *   スロットマシン（一部例外あり）: 最大100%\n    *   [ブラックジャック]（ポントゥーン、ダブルエクスポージャー含む）: 最大10%\n    *   [バカラ](/baccarat)（ライブカジノを除く）: 最大10%\n    *   [ルーレット](/roulette)（ライブカジノを除く）: 最大5%\n    *   ビデオポーカー: 最大30%\n    *   プントバンコ: 0%\n    *   オアシスポーカー、テキサスホールデム[ポーカー](/poker)、カジノホールデム: 10%\n    *   <Link href="/live-casino">ライブカジノ]: 最大10%\n    *   Crazy Time: 10%\n    *   その他のゲーム: 最大100%",
           ],
         },
       ],
@@ -129,8 +129,8 @@ export const casinoMeExclusive: BonusPageContent = {
           subheading: "ゲームの技術仕様",
           paragraphs: [
             "「Note of Death」は、**Play'n GO**社によって開発されたと推測されるスロットゲームです（人気ゲーム[「Book of Dead」]のバリアントである可能性があります）。",
-            <>*   **RTP（還元率）:** 公表されている数値によると、RTPは最大で**96.21%**に達する可能性があります。これは、プレイヤー様にとって比較的有利な<Link href="/slots/high-rtp">RTP</Link>と言えます。",
-            <>*   **ボラティリティ:** この種のゲームは一般的に<Link href="/slots/high-volatility">高ボラティリティ</Link>の傾向にあります。高ボラティリティのスロットは、配当の頻度は低いものの、一度当たると高額な配当が期待できるのが特徴です。",
+            "*   **RTP（還元率）:** 公表されている数値によると、RTPは最大で**96.21%**に達する可能性があります。これは、プレイヤー様にとって比較的有利な[RTP](/slots/high-rtp)と言えます。",
+            "*   **ボラティリティ:** この種のゲームは一般的に[高ボラティリティ](/slots/high-volatility)の傾向にあります。高ボラティリティのスロットは、配当の頻度は低いものの、一度当たると高額な配当が期待できるのが特徴です。",
             "*   **リールとペイライン:** 一般的な「Book of Dead」と同様に、**5リール**と**10ペイライン**構成であると予想されます。",
             "*   **モバイル対応:** スマートフォンやタブレットのモバイルブラウザを通じて、AndroidおよびiOSデバイスで快適にプレイできます。専用アプリはありませんが、ウェブブラウザ経由でスムーズなゲーム体験が提供されます。",
           ],
@@ -151,7 +151,7 @@ export const casinoMeExclusive: BonusPageContent = {
           paragraphs: [
             "1.  **CasinoTsuからカジノミーへ登録:** まず、当サイトのリンクからカジノミーの公式サイトへアクセスし、新規アカウントをご登録ください。",
             "2.  **アカウント認証:** ご登録後、必要に応じて[アカウント認証（KYC）]を完了させてください。",
-            <>3.  **初回入金:** $60以上の<Link href="/bonuses/welcome-bonus">初回入金</Link>を行ってください。この際、ボーナスコードの入力が必要な場合は、指定の箇所に入力します。",
+            "3.  **初回入金:** $60以上の[初回入金](/bonuses/welcome-bonus)を行ってください。この際、ボーナスコードの入力が必要な場合は、指定の箇所に入力します。",
             "4.  **ボーナスとフリースピンの受け取り:** ご入金が確認され次第、ウェルカムボーナスと「Note of Death」の100回フリースピンが付与されます。",
           ],
         },
@@ -251,7 +251,7 @@ export const casinoMeExclusive: BonusPageContent = {
     },
     {
       question: "$60未満の入金でもフリースピンはもらえますか？",
-      answer: <>いいえ、この100回フリースピン特典を受け取るには、$60以上の初回入金が必要です。それ以下の金額の場合、通常の<Link href="/bonuses/welcome-bonus">ウェルカムパッケージ</Link>のみが適用されます。",
+      answer: "いいえ、この100回フリースピン特典を受け取るには、$60以上の初回入金が必要です。それ以下の金額の場合、通常の[ウェルカムパッケージ](/bonuses/welcome-bonus)のみが適用されます。",
     },
     {
       question: "カジノミーは安全なカジノですか？",
@@ -263,7 +263,7 @@ export const casinoMeExclusive: BonusPageContent = {
     },
     {
       question: "入出金方法について教えてください。",
-      answer: <>カジノミーでは、クレジットカード、電子ウォレット（<Link href="/payment/ezeebill">エコペイズ</Link>（※エコペイズは現在直接の提携がないため、代替として<Link href="/payment/venuspoint">ビーナスポイント</Link>などを推奨）、<Link href="/payment/matchpay">マッチベター</Link>など）、銀行送金、仮想通貨など、多様な<Link href="/payment">入出金方法</Link>を提供しております。手数料や処理時間は、選択された方法によって異なります。詳細につきましては、カジノミー公式サイトの「支払い方法」セクションをご確認ください。",
+      answer: "カジノミーでは、クレジットカード、電子ウォレット（[エコペイズ](/payment/ezeebill)（※エコペイズは現在直接の提携がないため、代替として[ビーナスポイント](/payment/venuspoint)などを推奨）、[マッチベター](/payment/matchpay)など）、銀行送金、仮想通貨など、多様な[入出金方法](/payment)を提供しております。手数料や処理時間は、選択された方法によって異なります。詳細につきましては、カジノミー公式サイトの「支払い方法」セクションをご確認ください。",
     },
   ],
 

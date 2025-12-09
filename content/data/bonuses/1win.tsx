@@ -71,10 +71,10 @@ export const oneWinBonus: BonusPageContent = {
           subheading: "2. 1winカジノのウェルカムボーナス・フリースピン利用規約",
           paragraphs: [
             "【 **ウェルカムボーナス利用規約**】",
-            "-   **初回入金ボーナス:**\n    *   最大ボーナス額：75,000円 (※プロモコード「JVIP」使用時は最大$3300相当)\n    *   最大出金可能額：ボーナス額の2倍\n    *   **賭け条件:** 20倍 (※プロモコード「JVIP」使用時は30倍)\n    *   有効期限：48時間 (※プロモコード「JVIP」使用時は30日)\n    *   最低入金額：2,000円\n    *   **対象:** [カジノゲーム](https://www.casinotsu.com/bonuses/welcome-bonus)（※プロモコード「JVIP」使用時は<a href="https://casinotsu.com/sports-betting" target="_blank" rel="noopener noreferrer">スポーツベットも対象）",
+            "-   **初回入金ボーナス:**\n    *   最大ボーナス額：75,000円 (※プロモコード「JVIP」使用時は最大$3300相当)\n    *   最大出金可能額：ボーナス額の2倍\n    *   **賭け条件:** 20倍 (※プロモコード「JVIP」使用時は30倍)\n    *   有効期限：48時間 (※プロモコード「JVIP」使用時は30日)\n    *   最低入金額：2,000円\n    *   **対象:** [カジノゲーム](https://www.casinotsu.com/bonuses/welcome-bonus)（※プロモコード「JVIP」使用時は[スポーツベットも対象）](https://casinotsu.com/sports-betting)",
             "-   **2回目～4回目の入金ボーナス:**\n    *   最大ボーナス額：各入金で最大$3300相当 (※プロモコード「JVIP」使用時)\n    *   **賭け条件:** 30倍 (※プロモコード「JVIP」使用時)\n    *   有効期限：30日 (※プロモコード「JVIP」使用時)\n    *   **対象:** カジノゲーム（※プロモコード「JVIP」使用時はスポーツベットも対象）",
             "**注記:** 初回入金ボーナスを獲得された場合でも、すぐに資金として利用できるわけではありません。メインアカウントの残高がスロットの最低ベット額を下回った際に、ボーナスが利用可能となります。",
-            <>サポ美: 2回目から4回目の入金ボーナス詳細につきまして、<a href="https://casinotsu.com/about/contact" target="_blank" rel="noopener noreferrer">カスタマーサポートに確認いたしましたところ、「初回入金ボーナスを獲得された後に、ボーナスページにて詳細をご確認ください」との回答でございました。👀💡",
+            "サポ美: 2回目から4回目の入金ボーナス詳細につきまして、[カスタマーサポートに確認いたしましたところ、「初回入金ボーナスを獲得された後に、ボーナスページにて詳細をご確認ください」との回答でございました。👀💡](https://casinotsu.com/about/contact)",
             "ココモ: 公式サイトによりますと、ボーナス獲得後、「メインアカウントの残高がスロットの最低ベット額を下回りますと、獲得したボーナスが利用可能になる」とのことです。\n従いまして、初回入金後にボーナスを獲得された場合でも、すぐに資金としてご利用いただけない点にご留意ください。",
             "【 **初回入金フリースピン利用規約**】",
             "-   フリースピン回数：70回分\n-   有効期限：48時間\n-   **勝利金賭け条件:** 50倍\n-   **最大出金可能額:** 4,500円\n-   勝利金有効期限：24時間\n-   フリースピン対象ゲーム：Quickspin社「Crown of Valor」「Volcano Riches」「Fairy Gate」「Ghost Glyph」「Hidden Valley」「Hot Sync」「Illuminous」",
@@ -100,7 +100,7 @@ export const oneWinBonus: BonusPageContent = {
           subheading: "1. アカウント登録",
           paragraphs: [
             "まずは、このページより1winカジノ公式サイトへアクセスください。💡",
-            "<a href="https://casinotsu.com/reviews/1win" target="_blank" rel="noopener noreferrer"><strong>👉 1winカジノ公式サイトへ！</strong></a>",
+            "**[👉 1winカジノ公式サイトへ！](https://casinotsu.com/reviews/1win)**",
             "①1winカジノの画面が開きましたら、画面右上の「 **登録**」ボタンをクリックしてください。",
             "②登録フォームが表示されますので、画面の指示に従い必要事項をご入力ください。",
             "-   使用する通貨\n-   電話番号\n-   メールアドレス\n-   ご希望のパスワード\n-   プロモーションコード (任意)：こちらに「JVIP」などのプロモーションコードをご入力いただくと、より有利な条件でボーナスを受け取ることが可能です。",
@@ -126,14 +126,14 @@ export const oneWinBonus: BonusPageContent = {
       heading: "1winカジノの膨大なカジノゲームを遊び尽くそう！",
       paragraphs: [
         "CasinoTsuも注目するクリプトカジノ、1winカジノは2018年のオープン以来、9,500種類以上のスロットゲームをはじめとする豊富なカジノゲーム、そして豪華特典が用意された多彩なカジノオファーで人気を集めております。",
-        "特に、プレイヤー同士が直接対戦できるオリジナルの[オンラインポーカー](https://www.casinotsu.com/poker)や、Pragmatic PlayやEvolutionが提供する1win限定の<a href="https://casinotsu.com/live-casino" target="_blank" rel="noopener noreferrer">ライブカジノテーブルなど、1winカジノでしか体験できないオリジナルゲームは必見です。",
+        "特に、プレイヤー同士が直接対戦できるオリジナルの[オンラインポーカー](https://www.casinotsu.com/poker)や、Pragmatic PlayやEvolutionが提供する1win限定の[ライブカジノテーブルなど、1winカジノでしか体験できないオリジナルゲームは必見です。](https://casinotsu.com/live-casino)",
       ],
       subsections: [
         {
           subheading: "1. カジノゲームのラインナップ",
           paragraphs: [
             "1winカジノでは、スロット、ライブカジノ、テーブルゲーム、そしてスポーツベットまで、幅広いゲームをご用意しております。",
-            "-   **スロット:** 9,500種類以上の[スロットゲーム](https://www.casinotsu.com/slots)を取り揃えており、定番機種から最新機種まで網羅しております。\n-   **ライブカジノ:** EvolutionやPragmatic Playをはじめとする複数の大手プロバイダーによるライブカジノゲームをお楽しみいただけます。<a href="https://casinotsu.com/roulette" target="_blank" rel="noopener noreferrer">ルーレット、<a href="https://casinotsu.com/blackjack" target="_blank" rel="noopener noreferrer">ブラックジャック、<a href="https://casinotsu.com/baccarat" target="_blank" rel="noopener noreferrer">バカラはもちろん、ゲームショー形式のエンターテイメント性の高いゲームも豊富です。\n-   **テーブルゲーム:** ブラックジャック、ルーレット、バカラといったクラシックなテーブルゲームも多数ご用意しております。\n-   **スポーツベット:** カジノゲームに加え、サッカー、野球、バスケットボールといった人気スポーツからeスポーツまで、幅広いスポーツベットがご利用いただけます。競争力のあるオッズと多様なベットマーケットをご提供しております。\n-   **オリジナルゲーム:** プレイヤー同士で対戦可能なオリジナルポーカーや、1win限定のライブカジノテーブルなど、ここでしか遊べない特別なゲームもご用意しております。",
+            "-   **スロット:** 9,500種類以上の[スロットゲーム](https://www.casinotsu.com/slots)を取り揃えており、定番機種から最新機種まで網羅しております。\n-   **ライブカジノ:** EvolutionやPragmatic Playをはじめとする複数の大手プロバイダーによるライブカジノゲームをお楽しみいただけます。[ルーレット、](https://casinotsu.com/roulette)[ブラックジャック、[バカラはもちろん、ゲームショー形式のエンターテイメント性の高いゲームも豊富です。\n-   **テーブルゲーム:** ブラックジャック、ルーレット、バカラといったクラシックなテーブルゲームも多数ご用意しております。\n-   **スポーツベット:** カジノゲームに加え、サッカー、野球、バスケットボールといった人気スポーツからeスポーツまで、幅広いスポーツベットがご利用いただけます。競争力のあるオッズと多様なベットマーケットをご提供しております。\n-   **オリジナルゲーム:** プレイヤー同士で対戦可能なオリジナルポーカーや、1win限定のライブカジノテーブルなど、ここでしか遊べない特別なゲームもご用意しております。](https://casinotsu.com/baccarat)](https://casinotsu.com/blackjack)",
           ],
         },
         {
@@ -199,8 +199,8 @@ export const oneWinBonus: BonusPageContent = {
       heading: "入出金方法",
       paragraphs: [
         "1winカジノでは、多様な決済方法をご利用いただけます。",
-        "*   **利用可能な決済方法:**\n    *   銀行カード ([Visa](https://www.casinotsu.com/payment), <a href="https://casinotsu.com/payment/mastercard" target="_blank" rel="noopener noreferrer">Mastercardなど)\n    *   電子ウォレット (Skrill, Netellerなど)\n    *   仮想通貨 (<a href="https://casinotsu.com/payment/bitcoin" target="_blank" rel="noopener noreferrer">Bitcoin, <a href="https://casinotsu.com/payment/ethereum" target="_blank" rel="noopener noreferrer">Ethereumなど)\n    *   その他、各国のローカル決済プロバイダー",
-        <>**注記:** 現在、記事冒頭でご案内しております入金方法は仮想通貨のみとなっております。詳細なご利用可能オプションにつきましては、公式サイトの<a href="https://casinotsu.com/payment" target="_blank" rel="noopener noreferrer">決済ページにてご確認ください。",
+        "*   **利用可能な決済方法:**\n    *   銀行カード ([Visa](https://www.casinotsu.com/payment), [Mastercardなど)\n    *   電子ウォレット (Skrill](https://casinotsu.com/payment/mastercard), Netellerなど)\n    *   仮想通貨 ([Bitcoin](https://casinotsu.com/payment/bitcoin), [Ethereumなど)\n    *   その他、各国のローカル決済プロバイダー](https://casinotsu.com/payment/ethereum)",
+        "**注記:** 現在、記事冒頭でご案内しております入金方法は仮想通貨のみとなっております。詳細なご利用可能オプションにつきましては、公式サイトの[決済ページにてご確認ください。](https://casinotsu.com/payment)",
       ],
     },
     {
@@ -224,7 +224,7 @@ export const oneWinBonus: BonusPageContent = {
         {
           subheading: "3. その他の注意点",
           paragraphs: [
-            "*   **有効期限:** ウェルカムボーナスやフリースピンには、有効期限が短く設定されているものがございます。期限内にご利用いただけない場合、失効いたしますのでご注意ください。\n*   **出金条件:** ボーナスやフリースピンの勝利金を出金いただくには、定められた賭け条件をクリアしていただく必要がございます。\n*   **年齢制限:** ご登録およびプレイは18歳以上からとなります。[CasinoTsu](https://www.casinotsu.com/free-spins)は、<a href="https://casinotsu.com/info/responsible-gambling" target="_blank" rel="noopener noreferrer">責任あるギャンブルを推奨いたします。",
+            "*   **有効期限:** ウェルカムボーナスやフリースピンには、有効期限が短く設定されているものがございます。期限内にご利用いただけない場合、失効いたしますのでご注意ください。\n*   **出金条件:** ボーナスやフリースピンの勝利金を出金いただくには、定められた賭け条件をクリアしていただく必要がございます。\n*   **年齢制限:** ご登録およびプレイは18歳以上からとなります。[CasinoTsu](https://www.casinotsu.com/free-spins)は、[責任あるギャンブルを推奨いたします。](https://casinotsu.com/info/responsible-gambling)",
           ],
         },
       ],
@@ -242,7 +242,7 @@ export const oneWinBonus: BonusPageContent = {
     },
     {
       question: "1winカジノでは、日本円を入金することができますか？",
-      answer: <>1winカジノでは、<a href="https://casinotsu.com/crypto" target="_blank" rel="noopener noreferrer">仮想通貨のみのご入金・ご出金が可能となっております。従いまして、日本円やドルなどの法定通貨での直接のご入金はいただけません。",
+      answer: "1winカジノでは、[仮想通貨のみのご入金・ご出金が可能となっております。従いまして、日本円やドルなどの法定通貨での直接のご入金はいただけません。](https://casinotsu.com/crypto)",
     },
   ],
 

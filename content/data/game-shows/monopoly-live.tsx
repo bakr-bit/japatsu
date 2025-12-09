@@ -11,7 +11,7 @@ export const monopolyLive: GameShowPageContent = {
     {
       casino: "Bons.com",
       casinoSlug: "bons-com",
-      description: "幅広いゲームセレクションと使いやすいインターフェース。ボーナス: [ウェルカムボーナス</Link> (賭け条件30倍)",
+      description: "幅広いゲームセレクションと使いやすいインターフェース。ボーナス: [ウェルカムボーナス] (賭け条件30倍)",
       offerUrl: "/game-shows/monopoly-live",
       reviewUrl: "/reviews/bons-com",
       featured: true,
@@ -19,7 +19,7 @@ export const monopolyLive: GameShowPageContent = {
     {
       casino: "Mystino",
       casinoSlug: "mystino",
-      description: "日本語サポートが充実、ユニークなゲーム体験。ボーナス: <Link href="/bonuses/cashback">キャッシュバックボーナス</Link> (賭け条件なし)",
+      description: "日本語サポートが充実、ユニークなゲーム体験。ボーナス: [キャッシュバックボーナス](/bonuses/cashback) (賭け条件なし)",
       offerUrl: "/game-shows/monopoly-live",
       reviewUrl: "/reviews/mystino",
       featured: true,
@@ -27,7 +27,7 @@ export const monopolyLive: GameShowPageContent = {
     {
       casino: "Yuugado",
       casinoSlug: "yuugado",
-      description: "和風テーマのカジノ、パチンコも楽しめる。ボーナス: <Link href="/bonuses/welcome-bonus">入金ボーナス</Link> (賭け条件35倍)",
+      description: "和風テーマのカジノ、パチンコも楽しめる。ボーナス: [入金ボーナス](/bonuses/welcome-bonus) (賭け条件35倍)",
       offerUrl: "/game-shows/monopoly-live",
       reviewUrl: "/reviews/yuugado",
       featured: true,
@@ -35,7 +35,7 @@ export const monopolyLive: GameShowPageContent = {
     {
       casino: "Vera&John",
       casinoSlug: "vera-john",
-      description: "長年の実績と信頼、豊富なプロモーション。ボーナス: フリーベット、<Link href="/bonuses/welcome-bonus">入金ボーナス</Link> (賭け条件40倍)",
+      description: "長年の実績と信頼、豊富なプロモーション。ボーナス: フリーベット、[入金ボーナス](/bonuses/welcome-bonus) (賭け条件40倍)",
       offerUrl: "/game-shows/monopoly-live",
       reviewUrl: "/reviews/vera-john",
       featured: true,
@@ -47,25 +47,25 @@ export const monopolyLive: GameShowPageContent = {
       casino: "Bons.com",
       casinoSlug: "bons-com",
       heading: "Bons.com",
-      description: ["おすすめポイント: 幅広いゲームセレクションと使いやすいインターフェース。", "ボーナス（例）: [ウェルカムボーナス</Link></>, "賭け条件（例）: 30倍"],
+      description: ["おすすめポイント: 幅広いゲームセレクションと使いやすいインターフェース。", "ボーナス（例）: [ウェルカムボーナス]</>, "賭け条件（例）: 30倍"],
     },
     {
       casino: "Mystino",
       casinoSlug: "mystino",
       heading: "Mystino",
-      description: ["おすすめポイント: 日本語サポートが充実、ユニークなゲーム体験。", "ボーナス（例）: [キャッシュバックボーナス</Link></>, "賭け条件（例）: なし"],
+      description: ["おすすめポイント: 日本語サポートが充実、ユニークなゲーム体験。", "ボーナス（例）: [キャッシュバックボーナス]</>, "賭け条件（例）: なし"],
     },
     {
       casino: "Yuugado",
       casinoSlug: "yuugado",
       heading: "Yuugado",
-      description: ["おすすめポイント: 和風テーマのカジノ、パチンコも楽しめる。", "ボーナス（例）: [入金ボーナス</Link></>, "賭け条件（例）: 35倍"],
+      description: ["おすすめポイント: 和風テーマのカジノ、パチンコも楽しめる。", "ボーナス（例）: [入金ボーナス]</>, "賭け条件（例）: 35倍"],
     },
     {
       casino: "Vera&John",
       casinoSlug: "vera-john",
       heading: "Vera&John",
-      description: ["おすすめポイント: 長年の実績と信頼、豊富なプロモーション。", "ボーナス（例）: フリーベット、[入金ボーナス</Link></>, "賭け条件（例）: 40倍"],
+      description: ["おすすめポイント: 長年の実績と信頼、豊富なプロモーション。", "ボーナス（例）: フリーベット、[入金ボーナス]</>, "賭け条件（例）: 40倍"],
     },
   ],
 
@@ -145,7 +145,7 @@ export const monopolyLive: GameShowPageContent = {
     {
       heading: "2. ゲーム基本情報：ホイールが運命を握る！ 🎡",
       paragraphs: [
-        "「モノポリーライブ」は、[ライブカジノ</Link>ゲームであり、スロットのようなリールやペイラインはありません。ゲームの進行は、ディーラーが操作する巨大なマネーホイールに依存します。正確さが第一。興奮はその次。CasinoTsu では、ゲームの基礎をしっかり把握することをおすすめします。",
+        "「モノポリーライブ」は、[ライブカジノ]ゲームであり、スロットのようなリールやペイラインはありません。ゲームの進行は、ディーラーが操作する巨大なマネーホイールに依存します。正確さが第一。興奮はその次。CasinoTsu では、ゲームの基礎をしっかり把握することをおすすめします。",
       ],
       subsections: [
         {
@@ -205,7 +205,7 @@ export const monopolyLive: GameShowPageContent = {
       paragraphs: [
         "「モノポリーライブ」は、Evolution Gamingのライブカジノプラットフォームを通じて、多くのオンラインカジノで提供されています。特に、日本語で利用できるカジノサイトで人気があります。CasinoTsu 推薦の以下のカジノで、このエキサイティングなゲームをぜひお楽しみください。",
         "※上記はあくまで一例であり、ボーナス内容や賭け条件は変更される可能性があります。プレイ前に各カジノサイトで最新の情報をご確認ください。",
-        "※[責任あるプレイ</Link>を心がけましょう。",
+        "※[責任あるプレイ]を心がけましょう。",
       ],
     },
     {
@@ -220,7 +220,7 @@ export const monopolyLive: GameShowPageContent = {
         "受賞歴:",
         "EGR Awards 2019: Game of the Year",
         "Gaming Intelligence Awards 2020: Game of the Year",
-        "他の人気作品: [Lightning Roulette</Link>、<Link href="/game-shows/crazy-time">Crazy Time</Link>、<Link href="/game-shows/dream-catcher">Dream Catcher</Link>、<Link href="/live-casino/live-blackjack">Infinite Blackjack</Link> など、多数の人気ライブカジノゲームを提供しています。",
+        "他の人気作品: [Lightning Roulette]、[Crazy Time](/game-shows/crazy-time)、[Dream Catcher](/game-shows/dream-catcher)、[Infinite Blackjack](/live-casino/live-blackjack) など、多数の人気ライブカジノゲームを提供しています。",
       ],
     },
     {
@@ -235,7 +235,7 @@ export const monopolyLive: GameShowPageContent = {
             "「モノポリーライブ」は、鮮やかで高品質なライブストリーミング映像と、最新の3D ARアニメーションの融合が特徴です。",
           ],
           bullets: [
-            "スタジオセット: 華やかな[ライブカジノ</Link>スタジオが舞台となり、ライブプレゼンターがゲームを盛り上げます。",
+            "スタジオセット: 華やかな[ライブカジノ]スタジオが舞台となり、ライブプレゼンターがゲームを盛り上げます。",
             "ミスター・モノポリー: 新聞を読んでいるかと思えば、ボーナスゲームになるといきいきと動き出すミスター・モノポリーのCGは、非常にリアルで魅力的です。AR技術により、プレゼンターやゲームホイールと自然に融合します。",
             "3Dボーナスラウンド: ボーナスゲーム中に表示される3Dのモノポリーボードは、ボードゲームの雰囲気を忠実に再現しており、プレイヤーを画面に釘付けにします。",
           ],
@@ -328,7 +328,7 @@ export const monopolyLive: GameShowPageContent = {
           bullets: [
             "ハイボラティリティ: このゲームはハイボラティリティであるため、一時的に負けが続くこともあります。冷静に資金管理を行い、熱くならないように注意しましょう。",
             "RTPの変動: ベットするセグメントによってRTPが異なるため、より有利なベット（例：「1」セグメント）を理解しておくことが重要です。",
-        "確実な勝利戦略はない: どのような戦略を用いても、確実に勝利できる保証はありません。あくまでゲームを楽しむための補助として考えましょう。CasinoTsu は、常に[責任あるプレイ</Link>を強調しています。",
+        "確実な勝利戦略はない: どのような戦略を用いても、確実に勝利できる保証はありません。あくまでゲームを楽しむための補助として考えましょう。CasinoTsu は、常に[責任あるプレイ]を強調しています。",
           ],
         },
       ],
@@ -340,7 +340,7 @@ export const monopolyLive: GameShowPageContent = {
       ],
       bullets: [
         "Dream Catcher / ドリームキャッチャー: 「モノポリーライブ」の元となったEvolution Gamingのゲーム。こちらもマネーホイール形式で、シンプルなゲーム性と高額配当のチャンスが魅力です。モノポリーのボーナスゲーム要素がない分、よりシンプルで、一部プレイヤーからはRTPが若干有利とされています。",
-        "MONOPOLY Live Casino Hold'em: Evolution Gamingが提供する、モノポリーをテーマにした別のライブカジノゲーム。こちらはポーカーベースのゲームで、[カジノホールデム</Link>にモノポリーの要素が加わっています。",
+        "MONOPOLY Live Casino Hold'em: Evolution Gamingが提供する、モノポリーをテーマにした別のライブカジノゲーム。こちらはポーカーベースのゲームで、[カジノホールデム]にモノポリーの要素が加わっています。",
         "Crazy Time: こちらもEvolution Gamingの人気ライブゲームショー。複数のボーナスゲームと、ランダムマルチプライヤーが特徴で、「モノポリーライブ」よりもさらに多様なエンターテイメント性を提供します。",
       ],
     },
@@ -365,7 +365,7 @@ export const monopolyLive: GameShowPageContent = {
     },
     {
       question: "このゲームで勝つための必勝法はありますか？",
-      answer: "A5: 「モノポリーライブ」は運に左右されるゲームであり、必勝法は存在しません。しかし、ベット戦略を理解し、資金管理をしっかり行うことで、より長くゲームを楽しむことができます。CasinoTsu は、常に[責任あるプレイ</Link>を推奨します。",
+      answer: "A5: 「モノポリーライブ」は運に左右されるゲームであり、必勝法は存在しません。しかし、ベット戦略を理解し、資金管理をしっかり行うことで、より長くゲームを楽しむことができます。CasinoTsu は、常に[責任あるプレイ]を推奨します。",
     },
     {
       question: "「モノポリーライブ」はどのカジノでプレイできますか？",
