@@ -55,7 +55,7 @@ IRとは、英語で **Integrated Resort（インターグレーテッド・リ�
 
 🌏 **世界の各国のランドカジノについて、さらに詳しく知りたい方はこちら♪**
 
-[世界で有名なカジノをチェック](LINK_NEEDS_REPAIR)
+<a href="https://casinotsu.com/info/casinos-in-the-world" target="_blank" rel="noopener noreferrer">世界で有名なカジノをチェック</a>
       `,
     },
     {

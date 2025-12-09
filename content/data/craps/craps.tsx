@@ -145,7 +145,7 @@ CasinoTsu では、オンラインカジノの運営国のライセンス取得�
       heading: "クラップスのルールと遊び方 📖",
       content: `
 
-![クラップスとは](LINK_NEEDS_REPAIR)
+![クラップスとは](https://casinotsu.com/images/what-craps-is-1024x364.png)
 
 
 オンラインクラップスの遊び方は、プレイする環境こそ異なりますが、基本的にはランドカジノと同じです。<Link href=</>/craps/rules">クラップスの基本ルール</Link> をおさらいしたい方も、一緒にオンラインクラップスの遊び方をチェックしていきましょう。

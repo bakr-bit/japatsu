@@ -29,8 +29,8 @@ export const powerupRoulette: GameShowPageContent = {
         paragraphs: [
           "パワーアップ・ルーレットは、Pragmatic Play社のライブカジノゲームを提供している多くのオンラインカジノでプレイ可能です。Evolution社のライブカジノほどではないかもしれませんが、人気のあるカジノサイトで幅広く取り扱われています。",
         ],
-        bullets: <Link href="/reviews/joycasino">
-          "[**ジョイカジノ**</Link></>,
+        bullets: [
+          "[**ジョイカジノ**</Link>",
           "BetVictor",
           "WildCasino",
           "LuckyCreek",
@@ -41,9 +41,9 @@ export const powerupRoulette: GameShowPageContent = {
       },
       {
         subheading: "カジノボーナスについて",
-        paragraphs: <Link href="/offers">
+        paragraphs: [
           "これらのカジノでは、新規登録者向けのウェルカムボーナスや、継続的に利用できるプロモーションなど、様々なボーナスが用意されていることがあります。特に、Pragmatic Playのゲームを対象としたボーナスや、ライブカジノ専用のボーナスなどをチェックしてみると、よりお得にパワーアップ・ルーレットを楽しむことができるかもしれません。",
-          "🤩ジャパカジ限定ボーナスも盛りだくさん！ [全てのお得なオファーを今すぐチェック！</Link>！</>,
+          "🤩ジャパカジ限定ボーナスも盛りだくさん！ [全てのお得なオファーを今すぐチェック！</Link>！",
         ],
       },
     ],
@@ -85,10 +85,10 @@ export const powerupRoulette: GameShowPageContent = {
         },
         {
           subheading: "その他の特徴",
-          bullets: <Link href="/game-shows/lightning-roulette">
+          bullets: [
             "**ストレートアップベットの配当低下**: 最大配当を大きく引き上げる代わりに、パワーアップ・ルーレットでは、通常のヨーロピアン・ルーレットのストレートアップ配当（35:1、つまり36倍）が **24:1（25倍）に引き下げられています**。この低下分が、パワーアップボーナススピンでの高配当の原資となっています。",
             "**その他のベットタイプ**: スプリット、ストリート、コーナー、コラム、ダズン、赤/黒、偶数/奇数、ハイ/ローなどの **他のベットタイプは、通常のヨーロピアン・ルーレットと同じ配当** が適用されます。これらのベットタイプでは、パワーアップボーナススピンのマルチプライヤーは適用されません。",
-            "**追加料金なし**: [Lightning Roulette</Link>やQuantum Rouletteのような他のマルチプライヤー・ルーレットゲームとは異なり、パワーアップ・ルーレットでは、**マルチプライヤーの恩恵を受けるために追加のベットやフィーチャー購入（Feature Buy）は必要ありません**。通常のルーレットと同様のベット方法で、誰でもパワーアップのチャンスを享受できます。</>,
+            "**追加料金なし**: [Lightning Roulette</Link>やQuantum Rouletteのような他のマルチプライヤー・ルーレットゲームとは異なり、パワーアップ・ルーレットでは、**マルチプライヤーの恩恵を受けるために追加のベットやフィーチャー購入（Feature Buy）は必要ありません**。通常のルーレットと同様のベット方法で、誰でもパワーアップのチャンスを享受できます。",
           ],
         },
       ],
@@ -170,11 +170,11 @@ export const powerupRoulette: GameShowPageContent = {
     },
     {
       heading: "モバイル対応",
-      subsections: <Link href="/mobile">
+      subsections: [
         {
           subheading: "スマートフォン・タブレットでのプレイ",
           paragraphs: [
-            "パワーアップ・ルーレットは、Pragmatic Play社のライブカジノゲームとして、[スマートフォン</Link>やタブレットなどのモバイルデバイスに完全対応しています。</>,
+            "パワーアップ・ルーレットは、Pragmatic Play社のライブカジノゲームとして、[スマートフォン</Link>やタブレットなどのモバイルデバイスに完全対応しています。",
           ],
           bullets: [
             "**レスポンシブデザイン**: デバイスの画面サイズに合わせてレイアウトが自動調整されるため、どのデバイスからでも快適にプレイできます。",
@@ -192,11 +192,11 @@ export const powerupRoulette: GameShowPageContent = {
     },
     {
       heading: "戦略・攻略法",
-      subsections: <Link href="/info/responsible-gambling">
+      subsections: [
         {
           subheading: "ベット戦略",
           paragraphs: [
-            "パワーアップ・ルーレットは、その特性上、いくつかの戦略が考えられます。 CasinoTsuは、プレイヤーの皆様に、[責任あるプレイ</Link>を推奨いたします。</>,
+            "パワーアップ・ルーレットは、その特性上、いくつかの戦略が考えられます。 CasinoTsuは、プレイヤーの皆様に、[責任あるプレイ</Link>を推奨いたします。",
           ],
           bullets: [
             "**ストレートアップベット中心**: 最大8,000倍の夢を追うなら、やはりストレートアップベットが中心となります。ただし、通常時の配当が24:1と低くなっているため、資金管理には十分注意が必要です。",
@@ -228,10 +228,10 @@ export const powerupRoulette: GameShowPageContent = {
       paragraphs: [
         "パワーアップ・ルーレットは、高配当マルチプライヤーを搭載した「マルチプライヤー・ルーレット」というジャンルに属します。このジャンルには、以下のようなゲームがあります。",
       ],
-      bullets: <Link href="/game-shows/lightning-roulette">
-        "[**ライトニング・ルーレット (Evolution Gaming)**</Link>: ランダムに選ばれた1〜5つの数字に最大500倍のマルチプライヤーが付与されるルーレット。パワーアップ・ルーレットとは異なり、ボーナスラウンドでもマルチプライヤーは固定です。</>,
-        <><Link href="/roulette/quantum-roulette"><strong>クオンタム・ルーレット (Playtech)</strong></Link>: こちらもランダムに選ばれた数字にマルチプライヤーが付与され、最大1,000倍になる可能性があります。</>,
-        <><Link href="/game-shows/mega-roulette"><strong>メガ・ルーレット (Pragmatic Play)</strong></Link>: Pragmatic Play社が提供する別のマルチプライヤー・ルーレット。最大500倍のマルチプライヤーが、一度に最大5つの数字に適用されます。パワーアップ・ルーレットのように倍率が上昇していくわけではありません。</>,
+      bullets: [
+        "[**ライトニング・ルーレット (Evolution Gaming)**</Link>: ランダムに選ばれた1〜5つの数字に最大500倍のマルチプライヤーが付与されるルーレット。パワーアップ・ルーレットとは異なり、ボーナスラウンドでもマルチプライヤーは固定です。",
+        <><Link href="/roulette/quantum-roulette"><strong>クオンタム・ルーレット (Playtech)</strong></Link>: こちらもランダムに選ばれた数字にマルチプライヤーが付与され、最大1,000倍になる可能性があります。",
+        <><Link href="/game-shows/mega-roulette"><strong>メガ・ルーレット (Pragmatic Play)</strong></Link>: Pragmatic Play社が提供する別のマルチプライヤー・ルーレット。最大500倍のマルチプライヤーが、一度に最大5つの数字に適用されます。パワーアップ・ルーレットのように倍率が上昇していくわけではありません。",
       ],
       subsections: [
         {
@@ -246,25 +246,25 @@ export const powerupRoulette: GameShowPageContent = {
   
   summary: {
     heading: "まとめ",
-    paragraphs: <Link href="/live-casino">
-      "パワーアップ・ルーレットは、Pragmatic Play社が提供する、ルーレットの伝統的なゲーム性に革新的な「パワーアップボーナススピン」を融合させた、非常にエキサイティングな[ライブカジノ</Link>ゲームです。</>,
+    paragraphs: [
+      "パワーアップ・ルーレットは、Pragmatic Play社が提供する、ルーレットの伝統的なゲーム性に革新的な「パワーアップボーナススピン」を融合させた、非常にエキサイティングな[ライブカジノ</Link>ゲームです。",
       "**最大8,000倍（理論上15,525倍）**という驚異的な配当倍率の可能性は、プレイヤーに大きな夢を与えます。特に、パワーアップ数字にベットしていなくてもボーナススピンに参加できる点は、ゲームの公平性と興奮を高めています。",
-      <>通常のルーレットのルールを理解していれば、すぐにプレイできる手軽さも魅力です。グラフィックやサウンドのクオリティも高く、<Link href="/mobile">モバイル</Link>デバイスでも快適にプレイできるため、いつでもどこでも臨場感あふれるルーレット体験を楽しめます。</>,
+      <>通常のルーレットのルールを理解していれば、すぐにプレイできる手軽さも魅力です。グラフィックやサウンドのクオリティも高く、<Link href="/mobile">モバイル</Link>デバイスでも快適にプレイできるため、いつでもどこでも臨場感あふれるルーレット体験を楽しめます。",
       "ぜひ、このスリリングなパワーアップ・ルーレットで、あなたの運を試してみてはいかがでしょうか？ CasinoTsuは、**正確さが第一。興奮はその次。** をモットーに、皆様に有益な情報をお届けいたします。",
-      <>🍷ハイローラーに人気の高いカジノ！ <Link href="/reviews/eldoah">エルドアカジノ</Link> のレビューをチェック♪</>,
+      <>🍷ハイローラーに人気の高いカジノ！ <Link href="/reviews/eldoah">エルドアカジノ</Link> のレビューをチェック♪",
     ],
     suitedPlayers: [
       "高配当・一攫千金を狙いたいプレイヤー",
-      <><a href="https://casinotsu.com/slots" target="_blank" rel="noopener noreferrer">スロットのような興奮をルーレットでも味わいたいプレイヤー</>,
+      <><a href="https://casinotsu.com/slots" target="_blank" rel="noopener noreferrer">スロットのような興奮をルーレットでも味わいたいプレイヤー",
       "Pragmatic Play社のゲームが好きなプレイヤー",
       "新しいタイプのライブカジノゲームを試したいプレイヤー",
     ],
   },
   
-  faq: <Link href="/roulette">
+  faq: [
     {
       question: "パワーアップ・ルーレットは初心者でもプレイできますか？",
-      answer: "はい、[ルーレット</Link>の基本的なルール（ベットの種類や配当など）を理解していれば、初心者の方でも問題なくプレイできます。パワーアップボーナススピンの仕組みも直感的で分かりやすいですよ。 CasinoTsuが、**チェック、ダブルチェック、そして CasinoTsu チェック** した結果、初心者の方にもお勧めのゲームです。</>,
+      answer: "はい、[ルーレット</Link>の基本的なルール（ベットの種類や配当など）を理解していれば、初心者の方でも問題なくプレイできます。パワーアップボーナススピンの仕組みも直感的で分かりやすいですよ。 CasinoTsuが、**チェック、ダブルチェック、そして CasinoTsu チェック** した結果、初心者の方にもお勧めのゲームです。",
     },
     {
       question: "パワーアップ・ルーレットの最大配当はいくらですか？",
@@ -276,7 +276,7 @@ export const powerupRoulette: GameShowPageContent = {
     },
     {
       question: "パワーアップ・ルーレットのプロバイダーはどこですか？",
-      answer: <>このゲームは、<Link href="/providers/pragmatic-play">Pragmatic Play</Link>社によって開発・提供されています。 CasinoTsuは、Pragmatic Play社を **CasinoTsu 推薦** プロバイダーの一つとしております。</>,
+      answer: <>このゲームは、<Link href="/providers/pragmatic-play">Pragmatic Play</Link>社によって開発・提供されています。 CasinoTsuは、Pragmatic Play社を **CasinoTsu 推薦** プロバイダーの一つとしております。",
     },
   ],
 

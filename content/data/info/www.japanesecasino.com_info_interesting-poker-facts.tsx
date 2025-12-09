@@ -96,7 +96,7 @@ export const interestingPokerFacts: InfoPageContent = {
 ### 2：最もポーカーで稼いでいるプレイヤー
 
 
-![Bryn Kenney](LINK_NEEDS_REPAIR)
+<img src="https://img.casinotsu.com/image/bryn-kenney.jpg" alt="Bryn Kenney" />
 
 
 #### ブリン・ケニー（Bryn Kenney）の現在までの獲得賞金
@@ -250,7 +250,7 @@ WSOPは1976年以来、主要なトーナメントの勝者にゴールドブレ
     },
     {
       question: "キャッシュゲームで最も稼いでいるプレイヤーは誰ですか？",
-      answer: "HighStakes DBによると、[フィル・アイビー](LINK_NEEDS_REPAIR) 選手がキャッシュゲームの王者のようです。</>,
+      answer: "HighStakes DBによると、<a href="https://casinotsu.com/info/poker-players-celeb" target="_blank" rel="noopener noreferrer">フィル・アイビー</a> 選手がキャッシュゲームの王者のようです。</>,
     },
     {
       question: "WSOP（ワールド・シリーズ・オブ・ポーカー）は何年にスタートしましたか？",

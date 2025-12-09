@@ -29,11 +29,11 @@ export const freshCasinoFreeSpins: BonusPageContent = {
       description: [
         "
 ![Fresh限定オファー：コンテント・フィーチャーイメージ](https://www.casinotsu.com/free-spins)
-</>,
-        <>最近、CasinoTsu の仲間入りをした「 <strong><a href="https://casinotsu.com/reviews/fresh-casino" target="_blank" rel="noopener noreferrer">フレッシュカジノ（Fresh Casino）</strong>」🎉</>,
+",
+        <>最近、CasinoTsu の仲間入りをした「 <strong><a href="https://casinotsu.com/reviews/fresh-casino" target="_blank" rel="noopener noreferrer">フレッシュカジノ（Fresh Casino）</strong>」🎉",
         "まだ新しいカジノではございますが、6,000種類以上のゲームを提供しており、その実力は確かです。",
         "この度、フレッシュカジノより、CasinoTsu 経由で特別なオファーをご提供いただけることとなりました✨",
-        <>なんと今なら、CasinoTsu からのご登録で、<a href="https://casinotsu.com/slots/free" target="_blank" rel="noopener noreferrer">スロットのフリースピン **50回分** をプレゼント🎁🎰💖</>,
+        <>なんと今なら、CasinoTsu からのご登録で、<a href="https://casinotsu.com/slots/free" target="_blank" rel="noopener noreferrer">スロットのフリースピン **50回分** をプレゼント🎁🎰💖",
         "### 【フリースピンの利用規約】",
         "*   **登録フリースピン：** 50回分",
         "*   **賭け条件：** 45倍\n    *   この賭け条件45倍は、フリースピンで獲得した賞金に対して適用されます。例えば、フリースピンで1,000円の賞金を獲得された場合、その1,000円の45倍、すなわち45,000円分のベットを行う必要がございます。",
@@ -45,9 +45,9 @@ export const freshCasinoFreeSpins: BonusPageContent = {
         "*   **ボーナス申請前の認証：** メールアドレスおよび携帯電話の認証を完了させてください。",
         "*   **アカウント情報登録：** アカウント登録後、プロフィールページにて個人情報、電話番号、国（日本）の登録を完了させてください。",
         "*   フレッシュカジノの利用規約が適用されます。",
-        <>こちらのスロットは、グラフィックに定評のある <strong><a href="https://casinotsu.com/providers/bgaming" target="_blank" rel="noopener noreferrer">Bgaming</strong> 社よりリリースされている <strong><a href="https://casinotsu.com/slots" target="_blank" rel="noopener noreferrer">人気スロット</strong> で、なんと **賞金ポテンシャルが最高15,000倍** を誇る <strong><a href="https://casinotsu.com/slots/best-payout" target="_blank" rel="noopener noreferrer">高配当倍率スロット</strong> です 🔥</>,
+        <>こちらのスロットは、グラフィックに定評のある <strong><a href="https://casinotsu.com/providers/bgaming" target="_blank" rel="noopener noreferrer">Bgaming</strong> 社よりリリースされている <strong><a href="https://casinotsu.com/slots" target="_blank" rel="noopener noreferrer">人気スロット</strong> で、なんと **賞金ポテンシャルが最高15,000倍** を誇る <strong><a href="https://casinotsu.com/slots/best-payout" target="_blank" rel="noopener noreferrer">高配当倍率スロット</strong> です 🔥",
         "これは、迅速に登録を済ませ、高額配当を狙ってスピンする以外に道はないでしょうヾ(≧▽≦\\*)o",
-        <>🐱 **6,000種類以上のゲームと豊富なボーナスで注目の新星カジノ** <a href="https://casinotsu.com/reviews/fresh-casino" target="_blank" rel="noopener noreferrer">フレッシュカジノ（FRESH CASINO）のレビュー ページもぜひご覧ください。</>,
+        <>🐱 **6,000種類以上のゲームと豊富なボーナスで注目の新星カジノ** <a href="https://casinotsu.com/reviews/fresh-casino" target="_blank" rel="noopener noreferrer">フレッシュカジノ（FRESH CASINO）のレビュー ページもぜひご覧ください。",
       ],
       cta: {
         text: "オファーへ",
@@ -60,10 +60,10 @@ export const freshCasinoFreeSpins: BonusPageContent = {
     {
       heading: "フレッシュカジノの入金不要フリースピン獲得方法",
       paragraphs: [
-        "フレッシュカジノの登録 [フリースピン](https://www.casinotsu.com/free-spins) は、大変おすすめです。なぜなら、ご登録いただくだけで簡単にお受け取りいただけるからです。</>,
+        "フレッシュカジノの登録 [フリースピン](https://www.casinotsu.com/free-spins) は、大変おすすめです。なぜなら、ご登録いただくだけで簡単にお受け取りいただけるからです。",
         "早速、CasinoTsu と一緒に手順を確認してまいりましょう(๑•̀ㅂ•́)و✧",
       ],
-      subsections: <a href="https://casinotsu.com/images/Fresh-Sign-In1.jpg" target="_blank" rel="noopener noreferrer">
+      subsections: [
         {
           subheading: "【登録手順】",
           paragraphs: [
@@ -71,13 +71,13 @@ export const freshCasinoFreeSpins: BonusPageContent = {
             "② 登録フォームに必要事項をご入力ください。",
             "
 ![フレッシュカジノ｜限定オファー・入金不要フリースピン・獲得方法](https://www.casinotsu.com/free-spins)
-</>,
+",
             "*   **メールアドレス、任意のパスワード、国【日本】、通貨【日本円】** をご入力ください。",
             "*   プロモーションメールの受信をご希望され、プライバシーポリシーにご同意いただける場合はチェック✅を入れて、**「サインアップ」をクリック** してください。",
             "③ 引き続き、個人情報（ **生年月日、氏名、性別、国（日本）、住所**） **のご入力を** お進みください。これにより、アカウント登録が完了いたします。",
             <>
 !<a href="https://casinotsu.com/images/Fresh-Sign-In2.jpg" target="_blank" rel="noopener noreferrer">フレッシュカジノ｜限定オファー・入金不要フリースピン・獲得方法2
-</>,
+",
           ],
         },
         {
@@ -87,7 +87,7 @@ export const freshCasinoFreeSpins: BonusPageContent = {
             "⑤ 同様に、**携帯電話の認証** も完了させてください。",
             "
 ![フレッシュカジノ｜限定オファー・入金不要フリースピン・獲得方法3](https://www.casinotsu.com/free-spins)
-</>,
+",
           ],
         },
         {
@@ -101,7 +101,7 @@ export const freshCasinoFreeSpins: BonusPageContent = {
           subheading: "【アカウント重複に関する注意】",
           paragraphs: [
             "フレッシュカジノでは、 **お一人様につき一つのアカウントのみ** の作成が許可されております。 **複数のアカウントを作成することは、利用規約にて禁止** されており、発覚した場合にはボーナスの没収やアカウントの凍結といった措置が取られる可能性がございます。過去にフレッシュカジノや関連カジノでアカウントを作成されたことがあるお客様は、今回のご利用いただけない可能性がございますので、ご注意ください。",
-            "**🆕 新カジノが続々登場しています！** [オンカジ新規オープン](https://www.casinotsu.com/) サイトの最新情報をお見逃しなく。</>,
+            "**🆕 新カジノが続々登場しています！** [オンカジ新規オープン](https://www.casinotsu.com/) サイトの最新情報をお見逃しなく。",
           ],
         },
       ],
@@ -132,12 +132,12 @@ export const freshCasinoFreeSpins: BonusPageContent = {
     {
       heading: "まとめ｜爆裂スロットで高額賞金狙っちゃえ🔥",
       paragraphs: [
-        "フレッシュカジノの [**入金不要フリースピン**](https://www.casinotsu.com/free-spins) は、何と言っても **CasinoTsu 限定のスペシャル特典** 💕</>,
+        "フレッシュカジノの [**入金不要フリースピン**](https://www.casinotsu.com/free-spins) は、何と言っても **CasinoTsu 限定のスペシャル特典** 💕",
         "しかも、皆様がよくご存知のスロットではなく、**高配当倍率スロット機種を無料でプレイできる** 点が、CasinoTsu としては大変気に入っております😍🎰",
-        <>さらに、<strong><a href="https://casinotsu.com/offers" target="_blank" rel="noopener noreferrer">限定オファー</strong> でプレイいただいた後は、最大4回目のご入金までお受け取りいただける <strong><a href="https://casinotsu.com/bonuses/welcome-bonus" target="_blank" rel="noopener noreferrer">豪華ウェルカムボーナス</strong> や、**<a href="https://casinotsu.com/free-spins" target="_blank" rel="noopener noreferrer">初回入金フリースピン 最大500回**、そして **キャッシュバック** など、豊富なキャンペーンもご用意しております。</>,
-        <>一度ご登録いただければ、長くお楽しみいただける <strong><a href="https://casinotsu.com/" target="_blank" rel="noopener noreferrer">おすすめのオンラインカジノ</strong> であるフレッシュカジノ😻</>,
+        <>さらに、<strong><a href="https://casinotsu.com/offers" target="_blank" rel="noopener noreferrer">限定オファー</strong> でプレイいただいた後は、最大4回目のご入金までお受け取りいただける <strong><a href="https://casinotsu.com/bonuses/welcome-bonus" target="_blank" rel="noopener noreferrer">豪華ウェルカムボーナス</strong> や、**<a href="https://casinotsu.com/free-spins" target="_blank" rel="noopener noreferrer">初回入金フリースピン 最大500回**、そして **キャッシュバック** など、豊富なキャンペーンもご用意しております。",
+        <>一度ご登録いただければ、長くお楽しみいただける <strong><a href="https://casinotsu.com/" target="_blank" rel="noopener noreferrer">おすすめのオンラインカジノ</strong> であるフレッシュカジノ😻",
         "他では味わえないお得感を、この機会にぜひご満喫くださいませ♪(´▽｀)",
-        <>**😲負けても資金が戻ってくる！？**\n\n<a href="https://casinotsu.com/bonuses/cashback" target="_blank" rel="noopener noreferrer">オンラインカジノのキャッシュバック ボーナスについて、CasinoTsu が徹底解説いたします♪</>,
+        <>**😲負けても資金が戻ってくる！？**\n\n<a href="https://casinotsu.com/bonuses/cashback" target="_blank" rel="noopener noreferrer">オンラインカジノのキャッシュバック ボーナスについて、CasinoTsu が徹底解説いたします♪",
       ],
     },
   ],

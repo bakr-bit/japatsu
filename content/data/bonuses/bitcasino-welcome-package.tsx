@@ -81,11 +81,11 @@ export const bitcasinoWelcomeBonus: BonusPageContent = {
     },
   ],
 
-  casinoTypeCategories: <a href="https://casinotsu.com/bonuses/crypto" target="_blank" rel="noopener noreferrer">
+  casinoTypeCategories: [
     {
       title: "仮想通貨対応ボーナスの真相を探れ！ 🌟",
       description: [
-        "💫 **仮想通貨対応ボーナスの真相を探れ！** [仮想通貨カジノで登録ボーナスが貰えるオンラインカジノ](https://www.casinotsu.com/bonuses) を探せ！ CasinoTsuは、正確さが第一。興奮はその次、という姿勢で情報をお届けしております。</>
+        "💫 **仮想通貨対応ボーナスの真相を探れ！** [仮想通貨カジノで登録ボーナスが貰えるオンラインカジノ](https://www.casinotsu.com/bonuses) を探せ！ CasinoTsuは、正確さが第一。興奮はその次、という姿勢で情報をお届けしております。"
       ],
       casinos: [],
     },
@@ -104,7 +104,7 @@ export const bitcasinoWelcomeBonus: BonusPageContent = {
         "*   賭けは、初回入金ボーナスを取得してから **7日以内に完了** する必要があります。",
         "*   オファーを有効化された後に入金された資金は、賭けを行っている最中は全額ロックされます。ロックされた資金は、リワードが賭け尽くされるか没収されるまで引き出すことはできません。",
         "**カジ子**\n例えば、初回入金ボーナスを有効化して、100 USDTを入金された場合。\nご入金された100 USDTはロックされ、プレイヤー様は100 USDTのボーナスマネーを獲得します。\n賭けには、ロックされた資金が最初に使用され、次にボーナスマネーが使用されることになります。",
-        "**ココモ**\nビットカジノの初回入金ボーナスは『 **分離型**』でした。分離型、一体型ボーナスの種類について詳しく知りたい方は、『[オンラインカジノの分離型ボーナス特集ページ](https://www.casinotsu.com/reviews/bitcasino)』をチェックしてみてくださいね♪</>,
+        "**ココモ**\nビットカジノの初回入金ボーナスは『 **分離型**』でした。分離型、一体型ボーナスの種類について詳しく知りたい方は、『[オンラインカジノの分離型ボーナス特集ページ](https://www.casinotsu.com/reviews/bitcasino)』をチェックしてみてくださいね♪",
       ],
     },
     {
@@ -151,18 +151,18 @@ export const bitcasinoWelcomeBonus: BonusPageContent = {
     {
       heading: "仮想通貨カジノのパイオニア！",
       paragraphs: [
-        "**ビットコインをはじめとする** [仮想通貨](LINK_NEEDS_REPAIR) に特化したオンラインカジノのパイオニアとして日本市場に参入した **ビットカジノ（Bitcasino.io）** 🔥</>,
+        "**ビットコインをはじめとする** <a href="https://casinotsu.com/crypto" target="_blank" rel="noopener noreferrer">仮想通貨</a> に特化したオンラインカジノのパイオニアとして日本市場に参入した **ビットカジノ（Bitcasino.io）** 🔥",
         "その名の通り、もちろん **仮想通貨に強い** ビットカジノですが、実は日本円を含めた **法定通貨** での決済も可能でした。",
         "ビットコインと法定通貨、それぞれのウォレットを持つこともできるのは魅力の一つです✨",
         "法定通貨を取り扱っていないクリプトカジノも少なくありませんが、 **日本円も利用できる** と、やはり安心感がありますよね(●’◡’●)✨",
-        <>姉妹カジノの <strong><a href="https://casinotsu.com/reviews/livecasino-io" target="_blank" rel="noopener noreferrer">ライブカジノアイオー</strong>、 <strong><a href="https://casinotsu.com/reviews/sportsbet-io" target="_blank" rel="noopener noreferrer">スポーツベットアイオー</strong> も、ぜひチェックしてみてください。</>,
+        <>姉妹カジノの <strong><a href="https://casinotsu.com/reviews/livecasino-io" target="_blank" rel="noopener noreferrer">ライブカジノアイオー</strong>、 <strong><a href="https://casinotsu.com/reviews/sportsbet-io" target="_blank" rel="noopener noreferrer">スポーツベットアイオー</strong> も、ぜひチェックしてみてください。",
       ],
       subsections: [
         {
           subheading: "ライセンスと運営情報",
           paragraphs: [
             "ビットカジノ.ioは、 **キュラソー政府** より発行されたライセンス（ライセンス番号：8048/JAZ）を取得し、合法的に運営されておりました。",
-            "カジノの運営は **Moon Technologies B.V.** という企業が行っており、厳格な規制基準を遵守することで、プレイヤー様に安全で公正なゲーム体験を提供しておりました。 CasinoTsuは、[ライセンス](https://www.casinotsu.com/reviews/bitcasino) 情報の正確性を常に確認しております。</>,
+            "カジノの運営は **Moon Technologies B.V.** という企業が行っており、厳格な規制基準を遵守することで、プレイヤー様に安全で公正なゲーム体験を提供しておりました。 CasinoTsuは、[ライセンス](https://www.casinotsu.com/reviews/bitcasino) 情報の正確性を常に確認しております。",
           ],
         },
         {
@@ -180,7 +180,7 @@ export const bitcasinoWelcomeBonus: BonusPageContent = {
           paragraphs: [
             "ビットカジノでは、**6,000種類以上** の豊富なゲームを提供しておりました。その数は業界トップクラスを誇ります。",
             "*   **ゲームプロバイダー:** Red Tiger, Relax Gaming, Kalamba Games, Betsoft, Thunderkick, Play'n GO, Evolution Gaming, Novomatic など、多数の一流プロバイダーが参加しておりました。",
-            "*   **ゲームカテゴリ:** [スロット](https://www.casinotsu.com/reviews/bitcasino)、<a href="https://casinotsu.com/live-casino" target="_blank" rel="noopener noreferrer">ライブカジノ、<a href="https://casinotsu.com/games" target="_blank" rel="noopener noreferrer">テーブルゲーム（<a href="https://casinotsu.com/roulette" target="_blank" rel="noopener noreferrer">ルーレット、<a href="https://casinotsu.com/blackjack" target="_blank" rel="noopener noreferrer">ブラックジャック など）、に加え、<a href="https://casinotsu.com/crash-games" target="_blank" rel="noopener noreferrer">クラッシュゲーム やインスタントウィンゲームなど、多様なジャンルをお楽しみいただけました。</>,
+            "*   **ゲームカテゴリ:** [スロット](https://www.casinotsu.com/reviews/bitcasino)、<a href="https://casinotsu.com/live-casino" target="_blank" rel="noopener noreferrer">ライブカジノ、<a href="https://casinotsu.com/games" target="_blank" rel="noopener noreferrer">テーブルゲーム（<a href="https://casinotsu.com/roulette" target="_blank" rel="noopener noreferrer">ルーレット、<a href="https://casinotsu.com/blackjack" target="_blank" rel="noopener noreferrer">ブラックジャック など）、に加え、<a href="https://casinotsu.com/crash-games" target="_blank" rel="noopener noreferrer">クラッシュゲーム やインスタントウィンゲームなど、多様なジャンルをお楽しみいただけました。",
             "*   **無料プレイ:** 多くのスロットゲームでは、実際のお金を賭ける前に無料プレイ（デモモード）で試すことが可能でした。",
           ],
         },
@@ -235,16 +235,16 @@ export const bitcasinoWelcomeBonus: BonusPageContent = {
           subheading: "カスタマーサポート",
           paragraphs: [
             "プレイヤー様が安心してプレイできるよう、ビットカジノは充実したカスタマーサポート体制を整えておりました。",
-            "*   **24時間365日対応:** [ライブチャット](https://www.casinotsu.com/reviews/bitcasino)、Eメール、チケットシステムを通じて、いつでもサポートを受けられました。</>,
+            "*   **24時間365日対応:** [ライブチャット](https://www.casinotsu.com/reviews/bitcasino)、Eメール、チケットシステムを通じて、いつでもサポートを受けられました。",
             "*   **多言語対応:** 複数の言語に対応しており、日本語でのサポートも提供されておりました。",
           ],
         },
         {
           subheading: "責任あるギャンブルと利用制限",
           paragraphs: [
-            "ビットカジノは、[責任あるギャンブル](https://www.casinotsu.com/reviews/bitcasino) を推奨しており、プレイヤー様が安全にプレイできるよう配慮しておりました。</>,
+            "ビットカジノは、[責任あるギャンブル](https://www.casinotsu.com/reviews/bitcasino) を推奨しており、プレイヤー様が安全にプレイできるよう配慮しておりました。",
             "*   **ベット制限オプションの欠如:** 現状、プレイヤー様自身がベット額の上限を設定する機能は提供されておりませんでした。",
-            <>*   **アカウント閉鎖:** ギャンブル依存症の対策として、ベット制限の代わりにアカウントの閉鎖という選択肢のみが提供されておりました。これは、自己制限を希望されるプレイヤー様にとっては重要な考慮事項となります。 CasinoTsuは、<a href="https://www.casinotsu.com/responsible-gambling/gambling-addiction-help" target="_blank" rel="noopener noreferrer">責任あるギャンブル を強く推奨いたします。</>,
+            <>*   **アカウント閉鎖:** ギャンブル依存症の対策として、ベット制限の代わりにアカウントの閉鎖という選択肢のみが提供されておりました。これは、自己制限を希望されるプレイヤー様にとっては重要な考慮事項となります。 CasinoTsuは、<a href="https://www.casinotsu.com/responsible-gambling/gambling-addiction-help" target="_blank" rel="noopener noreferrer">責任あるギャンブル を強く推奨いたします。",
           ],
         },
         {
@@ -259,7 +259,7 @@ export const bitcasinoWelcomeBonus: BonusPageContent = {
           subheading: "ボーナスクラリフィケーション",
           paragraphs: [
             "*   **賭け条件のないボーナス:** 一部のプロモーションでは、賭け条件が設定されていないボーナスも提供されることがございました（ただし、本初回入金ボーナスには40倍の賭け条件が適用されておりました）。",
-            "*   **KYC認証:** ボーナスの有効化や出金には、本人確認（KYC）が必要となる場合がございます。 CasinoTsuでは、[KYCの重要性](https://www.casinotsu.com/bonuses) を常に強調しております。</>,
+            "*   **KYC認証:** ボーナスの有効化や出金には、本人確認（KYC）が必要となる場合がございます。 CasinoTsuでは、[KYCの重要性](https://www.casinotsu.com/bonuses) を常に強調しております。",
             "*   **代替ウェルカムパッケージ:** 初回入金だけでなく、最初の3回の入金で最大5,000 USDTを獲得できる代替ウェルカムパッケージも存在しておりました。",
           ],
         },
@@ -268,9 +268,9 @@ export const bitcasinoWelcomeBonus: BonusPageContent = {
     {
       heading: "まとめ",
       paragraphs: [
-        "ビットカジノの [初回入金ボーナス](https://www.casinotsu.com/reviews/bitcasino) なら、最大20万円もの豪華ボーナスに加えて、最大20％のキャッシュバックまで獲得可能でしたので、安心してプレイを開始できたかと存じます。</>,
+        "ビットカジノの [初回入金ボーナス](https://www.casinotsu.com/reviews/bitcasino) なら、最大20万円もの豪華ボーナスに加えて、最大20％のキャッシュバックまで獲得可能でしたので、安心してプレイを開始できたかと存じます。",
         "ボーナスの賭け条件は40倍の **分離型** で、オファー取得から7日以内に賭けを完了する必要がございました。最初の1週間は、集中してゲームをお楽しみいただけたことでしょう🎉",
-        <>もちろん、登録後も <a href="https://casinotsu.com/guides/vip-program" target="_blank" rel="noopener noreferrer">VIPプログラム や常時開催されている <a href="https://casinotsu.com/offers" target="_blank" rel="noopener noreferrer">プロモーション で、皆様に楽しんでいただける <a href="https://casinotsu.com/" target="_blank" rel="noopener noreferrer">おすすめのオンラインカジノ でございました。</>,
+        <>もちろん、登録後も <a href="https://casinotsu.com/guides/vip-program" target="_blank" rel="noopener noreferrer">VIPプログラム や常時開催されている <a href="https://casinotsu.com/offers" target="_blank" rel="noopener noreferrer">プロモーション で、皆様に楽しんでいただける <a href="https://casinotsu.com/" target="_blank" rel="noopener noreferrer">おすすめのオンラインカジノ でございました。",
         "この機会にぜひビットカジノへのご登録を検討いただければ幸いです😎",
       ],
     },

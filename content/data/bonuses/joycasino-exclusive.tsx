@@ -34,12 +34,12 @@ export const joyCasinoExclusiveBonus: BonusPageContent = {
       casinoSlug: "joycasino",
       heading: "【カジノツ限定】ジョイカジノで入金不要ボーナス¥4,500ゲット",
       description: [
-        "[Gamblingtherapy.org/ja](https://www.casinotsu.com/bonuses/no-deposit)｜【新規登録者限定】入金不要ボーナス：4,500円(賭け条件30倍)（カジノツ限定）、初回入金ボーナス：200％最大20万円(賭け条件30倍)+フリースピン200回（賭け条件20倍）｜<a href="https://go.casinotsu.com/go/joy-casino_terms?referrer_path=%2Foffers%2Fjoycasino-exclusive" target="_blank" rel="noopener noreferrer">利用規約が適用されます</>,
-        <>姉妹カジノである <a href="https://casinotsu.com/reviews/casino-x" target="_blank" rel="noopener noreferrer">カジノエックス と共に日本市場に再登場した <strong><a href="https://casinotsu.com/reviews/joycasino" target="_blank" rel="noopener noreferrer">ジョイカジノ（Joy Casino）</strong> より、カジノツ限定の特別なウェルカムオファーをご提供いただけました。</>,
-        <>それは、 **ご登録いただくだけで、もれなく¥4,500相当の <a href="https://casinotsu.com/bonuses/no-deposit" target="_blank" rel="noopener noreferrer">入金不要ボーナス をプレゼント** いたします 🤑💰！！</>,
+        "[Gamblingtherapy.org/ja](https://www.casinotsu.com/bonuses/no-deposit)｜【新規登録者限定】入金不要ボーナス：4,500円(賭け条件30倍)（カジノツ限定）、初回入金ボーナス：200％最大20万円(賭け条件30倍)+フリースピン200回（賭け条件20倍）｜<a href="https://go.casinotsu.com/go/joy-casino_terms?referrer_path=%2Foffers%2Fjoycasino-exclusive" target="_blank" rel="noopener noreferrer">利用規約が適用されます",
+        <>姉妹カジノである <a href="https://casinotsu.com/reviews/casino-x" target="_blank" rel="noopener noreferrer">カジノエックス と共に日本市場に再登場した <strong><a href="https://casinotsu.com/reviews/joycasino" target="_blank" rel="noopener noreferrer">ジョイカジノ（Joy Casino）</strong> より、カジノツ限定の特別なウェルカムオファーをご提供いただけました。",
+        <>それは、 **ご登録いただくだけで、もれなく¥4,500相当の <a href="https://casinotsu.com/bonuses/no-deposit" target="_blank" rel="noopener noreferrer">入金不要ボーナス をプレゼント** いたします 🤑💰！！",
         "この度は、復活早々、ジョイカジノ様には大変太っ腹なご提供をいただきました✨",
         "賭け条件は30倍と標準的ですが、現金化の可能性も十分にございます。",
-        <>早速、 <a href="https://casinotsu.com/bonuses/no-deposit" target="_blank" rel="noopener noreferrer"><strong>カジノの無料ボーナス</strong> に関する詳細をご確認くださいませ 🎉</>,
+        <>早速、 <a href="https://casinotsu.com/bonuses/no-deposit" target="_blank" rel="noopener noreferrer"><strong>カジノの無料ボーナス</strong> に関する詳細をご確認くださいませ 🎉",
       ],
       cta: {
         text: "オファーへ",
@@ -57,18 +57,18 @@ export const joyCasinoExclusiveBonus: BonusPageContent = {
       heading: "ジョイカジノの安全性と評判について",
       paragraphs: [
         "CasinoTsu では、プレイヤーの皆様が安全にカジノをお楽しみいただけるよう、カジノの安全性や評判に関する情報も提供しております。ジョイカジノにつきまして、Casino Guru では「非常に低い安全指数（1.8/10）」という評価が示されており、利用を推奨しないという見解がございました。また、実際のプレイヤーからは、出金時間の遅延や、複雑な出金制限に関する不満の声が寄せられており、出金手続きの遅延や制限に関する懸念が指摘されております。これらの情報は、カジノをお選びになる際に非常に重要となりますので、どうぞご留意ください。",
-        "💫 **日本市場へ同時復活！ジョイカジノの姉妹サイトはこちらもございます！**\n\n[カジノエックス（Casino-X）レビューページをチェック](https://www.casinotsu.com/)</>,
+        "💫 **日本市場へ同時復活！ジョイカジノの姉妹サイトはこちらもございます！**\n\n[カジノエックス（Casino-X）レビューページをチェック](https://www.casinotsu.com/)",
       ],
     },
     {
       heading: "カジノツから登録でジョイカジノの入金不要ボーナス",
       paragraphs: [
         "皆様に、ジョイカジノ様限定のウェルカムオファーをお届けいたします🍀",
-        "**カジノツ限定 [入金不要ボーナス](https://www.casinotsu.com/bonuses/no-deposit) ¥4,500** をプレゼントさせていただきますよ～！🎁✨</>,
-        <><a href="https://casinotsu.com/reviews/joycasino" target="_blank" rel="noopener noreferrer">ジョイカジノ へカジノツ経由でご登録いただくだけで、このボーナスをお受け取りいただけます。そして、このボーナスはカジノ内のあらゆるゲームにご利用いただけます。</>,
+        "**カジノツ限定 [入金不要ボーナス](https://www.casinotsu.com/bonuses/no-deposit) ¥4,500** をプレゼントさせていただきますよ～！🎁✨",
+        <><a href="https://casinotsu.com/reviews/joycasino" target="_blank" rel="noopener noreferrer">ジョイカジノ へカジノツ経由でご登録いただくだけで、このボーナスをお受け取りいただけます。そして、このボーナスはカジノ内のあらゆるゲームにご利用いただけます。",
         "これはつまり、あなたにもジョイカジノで無料での勝利のチャンスがあるということです🌟",
       ],
-      subsections: <a href="https://casinotsu.com/offers" target="_blank" rel="noopener noreferrer">
+      subsections: [
         {
           subheading: "注意事項と利用条件",
           paragraphs: [
@@ -80,7 +80,7 @@ export const joyCasinoExclusiveBonus: BonusPageContent = {
             "**最低入金額：** 各入金方法の最低入金額（※ボーナスを受け取られた後、実際に出金するには最低一度のご入金が必要となる場合がございます。詳細はレビューページにてご確認ください。）",
             "**最大ベット額：** 通常、ボーナスを賭け条件消化中にベットできる最大金額には制限がございます。一般的には€0.5（約75円）など、少額に制限されることが多いです。この制限を超えた場合、ボーナス規約違反となる可能性がございますのでご注意ください。",
             "**ボーナスの性質：** このボーナスが「スティッキーボーナス」である可能性がございます。スティッキーボーナスの場合は、出金時にボーナス額が差し引かれるため、実際に出金できるのは、ボーナス額を除いた勝利金のみとなります。",
-            "🤩 **カジノツ限定ボーナスも多数ご用意しております！**\n\n全ての魅力的な [カジノオファー](https://www.casinotsu.com/bonuses/no-deposit) を今すぐチェック！</>,
+            "🤩 **カジノツ限定ボーナスも多数ご用意しております！**\n\n全ての魅力的な [カジノオファー](https://www.casinotsu.com/bonuses/no-deposit) を今すぐチェック！",
           ],
         },
       ],
@@ -88,7 +88,7 @@ export const joyCasinoExclusiveBonus: BonusPageContent = {
     {
       heading: "ジョイカジノの入金不要ボーナスのもらい方",
       paragraphs: [
-        "[ジョイカジノ](LINK_NEEDS_REPAIR) の <a href="https://casinotsu.com/bonuses/no-deposit" target="_blank" rel="noopener noreferrer">入金不要ボーナス の獲得方法は、大変簡単でございます！</>,
+        "<a href="https://casinotsu.com/reviews/joycasino" target="_blank" rel="noopener noreferrer">ジョイカジノ</a> の <a href="https://casinotsu.com/bonuses/no-deposit" target="_blank" rel="noopener noreferrer">入金不要ボーナス の獲得方法は、大変簡単でございます！",
         "一緒に手順をご確認いただき、登録ボーナスをぜひゲットしてくださいませ～🎉",
         "1. まず、ジョイカジノのご登録画面にて、必要事項をご入力ください。その際、 **ボーナスコード欄に「japacasi」とご入力** いただければと存じます！（簡単ですよね😎？）全ての入力が完了いたしましたら、「登録」ボタンをクリックしてください。",
         "2. 次に、画面に表示される指示に従い、ご登録いただいたメールアドレス宛に届くメール内のURLをクリックし、ご登録を完了させてください。",
@@ -98,15 +98,15 @@ export const joyCasinoExclusiveBonus: BonusPageContent = {
         "6. 「プレゼントを有効にするために、Eメールと電話番号を確認してください。」というメッセージが表示されますので、空欄箇所にご自身の情報を入力し、電話番号の認証を行ってください。最後に「変更を保存」をクリックしていただきますと、 **カジノツ限定の入金不要ボーナス¥4,500** をお受け取りいただけます💰",
         "無料で受け取れる入金不要ボーナスは、ぜひとも活用すべき特典でございます。",
         "この機会にボーナスをご活用いただき、ジョイカジノ様の魅力を存分にお楽しみください💖",
-        <>**🎯入金不要ボーナスで遊んだ後は、こちらもぜひチェックしてください！**\n\n<a href="https://casinotsu.com/bonuses/welcome-bonus" target="_blank" rel="noopener noreferrer">初回入金ボーナスおすすめランキング を一挙大公開いたしております★</>,
+        <>**🎯入金不要ボーナスで遊んだ後は、こちらもぜひチェックしてください！**\n\n<a href="https://casinotsu.com/bonuses/welcome-bonus" target="_blank" rel="noopener noreferrer">初回入金ボーナスおすすめランキング を一挙大公開いたしております★",
       ],
     },
     {
       heading: "ウェルカムボーナスも見逃せません",
       paragraphs: [
-        "[ジョイカジノ](LINK_NEEDS_REPAIR) には、 <a href="https://casinotsu.com/bonuses/no-deposit" target="_blank" rel="noopener noreferrer">入金不要ボーナス だけでなく、 **5回目のご入金まで適用される <a href="https://casinotsu.com/bonuses/welcome-bonus" target="_blank" rel="noopener noreferrer">ウェルカムボーナス** もご用意されております🌟</>,
+        "<a href="https://casinotsu.com/reviews/joycasino" target="_blank" rel="noopener noreferrer">ジョイカジノ</a> には、 <a href="https://casinotsu.com/bonuses/no-deposit" target="_blank" rel="noopener noreferrer">入金不要ボーナス だけでなく、 **5回目のご入金まで適用される <a href="https://casinotsu.com/bonuses/welcome-bonus" target="_blank" rel="noopener noreferrer">ウェルカムボーナス** もご用意されております🌟",
         "特に、 **初回のご入金では最大¥200,000** までボーナスとしてお受け取りいただけます😲❗️",
-        <>さらに、追加特典として <a href="https://casinotsu.com/providers/pragmatic-play" target="_blank" rel="noopener noreferrer">Pragmatic Play 社の人気スロット「The Dog House」でご利用いただける200回分の <a href="https://casinotsu.com/free-spins" target="_blank" rel="noopener noreferrer">フリースピン もプレゼント🐶</>,
+        <>さらに、追加特典として <a href="https://casinotsu.com/providers/pragmatic-play" target="_blank" rel="noopener noreferrer">Pragmatic Play 社の人気スロット「The Dog House」でご利用いただける200回分の <a href="https://casinotsu.com/free-spins" target="_blank" rel="noopener noreferrer">フリースピン もプレゼント🐶",
         "日本市場に再び仲間入りしたジョイカジノ様は、確実にパワーアップされているようです👀✨",
       ],
       subsections: [
@@ -124,9 +124,9 @@ export const joyCasinoExclusiveBonus: BonusPageContent = {
           paragraphs: [
             "カジノゲームに加え、スポーツベットをお楽しみになりたい方のために、以下のスポーツウェルカムボーナスもご用意しております。",
             "**100％最大相当額（10倍賭け条件）:** スポーツベットにてご利用いただけるボーナスで、賭け条件は10倍となっております。",
-            "詳細につきましては、 [ジョイカジノのレビューページ](https://www.casinotsu.com/bonuses/welcome-bonus) にてご確認ください✅</>,
+            "詳細につきましては、 [ジョイカジノのレビューページ](https://www.casinotsu.com/bonuses/welcome-bonus) にてご確認ください✅",
             "この機会にカジノツからご登録いただき、入金不要ボーナスを存分にご活用の上、たくさんの勝利を掴んでください！",
-            <>🏹 **日本市場へは姉妹サイトのカジノエックスと共に再上陸！**\n\n<a href="https://casinotsu.com/reviews/joycasino" target="_blank" rel="noopener noreferrer">Joy Casino（ジョイカジノ）レビューページをチェック</>,
+            <>🏹 **日本市場へは姉妹サイトのカジノエックスと共に再上陸！**\n\n<a href="https://casinotsu.com/reviews/joycasino" target="_blank" rel="noopener noreferrer">Joy Casino（ジョイカジノ）レビューページをチェック",
           ],
         },
       ],
@@ -135,7 +135,7 @@ export const joyCasinoExclusiveBonus: BonusPageContent = {
       heading: "ジョイカジノのゲームラインナップ",
       paragraphs: [
         "ジョイカジノ様は、その豊富なゲーム数でも注目を集めております。**6,900種類以上のスロット** をはじめ、**700種類以上のライブカジノゲーム** を含む、**合計8,000種類以上のゲーム** をご提供しております。",
-        "[NetEnt](https://www.casinotsu.com/slots) や <a href="https://casinotsu.com/providers/microgaming" target="_blank" rel="noopener noreferrer">Microgaming といった、数多くのトップゲームプロバイダーが提供する最新の人気ゲームから、長年親しまれている定番ゲームまで、幅広いラインナップをお楽しみいただけます。CasinoTsu は、正確さが第一。興奮はその次。</>,
+        "[NetEnt](https://www.casinotsu.com/slots) や <a href="https://casinotsu.com/providers/microgaming" target="_blank" rel="noopener noreferrer">Microgaming といった、数多くのトップゲームプロバイダーが提供する最新の人気ゲームから、長年親しまれている定番ゲームまで、幅広いラインナップをお楽しみいただけます。CasinoTsu は、正確さが第一。興奮はその次。",
       ],
     },
     {
@@ -196,13 +196,13 @@ export const joyCasinoExclusiveBonus: BonusPageContent = {
     {
       heading: "競合カジノとの比較",
       paragraphs: [
-        "ジョイカジノ様は、姉妹カジノである [カジノエックス（Casino-X）](LINK_NEEDS_REPAIR) と共に日本市場に再参入されました。両カジノは、類似したプロモーションやゲームラインナップをご提供しておりますが、限定オファーや細かなボーナス条件において差異が見られる場合がございます。プレイヤーの皆様は、それぞれのカジノが提供する最新のオファーや利用規約を比較検討され、ご自身のプレイスタイルに最も合ったカジノをお選びいただくことが賢明でございます。</>,
+        "ジョイカジノ様は、姉妹カジノである <a href="https://casinotsu.com/reviews/casino-x" target="_blank" rel="noopener noreferrer">カジノエックス（Casino-X）</a> と共に日本市場に再参入されました。両カジノは、類似したプロモーションやゲームラインナップをご提供しておりますが、限定オファーや細かなボーナス条件において差異が見られる場合がございます。プレイヤーの皆様は、それぞれのカジノが提供する最新のオファーや利用規約を比較検討され、ご自身のプレイスタイルに最も合ったカジノをお選びいただくことが賢明でございます。",
       ],
     },
     {
       heading: "ライター",
       paragraphs: [
-        "[Mayumi](LINK_NEEDS_REPAIR) 真由美</>,
+        "<a href="https://casinotsu.com/authors/mayumi" target="_blank" rel="noopener noreferrer">Mayumi</a> 真由美",
         "ライター",
         "ギャンブルのことなら何でもお任せください！コンテンツライターの真由美と申します♪\nスポーツ好きが高じて、友人たちと競艇や競輪を楽しむうちに、ギャンブルの世界に深く足を踏み入れました。現在では、海外のカジノでポーカー大会に参加するほどのカジノ愛好家でございます🎰♠️\n長年の経験で培った豊富なギャンブル知識と経験を活かし、CasinoTsu の読者の皆様に、より有益で正確な情報をお届けできるよう、慎重に情報収集に努めております！\n※現在は別の活動に専念しておりますが、執筆当時は当サイトのライターでした。",
       ],

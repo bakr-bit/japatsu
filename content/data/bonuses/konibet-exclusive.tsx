@@ -35,12 +35,12 @@ export const konibetExclusiveOffer: BonusPageContent = {
       heading: "ジャパカジ限定！コニベットの入金不要ボーナス$20＋キャッシュスピン50回",
       description: [
         "**＼登録するだけで、こんなにもらえるなんて！／**",
-        "コニベット（[Konibet](https://www.casinotsu.com/reviews/konibet)）なら、ご安心ください(￣▽￣)🎉</>,
-        <>CasinoTsu（カジノツウ）は、<a href="https://www.casinotsu.com/bonuses/no-deposit" target="_blank" rel="noopener noreferrer">入金不要ボーナス や、出金条件なしで好きなゲームを選んでプレイしたい方、さらに賭け条件がないフリースピンで賢く勝利を狙いたい方、どちらのプレイヤー様にも最適な情報を提供いたします。もちろん、これらはすべて無料でご利用いただけます。</>,
+        "コニベット（[Konibet](https://www.casinotsu.com/reviews/konibet)）なら、ご安心ください(￣▽￣)🎉",
+        <>CasinoTsu（カジノツウ）は、<a href="https://www.casinotsu.com/bonuses/no-deposit" target="_blank" rel="noopener noreferrer">入金不要ボーナス や、出金条件なしで好きなゲームを選んでプレイしたい方、さらに賭け条件がないフリースピンで賢く勝利を狙いたい方、どちらのプレイヤー様にも最適な情報を提供いたします。もちろん、これらはすべて無料でご利用いただけます。",
         "このような充実した特典をご利用いただけるのは、**CasinoTsu（カジノツウ）経由でご登録**いただく、日本のプレイヤーの皆様だけです。",
         "今回ご紹介する**キャッシュスピンは、CasinoTsu（カジノツウ）限定の特別なボーナス**となっております💝。",
         "それでは、**魅力あふれる2種類の入金不要ボーナス**について、詳しくご紹介してまいりましょう！",
-        <>🆓 **登録するだけで、入金不要！請求するだけでOK！** オンラインカジノの<a href="https://www.casinotsu.com/free-spins" target="_blank" rel="noopener noreferrer">フリースピン 情報もCasinoTsu（カジノツウ）にお任せください★</>,
+        <>🆓 **登録するだけで、入金不要！請求するだけでOK！** オンラインカジノの<a href="https://www.casinotsu.com/free-spins" target="_blank" rel="noopener noreferrer">フリースピン 情報もCasinoTsu（カジノツウ）にお任せください★",
       ],
       cta: {
         text: "オファーへ",
@@ -49,10 +49,10 @@ export const konibetExclusiveOffer: BonusPageContent = {
     },
   ],
 
-  bonusTypeCategories: <a href="https://www.casinotsu.com/slots/lucky-neko-gigablox" target="_blank" rel="noopener noreferrer">
+  bonusTypeCategories: [
     {
       title: "①ジャパカジ限定！入金不要キャッシュスピン50回",
-      description: "まずは、特別な限定ボーナスについてご説明いたします。\n\nCasinoTsu（カジノツウ）経由でコニベットにご登録いただきますと、人気スロット「[**Lucky Neko – Gigablox（ラッキーネコ・ギガブロックス）**](LINK_NEEDS_REPAIR)」でご利用いただける**フリースピン50回**をプレゼントいたします🐱！\n\n<a href="https://www.casinotsu.com/providers/yggdrasil" target="_blank" rel="noopener noreferrer"><strong>Yggdrasil</strong> 社の人気スロットである本作では、リールを彩る**巨大なギガブロックス**が、勝利のチャンスを大きく広げてくれることでしょう🔥。\n\nさらに注目すべきは、このフリースピンが**「賭け条件なしのキャッシュスピン」**であるという点です🎉。\n\nご登録後、ライブチャットにて**合言葉「ジャパカジ」**をお伝えください💝。\n\n🔰 **「賭け条件」について詳しく知りたい方はこちら** <a href="https://www.casinotsu.com/guides/wagering-requirements" target="_blank" rel="noopener noreferrer">​賭け条件（出金条件） を理解して、勝利金獲得を目指しましょう！\n\n### 【入金不要キャッシュスピン獲得方法】\n下記でご紹介する「②新規登録プレイヤー限定入金不要ボーナス$20」はご自身で取得可能ですが、この限定キャッシュスピンは以下の手順で獲得いただけます★\n1.  ご登録後、24時間対応のライブチャットにて、**合言葉【ジャパカジ】**をお伝えください。\n2.  コニベットのサポートチームより、ボーナスが進呈されます！\n\n大変簡単な手順でございます✨。\nもしボーナスがアカウントに進呈されていない場合は、ご安心ください。まずは**ライブチャット**にて、合言葉をお伝えいただけますでしょうか😘。</>,
+      description: "まずは、特別な限定ボーナスについてご説明いたします。\n\nCasinoTsu（カジノツウ）経由でコニベットにご登録いただきますと、人気スロット「<a href="https://casinotsu.com/slots/lucky-neko-gigablox" target="_blank" rel="noopener noreferrer"><strong>Lucky Neko – Gigablox（ラッキーネコ・ギガブロックス）</strong></a>」でご利用いただける**フリースピン50回**をプレゼントいたします🐱！\n\n<a href="https://www.casinotsu.com/providers/yggdrasil" target="_blank" rel="noopener noreferrer"><strong>Yggdrasil</strong> 社の人気スロットである本作では、リールを彩る**巨大なギガブロックス**が、勝利のチャンスを大きく広げてくれることでしょう🔥。\n\nさらに注目すべきは、このフリースピンが**「賭け条件なしのキャッシュスピン」**であるという点です🎉。\n\nご登録後、ライブチャットにて**合言葉「ジャパカジ」**をお伝えください💝。\n\n🔰 **「賭け条件」について詳しく知りたい方はこちら** <a href="https://www.casinotsu.com/guides/wagering-requirements" target="_blank" rel="noopener noreferrer">​賭け条件（出金条件） を理解して、勝利金獲得を目指しましょう！\n\n### 【入金不要キャッシュスピン獲得方法】\n下記でご紹介する「②新規登録プレイヤー限定入金不要ボーナス$20」はご自身で取得可能ですが、この限定キャッシュスピンは以下の手順で獲得いただけます★\n1.  ご登録後、24時間対応のライブチャットにて、**合言葉【ジャパカジ】**をお伝えください。\n2.  コニベットのサポートチームより、ボーナスが進呈されます！\n\n大変簡単な手順でございます✨。\nもしボーナスがアカウントに進呈されていない場合は、ご安心ください。まずは**ライブチャット**にて、合言葉をお伝えいただけますでしょうか😘。",
       table: {
         columns: ["【入金不要キャッシュスピン詳細】", ""],
         rows: [
@@ -68,9 +68,9 @@ export const konibetExclusiveOffer: BonusPageContent = {
     },
     {
       title: "②新規登録プレイヤー限定入金不要ボーナス$20",
-      description: <>
+      description: "
 !<a href="https://www.casinotsu.com/images/konibet-nodeposit-bonus-20dollars.png" target="_blank" rel="noopener noreferrer">コニベット｜入金不要ボーナス$20
-\n\nコニベット（Konibet）では、新規登録プレイヤー様限定で、**$20の入金不要ボーナス**を進呈いたします🎉。\n\nこのボーナスにより、**ご入金いただくことなく$20分のプレイをお楽しみいただけます**。オンラインカジノをこれから始められる方にとって、大変魅力的なオファーと言えるでしょう👀。\n\nただし、この**入金不要ボーナスをお受け取りいただく際には、一点ご注意いただきたい事項**がございます⚠️。\n\n|     |\n| --- |\n| 🚨重要なお知らせ🚨<br>必ず**ボーナスの申請手続きを完了させてからご入金**ください。<br>申請手続きを経ずにご入金されますと、入金不要ボーナスをお受け取りいただけなくなりますのでご注意ください。 |\n\nまた、このボーナスは<a href="https://www.casinotsu.com/slots" target="_blank" rel="noopener noreferrer">スロットゲーム のみを対象としております。\n\n😍 **登録するだけで$20をゲット！** <a href="https://www.casinotsu.com/reviews/konibet" target="_blank" rel="noopener noreferrer">コニベット（Konibet）のレビューページ で詳細をご確認ください✅。\n\n入金不要ボーナスを獲得するための詳細はこちらをご覧ください👇。\n\n🤓 **賭け条件の落とし穴を解明します**\nカジノ別： <a href="https://www.casinotsu.com/guides/wagering-requirements" target="_blank" rel="noopener noreferrer">賭け条件（引き出し条件）ガイド も併せてご確認ください。\n\n### 【入金不要ボーナス$20獲得方法】\n1.  コニベット（Konibet）にご登録ください。\n2.  インボックスにて、クーポンコードをご確認ください。\n3.  アカウントページ内の「ボーナス受取」画面を開きます。\n4.  クーポンコードを入力します。\n5.  入金不要ボーナスを獲得！\n\nインボックスに記載されたクーポンコードは、以下の手順でご申請ください。\n【ボーナス受取】>【クーポン】>【ボーナスクーポン】\n\n詳しい画像付きの獲得方法につきましては、 <a href="https://www.casinotsu.com/reviews/konibet" target="_blank" rel="noopener noreferrer">コニベット（Konibet）のレビューページ にてご確認いただけます👇。\n\n📝 **コニベット（Konibet）の申請方法を詳しく確認！**\n<a href="https://www.casinotsu.com/reviews/konibet" target="_blank" rel="noopener noreferrer">コニベット（Konibet）のレビューページ をチェック✅</>,
+\n\nコニベット（Konibet）では、新規登録プレイヤー様限定で、**$20の入金不要ボーナス**を進呈いたします🎉。\n\nこのボーナスにより、**ご入金いただくことなく$20分のプレイをお楽しみいただけます**。オンラインカジノをこれから始められる方にとって、大変魅力的なオファーと言えるでしょう👀。\n\nただし、この**入金不要ボーナスをお受け取りいただく際には、一点ご注意いただきたい事項**がございます⚠️。\n\n|     |\n| --- |\n| 🚨重要なお知らせ🚨<br>必ず**ボーナスの申請手続きを完了させてからご入金**ください。<br>申請手続きを経ずにご入金されますと、入金不要ボーナスをお受け取りいただけなくなりますのでご注意ください。 |\n\nまた、このボーナスは<a href="https://www.casinotsu.com/slots" target="_blank" rel="noopener noreferrer">スロットゲーム のみを対象としております。\n\n😍 **登録するだけで$20をゲット！** <a href="https://www.casinotsu.com/reviews/konibet" target="_blank" rel="noopener noreferrer">コニベット（Konibet）のレビューページ で詳細をご確認ください✅。\n\n入金不要ボーナスを獲得するための詳細はこちらをご覧ください👇。\n\n🤓 **賭け条件の落とし穴を解明します**\nカジノ別： <a href="https://www.casinotsu.com/guides/wagering-requirements" target="_blank" rel="noopener noreferrer">賭け条件（引き出し条件）ガイド も併せてご確認ください。\n\n### 【入金不要ボーナス$20獲得方法】\n1.  コニベット（Konibet）にご登録ください。\n2.  インボックスにて、クーポンコードをご確認ください。\n3.  アカウントページ内の「ボーナス受取」画面を開きます。\n4.  クーポンコードを入力します。\n5.  入金不要ボーナスを獲得！\n\nインボックスに記載されたクーポンコードは、以下の手順でご申請ください。\n【ボーナス受取】>【クーポン】>【ボーナスクーポン】\n\n詳しい画像付きの獲得方法につきましては、 <a href="https://www.casinotsu.com/reviews/konibet" target="_blank" rel="noopener noreferrer">コニベット（Konibet）のレビューページ にてご確認いただけます👇。\n\n📝 **コニベット（Konibet）の申請方法を詳しく確認！**\n<a href="https://www.casinotsu.com/reviews/konibet" target="_blank" rel="noopener noreferrer">コニベット（Konibet）のレビューページ をチェック✅",
       table: {
         columns: ["【入金不要ボーナス$20利用規約】", ""],
         rows: [
@@ -109,7 +109,7 @@ export const konibetExclusiveOffer: BonusPageContent = {
       title: "コニベットの安全性とセキュリティ",
       description: [
         "コニベットは、プレイヤーの皆様が安心してゲームをお楽しみいただけるよう、万全の安全性とセキュリティ対策を講じております。",
-        "### ビットコイン（BTC）対応とセキュリティ\nコニベットでは、**ビットコイン（BTC）による入出金**に対応しております。仮想通貨をご利用いただくことで、取引のプライバシーとセキュリティを一層強化することが可能です。コニベットは、仮想通貨ユーザーの皆様のために特別なセキュリティ対策を提供し、安全な取引環境を保証いたします。[ビットコイン](https://www.casinotsu.com/reviews/konibet) を利用したカジノは、近年ますます人気が高まっています。</>,
+        "### ビットコイン（BTC）対応とセキュリティ\nコニベットでは、**ビットコイン（BTC）による入出金**に対応しております。仮想通貨をご利用いただくことで、取引のプライバシーとセキュリティを一層強化することが可能です。コニベットは、仮想通貨ユーザーの皆様のために特別なセキュリティ対策を提供し、安全な取引環境を保証いたします。[ビットコイン](https://www.casinotsu.com/reviews/konibet) を利用したカジノは、近年ますます人気が高まっています。",
         "### 安全性・セキュリティ保証\nコニベットは、厳格なライセンス基準を遵守するとともに、最新の暗号化技術を用いてプレイヤーの個人情報および資金を保護しております。これにより、不正アクセスやデータ漏洩のリスクを最小限に抑えております。",
       ],
     },
@@ -153,7 +153,7 @@ export const konibetExclusiveOffer: BonusPageContent = {
         {
           subheading: "地域によるボーナスの差異",
           paragraphs: [
-            "ただし、一部のボーナスやプロモーションは、提供される地域によって内容が異なる場合がございます。ご自身の居住地域でご利用いただけるオファーにつきましては、コニベットの公式サイトまたは[カスタマーサポート](https://www.casinotsu.com/reviews/konibet) チームにご確認いただけますようお願い申し上げます。</>,
+            "ただし、一部のボーナスやプロモーションは、提供される地域によって内容が異なる場合がございます。ご自身の居住地域でご利用いただけるオファーにつきましては、コニベットの公式サイトまたは[カスタマーサポート](https://www.casinotsu.com/reviews/konibet) チームにご確認いただけますようお願い申し上げます。",
           ],
         },
       ],

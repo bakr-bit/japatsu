@@ -26,7 +26,7 @@ export const rainbowRichesLive: GameShowPageContent = {
       heading: "導入・概要",
       paragraphs: [
         "👑ルーレット特化型プロバイダーとして注目のAuthentic Gaming",
-        "[Authentic Gaming（オーセンティック・ゲーミング）の他の人気ゲームもチェック](https://www.casinotsu.com/roulette)</>,
+        "[Authentic Gaming（オーセンティック・ゲーミング）の他の人気ゲームもチェック](https://www.casinotsu.com/roulette)",
       ],
       bullets: [
         "ゲーム名: レインボーリッチーズライブ（Rainbow Riches Live）",
@@ -37,11 +37,11 @@ export const rainbowRichesLive: GameShowPageContent = {
         "ゲームフィーチャー: マルチプライヤー、ボーナスラウンド",
         "最大勝利金: 10,000倍（理論値）、1,500倍（シンボルベット時）",
       ],
-      subsections: <a href="https://casinotsu.com/roulette/free" target="_blank" rel="noopener noreferrer">
+      subsections: [
         {
           subheading: "⚡ルーレットゲームをお探しですか？こちらもおすすめです！",
           paragraphs: [
-            "[オンラインで遊べるルーレットの無料ゲームを一挙紹介！](https://www.casinotsu.com/roulette)</>,
+            "[オンラインで遊べるルーレットの無料ゲームを一挙紹介！](https://www.casinotsu.com/roulette)",
           ],
         },
       ],
@@ -65,7 +65,7 @@ export const rainbowRichesLive: GameShowPageContent = {
       paragraphs: [
         "「レインボーリッチーズライブ」は、Authentic Gaming（オーセンティック・ゲーミング）のライブディーラーゲームを提供しているオンラインカジノでプレイ可能です。Authentic Gamingは、Light & Wonderグループの一員であり、高品質なライブディーラーゲームで定評がございます。",
         "CasinoTsuが推奨するカジノの中では、特に フラッシュカジノ（Flush） でのご利用を推奨いたします。フラッシュカジノでは、このゲームをはじめとするAuthentic Gamingの多彩なゲームセレクションをお楽しみいただけ、魅力的なボーナスやプロモーションもご用意しております。",
-        "これらのカジノでは、新規プレイヤー様向けの[ウェルカムボーナス](https://www.casinotsu.com/bonuses/welcome-bonus) や、<a href="https://casinotsu.com/live-casino" target="_blank" rel="noopener noreferrer">ライブカジノ 専用のボーナスなどが提供されている場合がございます。お得にゲームを開始されるチャンスですが、ボーナスの賭け条件などを事前に十分ご確認ください。</>,
+        "これらのカジノでは、新規プレイヤー様向けの[ウェルカムボーナス](https://www.casinotsu.com/bonuses/welcome-bonus) や、<a href="https://casinotsu.com/live-casino" target="_blank" rel="noopener noreferrer">ライブカジノ 専用のボーナスなどが提供されている場合がございます。お得にゲームを開始されるチャンスですが、ボーナスの賭け条件などを事前に十分ご確認ください。",
       ],
       bullets: [
         "**CasinoTsu推薦カジノ:**",
@@ -74,12 +74,12 @@ export const rainbowRichesLive: GameShowPageContent = {
     },
     {
       heading: "ゲーム特徴・フィーチャー",
-      subsections: <a href="https://casinotsu.com/slots/best-payout" target="_blank" rel="noopener noreferrer">
+      subsections: [
         {
           subheading: "マルチプライヤー",
           paragraphs: [
             "このゲームの最大の特徴にして、最も注目すべきは **マルチプライヤー** です。",
-            "💰たった10円が1,000万円になるかも？！ [2024年最新｜爆裂機・配当倍率が高いオンラインスロット！](https://www.casinotsu.com/slots)</>,
+            "💰たった10円が1,000万円になるかも？！ [2024年最新｜爆裂機・配当倍率が高いオンラインスロット！](https://www.casinotsu.com/slots)",
           ],
           bullets: [
             "**ラッキーナンバーへのマルチプライヤー:** ゲームラウンドごとに、6つの「ラッキーナンバー」が選出され、それぞれに50倍から500倍のマルチプライヤーが割り当てられます。これらのラッキーナンバーにベットが的中した場合、そのマルチプライヤーが適用され、配当が大幅に増加いたします。",
@@ -148,7 +148,7 @@ export const rainbowRichesLive: GameShowPageContent = {
           subheading: "RTP（還元率）／ボラティリティ",
           paragraphs: [
             "**ゲーム全体のRTPは98%～99％と非常に高く**、長期的に遊べば遊ぶほどリターンが期待できる、プレイヤーに有利な設定となっております📈。",
-            "🎰 高RTPのスロットでも遊んでみませんか？驚異のRTP99％越えも！？ [RTPの高い人気のスロットを一挙紹介♪](https://www.casinotsu.com/slots)</>,
+            "🎰 高RTPのスロットでも遊んでみませんか？驚異のRTP99％越えも！？ [RTPの高い人気のスロットを一挙紹介♪](https://www.casinotsu.com/slots)",
           ],
           bullets: [
             "**最高RTP:** 最高値99％は、特にコインのシンボルが当たった時（サイドベット時）に記録され、極めて高い還元率を誇ります💰🔥。",
@@ -221,15 +221,15 @@ export const rainbowRichesLive: GameShowPageContent = {
         "「レインボーリッチーズライブ」のような、スロット要素やゲームショー形式を取り入れたライブカジノゲームは、近年人気が高まっております。以下に、テーマやゲーム性が似ているおすすめのゲームをご紹介いたします。",
       ],
       bullets: [
-        "[エクストリーム・ライトニング・ルーレット](https://www.casinotsu.com/roulette): Lightning Rouletteシリーズの進化版。マルチプライヤーとランダムなブーストが特徴で、スリリングな体験ができます。</>,
-        <><a href="https://casinotsu.com/game-shows/crazy-coin-flip" target="_blank" rel="noopener noreferrer">クレイジーコイン・フリップ: スロットでベット額を増やし、コインフリップで配当を決めるシンプルなゲーム性。短時間で大きな勝利を狙える可能性があります。</>,
-        <><a href="https://casinotsu.com/game-shows/dream-catcher" target="_blank" rel="noopener noreferrer">ドリーム・キャッチャー: Evolution Gamingの人気ゲームショー。巨大なマネーホイールを回すシンプルなルールながら、マルチプライヤー機能で高配当も期待できます。</>,
+        "[エクストリーム・ライトニング・ルーレット](https://www.casinotsu.com/roulette): Lightning Rouletteシリーズの進化版。マルチプライヤーとランダムなブーストが特徴で、スリリングな体験ができます。",
+        <><a href="https://casinotsu.com/game-shows/crazy-coin-flip" target="_blank" rel="noopener noreferrer">クレイジーコイン・フリップ: スロットでベット額を増やし、コインフリップで配当を決めるシンプルなゲーム性。短時間で大きな勝利を狙える可能性があります。",
+        <><a href="https://casinotsu.com/game-shows/dream-catcher" target="_blank" rel="noopener noreferrer">ドリーム・キャッチャー: Evolution Gamingの人気ゲームショー。巨大なマネーホイールを回すシンプルなルールながら、マルチプライヤー機能で高配当も期待できます。",
       ],
       subsections: [
         {
           subheading: "",
           paragraphs: [
-            "これらのゲームは、CasinoTsuで紹介している様々な [ライブカジノ](https://www.casinotsu.com/live-casino) でプレイ可能です。皆様の好みに合った新しいゲームを見つけてみてくださいね🎵</>,
+            "これらのゲームは、CasinoTsuで紹介している様々な [ライブカジノ](https://www.casinotsu.com/live-casino) でプレイ可能です。皆様の好みに合った新しいゲームを見つけてみてくださいね🎵",
           ],
         }
       ]

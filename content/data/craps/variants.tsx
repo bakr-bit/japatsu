@@ -52,7 +52,7 @@ export const crapsGuide: CrapsPageContent = {
       heading: "人気のクラップス種類10選！",
       content: `
 
-![クラップスとは](LINK_NEEDS_REPAIR)
+![クラップスとは](https://casinotsu.com/images/what-craps-is-1024x364.png)
 
 
 <a href="https://casinotsu.com/craps" target="_blank" rel="noopener noreferrer"><strong>クラップス</strong> には、一体どれほどの種類があるのでしょうか🧐？

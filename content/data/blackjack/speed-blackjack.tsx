@@ -34,9 +34,7 @@ CasinoTsu は、プレイヤーの皆様に、よりエキサイティングで�
 
 ---
 
-<a href="https://casinotsu.com/images/casino/betswap.jpg" target="_blank" rel="noopener noreferrer">
-![Betswap](LINK_NEEDS_REPAIR)
-](https://go.casinotsu.com/go/betswap:betswap?referrer_path=%2Fblackjack%2Fspeed-blackjack)
+[![Betswap](https://casinotsu.com/images/casino/betswap.jpg)](https://go.casinotsu.com/go/betswap:betswap?referrer_path=%2Fblackjack%2Fspeed-blackjack)
 
 **Betswap**
 *   ボーナス: 40倍 賭け条件
@@ -48,9 +46,7 @@ CasinoTsu は、プレイヤーの皆様に、よりエキサイティングで�
 
 ---
 
-<a href="https://casinotsu.com/images/casino/cybet.jpg" target="_blank" rel="noopener noreferrer">
-![Cybet](LINK_NEEDS_REPAIR)
-](https://go.casinotsu.com/go/cybet:cybet?referrer_path=%2Fblackjack%2Fspeed-blackjack)
+[![Cybet](https://casinotsu.com/images/casino/cybet.jpg)](https://go.casinotsu.com/go/cybet:cybet?referrer_path=%2Fblackjack%2Fspeed-blackjack)
 
 **Cybet**
 *   ボーナス: 35倍 賭け条件
@@ -62,9 +58,7 @@ CasinoTsu は、プレイヤーの皆様に、よりエキサイティングで�
 
 ---
 
-<a href="https://casinotsu.com/images/Betpanda_375x375.png" target="_blank" rel="noopener noreferrer">
-![Betpanda](LINK_NEEDS_REPAIR)
-](https://go.casinotsu.com/go/betpanda:betpanda?referrer_path=%2Fblackjack%2Fspeed-blackjack)
+[![Betpanda](https://casinotsu.com/images/Betpanda_375x375.png)](https://go.casinotsu.com/go/betpanda:betpanda?referrer_path=%2Fblackjack%2Fspeed-blackjack)
 
 **Betpanda**
 *   評価点: 3.5/5
@@ -73,9 +67,7 @@ CasinoTsu は、プレイヤーの皆様に、よりエキサイティングで�
 
 ---
 
-<a href="https://casinotsu.com/images/casino/respin.jpg" target="_blank" rel="noopener noreferrer">
-![ReSpin](LINK_NEEDS_REPAIR)
-](https://go.casinotsu.com/go/respin:respin?referrer_path=%2Fblackjack%2Fspeed-blackjack)
+[![ReSpin](https://casinotsu.com/images/casino/respin.jpg)](https://go.casinotsu.com/go/respin:respin?referrer_path=%2Fblackjack%2Fspeed-blackjack)
 
 **ReSpin**
 *   ボーナス: 35倍 賭け条件
@@ -87,9 +79,7 @@ CasinoTsu は、プレイヤーの皆様に、よりエキサイティングで�
 
 ---
 
-<a href="https://casinotsu.com/images/casino/pinnacle.jpg" target="_blank" rel="noopener noreferrer">
-![Pinnacle](LINK_NEEDS_REPAIR)
-](https://go.casinotsu.com/go/pinnacle:pinnacle?referrer_path=%2Fblackjack%2Fspeed-blackjack)
+[![Pinnacle](https://casinotsu.com/images/casino/pinnacle.jpg)](https://go.casinotsu.com/go/pinnacle:pinnacle?referrer_path=%2Fblackjack%2Fspeed-blackjack)
 
 **Pinnacle**
 *   ボーナス: $0
@@ -100,9 +90,7 @@ CasinoTsu は、プレイヤーの皆様に、よりエキサイティングで�
 
 ---
 
-<a href="https://casinotsu.com/images/casino/william-hill.jpg" target="_blank" rel="noopener noreferrer">
-![William Hill](LINK_NEEDS_REPAIR)
-](https://go.casinotsu.com/go/william-hill-casino:william-hill?referrer_path=%2Fblackjack%2Fspeed-blackjack)
+[![William Hill](https://casinotsu.com/images/casino/william-hill.jpg)](https://go.casinotsu.com/go/william-hill-casino:william-hill?referrer_path=%2Fblackjack%2Fspeed-blackjack)
 
 **William Hill**
 *   ボーナス: 25倍 賭け条件
@@ -114,9 +102,7 @@ CasinoTsu は、プレイヤーの皆様に、よりエキサイティングで�
 
 ---
 
-<a href="https://casinotsu.com/images/casino/mega-dice.jpg" target="_blank" rel="noopener noreferrer">
-![Mega Dice](LINK_NEEDS_REPAIR)
-](https://go.casinotsu.com/go/mega-dice:mega-dice?referrer_path=%2Fblackjack%2Fspeed-blackjack)
+[![Mega Dice](https://casinotsu.com/images/casino/mega-dice.jpg)](https://go.casinotsu.com/go/mega-dice:mega-dice?referrer_path=%2Fblackjack%2Fspeed-blackjack)
 
 **Mega Dice**
 *   ボーナス: 35倍 賭け条件
@@ -128,9 +114,7 @@ CasinoTsu は、プレイヤーの皆様に、よりエキサイティングで�
 
 ---
 
-<a href="https://casinotsu.com/images/casino/betgoat.jpg" target="_blank" rel="noopener noreferrer">
-![Betgoat](LINK_NEEDS_REPAIR)
-](https://go.casinotsu.com/go/betgoat:betgoat?referrer_path=%2Fblackjack%2Fspeed-blackjack)
+[![Betgoat](https://casinotsu.com/images/casino/betgoat.jpg)](https://go.casinotsu.com/go/betgoat:betgoat?referrer_path=%2Fblackjack%2Fspeed-blackjack)
 
 **Betgoat**
 *   ボーナス: $0

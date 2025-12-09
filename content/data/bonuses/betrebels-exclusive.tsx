@@ -34,22 +34,22 @@ export const betrebelsExclusiveBonus: BonusPageContent = {
         columns: ["項目", "通常ボーナス", "🎁CasinoTsu限定ボーナス🎁"],
         rows: [
           ["最大獲得金額", "$200", "**$600**"],
-          ["入金額に対する％", "100%", "**150%**<>],
+          ["入金額に対する％", "100%", "**150%**"],
         ],
       },
-      additionalParagraphs: <a href="https://casinotsu.com/reviews/betrebels" target="_blank" rel="noopener noreferrer">
-        "[CasinoTsuからアクセス](https://www.casinotsu.com/) いただきご登録いただくだけで、獲得できる最大ボーナス額が$600に、入金額に対するパーセンテージも150%へと大幅にアップいたします🤩🔥</>,
+      additionalParagraphs: [
+        "[CasinoTsuからアクセス](https://www.casinotsu.com/) いただきご登録いただくだけで、獲得できる最大ボーナス額が$600に、入金額に対するパーセンテージも150%へと大幅にアップいたします🤩🔥",
       ],
       exampleBox: {
         content: "**💡例えば💡、$400を入金された場合…👀？**<br>**【通常ボーナスの場合】**<br>$400 × 100% = $400<br>獲得可能額 = **$200** (最大獲得可能金額のため)<br>**【CasinoTsu経由でご登録の場合】**<br>$400 × 150% = $600<br>獲得可能額 = **$600** 🎉🎉🎉",
       },
-      finalParagraphs: <a href="https://casinotsu.com/providers/pragmatic-play" target="_blank" rel="noopener noreferrer">
+      finalParagraphs: [
         "このように、$400もお得にゲームプレイをお楽しみいただける計算になります💝",
-        "さらに、この豪華なボーナスに加え、初回入金時には [**Pragmatic Play**](https://www.casinotsu.com/providers/pragmatic-play) 社の人気スロット <strong><a href="https://casinotsu.com/slots/gates-of-olympus-1000" target="_blank" rel="noopener noreferrer">Gates of Olympus 1000</strong> の <a href="https://casinotsu.com/free-spins" target="_blank" rel="noopener noreferrer">フリースピン を40回分も進呈させていただきます😎🌟\n（※ボーナスによっては、Pragmatic Play社の「The Dog House - Muttley Crew」で50回のフリースピンが付与される場合もございます。）</>,
+        "さらに、この豪華なボーナスに加え、初回入金時には [**Pragmatic Play**](https://www.casinotsu.com/providers/pragmatic-play) 社の人気スロット <strong><a href="https://casinotsu.com/slots/gates-of-olympus-1000" target="_blank" rel="noopener noreferrer">Gates of Olympus 1000</strong> の <a href="https://casinotsu.com/free-spins" target="_blank" rel="noopener noreferrer">フリースピン を40回分も進呈させていただきます😎🌟\n（※ボーナスによっては、Pragmatic Play社の「The Dog House - Muttley Crew」で50回のフリースピンが付与される場合もございます。）",
         "出金条件はボーナスもフリースピンも共通で45倍と、やや高めではございますが、お試しプレイや追加プレイの機会として、ぜひご活用ください。当たった際は、幸運を喜んでいただければ幸いです♪",
       ],
       cta: {
-        text: <>⚽️ **業界屈指のスポーツベットセレクション！**\n\n<a href="https://casinotsu.com/reviews/betrebels" target="_blank" rel="noopener noreferrer">ベットレベルズで充実のゲームをプレイ いただけます♪</>,
+        text: "⚽️ **業界屈指のスポーツベットセレクション！**\n\n[ベットレベルズで充実のゲームをプレイ](https://casinotsu.com/reviews/betrebels)いただけます♪",
         href: "https://casinotsu.com/reviews/betrebels"
       },
     },
@@ -140,14 +140,14 @@ export const betrebelsExclusiveBonus: BonusPageContent = {
       type: "casinoInfo",
       heading: "ベットレベルズ（BetRebels）カジノについて",
       description: "ベットレベルズ様は、2011年に設立されたオンラインカジノおよびスポーツブックです。運営はRebels Gaming Ltdが行っており、マルタゲーミング委員会（MGA）およびキュラソー政府からライセンスを取得しております。 CasinoTsu は、信頼できるカジノ情報を提供するため、ライセンス情報などを綿密に確認しております。",
-      details: <a href="https://casinotsu.com/info" target="_blank" rel="noopener noreferrer">
+      details: [
         { key: "運営会社", value: "Rebels Gaming Ltd" },
         { key: "設立年", value: "2011年" },
         { key: "ライセンス", value: "マルタゲーミング委員会 (MGA): MGA/B2C/172/2009\nキュラソーライセンス" },
         { key: "対応言語", value: "英語、イタリア語、ギリシャ語、ドイツ語、スペイン語、フランス語、日本語、中国語、ポルトガル語、フィンランド語など、10言語に対応しております。" },
         { key: "対応通貨", value: "USD, EUR, CAD, INR, NZD, BRL, CLP, KRW, CHFなど、複数の通貨に対応しております。（※記事内では主にUSD表記を使用しております）" },
-        { key: "安全性", value: "MGAライセンスは、[オンラインギャンブル](LINK_NEEDS_REPAIR) 業界において最も厳格なライセンスの一つとされており、プレイヤー保護と公正なゲーム運営が保証されております。SSL暗号化技術により、プレイヤー様の個人情報および取引データは安全に保護されております。</> },
-        { key: "評判", value: <>比較的長い運営実績があり、スポーツベットとカジノゲームの両方で多くのプレイヤー様にご利用いただいております。ただし、<a href="https://casinotsu.com/customer-support" target="_blank" rel="noopener noreferrer">カスタマーサポート の対応速度に改善の余地があるというご意見や、サイトデザインに関するご感想など、ユーザー様からのフィードバックは様々です。RTP（還元率）の公平性やゲームの興奮度につきましては、個々のゲームプロバイダーの評判に依存する部分が大きいです。</> },
+        { key: "安全性", value: "MGAライセンスは、<a href="https://casinotsu.com/" target="_blank" rel="noopener noreferrer">オンラインギャンブル</a> 業界において最も厳格なライセンスの一つとされており、プレイヤー保護と公正なゲーム運営が保証されております。SSL暗号化技術により、プレイヤー様の個人情報および取引データは安全に保護されております。" },
+        { key: "評判", value: <>比較的長い運営実績があり、スポーツベットとカジノゲームの両方で多くのプレイヤー様にご利用いただいております。ただし、<a href="https://casinotsu.com/customer-support" target="_blank" rel="noopener noreferrer">カスタマーサポート の対応速度に改善の余地があるというご意見や、サイトデザインに関するご感想など、ユーザー様からのフィードバックは様々です。RTP（還元率）の公平性やゲームの興奮度につきましては、個々のゲームプロバイダーの評判に依存する部分が大きいです。" },
       ],
     },
     {
@@ -162,10 +162,10 @@ export const betrebelsExclusiveBonus: BonusPageContent = {
         },
         {
           title: "ゲームカテゴリ",
-          list: <a href="https://casinotsu.com/slots/slots-strategies" target="_blank" rel="noopener noreferrer">
-            "**スロット:** ビデオスロット、クラシックスロット、プログレッシブジャックポットスロットなど、膨大な数のスロットゲームをご用意しております。[スロットの攻略法](https://www.casinotsu.com/slots) も参考にしてください。</>,
-            <>**ライブカジノ:** Evolution Gamingなどのトッププロバイダーによる、<a href="https://casinotsu.com/live-casino/live-blackjack" target="_blank" rel="noopener noreferrer">ブラックジャック、<a href="https://casinotsu.com/live-casino/live-roulette" target="_blank" rel="noopener noreferrer">ルーレット、<a href="https://casinotsu.com/live-casino/live-baccarat" target="_blank" rel="noopener noreferrer">バカラ、<a href="https://casinotsu.com/live-casino/live-poker" target="_blank" rel="noopener noreferrer">ポーカー などのライブゲームが充実しております。</>,
-            <>**テーブルゲーム:** 上記以外にも、様々な種類のテーブルゲーム（<a href="https://casinotsu.com/poker" target="_blank" rel="noopener noreferrer">ビデオポーカー、ビンゴ、キノ、スクラッチカードなど）をご用意しております。</>,
+          list: [
+            "**スロット:** ビデオスロット、クラシックスロット、プログレッシブジャックポットスロットなど、膨大な数のスロットゲームをご用意しております。[スロットの攻略法](https://www.casinotsu.com/slots) も参考にしてください。",
+            <>**ライブカジノ:** Evolution Gamingなどのトッププロバイダーによる、<a href="https://casinotsu.com/live-casino/live-blackjack" target="_blank" rel="noopener noreferrer">ブラックジャック、<a href="https://casinotsu.com/live-casino/live-roulette" target="_blank" rel="noopener noreferrer">ルーレット、<a href="https://casinotsu.com/live-casino/live-baccarat" target="_blank" rel="noopener noreferrer">バカラ、<a href="https://casinotsu.com/live-casino/live-poker" target="_blank" rel="noopener noreferrer">ポーカー などのライブゲームが充実しております。",
+            <>**テーブルゲーム:** 上記以外にも、様々な種類のテーブルゲーム（<a href="https://casinotsu.com/poker" target="_blank" rel="noopener noreferrer">ビデオポーカー、ビンゴ、キノ、スクラッチカードなど）をご用意しております。",
           ]
         },
         {
@@ -188,10 +188,10 @@ export const betrebelsExclusiveBonus: BonusPageContent = {
       description: "ベットレベルズ様では、プレイヤー様の利便性を考慮し、多様な入出金方法を提供しております。CasinoTsu は、スムーズな取引をサポートするため、これらの情報を正確にお伝えいたします。",
       deposit: {
         title: "入金方法",
-        methods: <a href="https://casinotsu.com/payment/bitcoin" target="_blank" rel="noopener noreferrer">
+        methods: [
           { type: "電子ウォレット", value: "Neteller, Skrill, EcoPayz, Jeton, Mifinity, Vega Wallet" },
           { type: "クレジットカード", value: "Visa, Mastercard (※一部利用できない場合がございます)" },
-          { type: "仮想通貨", value: "[Bitcoin](https://www.casinotsu.com/crypto), <a href="https://casinotsu.com/payment/ethereum" target="_blank" rel="noopener noreferrer">Ethereum, Litecoin, Ripple, Tether, Dogecoin, Bitcoin Cash</> },
+          { type: "仮想通貨", value: "[Bitcoin](https://www.casinotsu.com/crypto), <a href="https://casinotsu.com/payment/ethereum" target="_blank" rel="noopener noreferrer">Ethereum, Litecoin, Ripple, Tether, Dogecoin, Bitcoin Cash" },
           { type: "その他", value: "Paysafe Card, Neosurf, MuchBetter, Trustly, PIX, iWallet, Google Pay, Apple Pay" },
         ],
         details: [
@@ -201,10 +201,10 @@ export const betrebelsExclusiveBonus: BonusPageContent = {
       },
       withdrawal: {
         title: "出金方法",
-        methods: <a href="https://casinotsu.com/payment/bank-transfer" target="_blank" rel="noopener noreferrer">
+        methods: [
           { type: "電子ウォレット", value: "Neteller, Skrill, EcoPayz, Jeton, Mifinity, Vega Wallet" },
           { type: "仮想通貨", value: "Bitcoin, Ethereum, Litecoin, Ripple, Tether, Dogecoin, Bitcoin Cash" },
-          { type: "銀行送金", value: "[銀行送金](LINK_NEEDS_REPAIR) も可能です。</> },
+          { type: "銀行送金", value: "<a href="https://casinotsu.com/payment/bank-transfer" target="_blank" rel="noopener noreferrer">銀行送金</a> も可能です。" },
         ],
         details: [
           "**最大出金限度額:** $15,000～$20,000 (月間または週間)",
@@ -218,8 +218,8 @@ export const betrebelsExclusiveBonus: BonusPageContent = {
       type: "mobile",
       heading: "いつでもどこでもベットレベルズ！",
       description: "ベットレベルズ様は、スマートフォンやタブレットなどのモバイルデバイスに完全対応しております。特別なアプリのダウンロードは不要で、お使いのデバイスのウェブブラウザから直接アクセスして、PC版と同様の機能をお楽しみいただけます。",
-      features: <a href="https://casinotsu.com/casino-apps" target="_blank" rel="noopener noreferrer">
-        "**モバイルでのゲーム体験:** サイトはレスポンシブデザインを採用しており、画面サイズに合わせて自動的に表示が最適化されます。[カジノアプリ](https://www.casinotsu.com/mobile) のように、スロット、ライブカジノ、テーブルゲームはもちろん、スポーツベットも快適にプレイいただけます。</>,
+      features: [
+        "**モバイルでのゲーム体験:** サイトはレスポンシブデザインを採用しており、画面サイズに合わせて自動的に表示が最適化されます。[カジノアプリ](https://www.casinotsu.com/mobile) のように、スロット、ライブカジノ、テーブルゲームはもちろん、スポーツベットも快適にプレイいただけます。",
         "**アカウント管理:** 入出金、ボーナスの確認、アカウント設定の変更なども、モバイルから簡単に行えます。",
         "**利便性:** 通勤中や外出先など、いつでもどこでもお気に入りのゲームにアクセスできるため、非常に便利です。",
       ],
@@ -247,17 +247,17 @@ export const betrebelsExclusiveBonus: BonusPageContent = {
       description: "ベットレベルズ様の限定初回入金ボーナスは、最大$600という高額なボーナス額と150%という高いマッチ率が魅力です。しかし、賭け条件が45倍とやや高めな点にはご注意ください。 CasinoTsu は、皆様に最適な情報を提供するため、常に市場を分析しております。",
       similarOffers: {
         title: "類似オファーの例:",
-        list: <a href="https://casinotsu.com/bonuses/welcome-bonus" target="_blank" rel="noopener noreferrer">
+        list: [
           "**同系列カジノ:** ベットレベルズ様と同じ運営会社が提供するカジノがあれば、同様のボーナスオファーが提供されている可能性がございます。",
-          "**他カジノの初回入金ボーナス:** 多くのオンラインカジノでは、初回入金時にマッチボーナスやフリースピンを提供しております。[初回入金ボーナス](https://www.casinotsu.com/bonuses) の詳細を比較検討いただくことで、よりご自身に合ったオファーを見つけることができます。例えば、賭け条件が30倍程度と低いボーナスや、フリースピンの回数が多いボーナスなど、様々なタイプがございます。</>,
+          "**他カジノの初回入金ボーナス:** 多くのオンラインカジノでは、初回入金時にマッチボーナスやフリースピンを提供しております。[初回入金ボーナス](https://www.casinotsu.com/bonuses) の詳細を比較検討いただくことで、よりご自身に合ったオファーを見つけることができます。例えば、賭け条件が30倍程度と低いボーナスや、フリースピンの回数が多いボーナスなど、様々なタイプがございます。",
           "**スポーツブックのボーナス:** スポーツベットに特化したボーナスも多く提供されております。ベットLEVELS様にも、スポーツベット用の初回入金ボーナス（100%最大$150、賭け条件5倍）がございます。",
         ],
       },
       competitorComparison: {
         title: "競合他社との比較:",
         description: "ベットレベルズ様の強みは、スポーツベットの豊富さと、カジノゲームの多様性、そして今回 CasinoTsu 限定でご提供するボーナスの豪華さにあります。他のカジノと比較する際は、以下の点を考慮すると良いでしょう。",
-        list: <a href="https://casinotsu.com/bonuses/wagering-calculator" target="_blank" rel="noopener noreferrer">
-          "**ボーナス条件:** [賭け条件](LINK_NEEDS_REPAIR) の低さ、有効期限の長さなど。</>,
+        list: [
+          "**ボーナス条件:** <a href="https://casinotsu.com/guides/wagering-requirements" target="_blank" rel="noopener noreferrer">賭け条件</a> の低さ、有効期限の長さなど。",
           "**ゲームラインナップ:** 提供されているゲームの種類や数、プロバイダー。",
           "**決済方法:** ご利用いただける入出金方法の多様性。",
           "**プロモーション:** 初回入金ボーナス以外の継続的なプロモーションの充実度。",

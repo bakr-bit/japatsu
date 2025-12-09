@@ -105,7 +105,7 @@ export const cryptoBonuses: BonusPageContent = {
       casinoSlug: "bets-io",
       heading: "1位：Bets.io（ベッツアイオー）最大1BTCの豪華ウェルカムボーナス",
       description: [
-        "仮想通貨ボーナスを求めるなら、[**Bets.io**](https://www.casinotsu.com/bonuses/welcome-bonus) は外せません。ジャパカジ限定で、**最大1BTC（または30,000 USDT）の200%初回仮想通貨入金ボーナス**と、**150回のフリースピン**をご提供いたします。最大1BTCは、日本円に換算すると非常に高額（2025年7月時点）となります。さらに、Gamebeat社のスロット『**Max Miner**』で利用できるフリースピン150回分も獲得可能です。入金時にボーナスコード「**JAPACASI**」を忘れずに入力ください。</>,
+        "仮想通貨ボーナスを求めるなら、[**Bets.io**](https://www.casinotsu.com/bonuses/welcome-bonus) は外せません。ジャパカジ限定で、**最大1BTC（または30,000 USDT）の200%初回仮想通貨入金ボーナス**と、**150回のフリースピン**をご提供いたします。最大1BTCは、日本円に換算すると非常に高額（2025年7月時点）となります。さらに、Gamebeat社のスロット『**Max Miner**』で利用できるフリースピン150回分も獲得可能です。入金時にボーナスコード「**JAPACASI**」を忘れずに入力ください。",
       ],
       cta: {
         text: "Bets.ioに登録！",
@@ -118,7 +118,7 @@ export const cryptoBonuses: BonusPageContent = {
       casinoSlug: "winz-io",
       heading: "2位：Winz（ウィンズ）選べる3つのウェルカムオファー",
       description: [
-        "[**Winz.io**](LINK_NEEDS_REPAIR) では、3種類から選べる仮想通貨登録ボーナスが魅力です。まず、ジャパカジ限定の**入金不要ボーナス3,500円（20 USDT）**が登録するだけで獲得できます。さらに、「**CRYPTO**」のボーナスコードを有効化し、仮想通貨で初回から3回目まで入金すると、7日間にわたり仮想通貨での損失額に対して**20%のキャッシュ還元**があります。Winz.ioの最大の特徴は、**ボーナスやプロモーションに賭け条件が一切ない**ことです。運試しのWinzホイールでは**最大10,000ドル**（100 mBTC）の賞金を狙え、ライブカジノ好きには14日間の**10%デイリーキャッシュバック**がおすすめです。スポーツ用ボーナスも用意されており、あらゆるプレイヤーに対応しています。日本円も利用可能なので、仮想通貨と日本円の両方を使いたい方にも適しています。</>,
+        "<a href="https://casinotsu.com/reviews/winz" target="_blank" rel="noopener noreferrer"><strong>Winz.io</strong></a> では、3種類から選べる仮想通貨登録ボーナスが魅力です。まず、ジャパカジ限定の**入金不要ボーナス3,500円（20 USDT）**が登録するだけで獲得できます。さらに、「**CRYPTO**」のボーナスコードを有効化し、仮想通貨で初回から3回目まで入金すると、7日間にわたり仮想通貨での損失額に対して**20%のキャッシュ還元**があります。Winz.ioの最大の特徴は、**ボーナスやプロモーションに賭け条件が一切ない**ことです。運試しのWinzホイールでは**最大10,000ドル**（100 mBTC）の賞金を狙え、ライブカジノ好きには14日間の**10%デイリーキャッシュバック**がおすすめです。スポーツ用ボーナスも用意されており、あらゆるプレイヤーに対応しています。日本円も利用可能なので、仮想通貨と日本円の両方を使いたい方にも適しています。",
       ],
       cta: {
         text: "WinzのボーナスGET",
@@ -131,7 +131,7 @@ export const cryptoBonuses: BonusPageContent = {
       casinoSlug: "mega-dice",
       heading: "3位：Mega Dice（メガダイス）最大1BTCの200%入金ボーナス",
       description: [
-        "[**Mega Dice**](LINK_NEEDS_REPAIR) では、**200%初回入金ボーナス**として、こちらも**最大1BTC**を獲得できます。入金額の2倍がボーナスとして進呈される太っ腹な設定です。さらに、20ユーロ以上の初回入金で、Hacksaw社の人気スロット『**Wanted Dead of a Wild**』の**フリースピン50回**も付いてきます。</>,
+        "<a href="https://casinotsu.com/reviews/mega-dice" target="_blank" rel="noopener noreferrer"><strong>Mega Dice</strong></a> では、**200%初回入金ボーナス**として、こちらも**最大1BTC**を獲得できます。入金額の2倍がボーナスとして進呈される太っ腹な設定です。さらに、20ユーロ以上の初回入金で、Hacksaw社の人気スロット『**Wanted Dead of a Wild**』の**フリースピン50回**も付いてきます。",
       ],
       cta: {
         text: "Mega Diceへ今すぐGO",
@@ -191,27 +191,27 @@ export const cryptoBonuses: BonusPageContent = {
     },
     {
       title: "1. ウェルカムボーナス（初回入金ボーナス）",
-      description: <>ウェルカムボーナスは、登録後に新規会員限定で提供される仮想通貨入金ボーナスです。<a href="https://casinotsu.com/reviews/betswap" target="_blank" rel="noopener noreferrer"><strong>Betswap</strong> のような仮想通貨専門カジノでは、ボーナスも仮想通貨で支払われます。他のカジノボーナスと比較しても、初回入金ボーナスは最も豪華なものが多いため、ぜひこの機会にボーナスを獲得してください。\n\n<a href="https://go.casinotsu.com/go/betswap" target="_blank" rel="noopener noreferrer"><strong>👉 Betswapの公式サイトへ</strong></>,
+      description: "ウェルカムボーナスは、登録後に新規会員限定で提供される仮想通貨入金ボーナスです。<a href="https://casinotsu.com/reviews/betswap" target="_blank" rel="noopener noreferrer"><strong>Betswap</strong> のような仮想通貨専門カジノでは、ボーナスも仮想通貨で支払われます。他のカジノボーナスと比較しても、初回入金ボーナスは最も豪華なものが多いため、ぜひこの機会にボーナスを獲得してください。\n\n<a href="https://go.casinotsu.com/go/betswap" target="_blank" rel="noopener noreferrer"><strong>👉 Betswapの公式サイトへ</strong>",
       casinos: [],
     },
     {
       title: "2. 入金不要ボーナス",
-      description: <>クリプトカジノの入金不要ボーナス（登録ボーナス）は、カジノに登録するだけで獲得できる、新規プレイヤー限定のお得な特典です。<a href="https://casinotsu.com/reviews/trustdice" target="_blank" rel="noopener noreferrer"><strong>Trustdice</strong> のように、無料で仮想通貨フォーセットを提供しているカジノもあります。仮想通貨カジノでも、入金不要ボーナスはボーナスマネーやフリースピンで提供されることが多いですが、将来的にはビットコインや他の仮想通貨で直接受け取れる登録ボーナスが登場する可能性もあります。\n\n<a href="https://go.casinotsu.com/go/trustdice" target="_blank" rel="noopener noreferrer"><strong>👉 Trustdiceへ今すぐGO！</strong>\n\n🤩 **ジャパカジ限定ボーナスもございます！**\n全てのお得な <a href="https://casinotsu.com/offers" target="_blank" rel="noopener noreferrer">オンカジオファー を今すぐチェック！</>,
+      description: "クリプトカジノの入金不要ボーナス（登録ボーナス）は、カジノに登録するだけで獲得できる、新規プレイヤー限定のお得な特典です。<a href="https://casinotsu.com/reviews/trustdice" target="_blank" rel="noopener noreferrer"><strong>Trustdice</strong> のように、無料で仮想通貨フォーセットを提供しているカジノもあります。仮想通貨カジノでも、入金不要ボーナスはボーナスマネーやフリースピンで提供されることが多いですが、将来的にはビットコインや他の仮想通貨で直接受け取れる登録ボーナスが登場する可能性もあります。\n\n<a href="https://go.casinotsu.com/go/trustdice" target="_blank" rel="noopener noreferrer"><strong>👉 Trustdiceへ今すぐGO！</strong>\n\n🤩 **ジャパカジ限定ボーナスもございます！**\n全てのお得な <a href="https://casinotsu.com/offers" target="_blank" rel="noopener noreferrer">オンカジオファー を今すぐチェック！",
       casinos: [],
     },
     {
       title: "3. フリースピンボーナス",
-      description: <>カジノによっては、フリースピンで得た勝利金がビットコインで支払われることもあります。<a href="https://casinotsu.com/reviews/k8" target="_blank" rel="noopener noreferrer"><strong>K8カジノのボーナス</strong> では、初回入金額に応じて最大288回分のフリースピンが付与されるカジノもありますので、登録前にご確認ください。これを機に、ビットコインでのプレイを始めてみませんか？\n\n<a href="https://go.casinotsu.com/go/k8" target="_blank" rel="noopener noreferrer">👉 **K8カジノフリスピをGET！**\n\n**🎰 フリースピンについてさらに詳しく知りたい方はこちら**\n<a href="https://casinotsu.com/free-spins" target="_blank" rel="noopener noreferrer">フリースピン に関する情報と、フリースピンがお得なカジノをご紹介しています。</>,
+      description: "カジノによっては、フリースピンで得た勝利金がビットコインで支払われることもあります。<a href="https://casinotsu.com/reviews/k8" target="_blank" rel="noopener noreferrer"><strong>K8カジノのボーナス</strong> では、初回入金額に応じて最大288回分のフリースピンが付与されるカジノもありますので、登録前にご確認ください。これを機に、ビットコインでのプレイを始めてみませんか？\n\n<a href="https://go.casinotsu.com/go/k8" target="_blank" rel="noopener noreferrer">👉 **K8カジノフリスピをGET！**\n\n**🎰 フリースピンについてさらに詳しく知りたい方はこちら**\n<a href="https://casinotsu.com/free-spins" target="_blank" rel="noopener noreferrer">フリースピン に関する情報と、フリースピンがお得なカジノをご紹介しています。",
       casinos: [],
     },
     {
       title: "4. リロードボーナス",
-      description: <>リロードボーナスは、初回入金ボーナス終了後に利用できるボーナスです。ほとんどの場合、法定通貨などのボーナスマネーとして提供されます。リロードボーナスの開始時間は、カジノの運営国時間に合わせられているため、日本時間では不便な時間に始まることもありますのでご注意ください。\n\n<a href="https://casinotsu.com/reviews/miki" target="_blank" rel="noopener noreferrer"><strong>Mikiカジノ</strong> では、平日（月～金曜日）に仮想通貨で20ドル以上入金すると、還元率20%の入金ボーナスを獲得できます。さらに、毎週土曜日と日曜日に入金すると、還元率が50%にアップします。毎日利用できる非常にお得なボーナスですので、仮想通貨ユーザーの方はぜひご活用ください。\n\n<a href="https://go.casinotsu.com/go/miki" target="_blank" rel="noopener noreferrer"><strong>👉 Mikiカジノはこちらから✅</strong></>,
+      description: "リロードボーナスは、初回入金ボーナス終了後に利用できるボーナスです。ほとんどの場合、法定通貨などのボーナスマネーとして提供されます。リロードボーナスの開始時間は、カジノの運営国時間に合わせられているため、日本時間では不便な時間に始まることもありますのでご注意ください。\n\n<a href="https://casinotsu.com/reviews/miki" target="_blank" rel="noopener noreferrer"><strong>Mikiカジノ</strong> では、平日（月～金曜日）に仮想通貨で20ドル以上入金すると、還元率20%の入金ボーナスを獲得できます。さらに、毎週土曜日と日曜日に入金すると、還元率が50%にアップします。毎日利用できる非常にお得なボーナスですので、仮想通貨ユーザーの方はぜひご活用ください。\n\n<a href="https://go.casinotsu.com/go/miki" target="_blank" rel="noopener noreferrer"><strong>👉 Mikiカジノはこちらから✅</strong>",
       casinos: [],
     },
     {
       title: "5. キャッシュバック",
-      description: <>仮想通貨で受け取れるキャッシュバックも、負けた分の一部が戻ってくる仕組みです。通常は損失額の一定割合、または最大還元額で提示されます。法定通貨で表記されている場合でも、その額に相当する仮想通貨が戻ってくることがあります。ビッツカジノでは、毎月2日と16日に、負けた損失額の5%をキャッシュバックしています。\n\n<a href="https://go.casinotsu.com/go/bitz" target="_blank" rel="noopener noreferrer">👉 **Bitzカジノでお得にプレイ！**\n\n✨ **キャッシュバックに定評のあるカジノシークレットもぜひご確認ください**\n<a href="https://casinotsu.com/reviews/casino-secret" target="_blank" rel="noopener noreferrer">カジノシークレットの最新レビュー では、ジャパカジ限定の入金不要ボーナスもご紹介しています。</>,
+      description: "仮想通貨で受け取れるキャッシュバックも、負けた分の一部が戻ってくる仕組みです。通常は損失額の一定割合、または最大還元額で提示されます。法定通貨で表記されている場合でも、その額に相当する仮想通貨が戻ってくることがあります。ビッツカジノでは、毎月2日と16日に、負けた損失額の5%をキャッシュバックしています。\n\n<a href="https://go.casinotsu.com/go/bitz" target="_blank" rel="noopener noreferrer">👉 **Bitzカジノでお得にプレイ！**\n\n✨ **キャッシュバックに定評のあるカジノシークレットもぜひご確認ください**\n<a href="https://casinotsu.com/reviews/casino-secret" target="_blank" rel="noopener noreferrer">カジノシークレットの最新レビュー では、ジャパカジ限定の入金不要ボーナスもご紹介しています。",
       casinos: [],
     },
   ],
@@ -223,7 +223,7 @@ export const cryptoBonuses: BonusPageContent = {
       heading: "オンラインカジノの仮想通貨ボーナスとは？",
       paragraphs: [
         "オンラインカジノにおける仮想通貨ボーナスとは、ビットコインやイーサリアムなどの**仮想通貨で受け取れるカジノボーナス**のことです。通常のカジノボーナスがドルや円で表示されるのに対し、仮想通貨ボーナスは0.01 BTCや100 USDTといった仮想通貨単位でアカウントに反映されます。仮想通貨専用の限定キャンペーンも存在し、**通常のボーナスよりも豪華**な場合も多いため、仮想通貨を利用するプレイヤーにとって見逃せない特典となります。",
-        "仮想通貨初心者の方は、[仮想通貨ウォレットの使い方も](https://www.casinotsu.com/bonuses) 併せてご確認ください。</>,
+        "仮想通貨初心者の方は、[仮想通貨ウォレットの使い方も](https://www.casinotsu.com/bonuses) 併せてご確認ください。",
       ],
     },
     {
@@ -295,8 +295,8 @@ export const cryptoBonuses: BonusPageContent = {
             "例えば、リップル（XRP）を保有していても、入金方法に対応していなければ利用できません。気になるオンラインカジノの**入金方法**や、**どの仮想通貨が出金に利用できるか**を事前に確認することは非常に重要です。",
             "**【高速・低手数料で人気の決済ネットワーク】**\n*   **TRC20 (USDT)**: テザー（USDT）をTRONネットワークで送金する際に利用され、高速かつ低手数料が特徴です。\n*   **Lightning Network (BTC)**: ビットコインのセカンドレイヤー技術で、非常に高速かつ低コストな送金を実現します。\n*   **Arbitrum**: イーサリアムのスケーリングソリューションで、高速なトランザクションと低コストが魅力です。\n*   **Polygon**: イーサリアムと互換性のあるプラットフォームで、スケーラビリティと低コストを実現しています。\n*   **BSC (Binance Smart Chain)**: バイナンスが提供するブロックチェーンで、高速かつ低手数料での取引が可能です。\n*   **Solana**: 高速なトランザクション処理能力を持つブロックチェーンです。\n*   **XRP (Ripple)**: 国際送金に特化しており、高速かつ低コストで利用できます。\n*   **XLM (Stellar Lumens)**: XRPと同様に、国際送金やクロスボーダー決済を目的としたプラットフォームです。",
             "**【その他の対応仮想通貨】**\n*   **Dogecoin (DOGE)**: 元々はジョークコインとして生まれましたが、現在では多くのカジノで利用されています。\n*   **Ripple (XRP)**: 上記でも触れましたが、出金手段として対応しているカジノも増えています。",
-            "\n![オンラインカジノ仮想通貨ボーナス：入金方法](https://www.casinotsu.com/bonuses)\n</>,
-            <>例えば、<a href="https://casinotsu.com/reviews/casino-x" target="_blank" rel="noopener noreferrer"><strong>Casino-X</strong> の入金ページでは、利用可能な仮想通貨が一覧で表示されており、分かりやすくなっています。海外仮想通貨など、ボーナスや入金できる通貨の種類は様々ですので、各カジノで事前にご確認ください。</>,
+            "\n![オンラインカジノ仮想通貨ボーナス：入金方法](https://www.casinotsu.com/bonuses)\n",
+            <>例えば、<a href="https://casinotsu.com/reviews/casino-x" target="_blank" rel="noopener noreferrer"><strong>Casino-X</strong> の入金ページでは、利用可能な仮想通貨が一覧で表示されており、分かりやすくなっています。海外仮想通貨など、ボーナスや入金できる通貨の種類は様々ですので、各カジノで事前にご確認ください。",
           ],
         },
         {
@@ -314,7 +314,7 @@ export const cryptoBonuses: BonusPageContent = {
         {
           subheading: "ゲーム貢献率について",
           paragraphs: [
-            "ボーナスを利用する際、**ゲームによって賭け条件の消化率が異なる**ことを理解しておくことは非常に重要です。\n*   **スロット**: ほとんどの場合100%貢献します。これは、ボーナス資金を最も効率的に現金化するための一般的な戦略です。\n*   **テーブルゲーム ([ブラックジャック](https://www.casinotsu.com/bonuses)、<a href="https://casinotsu.com/roulette/rules" target="_blank" rel="noopener noreferrer">ルーレットなど)**: 貢献率は低く設定されていることが多く、5%～20%程度の場合があります。\n*   **ライブカジノ**: テーブルゲームと同様に、貢献率が低い傾向があります。</>,
+            "ボーナスを利用する際、**ゲームによって賭け条件の消化率が異なる**ことを理解しておくことは非常に重要です。\n*   **スロット**: ほとんどの場合100%貢献します。これは、ボーナス資金を最も効率的に現金化するための一般的な戦略です。\n*   **テーブルゲーム ([ブラックジャック](https://www.casinotsu.com/bonuses)、<a href="https://casinotsu.com/roulette/rules" target="_blank" rel="noopener noreferrer">ルーレットなど)**: 貢献率は低く設定されていることが多く、5%～20%程度の場合があります。\n*   **ライブカジノ**: テーブルゲームと同様に、貢献率が低い傾向があります。",
             "ボーナスの賭け条件をクリアする際は、このゲーム貢献率を考慮して、どのゲームでプレイするか戦略を練ることが重要です。",
           ],
         },
@@ -335,14 +335,14 @@ export const cryptoBonuses: BonusPageContent = {
           subheading: "5. 賭け条件をチェック",
           paragraphs: [
             "仮想通貨ボーナスの**賭け条件**は、通常20倍〜40倍程度です。**賭け条件が低い**ほど、ボーナスからの勝利金を実際に出金しやすくなります。",
-            "🔥 **ボーナスからの勝利金や賞金に一切賭け条無し！**\n[ウィンズアイオー（winz.io）](https://www.casinotsu.com/bonuses) の評判やボーナスの詳細はこちらでご確認ください。</>,
+            "🔥 **ボーナスからの勝利金や賞金に一切賭け条無し！**\n[ウィンズアイオー（winz.io）](https://www.casinotsu.com/bonuses) の評判やボーナスの詳細はこちらでご確認ください。",
           ],
         },
         {
           subheading: "6. 対象ゲームを確認",
           paragraphs: [
             "仮想通貨ボーナスによっては、遊べるゲームが限定されていることもあります。スロットのみOKだったり、一部のゲームが除外されていたりするので要チェックです。また、**ゲームによってボーナス消化率**が異なります。見逃して後悔することがないよう注意しましょう。",
-            "[**👉 今アツいBets.ioに登録！**](https://www.casinotsu.com/bonuses)</>,
+            "[**👉 今アツいBets.ioに登録！**](https://www.casinotsu.com/bonuses)",
           ],
         },
         {
@@ -376,7 +376,7 @@ export const cryptoBonuses: BonusPageContent = {
       heading: "オンラインカジノでの仮想通貨ボーナスのもらい方と利用方法",
       paragraphs: [
         "仮想通貨ボーナスも、通常のボーナスと同様に受け取り方は簡単です。いくつかのステップを踏むだけで、お得な仮想通貨ボーナスを獲得できます。",
-        "1.  **CasinoTsuおすすめカジノをチェック！**\n    信頼できるオンラインカジノを選ぶことが最初のステップです。CasinoTsuの [仮想通貨オンラインカジノ](https://www.casinotsu.com/bonuses) も参考にしてください。\n2.  **利用規約をしっかり読もう**\n    仮想通貨ボーナスには、賭け条件や有効期限などの利用条件が定められています。後で残念な思いをしないためにも、事前に確認することが大切です。\n3.  **アカウント登録**\n    選んだカジノで新規アカウントを作成しましょう。仮想通貨カジノは、登録プロセスが非常に簡単な場合が多いです。\n4.  **仮想通貨で入金する**\n    入金が必要なボーナスの場合は、ビットコインやイーサリアムなどの仮想通貨で入金してください。\n5.  **ボーナス獲得**\n    条件を満たすと、ボーナスがアカウントに追加されます。\n6.  **仮想通貨ボーナスでゲームを楽しむ**\n    あとは、獲得したボーナスで思う存分遊んでください。カジノによっては、ボーナスマネーを使用する前にリアルマネーを使い切る必要がある場合もあります。</>,
+        "1.  **CasinoTsuおすすめカジノをチェック！**\n    信頼できるオンラインカジノを選ぶことが最初のステップです。CasinoTsuの [仮想通貨オンラインカジノ](https://www.casinotsu.com/bonuses) も参考にしてください。\n2.  **利用規約をしっかり読もう**\n    仮想通貨ボーナスには、賭け条件や有効期限などの利用条件が定められています。後で残念な思いをしないためにも、事前に確認することが大切です。\n3.  **アカウント登録**\n    選んだカジノで新規アカウントを作成しましょう。仮想通貨カジノは、登録プロセスが非常に簡単な場合が多いです。\n4.  **仮想通貨で入金する**\n    入金が必要なボーナスの場合は、ビットコインやイーサリアムなどの仮想通貨で入金してください。\n5.  **ボーナス獲得**\n    条件を満たすと、ボーナスがアカウントに追加されます。\n6.  **仮想通貨ボーナスでゲームを楽しむ**\n    あとは、獲得したボーナスで思う存分遊んでください。カジノによっては、ボーナスマネーを使用する前にリアルマネーを使い切る必要がある場合もあります。",
         "ボーナスは、申請が必要な場合と、登録・入金すると自動的にアカウントに振り込まれる場合があります。申請が必須の場合は、サポートに事前に連絡するようにしましょう。",
       ],
     },
@@ -395,7 +395,7 @@ export const cryptoBonuses: BonusPageContent = {
         {
           subheading: "よくあるトラブルとその解決策",
           paragraphs: [
-            "1.  **仮想通貨の送付先を間違えた** 😨\n    *   **現象**: 仮想通貨の送付先を間違えたり、[仮想通貨ウォレット](LINK_NEEDS_REPAIR) のパスワードや秘密鍵を忘れて取り返しがつかなくなることを**セルフゴックス（GOX）**といいます。\n    *   **解決策**: セルフゴックスは基本的に対処の方法がありませんので、送付前には必ずアドレスを複数回確認し、ウォレット情報は安全に保管してください。\n2.  **価格変動が激しい** 🤔\n    *   **現象**: FXなどと違い、仮想通貨には一日当たりの**値幅に上限がありません**。そのため、大きく得をすることもあれば大損することもあります。\n    *   **解決策**: 仮想通貨初心者の方は、少額からスタートすることをおすすめします。また、価格変動リスクを考慮し、ボーナス額の評価額を常に把握しておくことが重要です。\n3.  **ボーナス規約の誤解**: 賭け条件や禁止ゲーム、最大ベット額などの規約を理解せずにボーナスを利用し、勝利金が没収される。\n    *   **解決策**: ボーナスを受け取る前に、必ず利用規約を熟読し、不明な点はサポートに問い合わせてください。\n4.  **VIPプログラムの特典が不明確**: VIPランクが上がっても、どのような特典があるのか、どのように適用されるのかが分からない。\n    *   **解決策**: VIPプログラムの詳細ページを確認するか、VIPマネージャーに直接問い合わせて特典内容を明確にしてください。\n5.  **モバイルでのアクセス問題**: スマートフォンでカジノサイトやボーナスを利用する際に、表示が崩れたり、操作がしにくかったりする。\n    *   **解決策**: 事前にモバイルサイトの表示や、専用アプリの有無と使い勝手を確認してください。</>,
+            "1.  **仮想通貨の送付先を間違えた** 😨\n    *   **現象**: 仮想通貨の送付先を間違えたり、<a href="https://casinotsu.com/crypto" target="_blank" rel="noopener noreferrer">仮想通貨ウォレット</a> のパスワードや秘密鍵を忘れて取り返しがつかなくなることを**セルフゴックス（GOX）**といいます。\n    *   **解決策**: セルフゴックスは基本的に対処の方法がありませんので、送付前には必ずアドレスを複数回確認し、ウォレット情報は安全に保管してください。\n2.  **価格変動が激しい** 🤔\n    *   **現象**: FXなどと違い、仮想通貨には一日当たりの**値幅に上限がありません**。そのため、大きく得をすることもあれば大損することもあります。\n    *   **解決策**: 仮想通貨初心者の方は、少額からスタートすることをおすすめします。また、価格変動リスクを考慮し、ボーナス額の評価額を常に把握しておくことが重要です。\n3.  **ボーナス規約の誤解**: 賭け条件や禁止ゲーム、最大ベット額などの規約を理解せずにボーナスを利用し、勝利金が没収される。\n    *   **解決策**: ボーナスを受け取る前に、必ず利用規約を熟読し、不明な点はサポートに問い合わせてください。\n4.  **VIPプログラムの特典が不明確**: VIPランクが上がっても、どのような特典があるのか、どのように適用されるのかが分からない。\n    *   **解決策**: VIPプログラムの詳細ページを確認するか、VIPマネージャーに直接問い合わせて特典内容を明確にしてください。\n5.  **モバイルでのアクセス問題**: スマートフォンでカジノサイトやボーナスを利用する際に、表示が崩れたり、操作がしにくかったりする。\n    *   **解決策**: 事前にモバイルサイトの表示や、専用アプリの有無と使い勝手を確認してください。",
           ],
         },
       ],
@@ -403,7 +403,7 @@ export const cryptoBonuses: BonusPageContent = {
     {
       heading: "仮想通貨ボーナスで始めるオンカジライフ♪",
       paragraphs: [
-        "[**仮想通貨のまま遊べるオンラインカジノ**](https://www.casinotsu.com/) は、以前と比較してかなり増えてきました。それに伴い、<a href="https://casinotsu.com/bonuses" target="_blank" rel="noopener noreferrer">カジノボーナス **のバリエーション**も豊富になっています。普段から仮想通貨で遊んでいる方も、これから仮想通貨アカウントを持つ方も、仮想通貨対応カジノを選択肢の一つとして検討してみてはいかがでしょうか。</>,
+        "[**仮想通貨のまま遊べるオンラインカジノ**](https://www.casinotsu.com/) は、以前と比較してかなり増えてきました。それに伴い、<a href="https://casinotsu.com/bonuses" target="_blank" rel="noopener noreferrer">カジノボーナス **のバリエーション**も豊富になっています。普段から仮想通貨で遊んでいる方も、これから仮想通貨アカウントを持つ方も、仮想通貨対応カジノを選択肢の一つとして検討してみてはいかがでしょうか。",
       ],
       subsections: [
         {

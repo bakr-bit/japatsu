@@ -118,9 +118,9 @@ export const mystinoBonusPage: BonusPageContent = {
     },
     {
       heading: "禁止ゲーム",
-      paragraphs: <Link href="/guides/wagering-requirements">
+      paragraphs: [
         "以下のゲームにおきましては、ボーナスをご利用いただいてのベットが禁止されております。",
-        "🔰 **賭け条件についてさらに詳しくお知りになりたい方はこちら:** [オンカジの賭け条件って？ わかりやすく解説！</Link></>,
+        "🔰 **賭け条件についてさらに詳しくお知りになりたい方はこちら:** [オンカジの賭け条件って？ わかりやすく解説！</Link>",
       ],
       table: {
         columns: ["禁止ゲーム"],

@@ -29,7 +29,7 @@ export const japanCasinoIndustryGuide: InfoPageContent = {
       content: `
 ### 1. 最近の法改正と執行措置
 
-日本においては、2023年4月に大阪の [**カジノを含む統合型リゾート（IR）**](LINK_NEEDS_REPAIR) の計画が正式に認定され、カジノへの関心が高まってまいりました。
+日本においては、2023年4月に大阪の <a href="https://casinotsu.com/info/integrated-resort-updates" target="_blank" rel="noopener noreferrer"><strong>カジノを含む統合型リゾート（IR）</strong></a> の計画が正式に認定され、カジノへの関心が高まってまいりました。
 
 現在、日本では公営競技以外の賭博は禁止されていますが、将来的にカジノが設立されるにあたり、関連法規の変更は避けられないでしょう🧐
 

@@ -298,17 +298,17 @@ export const summerHolidayBonuses: BonusPageContent = {
       paragraphs: [
         "夏をテーマにしたゲームは多数ございますが、その中でも特に日本人プレイヤーに人気のオンラインスロットをご紹介いたします。日本の夏を味わうには、これらのスロットが最適かと存じます。夏休みの暇つぶしをお探しの方も、ぜひチェックしてみてください。",
       ],
-      subsections: <a href="https://casinotsu.com/images/hawaiian_dream-winfast.jpg" target="_blank" rel="noopener noreferrer">
+      subsections: [
         {
           subheading: "1. Hawaiian Dream – RTP 97%",
           paragraphs: [
             "
 ![夏のキャンペーン特集｜人気スロット・ハワイアンドリーム](https://www.casinotsu.com/slots)
-</>,
+",
             "夏といえばこのスロット、と言っても過言ではないほど名高い人気機種**Hawaiian Dream（ハワイアンドリーム**） 。日本のパチスロ風スロットとしてリリース直後から話題を集め、誰でも簡単に遊べる3×3の人気スロットです。",
             "今年はその人気から、ジャックポットを搭載したハワイアンドリーム・ジャックポットも新作リリースされ、さらに注目を集めております。夏に皆様が夢中になるゲーム王道スロット間違いなしです。",
             "ハワイアン・ドリームは、**ワンダーカジノ** でお楽しみいただけます。",
-            <><a href="https://casinotsu.com/reviews/wonder-casino" target="_blank" rel="noopener noreferrer"><strong>👉 ワンダーカジノはこちら🚀</strong></>,
+            <><a href="https://casinotsu.com/reviews/wonder-casino" target="_blank" rel="noopener noreferrer"><strong>👉 ワンダーカジノはこちら🚀</strong>",
             "🎆ジャパカジ独占ボーナスを使ってお得にプレイ♪\nワンダーカジノの入金不要ボーナスの詳細はこちらからご確認ください。",
           ],
         },
@@ -317,10 +317,10 @@ export const summerHolidayBonuses: BonusPageContent = {
           paragraphs: [
             "
 ![夏のキャンペーン特集｜人気スロット・ドキドキ夏祭り](https://www.casinotsu.com/slots)
-</>,
+",
             "こちらもパチスロ風スロットで、日本の夏祭りをテーマにした**Microgaming社** の**Doki Doki Fireworks（ドキドキ夏祭り ）** 。浴衣を着た3人の可愛らしいキャラクターが登場し、女性との交流が楽しめるボーナス機能が満載です。かき氷ボーナスで、涼しいお祭り気分を存分に味わえる人気スロットです。",
             "ドキドキ夏祭り は、**ビットカジノ** でプレイ可能です。",
-            <><a href="https://casinotsu.com/reviews/bitcasino-io" target="_blank" rel="noopener noreferrer"><strong>👉 ビットカジノへGO🚀</strong></>,
+            <><a href="https://casinotsu.com/reviews/bitcasino-io" target="_blank" rel="noopener noreferrer"><strong>👉 ビットカジノへGO🚀</strong>",
           ],
         },
         {
@@ -328,10 +328,10 @@ export const summerHolidayBonuses: BonusPageContent = {
           paragraphs: [
             "
 ![夏のキャンペーン特集｜人気スロット・キャンディー・アイランド・プリンセス](https://www.casinotsu.com/slots)
-</>,
+",
             "水着のアイドルコンテストをテーマにした **Candy Island Princess（キャンディー・アイランド・プリンセス）** は、人気のプロバイダー**Play’n Go** 社からリリースされた日本アニメ風スロットです。可愛らしい女性キャラクターたちが夏のイベント感を演出し、日本語ナビゲーター付きのサウンドが特徴です。フリースピンに突入すると、爆発力のあるゲーム展開となります。",
             "キャンディー・アイランド・プリンセスは、 **WSMカジノ** でお楽しみいただけます。",
-            <><a href="https://casinotsu.com/reviews/wsm-casino" target="_blank" rel="noopener noreferrer"><strong>👉WSMカジノで遊ぶ🎮</strong></>,
+            <><a href="https://casinotsu.com/reviews/wsm-casino" target="_blank" rel="noopener noreferrer"><strong>👉WSMカジノで遊ぶ🎮</strong>",
             "👑 時代の最先端？！「ミームコイン」×「オンラインカジノ」 WSMカジノ（WSM Casino） のレビューページはこちらでご確認いただけます。",
           ],
         },
@@ -340,11 +340,11 @@ export const summerHolidayBonuses: BonusPageContent = {
           paragraphs: [
             "
 ![夏のキャンペーン特集｜人気スロット・ナイン・テールズ](https://www.casinotsu.com/slots)
-</>,
+",
             "高配当倍率スロットで有名な**Habanero社** からリリースされた、夏らしい神社をテーマにしたスロット **NineTails（ナイン・テールズ）** 。太鼓や祭りうちわ・提灯などのモチーフ、カラフルな炎や白い狐、そしてサウンドは、日本の幻想的な夏の風物詩やお盆を感じさせてくれるゲームとしてお勧めです。",
             "最高配当倍率は46,865倍。一撃勝利を狙いたい方にお勧めの、一味違ったゲームです。",
             "ナイン・テールズは **ビーシー・ゲーム** でプレイ可能です。",
-            <><a href="https://casinotsu.com/reviews/bc-game" target="_blank" rel="noopener noreferrer"><strong>👉 BCゲームはこちら💫</strong></>,
+            <><a href="https://casinotsu.com/reviews/bc-game" target="_blank" rel="noopener noreferrer"><strong>👉 BCゲームはこちら💫</strong>",
           ],
         },
         {
@@ -352,10 +352,10 @@ export const summerHolidayBonuses: BonusPageContent = {
           paragraphs: [
             "
 ![夏のキャンペーン特集｜人気スロット・ハワイアン・ディーバ](https://www.casinotsu.com/slots)
-</>,
+",
             "**Golden Hero** **（Win Fast）社** からリリースされた夏フェスがテーマの **Hawaiian Diva（ハワイアン・ディーバ）** 。夏といえばフェスという方にぴったりの、音楽がノリノリなスロットです。フリースピンは「 **ミッドナイト・ステージ**」や「 **サンセット・ステージ**」といった名前で、サウンドと共にDJ気分で熱い季節を楽しめます。",
             "ハワイアン・ディーバは、 **エナジーカジノ** でお楽しみいただけます。",
-            <><a href="https://casinotsu.com/reviews/energy-casino" target="_blank" rel="noopener noreferrer"><strong>👉 エナジーカジノで遊ぶ🌟</strong></>,
+            <><a href="https://casinotsu.com/reviews/energy-casino" target="_blank" rel="noopener noreferrer"><strong>👉 エナジーカジノで遊ぶ🌟</strong>",
             "🎁ジャパカジ限定ウェルカムボーナスをもらっちゃおー！\nエナジーカジノの入金不要フリースピンの詳細はこちらからご確認ください。",
           ],
         },
@@ -366,17 +366,17 @@ export const summerHolidayBonuses: BonusPageContent = {
       paragraphs: [
         "毎年、新しいテーマで涼しげな夏のスロットがリリースされています。CasinoTsuが、今年の夏にぜひ遊んでいただきたいお勧めの最新スロットをご紹介いたします。",
       ],
-      subsections: <a href="https://casinotsu.com/images/Waves-of-Poseidon.jpg" target="_blank" rel="noopener noreferrer">
+      subsections: [
         {
           subheading: "1. Waves of Poseidon – RTP 96.55%～94.50%",
           paragraphs: [
             "
 ![夏のキャンペーン特集｜最新スロット・ウェーブス・オブ・ポセイドン](https://www.casinotsu.com/slots)
-</>,
+",
             "**Pragmatic Play** 社のカスケード式スロット **Waves of Poseidon**（ウェーブス・オブ・ポセイドン）は、ギリシャ神話の海の神様「ポセイドン」をテーマに、最高賞金倍率は5000倍です。人気スロットシリーズ、ゲーツ・オブ・オリンパスの海バージョンと言えます。",
             "ゲーツ・オブ・オリンパスとウェーブス・オブ・ポセイドンは、BGMや落下式のスロット形式は似ていますが、ボーナスシンボルで獲得するマルチプライヤーや、フリースピンなどの特別機能や演出が異なります。ゲーツ・オブ・オリンパスファンの方も新鮮な気持ちで楽しめるはずです。",
             "ウェーブス・オブ・ポセイドンは、 **ベットレベルズ** でプレイ可能です。",
-            <><a href="https://casinotsu.com/reviews/betrebels" target="_blank" rel="noopener noreferrer"><strong>👉 ベットレベルズで遊ぶ🐟</strong></>,
+            <><a href="https://casinotsu.com/reviews/betrebels" target="_blank" rel="noopener noreferrer"><strong>👉 ベットレベルズで遊ぶ🐟</strong>",
             "⚽️ 最大600ドル！150%！ぐーんとアップして断然お得！\nベットレベルズの初回入金ボーナスの詳細はこちらからご確認ください。",
           ],
         },
@@ -385,11 +385,11 @@ export const summerHolidayBonuses: BonusPageContent = {
           paragraphs: [
             "
 ![夏のキャンペーン特集｜最新スロット・クラビーズ・ゴールド](https://www.casinotsu.com/slots)
-</>,
+",
             "**Play’n Go** 社からリリースされた、金に目がない海賊クラビーとお宝をテーマにしたスロット **Crabby’s Gold（クラビーズ・ゴールド）** 。ラム酒やお宝といった海賊らしいモチーフと、陽気なBGMがスロットの楽しい雰囲気を盛り上げます。",
             "特別機能も豊富で遊びごたえのあるスロットですので、夏休みにお家でゆっくり遊ぶスロットをお探しの方にお勧めです。",
             "**クラビーズ・ゴールド** は **パリマッチ** でプレイ可能です。",
-            <><a href="https://casinotsu.com/reviews/parimatch" target="_blank" rel="noopener noreferrer"><strong>👉 パリマッチはこちら🦀</strong></>,
+            <><a href="https://casinotsu.com/reviews/parimatch" target="_blank" rel="noopener noreferrer"><strong>👉 パリマッチはこちら🦀</strong>",
             "😎スロット専用無料ボーナス5,250円分について詳しく知りたい方は！\nパリマッチの入金不要ボーナスの詳細ページはこちらからご確認ください。",
           ],
         },
@@ -398,11 +398,11 @@ export const summerHolidayBonuses: BonusPageContent = {
           paragraphs: [
             "
 ![夏のキャンペーン特集｜最新スロット・ムーンプリンセス・スターゲージング](https://www.casinotsu.com/slots)
-</>,
+",
             "**Play’n Go** の大人気シリーズ「ムンプリ」に、待望の新作 **Moon Princess Stargazing（ムーンプリンセス・スターゲージング）** が登場しました。今回は、夏にぴったりな夜空と天体観測をコンセプトとしています。",
             "基本的な遊び方はこれまでのムンプリシリーズと同様ですが、新たに登場した星座シンボルによるマルチプライヤーと特別ボーナスが、ベースゲームで活躍する注目の目玉機能です。この夏は、ドキドキの展開が満載なムンプリ最新作をぜひお楽しみください。",
             "ムーンプリンセス・スターゲージングは、 **ウィンズアイオー** でプレイ可能です。",
-            <><a href="https://casinotsu.com/reviews/winz-io" target="_blank" rel="noopener noreferrer"><strong>👉 Winzで遊んでみる🌠</strong></>,
+            <><a href="https://casinotsu.com/reviews/winz-io" target="_blank" rel="noopener noreferrer"><strong>👉 Winzで遊んでみる🌠</strong>",
             "🎰スロット好きは今すぐチェック！ **無料で人気のゲームをプレイ(ﾉ◕ヮ◕)**\nウインズアイオーの入金不要ボーナスの詳細はこちらからご確認ください。",
           ],
         },
@@ -411,11 +411,11 @@ export const summerHolidayBonuses: BonusPageContent = {
           paragraphs: [
             "
 ![夏のキャンペーン特集｜最新スロット・クラブトロピカーナ - ハッピーアワー](https://www.casinotsu.com/slots)
-</>,
+",
             "**Pragmatic Play** 社の最新オンラインスロット、**Club Tropicana – Happy Hour（クラブトロピカーナ – ハッピーアワー）** は、夏のクラブとカクテルをテーマにしたリゾート系スロットゲームです。配当を獲得すると軽快な音楽に合わせて、サングラスのお兄さんがカクテルを作ってくれる演出が楽しめます。",
             "カクテル片手に海辺で遊んでいるような気分で楽しめるこのゲームですが、超ハイボラティリティで最大5,000倍の配当が狙える爆発力のあるスロットとなっています。",
             "**クラブトロピカーナ – ハッピーアワー** は、 **デュエルビッツ** でプレイ可能です。",
-            <><a href="https://casinotsu.com/reviews/duelbits" target="_blank" rel="noopener noreferrer"><strong>👉 デュエルビッツへGO🍸</strong></>,
+            <><a href="https://casinotsu.com/reviews/duelbits" target="_blank" rel="noopener noreferrer"><strong>👉 デュエルビッツへGO🍸</strong>",
             "✨賭け条件無しの激あつフリスピでお得にプレイ\nデュエルビッツの入金フリースピン最大500回の詳細はこちらからご確認ください。",
           ],
         },
@@ -424,7 +424,7 @@ export const summerHolidayBonuses: BonusPageContent = {
           paragraphs: [
             "
 ![夏のキャンペーン特集｜最新スロット・メジュースァ](https://www.casinotsu.com/slots)
-</>,
+",
             "**Thunderkick** 社からリリースされた、夏のフルーツジュースとギリシャ神話の女神メデューサをテーマにした **MeJUICEa（メジュースァ）** 。スイカやチェリーといった夏のフルーツがスピン毎に降ってきて、配当が発生するとメデューサの目が光ってフルーツが石に変わる、ユニークな演出が特徴です。",
             "一見シンプルなゲームに見えますが、Thunderkick社ならではの工夫が凝らされた特別機能も搭載されており、満足感の高いスロットとなっています。",
             "メジュースァは、 **ミスティーノ** でプレイ可能です。",

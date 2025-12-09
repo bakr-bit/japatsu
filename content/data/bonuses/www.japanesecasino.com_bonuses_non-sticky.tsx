@@ -96,7 +96,7 @@ export const nonStickyBonuses: BonusPageContent = {
         "通常、オンラインカジノでは、まずリアルマネーが消費され、それが尽きてからボーナス資金が使用されるという仕組みになっております。",
         "この分離型ボーナスの最大の魅力は、 **リアルマネーでプレイ中に大きな勝利を得た場合、ボーナス資金を放棄することで、その勝利金を出金できる** 点にあります。これは、プレイヤーにとって大変有利なシステムと言えるでしょう(●ˇ∀ˇ●)",
       ],
-      subsections: <a href="https://casinotsu.com/reviews/energy-casino" target="_blank" rel="noopener noreferrer">
+      subsections: [
         {
           subheading: "オンラインカジノの分離型と一体型ボーナス、どちらが有利か",
           paragraphs: [
@@ -109,7 +109,7 @@ export const nonStickyBonuses: BonusPageContent = {
             "💡 **分離型ボーナスのメリット:**\nリアルマネーで十分な勝利を得られた場合、ボーナスを諦めることで、賭け条件達成のリスクなしに賞金を引き出せます。また、リアルマネーが尽きた場合にボーナスが保険となるため、プレイヤーにとって有利な状況を作りやすいと言えます😊🌟",
             "分離型ボーナスは、プレイヤーにとって非常に有利なシステムと言えますね！ただ、分離型ボーナスでも賭け条件が70倍といった厳しい条件が設定されている場合もあるので、 CasinoTsu では規約の確認を徹底することを推奨いたします💡",
             "多くのオンラインカジノでは、ボーナスの種類について明記されていないこともあります。そのため、 **利用規約を隅々まで確認する** ことが、分離型か一体型かを判断する上で重要になります👀",
-            "例えば、 [**エナジーカジノ**](https://www.casinotsu.com/bonuses) の初回入金ボーナスは一体型ですが、賭け条件が20倍と低めなため、有利にプレイできる場合もあります。ジャパカジ経由での登録で、ボーナスが200%にアップグレードされる特典もありますので、一体型ボーナスでも積極的に活用しましょう🤩</>,
+            "例えば、 [**エナジーカジノ**](https://www.casinotsu.com/bonuses) の初回入金ボーナスは一体型ですが、賭け条件が20倍と低めなため、有利にプレイできる場合もあります。ジャパカジ経由での登録で、ボーナスが200%にアップグレードされる特典もありますので、一体型ボーナスでも積極的に活用しましょう🤩",
           ],
         },
       ],
@@ -118,7 +118,7 @@ export const nonStickyBonuses: BonusPageContent = {
       heading: "オンラインカジノ｜分離型ボーナスの選び方",
       paragraphs: [
         "分離型ボーナスを最大限に活用するために、オンラインカジノでボーナスを選ぶ際の注意点をご紹介します！",
-        "🌟 **カジノでもらえるのはウェルカムボーナスだけじゃない！**\n\nCasinoTsu では、様々な [カジノのボーナス](https://www.casinotsu.com/bonuses/welcome-bonus) について徹底解説いたします♪</>,
+        "🌟 **カジノでもらえるのはウェルカムボーナスだけじゃない！**\n\nCasinoTsu では、様々な [カジノのボーナス](https://www.casinotsu.com/bonuses/welcome-bonus) について徹底解説いたします♪",
       ],
       subsections: [
         {
@@ -131,9 +131,9 @@ export const nonStickyBonuses: BonusPageContent = {
         {
           subheading: "分離型ボーナスの賭け条件（出金条件）に注意！",
           paragraphs: [
-            "一部、ごく稀に [**賭け条件0のボーナス**](https://www.casinotsu.com/bonuses) が存在しますが、ほとんどの場合、分離型ボーナスにも **賭け条件（出金条件）** が設定されています🤔</>,
+            "一部、ごく稀に [**賭け条件0のボーナス**](https://www.casinotsu.com/bonuses) が存在しますが、ほとんどの場合、分離型ボーナスにも **賭け条件（出金条件）** が設定されています🤔",
             "**賭け条件** とは、ボーナス額または（入金額＋ボーナス額）の合計額に対して、何倍のベットをする必要があるかを示す倍率のことです。この数値が低いほど、プレイヤーにとって有利になります。 CasinoTsu では、この倍率を慎重に確認することを推奨いたします。",
-            <>**🔰賭け条件ってなに？って思った方はこちら**\n\n<a href="https://casinotsu.com/guides/wagering-requirements" target="_blank" rel="noopener noreferrer">カジノの賭け条件 がこのページで丸わかり♪ CasinoTsu が解説いたします。</>,
+            <>**🔰賭け条件ってなに？って思った方はこちら**\n\n<a href="https://casinotsu.com/guides/wagering-requirements" target="_blank" rel="noopener noreferrer">カジノの賭け条件 がこのページで丸わかり♪ CasinoTsu が解説いたします。",
           ],
         },
         {
@@ -155,9 +155,9 @@ export const nonStickyBonuses: BonusPageContent = {
           subheading: "分離型ボーナス｜入金方法の指定",
           paragraphs: [
             "カジノによっては、特定の入金方法を利用した場合にのみ、分離型ボーナスが付与されることがあります💡",
-            "例えば、 [**仮想通貨入金限定でもらえるカジノボーナス**](https://www.casinotsu.com/bonuses) などがあります。仮想通貨は、その手数料の安さや決済スピードの速さから、多くのカジノで推奨されており、仮想通貨で入金することで、よりお得なボーナスを受け取れるチャンスがあります(｡･∀･)ﾉﾞ CasinoTsu では、これらの特典も見逃さずにお届けします。</>,
+            "例えば、 [**仮想通貨入金限定でもらえるカジノボーナス**](https://www.casinotsu.com/bonuses) などがあります。仮想通貨は、その手数料の安さや決済スピードの速さから、多くのカジノで推奨されており、仮想通貨で入金することで、よりお得なボーナスを受け取れるチャンスがあります(｡･∀･)ﾉﾞ CasinoTsu では、これらの特典も見逃さずにお届けします。",
             "**【仮想通貨利用時の注意点】**\n仮想通貨で入出金を行う際は、 **TRC20、Lightning Network、Polygon、Arbitrum、Solana** などの高速ネットワークを利用することをおすすめします。これにより、トランザクション（取引）が迅速に処理され、手数料も抑えられます。また、 **XRPやXLM** などの通貨では、 **タグやメモ** の正確な入力が不可欠です。これらが欠けていると、資金の受け取りに問題が生じる可能性があります。 CasinoTsu は、こうした細部まで注意を払うことを推奨いたします。",
-            <>**【おすすめの電子ウォレット】**\n日本人プレイヤーに人気の電子ウォレットとしては、 **Payz（ペイズ）**、 <a href="https://casinotsu.com/payment/vega-wallet" target="_blank" rel="noopener noreferrer"><strong>Vega Wallet（ベガウォレット）</strong>、 <a href="https://casinotsu.com/payment/iwallet" target="_blank" rel="noopener noreferrer"><strong>iWallet（アイウォレット）</strong>、 <a href="https://casinotsu.com/payment/muchbetter" target="_blank" rel="noopener noreferrer"><strong>MuchBetter（マッチベター）</strong>、 <a href="https://casinotsu.com/payment/jeton" target="_blank" rel="noopener noreferrer"><strong>Jeton（ジェットン）</strong> などが挙げられます。これらのサービスを利用することで、スムーズな入出金が可能になります。 CasinoTsu は、これらの便利なツールもご紹介します。</>,
+            <>**【おすすめの電子ウォレット】**\n日本人プレイヤーに人気の電子ウォレットとしては、 **Payz（ペイズ）**、 <a href="https://casinotsu.com/payment/vega-wallet" target="_blank" rel="noopener noreferrer"><strong>Vega Wallet（ベガウォレット）</strong>、 <a href="https://casinotsu.com/payment/iwallet" target="_blank" rel="noopener noreferrer"><strong>iWallet（アイウォレット）</strong>、 <a href="https://casinotsu.com/payment/muchbetter" target="_blank" rel="noopener noreferrer"><strong>MuchBetter（マッチベター）</strong>、 <a href="https://casinotsu.com/payment/jeton" target="_blank" rel="noopener noreferrer"><strong>Jeton（ジェットン）</strong> などが挙げられます。これらのサービスを利用することで、スムーズな入出金が可能になります。 CasinoTsu は、これらの便利なツールもご紹介します。",
             "**【海外取引所の活用】**\n海外に拠点を置く仮想通貨取引所を利用することも、プライバシー保護やより広範なサービス利用の観点から有効な選択肢です。日本の法律や規制の影響を受けにくいため、安心して取引できる場合があります。 CasinoTsu では、情報提供に努めております。",
           ],
         },
@@ -173,7 +173,7 @@ export const nonStickyBonuses: BonusPageContent = {
       heading: "分離型ボーナスの合法性",
       paragraphs: [
         "初めて分離型ボーナスを利用する方でも安心してプレイできるよう、その安全性について解説します😎🌟",
-        "**🕵️‍♂️安全なカジノ選びに必須の「ライセンス」について解説！** [オンラインカジノのライセンス](https://www.casinotsu.com/bonuses) 詳細や調査項目はコチラ。CasinoTsu が詳しく解説します。</>,
+        "**🕵️‍♂️安全なカジノ選びに必須の「ライセンス」について解説！** [オンラインカジノのライセンス](https://www.casinotsu.com/bonuses) 詳細や調査項目はコチラ。CasinoTsu が詳しく解説します。",
       ],
       subsections: [
         {
@@ -210,16 +210,16 @@ export const nonStickyBonuses: BonusPageContent = {
     },
     {
       heading: "分離型ボーナスの種類",
-      paragraphs: ["オンラインカジノで提供される分離型ボーナスには、いくつかの種類があります。 CasinoTsu が、それぞれの特徴を解説します。<>],
-      subsections: <a href="https://casinotsu.com/reviews/parimatch" target="_blank" rel="noopener noreferrer">
+      paragraphs: ["オンラインカジノで提供される分離型ボーナスには、いくつかの種類があります。 CasinoTsu が、それぞれの特徴を解説します。"],
+      subsections: [
         {
           subheading: "初回入金マッチボーナス",
           paragraphs: [
             "分離型ボーナスで最も一般的なのが、この **初回入金マッチボーナス** です(｡･∀･)ﾉﾞ",
             "初回入金時に、入金額の一定割合（例: 100%、200%）に応じてボーナスが付与される仕組みです。初回限定である代わりに、還元率が非常に高いのが特徴です🤩",
-            "CasinoTsu 推薦のカジノでも、 [**パリマッチ**](https://www.casinotsu.com/bonuses) や <a href="https://casinotsu.com/reviews/vistabet" target="_blank" rel="noopener noreferrer"><strong>ビスティ（VISTABET）</strong> などで獲得可能です。</>,
-            <><a href="https://casinotsu.com/go/parimatch" target="_blank" rel="noopener noreferrer"><strong>👉 パリマッチの公式サイトへ！</strong></>,
-            <>🎯 **もっといろいろなウェルカムボーナスをチェックしたい人は…！** <a href="https://casinotsu.com/bonuses/welcome-bonus" target="_blank" rel="noopener noreferrer">カジノの初回入金ボーナス 特集ページを今すぐチェック♪ CasinoTsu が最新情報をお届けします。</>,
+            "CasinoTsu 推薦のカジノでも、 [**パリマッチ**](https://www.casinotsu.com/bonuses) や <a href="https://casinotsu.com/reviews/vistabet" target="_blank" rel="noopener noreferrer"><strong>ビスティ（VISTABET）</strong> などで獲得可能です。",
+            <><a href="https://casinotsu.com/go/parimatch" target="_blank" rel="noopener noreferrer"><strong>👉 パリマッチの公式サイトへ！</strong>",
+            <>🎯 **もっといろいろなウェルカムボーナスをチェックしたい人は…！** <a href="https://casinotsu.com/bonuses/welcome-bonus" target="_blank" rel="noopener noreferrer">カジノの初回入金ボーナス 特集ページを今すぐチェック♪ CasinoTsu が最新情報をお届けします。",
           ],
         },
         {
@@ -227,7 +227,7 @@ export const nonStickyBonuses: BonusPageContent = {
           paragraphs: [
             "初回入金以降の入金に対してもらえるボーナスが **リロードボーナス** です🌟 マッチボーナス形式で分離型ボーナスが提供されるカジノもあります🥳",
             "リロードボーナス自体が比較的珍しいボーナスなので、分離型で提供されている場合は非常にお得と言えるでしょう🍀✨ CasinoTsu では、このようなお得なボーナス情報も見逃しません。",
-            "**😲入金ごとに何回でも利用できるボーナス！？**\n\n[リロードボーナス](https://www.casinotsu.com/bonuses) がもらえるおすすめカジノはこちら！ CasinoTsu が厳選しました。</>,
+            "**😲入金ごとに何回でも利用できるボーナス！？**\n\n[リロードボーナス](https://www.casinotsu.com/bonuses) がもらえるおすすめカジノはこちら！ CasinoTsu が厳選しました。",
           ],
         },
         {
@@ -236,7 +236,7 @@ export const nonStickyBonuses: BonusPageContent = {
             "カジノによっては、 **期間限定のイベント** として分離型ボーナスが提供されることもあります💡",
             "これらは、特定の入金方法（例: 仮想通貨）をプロモーションしたり、特定のスロットゲームのプレイを促進したりする目的で提供されることが多いです🎁",
             "カジノのプロモーションページをこまめにチェックして、こうした限定オファーを見逃さないようにしましょう( ఠ ͟ʖ ఠ) CasinoTsu も、最新のプロモーション情報を随時更新してまいります。",
-            "**😎今日のプレイをプロモでさらにアップグレード！**\n\n[オンラインカジノのプロモーション](https://www.casinotsu.com/bonuses) について CasinoTsu が完全解説★</>,
+            "**😎今日のプレイをプロモでさらにアップグレード！**\n\n[オンラインカジノのプロモーション](https://www.casinotsu.com/bonuses) について CasinoTsu が完全解説★",
           ],
         },
       ],
@@ -245,7 +245,7 @@ export const nonStickyBonuses: BonusPageContent = {
       heading: "分離型ボーナスの獲得方法",
       paragraphs: [
         "分離型ボーナスを獲得するための一般的な手順をステップごとに解説します(●’◡’●)👍 CasinoTsu が、分かりやすくご案内いたします。",
-        "1.  **カジノ選び:** まずは、CasinoTsu の [**カジノレビュー**](https://www.casinotsu.com/bonuses) などを参考に、プレイしたいオンラインカジノや利用したい分離型ボーナスを選びましょう♪\n2.  **規約確認:** 選んだカジノの **利用規約** および **ボーナスの利用規約** を公式サイトでよく確認します💪 （もし、登録前に確認できない場合は、登録後の入金前に必ず CasinoTsu のチェック、ダブルチェック、そして CasinoTsu チェック を行ってくださいね！）\n3.  **登録と認証:** オンラインカジノに登録し、アカウント認証手続きを完了させます。\n4.  **入金:** ボーナス獲得条件を満たすように入金を行います💰\n5.  **ボーナス受取:** 通常、入金完了後に自動的に、またはプロモーションコードの入力によってボーナスが付与されます🎁\n6.  **プレイ開始:** 早速、ボーナスを活用して勝利を目指しましょう🔥\n7.  **出金:** 賭け条件を達成したら、出金申請を行うか、そのままプレイ資金として活用するかはあなた次第ですo((>ω< ))o🌟</>,
+        "1.  **カジノ選び:** まずは、CasinoTsu の [**カジノレビュー**](https://www.casinotsu.com/bonuses) などを参考に、プレイしたいオンラインカジノや利用したい分離型ボーナスを選びましょう♪\n2.  **規約確認:** 選んだカジノの **利用規約** および **ボーナスの利用規約** を公式サイトでよく確認します💪 （もし、登録前に確認できない場合は、登録後の入金前に必ず CasinoTsu のチェック、ダブルチェック、そして CasinoTsu チェック を行ってくださいね！）\n3.  **登録と認証:** オンラインカジノに登録し、アカウント認証手続きを完了させます。\n4.  **入金:** ボーナス獲得条件を満たすように入金を行います💰\n5.  **ボーナス受取:** 通常、入金完了後に自動的に、またはプロモーションコードの入力によってボーナスが付与されます🎁\n6.  **プレイ開始:** 早速、ボーナスを活用して勝利を目指しましょう🔥\n7.  **出金:** 賭け条件を達成したら、出金申請を行うか、そのままプレイ資金として活用するかはあなた次第ですo((>ω< ))o🌟",
       ],
       subsections: [],
     },
@@ -256,7 +256,7 @@ export const nonStickyBonuses: BonusPageContent = {
         "分離型ボーナスは、 **「リアルマネーは本来の資金」「ボーナスはリアルマネーが尽きた際の保険」** と捉えることで、より戦略的にプレイできます。リアルマネーのプレイ中は、賭け条件1倍（入金分だけプレイすれば出金可能）と考えることもできます。",
         "つまり、「リアルマネーは攻めのベット」「ボーナスは守りのベット」という使い分けが可能です♪",
         "**【戦略例】**\n\n1.  **リアルマネーでのプレイ:** ボラティリティが高く、爆発力のあるスロットを選び、積極的にベットします。フリースピンなどの高配当機能が近そうであれば、強気なベットで一気に資金を増やすことを狙います。\n2.  **ボーナスでのプレイ:** リアルマネーが尽きてボーナス資金でのプレイに移行したら、ボラティリティの低いゲームを選び、とにかく資金を維持しながら賭け条件の達成を目指します。これにより、ボーナスを失うリスクを最小限に抑えつつ、出金条件達成の可能性を高めます。",
-        "🤓 **少ない資金で成功を狙うあなたには**\n\nおすすめ人気 [ローボラティリティースロット](https://www.casinotsu.com/free-spins) 発表！ CasinoTsu が選定しました。</>,
+        "🤓 **少ない資金で成功を狙うあなたには**\n\nおすすめ人気 [ローボラティリティースロット](https://www.casinotsu.com/free-spins) 発表！ CasinoTsu が選定しました。",
       ],
       subsections: [
         {
@@ -332,8 +332,8 @@ export const nonStickyBonuses: BonusPageContent = {
         "分離型ボーナスは、プレイヤーにとって非常に有利な条件を提供する、オンラインカジノからの太っ腹なプレゼント🎁🎊 CasinoTsu は、このメリットを最大限に活かすことを推奨いたします。",
         "**プレイヤー側には実質的なリスクはほとんどない** ため、見つけたら積極的に利用すべきボーナスと言えるでしょう。カジノ選びの際の重要な判断基準にもなり得ます👀🌟",
         "「いつも利用しているカジノは分離型？一体型？」と疑問に思ったら、 **サポートに直接問い合わせてみる** のが確実です(●ˇ∀ˇ●)✅ CasinoTsu も、皆様からのご質問に丁寧にお答えいたします。",
-        "🐰 **CasinoTsu 限定のお得な新規登録特典はもうチェックしましたか？**\n\n[ミスティーノの入金不要ボーナス](https://www.casinotsu.com/reviews/mystino) 4500円の詳細をチェック！ CasinoTsu 限定の特典です。</>,
-        <><a href="https://casinotsu.com/go/mystino" target="_blank" rel="noopener noreferrer"><strong>👉 ミスティーノで遊んでみる！</strong></>,
+        "🐰 **CasinoTsu 限定のお得な新規登録特典はもうチェックしましたか？**\n\n[ミスティーノの入金不要ボーナス](https://www.casinotsu.com/reviews/mystino) 4500円の詳細をチェック！ CasinoTsu 限定の特典です。",
+        <><a href="https://casinotsu.com/go/mystino" target="_blank" rel="noopener noreferrer"><strong>👉 ミスティーノで遊んでみる！</strong>",
         "**【その他の注目カジノ】**\n\nCasinoTsu では、プレイヤーの皆様の多様なニーズにお応えするため、様々な特徴を持つカジノをご紹介しています。\n\n*   **Instant Casino（インスタントカジノ）:** 高速な入出金とシンプルなボーナスが魅力。\n*   **CoinCasino（コインカジノ）:** 仮想通貨に特化したカジノで、ユニークなボーナスを提供。\n*   **Samba Slots（サンバ スロット）:** スロットゲームが豊富なカジノ。\n*   **Fast Slots（ファスト スロット）:** 名前通り、スピーディーなプレイ体験を提供。\n*   **Golden Panda（ゴールデン パンダ）:** アジア市場を意識したデザインとプロモーション。\n*   **Lucky Block（ラッキーブロック）:** ブロックチェーン技術を活用した新しいカジノ。\n*   **TG.Casino（TGカジノ）:** Telegramアプリ内でプレイ可能な匿名性の高いカジノ。\n*   **Mega Dice（メガダイス）:** スポーツベットも充実した総合型オンラインカジノ。\n*   **WSM Casino（WSMカジノ）:** 大規模なプロモーションと豊富なゲームライブラリ。\n*   **Discasino（ディスカジノ）:** ユニークなゲーム性とボーナスが特徴。\n*   **Stake（ステーク）:** 大手ブックメーカーとしても知られ、仮想通貨でのプレイが主流。\n*   **Yuugado（ユウガド）:** 日本のパチンコ・パチスロ風ゲームが楽しめるカジノ。\n*   **10bet（テンベット）:** スポーツベットとカジノゲームの両方を提供する老舗。\n*   **Bons（ボンズ）:** 多様なボーナスとプロモーションが魅力。\n*   **Play OJO（プレイオジョ）:** 賭け条件なしのボーナスが特徴。\n*   **BC.GAME（BC.ゲーム）:** 仮想通貨カジノの代表格、豊富なボーナスとゲーム。\n*   **Betplay.io（ベットプレイ.io）:** 仮想通貨に特化し、高速な取引を実現。\n*   **Cryptorino（クリプトリーノ）:** 最新の仮想通貨技術を取り入れたカジノ。\n*   **Wild.io（ワイルド.io）:** 多様な仮想通貨に対応し、ユニークな体験を提供。",
       ],
       subsections: [],

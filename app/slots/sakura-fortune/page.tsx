@@ -1,6 +1,6 @@
 import SlotTemplate, { SlotPageData } from "@/components/templates/SlotTemplate";
 
-{
+const data: SlotPageData = {
   title: "サクラフォーチューン（Sakura Fortune）スロットレビュー｜最新情報をお届け",
   hero: {
     title: "サクラフォーチューン（Sakura Fortune）",

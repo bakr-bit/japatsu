@@ -34,9 +34,9 @@ export const casinoXBonus: BonusPageContent = {
       casinoSlug: "casino-x",
       heading: "カジノエックス（Casino-X）【入金不要ボーナス¥4,500】ジャパカジ限定 🎁",
       description: [
-        "姉妹カジノである [ジョイカジノ](https://www.casinotsu.com/bonuses/no-deposit) と共に、日本市場に再上陸した <strong><a href="https://casinotsu.com/reviews/casino-x" target="_blank" rel="noopener noreferrer">カジノエックス（Casino-X）</strong> 🔥。</>,
-        <>カジノエックスは、2021年に日本市場から一時撤退し、2022年秋に再登場するという、異例の経緯を持つ <a href="https://casinotsu.com/games" target="_blank" rel="noopener noreferrer">カジノサイト です 😎。</>,
-        <>この度、カジノエックスがジャパカジのために、特別な <a href="https://casinotsu.com/bonuses/no-deposit" target="_blank" rel="noopener noreferrer">限定入金不要ボーナス をご用意くださいました。この機会にぜひ、カジノエックスをお試しください。 CasinoTsu 推薦のこのボーナスは、リスクを最小限に抑えつつ、カジノの魅力を発見するための第一歩となるでしょう。</>,
+        "姉妹カジノである [ジョイカジノ](https://www.casinotsu.com/bonuses/no-deposit) と共に、日本市場に再上陸した <strong><a href="https://casinotsu.com/reviews/casino-x" target="_blank" rel="noopener noreferrer">カジノエックス（Casino-X）</strong> 🔥。",
+        <>カジノエックスは、2021年に日本市場から一時撤退し、2022年秋に再登場するという、異例の経緯を持つ <a href="https://casinotsu.com/games" target="_blank" rel="noopener noreferrer">カジノサイト です 😎。",
+        <>この度、カジノエックスがジャパカジのために、特別な <a href="https://casinotsu.com/bonuses/no-deposit" target="_blank" rel="noopener noreferrer">限定入金不要ボーナス をご用意くださいました。この機会にぜひ、カジノエックスをお試しください。 CasinoTsu 推薦のこのボーナスは、リスクを最小限に抑えつつ、カジノの魅力を発見するための第一歩となるでしょう。",
         "**※重要なお知らせ：** 現在、カジノエックス公式サイトでは入金不要ボーナスが提供されていない可能性が高いです。本記事で紹介する¥4,500の入金不要ボーナスは、ジャパカジ限定の過去のオファー、または現在は提供が終了している可能性があります。最新のボーナス情報については、カジノエックス公式サイトやジャパカジの関連ページでご確認ください。 CasinoTsu は、常に最新かつ正確な情報を提供できるよう努めております。",
       ],
       cta: {
@@ -54,26 +54,26 @@ export const casinoXBonus: BonusPageContent = {
     {
       heading: "導入・概要：オファーの概要、カジノの紹介、特典の魅力の要約",
       paragraphs: [
-        "[Gamblingtherapy.org/ja](https://gamblingtherapy.org/ja/) | 【ジャパカジ限定】入金不要ボーナス：4,500円（賭け条件30倍）、初回入金ボーナス：200％最大20万円+フリースピン200回（賭け条件20～30倍） | <a href="https://casinotsu.com/about/privacy-policy" target="_blank" rel="noopener noreferrer">利用規約が適用されます</>,
-        <><a href="https://casinotsu.com/offers" target="_blank" rel="noopener noreferrer">オファーへ <a href="https://casinotsu.com/offers/casino-x-exclusive#%E8%A9%B3%E7%B4%B0" target="_blank" rel="noopener noreferrer">詳細</>,
+        "[Gamblingtherapy.org/ja](https://gamblingtherapy.org/ja/) | 【ジャパカジ限定】入金不要ボーナス：4,500円（賭け条件30倍）、初回入金ボーナス：200％最大20万円+フリースピン200回（賭け条件20～30倍） | <a href="https://casinotsu.com/about/privacy-policy" target="_blank" rel="noopener noreferrer">利用規約が適用されます",
+        <><a href="https://casinotsu.com/offers" target="_blank" rel="noopener noreferrer">オファーへ <a href="https://casinotsu.com/offers/casino-x-exclusive#%E8%A9%B3%E7%B4%B0" target="_blank" rel="noopener noreferrer">詳細",
         <>
 !<a href="https://www.casinotsu.com/images/casino-x_960x495.png" target="_blank" rel="noopener noreferrer">カジノエックス限定オファー：コンテンツ・フィーチャーイメージ
-</>,
-        <>姉妹カジノである <a href="https://casinotsu.com/reviews/joycasino" target="_blank" rel="noopener noreferrer">ジョイカジノ と共に、日本市場に再上陸した <strong><a href="https://casinotsu.com/reviews/casino-x" target="_blank" rel="noopener noreferrer">カジノエックス（Casino-X）</strong> 🔥。</>,
-        <>カジノエックスは、2021年に日本市場から一時撤退し、2022年秋に再登場するという、異例の経緯を持つ <a href="https://casinotsu.com/games" target="_blank" rel="noopener noreferrer">カジノサイト です 😎。</>,
-        <>この度、カジノエックスがジャパカジのために、特別な <a href="https://casinotsu.com/bonuses/no-deposit" target="_blank" rel="noopener noreferrer">限定入金不要ボーナス をご用意くださいました。この機会にぜひ、カジノエックスをお試しください。 CasinoTsu 推薦のこのボーナスは、リスクを最小限に抑えつつ、カジノの魅力を発見するための第一歩となるでしょう。</>,
+",
+        <>姉妹カジノである <a href="https://casinotsu.com/reviews/joycasino" target="_blank" rel="noopener noreferrer">ジョイカジノ と共に、日本市場に再上陸した <strong><a href="https://casinotsu.com/reviews/casino-x" target="_blank" rel="noopener noreferrer">カジノエックス（Casino-X）</strong> 🔥。",
+        <>カジノエックスは、2021年に日本市場から一時撤退し、2022年秋に再登場するという、異例の経緯を持つ <a href="https://casinotsu.com/games" target="_blank" rel="noopener noreferrer">カジノサイト です 😎。",
+        <>この度、カジノエックスがジャパカジのために、特別な <a href="https://casinotsu.com/bonuses/no-deposit" target="_blank" rel="noopener noreferrer">限定入金不要ボーナス をご用意くださいました。この機会にぜひ、カジノエックスをお試しください。 CasinoTsu 推薦のこのボーナスは、リスクを最小限に抑えつつ、カジノの魅力を発見するための第一歩となるでしょう。",
         "**※重要なお知らせ：** 現在、カジノエックス公式サイトでは入金不要ボーナスが提供されていない可能性が高いです。本記事で紹介する¥4,500の入金不要ボーナスは、ジャパカジ限定の過去のオファー、または現在は提供が終了している可能性があります。最新のボーナス情報については、カジノエックス公式サイトやジャパカジの関連ページでご確認ください。 CasinoTsu は、常に最新かつ正確な情報を提供できるよう努めております。",
         "🤩 **ジャパカジ限定ボーナスも盛りだくさん！**",
-        <><a href="https://casinotsu.com/offers" target="_blank" rel="noopener noreferrer">全てのお得なオファーを今すぐチェック！！</>,
+        <><a href="https://casinotsu.com/offers" target="_blank" rel="noopener noreferrer">全てのお得なオファーを今すぐチェック！！",
       ],
     },
     {
       heading: "オファー基本情報：ボーナス額、賭け条件、有効期限、対象ゲーム、最小入金額",
       paragraphs: [
-        "
-![カジノエックス｜トップ](LINK_NEEDS_REPAIR)
-</>,
-        <>新しいカジノに挑戦する際、まずはお試しでプレイしたいと考えるプレイヤーにとって、無料でもらえる <a href="https://casinotsu.com/bonuses/no-deposit" target="_blank" rel="noopener noreferrer"><strong>入金不要ボーナス</strong> は非常に魅力的です。</>,
+        <>
+<img src="https://www.casinotsu.com/images/casino-x-top.jpg" alt="カジノエックス｜トップ" />
+",
+        <>新しいカジノに挑戦する際、まずはお試しでプレイしたいと考えるプレイヤーにとって、無料でもらえる <a href="https://casinotsu.com/bonuses/no-deposit" target="_blank" rel="noopener noreferrer"><strong>入金不要ボーナス</strong> は非常に魅力的です。",
         "カジノエックスでは、ジャパカジのために **入金不要ボーナス ¥4,500** が用意されていました。これは、ジャパカジからカジノエックスに新規登録するだけで獲得できる特典です。このボーナスを利用することで、実際のお金を入金する前に、カジノエックスのゲームラインナップや操作性を試すことができ、ご自身のプレイスタイルに合っているかを確認する絶好の機会となります。 CasinoTsu は、このような慎重なアプローチを推奨いたします。",
         "#### 【注意事項と利用条件】",
         "*   **入金不要ボーナス額：** ¥4,500",
@@ -82,7 +82,7 @@ export const casinoXBonus: BonusPageContent = {
         "*   **有効期間：** 30日間",
         "*   **最大出金可能額：** ¥12,000",
         "*   **最低入金額：** 各入金方法の最低入金額（例：エコペイズ ¥500）※ボーナス受け取り自体には入金不要ですが、出金時には本人確認と最低1回の入金が必要となる場合があります。",
-        <>🔰 **賭け条件ってなに？って思った方はこちら** <a href="https://casinotsu.com/guides/wagering-requirements" target="_blank" rel="noopener noreferrer">出金条件・賭け条件とはなにかを大解剖！</>,
+        <>🔰 **賭け条件ってなに？って思った方はこちら** <a href="https://casinotsu.com/guides/wagering-requirements" target="_blank" rel="noopener noreferrer">出金条件・賭け条件とはなにかを大解剖！",
       ],
     },
     {
@@ -90,19 +90,19 @@ export const casinoXBonus: BonusPageContent = {
       paragraphs: [
         "
 ![カジノエックス｜ウェルカムボーナス獲得方法1](https://www.casinotsu.com/bonuses/welcome-bonus)
-</>,
-        <>カジノエックスの <a href="https://casinotsu.com/bonuses/no-deposit" target="_blank" rel="noopener noreferrer">入金不要ボーナス を獲得する手順は、以下の通りです。 CasinoTsu が確認した手順を、正確にお伝えいたします。</>,
+",
+        <>カジノエックスの <a href="https://casinotsu.com/bonuses/no-deposit" target="_blank" rel="noopener noreferrer">入金不要ボーナス を獲得する手順は、以下の通りです。 CasinoTsu が確認した手順を、正確にお伝えいたします。",
         "1.  **ジャパカジ経由で登録：** まず、このページにあるリンクからカジノエックスの公式サイトへアクセスしてください。",
         "2.  **ボーナスコードの入力：** カジノエックスの登録フォームにある **ボーナスコード欄に「japacasi」と入力** してください。",
         <>    
 !<a href="https://www.casinotsu.com/images/casino-x-how-to-get-excusive-bonus2.png" target="_blank" rel="noopener noreferrer">カジノエックス｜ウェルカムボーナス獲得方法2
-</>,
+",
         "3.  **ボーナスの有効化：** 登録後、カジノエックスにログインし、画面上部にある🎁（プレゼント）アイコンをクリックします。プレゼント一覧の中から、該当する入金不要ボーナスを探し、クリックしてください。",
         <>    
 !<a href="https://www.casinotsu.com/images/casino-x-how-to-get-excusive-bonus3.png" target="_blank" rel="noopener noreferrer">カジノエックス｜ウェルカムボーナス獲得方法3
-</>,
+",
         "4.  **ボーナス有効化の完了：** 開いた画面下部にある「有効にする」ボタンをクリックすると、ボーナスがアカウントに反映されます。",
-        <>これで、ジャパカジ限定の <a href="https://casinotsu.com/bonuses/no-deposit" target="_blank" rel="noopener noreferrer">入金不要ボーナス ¥4,500 をゲットできます💰。</>,
+        <>これで、ジャパカジ限定の <a href="https://casinotsu.com/bonuses/no-deposit" target="_blank" rel="noopener noreferrer">入金不要ボーナス ¥4,500 をゲットできます💰。",
         "「カジノエックスがどんなカジノか分からない…」「自分好みのカジノかどうか気になる」という方は、この登録ボーナスを利用して、実際に入金する前にカジノの雰囲気を掴むことをお勧めします。無料ボーナスでプレイしてみて、気に入ったら入金するという賢い戦略も可能です💖。 CasinoTsu は、プレイヤーの皆様が賢明な判断を下すための情報を提供いたします。",
       ],
     },
@@ -117,7 +117,7 @@ export const casinoXBonus: BonusPageContent = {
         "*   **最大ベット制限：** ボーナスを有効化している間は、1回のベットで賭けられる金額に上限が設けられている場合があります。通常、ボーナス額の20%などが上限となることが多いです。この上限を超えたベットは規約違反とみなされることがあります。",
         "*   **出金前の最低入金：** ボーナスから得た勝利金を出金する際には、本人確認（KYC）の完了に加え、一度だけ最低入金額を入金する必要がある場合があります。これは、プレイヤーのアカウント認証と、利用した決済方法との関連性を確認するためです。",
         "これらの規約は変更される可能性があるため、実際にボーナスを受け取る際には、必ずカジノエックス公式サイトで最新の利用規約をご確認ください。 CasinoTsu は、常に最新の正確な情報を提供するために、定期的なチェックを行っております。チェック、ダブルチェック、そして CasinoTsu チェック。",
-        "🔰 **出金条件・賭け条件についてさらに詳しく知りたい方はこちら** [出金条件・賭け条件とはなにかを大解剖！](https://www.casinotsu.com/bonuses/no-deposit)</>,
+        "🔰 **出金条件・賭け条件についてさらに詳しく知りたい方はこちら** [出金条件・賭け条件とはなにかを大解剖！](https://www.casinotsu.com/bonuses/no-deposit)",
       ],
     },
     {
@@ -137,8 +137,8 @@ export const casinoXBonus: BonusPageContent = {
       paragraphs: [
         "カジノエックスの入金不要ボーナス（¥4,500）は、 **カジノエックス内のほとんど全てのゲーム** で利用可能です。これにより、プレイヤーは多種多様なスロット、テーブルゲーム、ライブカジノなどを自由に試すことができます。 CasinoTsu は、この多様性が、プレイヤーに多くの選択肢を提供する点に注目しています。",
         "*   **スロット:** 人気の機種から最新機種まで、幅広いスロットゲームでボーナスを利用できます。",
-        "*   **テーブルゲーム:** [ブラックジャック](https://www.casinotsu.com/bonuses/no-deposit)、<a href="https://casinotsu.com/roulette" target="_blank" rel="noopener noreferrer">ルーレット、<a href="https://casinotsu.com/baccarat" target="_blank" rel="noopener noreferrer">バカラ などの定番テーブルゲームも対象です。</>,
-        <>*   **ライブカジノ:** 臨場感あふれるライブカジノ（<a href="https://casinotsu.com/live-casino/live-baccarat" target="_blank" rel="noopener noreferrer">ライブバカラ、<a href="https://casinotsu.com/live-casino/live-roulette" target="_blank" rel="noopener noreferrer">ライブルーレット、<a href="https://casinotsu.com/live-casino/live-blackjack" target="_blank" rel="noopener noreferrer">ライブブラックジャック など）でもプレイ可能です。</>,
+        "*   **テーブルゲーム:** [ブラックジャック](https://www.casinotsu.com/bonuses/no-deposit)、<a href="https://casinotsu.com/roulette" target="_blank" rel="noopener noreferrer">ルーレット、<a href="https://casinotsu.com/baccarat" target="_blank" rel="noopener noreferrer">バカラ などの定番テーブルゲームも対象です。",
+        <>*   **ライブカジノ:** 臨場感あふれるライブカジノ（<a href="https://casinotsu.com/live-casino/live-baccarat" target="_blank" rel="noopener noreferrer">ライブバカラ、<a href="https://casinotsu.com/live-casino/live-roulette" target="_blank" rel="noopener noreferrer">ライブルーレット、<a href="https://casinotsu.com/live-casino/live-blackjack" target="_blank" rel="noopener noreferrer">ライブブラックジャック など）でもプレイ可能です。",
         "ただし、前述の利用規約にもあるように、 **一部のゲームではボーナスを利用した賭けが禁止されていたり、賭け条件の消化率が異なったりする** ことがあります。例えば、一般的に以下のようなゲームは消化率が低いか、対象外となることが多いです。",
         "*   ライブカジノゲーム（消化率が低い、または対象外の場合が多い）",
         "*   テーブルゲーム（消化率が低い場合が多い）",
@@ -194,7 +194,7 @@ export const casinoXBonus: BonusPageContent = {
           paragraphs: [
             "*   **カジノの雰囲気を掴む:** まずは、このボーナスを使ってカジノエックスのサイトの使いやすさ、ゲームの種類、サポート体制などを試してみましょう。",
             "*   **色々なゲームを試す:** 対象ゲームが広いので、普段あまりプレイしないスロットや、気になっていたテーブルゲームなどに挑戦する良い機会です。",
-            "*   **戦略を練る:** [賭け条件](https://www.casinotsu.com/bonuses) をクリアするために、どのゲームでどのように賭けていくか、事前に戦略を立ててみましょう。</>,
+            "*   **戦略を練る:** [賭け条件](https://www.casinotsu.com/bonuses) をクリアするために、どのゲームでどのように賭けていくか、事前に戦略を立ててみましょう。",
           ],
         },
         {
@@ -251,7 +251,7 @@ export const casinoXBonus: BonusPageContent = {
     },
   ],
 
-  faq: <a href="https://casinotsu.com/payment/ecoPayz" target="_blank" rel="noopener noreferrer">
+  faq: [
     {
       question: "カジノエックスの入金不要ボーナスは本当に無料でもらえますか？",
       answer: "はい、ジャパカジから登録するだけで、¥4,500の入金不要ボーナスを受け取ることができました。ただし、現在このボーナスが提供されているかは不明確なため、公式サイトで最新情報をご確認ください。 CasinoTsu は、常に最新情報の確認を推奨いたします。",
@@ -278,7 +278,7 @@ export const casinoXBonus: BonusPageContent = {
     },
     {
       question: "カジノエックスでは、どのような入出金方法が利用できますか？",
-      answer: "クレジットカード、電子決済サービス（[エコペイズ](LINK_NEEDS_REPAIR)、<a href="https://casinotsu.com/payment/vega-wallet" target="_blank" rel="noopener noreferrer">Vega Walletなど）、仮想通貨（<a href="https://casinotsu.com/payment/bitcoin" target="_blank" rel="noopener noreferrer">ビットコイン、<a href="https://casinotsu.com/payment/ethereum" target="_blank" rel="noopener noreferrer">イーサリアムなど）など、多様な方法が利用可能です。</>,
+      answer: "クレジットカード、電子決済サービス（<a href="https://casinotsu.com/payment/ecopayz" target="_blank" rel="noopener noreferrer">エコペイズ</a>、<a href="https://casinotsu.com/payment/vega-wallet" target="_blank" rel="noopener noreferrer">Vega Walletなど）、仮想通貨（<a href="https://casinotsu.com/payment/bitcoin" target="_blank" rel="noopener noreferrer">ビットコイン、<a href="https://casinotsu.com/payment/ethereum" target="_blank" rel="noopener noreferrer">イーサリアムなど）など、多様な方法が利用可能です。",
     },
     {
       question: "モバイルデバイスからプレイできますか？",

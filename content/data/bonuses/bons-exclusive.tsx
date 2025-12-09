@@ -20,14 +20,14 @@ export const bonsCasinoBonusContent: BonusPageContent = {
 
   rankings: {
     title: "ボンズカジノ限定入金不要ボーナス",
-    description: <>マインクラフトのような独特な世界観を持つ <a href="https://casinotsu.com/reviews/bons" target="_blank" rel="noopener noreferrer">ボンズカジノ から、 **ジャパカジ限定の超～お得なオファー** が届きましたよ😍🎉 登録するだけでもらえるのは、『 **入金不要ボーナス5,000円**』！ 5,000円も無料で貰えるだけでもかなり豪華ですが、なんと！ 大人気スロットの <strong><a href="https://casinotsu.com/slots/moon-princess" target="_blank" rel="noopener noreferrer">Moon Princess</strong> の **フリースピン20回分** も一緒に貰えちゃうんです😍💖</>,
-    columns: ["ランキング", "オンラインカジノ", "登録ボーナス詳細", "賭け条件<>],
-    rows: <a href="https://casinotsu.com/slots/moon-princess" target="_blank" rel="noopener noreferrer">
+    description: "マインクラフトのような独特な世界観を持つ <a href="https://casinotsu.com/reviews/bons" target="_blank" rel="noopener noreferrer">ボンズカジノ から、 **ジャパカジ限定の超～お得なオファー** が届きましたよ😍🎉 登録するだけでもらえるのは、『 **入金不要ボーナス5,000円**』！ 5,000円も無料で貰えるだけでもかなり豪華ですが、なんと！ 大人気スロットの <strong><a href="https://casinotsu.com/slots/moon-princess" target="_blank" rel="noopener noreferrer">Moon Princess</strong> の **フリースピン20回分** も一緒に貰えちゃうんです😍💖",
+    columns: ["ランキング", "オンラインカジノ", "登録ボーナス詳細", "賭け条件"],
+    rows: [
       {
         rank: "1",
         casino: "ボンズカジノ（Bons Casino）",
         casinoSlug: "bons",
-        bonusDetails: "**入金不要ボーナス5,000円** ＋ **[Moon Princess](https://www.casinotsu.com/slots/moon-princess)** の **フリースピン20回分**。ボーナスコード「 **japacasi**」</>,
+        bonusDetails: "**入金不要ボーナス5,000円** ＋ **[Moon Princess](https://www.casinotsu.com/slots/moon-princess)** の **フリースピン20回分**。ボーナスコード「 **japacasi**」",
         offerLink: "https://casinotsu.com/bonuses/welcome-bonus",
         wagering: "入金不要ボーナス：40倍\nフリースピン勝利金：20倍",
       },
@@ -41,10 +41,10 @@ export const bonsCasinoBonusContent: BonusPageContent = {
       casinoSlug: "bons",
       heading: "無料で5,000円とフリースピン20回分両方貰える！ 超お得ボーナスをお見逃しなく♪",
       description: [
-        "マインクラフトのような独特な世界観を持つ [ボンズカジノ](https://www.casinotsu.com/reviews/bons) から、 **ジャパカジ限定の超～お得なオファー** が届きましたよ😍🎉</>,
+        "マインクラフトのような独特な世界観を持つ [ボンズカジノ](https://www.casinotsu.com/reviews/bons) から、 **ジャパカジ限定の超～お得なオファー** が届きましたよ😍🎉",
         "登録するだけでもらえるのは、『 **入金不要ボーナス5,000円**』！",
         "＼ **だけじゃなーい！** 😲✨／",
-        <>5,000円も無料で貰えるだけでもかなり豪華ですが、なんと！ 大人気スロットの <strong><a href="https://casinotsu.com/slots/moon-princess" target="_blank" rel="noopener noreferrer">Moon Princess</strong> の **フリースピン20回分** も一緒に貰えちゃうんです😍💖</>,
+        <>5,000円も無料で貰えるだけでもかなり豪華ですが、なんと！ 大人気スロットの <strong><a href="https://casinotsu.com/slots/moon-princess" target="_blank" rel="noopener noreferrer">Moon Princess</strong> の **フリースピン20回分** も一緒に貰えちゃうんです😍💖",
         "無料で5,000円と人気スロットのフリースピンまで貰えるなんて、大変太っ腹な企画ですね。これは是非とも獲得していただきたい、CasinoTsu 推薦のオファーです✨",
         "さあ、ボンズカジノへ急ぐ前に、利用規約や獲得方法をしっかりとチェックしていきましょうね★👇",
       ],
@@ -55,14 +55,14 @@ export const bonsCasinoBonusContent: BonusPageContent = {
     },
   ],
 
-  bonusTypeCategories: <a href="https://casinotsu.com/slots/moon-princess" target="_blank" rel="noopener noreferrer">
+  bonusTypeCategories: [
     {
       title: "ボンズカジノの入金不要ボーナス＆フリースピン利用規約",
-      description: "CasinoTsu では、提供された情報を責任を持って皆様にお届けします。チェック、ダブルチェック、そして CasinoTsu チェック済みの情報です。\n\n**規約一覧:**\n* 入金不要ボーナスの出金条件は **40倍** です。これは、ボーナス額の40倍にあたる金額を賭ける必要があることを意味します。\n* 入金不要ボーナスの出金上限額は **12,000円** です。このボーナスから得た勝利金を引き出せる最大金額となります。\n* フリースピンから得た勝利金にかかる出金条件は **20倍** です。\n* フリースピンの対象スロットは **[Moon Princess](https://www.casinotsu.com/slots/moon-princess)** で、スピンバリューは **32円** です。\n* フリースピンを獲得するには、ボーナスコード「 **japacasi**」を登録時に入力する必要があります。\n* ボーナス、フリースピンの受け取りには <strong><a href="https://casinotsu.com/guides/document-verification" target="_blank" rel="noopener noreferrer">本人確認（KYC）</strong> と **電話番号認証** が必須です。\n* ボーナス、フリースピンの有効期限は **30日間** です。\n* ボンズカジノの **一般利用規約** が適用されます。\n\n**カジ子メモ:** ボーナスは、カジノ、ライブカジノ、スポーツベットで利用可能とのことです。ゲームによって賭け条件消化率が異なりますので、プレイ前にボーナス利用規約のページでご確認くださいませ🌸</>,
+      description: "CasinoTsu では、提供された情報を責任を持って皆様にお届けします。チェック、ダブルチェック、そして CasinoTsu チェック済みの情報です。\n\n**規約一覧:**\n* 入金不要ボーナスの出金条件は **40倍** です。これは、ボーナス額の40倍にあたる金額を賭ける必要があることを意味します。\n* 入金不要ボーナスの出金上限額は **12,000円** です。このボーナスから得た勝利金を引き出せる最大金額となります。\n* フリースピンから得た勝利金にかかる出金条件は **20倍** です。\n* フリースピンの対象スロットは **[Moon Princess](https://www.casinotsu.com/slots/moon-princess)** で、スピンバリューは **32円** です。\n* フリースピンを獲得するには、ボーナスコード「 **japacasi**」を登録時に入力する必要があります。\n* ボーナス、フリースピンの受け取りには <strong><a href="https://casinotsu.com/guides/document-verification" target="_blank" rel="noopener noreferrer">本人確認（KYC）</strong> と **電話番号認証** が必須です。\n* ボーナス、フリースピンの有効期限は **30日間** です。\n* ボンズカジノの **一般利用規約** が適用されます。\n\n**カジ子メモ:** ボーナスは、カジノ、ライブカジノ、スポーツベットで利用可能とのことです。ゲームによって賭け条件消化率が異なりますので、プレイ前にボーナス利用規約のページでご確認くださいませ🌸",
       table: {
-        columns: ["項目", "詳細<>],
-        rows: <a href="https://casinotsu.com/slots/moon-princess" target="_blank" rel="noopener noreferrer">
-          ["**対象ゲーム**", "**[Moon Princess](https://www.casinotsu.com/slots/moon-princess)**</>],
+        columns: ["項目", "詳細"],
+        rows: [
+          ["**対象ゲーム**", "**[Moon Princess](https://www.casinotsu.com/slots/moon-princess)**],
           ["**回数**", "**20回**"],
           ["**スピンバリュー**", "**32円**"],
           ["**出金条件**", "**20倍**"],
@@ -107,15 +107,15 @@ export const bonsCasinoBonusContent: BonusPageContent = {
         "ボンズカジノでは、多様な決済方法に対応しています。",
         "**注意**: 銀行送金は、処理に時間がかかったり、問題が発生する可能性があるため、あまり推奨されておりません。CasinoTsu は、安全で迅速な決済を重視しています。",
       ],
-      casinos: <a href="https://casinotsu.com/payment/bitcoin" target="_blank" rel="noopener noreferrer">
-        { casino: "仮想通貨", casinoSlug: "crypto", bonus: "[Bitcoin](https://www.casinotsu.com/crypto)、イーサリアムなど、主要な仮想通貨での入出金が可能です。</> },
-        { casino: "推奨電子ウォレット", casinoSlug: "ewallet", bonus: <><a href="https://casinotsu.com/payment/payz" target="_blank" rel="noopener noreferrer">Payz, <a href="https://casinotsu.com/payment/vega-wallet" target="_blank" rel="noopener noreferrer">Vega Wallet, <a href="https://casinotsu.com/payment/iwallet" target="_blank" rel="noopener noreferrer">iWallet, <a href="https://casinotsu.com/payment/muchbetter" target="_blank" rel="noopener noreferrer">MuchBetter, Jeton, <a href="https://casinotsu.com/payment/tiger-pay" target="_blank" rel="noopener noreferrer">Tiger Pay などの主要な電子ウォレットが利用できます。</> },
+      casinos: [
+        { casino: "仮想通貨", casinoSlug: "crypto", bonus: "[Bitcoin](https://www.casinotsu.com/crypto)、イーサリアムなど、主要な仮想通貨での入出金が可能です。" },
+        { casino: "推奨電子ウォレット", casinoSlug: "ewallet", bonus: <><a href="https://casinotsu.com/payment/payz" target="_blank" rel="noopener noreferrer">Payz, <a href="https://casinotsu.com/payment/vega-wallet" target="_blank" rel="noopener noreferrer">Vega Wallet, <a href="https://casinotsu.com/payment/iwallet" target="_blank" rel="noopener noreferrer">iWallet, <a href="https://casinotsu.com/payment/muchbetter" target="_blank" rel="noopener noreferrer">MuchBetter, Jeton, <a href="https://casinotsu.com/payment/tiger-pay" target="_blank" rel="noopener noreferrer">Tiger Pay などの主要な電子ウォレットが利用できます。" },
       ],
     },
     {
       title: "カジノのポジショニング",
       description: [
-        "ボンズカジノは、その豊富なボーナス種類とユニークなインターフェースにより、日本市場で高い評価を得ています。[Parimatch](https://www.casinotsu.com/reviews/bons), <a href="https://casinotsu.com/reviews/stake" target="_blank" rel="noopener noreferrer">Stake, <a href="https://casinotsu.com/reviews/yuugado" target="_blank" rel="noopener noreferrer">遊雅堂, <a href="https://casinotsu.com/reviews/10bet" target="_blank" rel="noopener noreferrer">10Bet, <a href="https://casinotsu.com/reviews/bc-game" target="_blank" rel="noopener noreferrer">BC.GAME, <a href="https://casinotsu.com/reviews/vera-john" target="_blank" rel="noopener noreferrer">Vera&John, <a href="https://casinotsu.com/reviews/casino-sky" target="_blank" rel="noopener noreferrer">Casino Skyといった人気カジノと並び、トップクラスのオンラインカジノとして位置づけられています。特に、カジノ、ライブカジノ、スポーツベットのすべてにおいて多様なボーナスを提供している点が際立っています。CasinoTsu も、その信頼性と魅力的なオファーを高く評価しています。</>,
+        "ボンズカジノは、その豊富なボーナス種類とユニークなインターフェースにより、日本市場で高い評価を得ています。[Parimatch](https://www.casinotsu.com/reviews/bons), <a href="https://casinotsu.com/reviews/stake" target="_blank" rel="noopener noreferrer">Stake, <a href="https://casinotsu.com/reviews/yuugado" target="_blank" rel="noopener noreferrer">遊雅堂, <a href="https://casinotsu.com/reviews/10bet" target="_blank" rel="noopener noreferrer">10Bet, <a href="https://casinotsu.com/reviews/bc-game" target="_blank" rel="noopener noreferrer">BC.GAME, <a href="https://casinotsu.com/reviews/vera-john" target="_blank" rel="noopener noreferrer">Vera&John, <a href="https://casinotsu.com/reviews/casino-sky" target="_blank" rel="noopener noreferrer">Casino Skyといった人気カジノと並び、トップクラスのオンラインカジノとして位置づけられています。特に、カジノ、ライブカジノ、スポーツベットのすべてにおいて多様なボーナスを提供している点が際立っています。CasinoTsu も、その信頼性と魅力的なオファーを高く評価しています。",
       ],
       casinos: [],
     },
@@ -143,13 +143,13 @@ export const bonsCasinoBonusContent: BonusPageContent = {
         "8.  勝利金ゲット💰✨ & 残っている入金不要ボーナスもしくはフリースピンもGET💝",
         "9.  出金条件をクリアして、もう一度勝利金をゲット💰✨",
         "**ココモメモ:** 入金不要ボーナスとフリースピンは同時に利用できません。どちらかを先に使い終わるか、出金を完了することで次のボーナスが利用可能になります♪アカウント登録時に **ボーナスコードの入力** は必須ですので、必ず正確に入力してくださいね🚨！",
-        "アカウント登録が完了しましたら、プロモーションページの『 **獲得可能なギフト**』で、最初に使用したい入金不要ボーナスまたはフリースピンを選択してください。ボンズカジノのトップページ上部に表示されているプレゼントマーク『🎁』をクリックすると、プロモーションページを表示できますよ～(❁´◡`❁)利用したいボーナスを選択すると、 **[本人確認（KYC）](https://www.casinotsu.com/reviews/bons)** がまだ完了していない場合は、本人確認手続きのページが表示されますので、そちらを完了させてボーナスをGETです♪あとはお好きなゲームを選んで、出金を目指して思いっきり楽しんでくださいo((>ω< ))o💓</>,
+        "アカウント登録が完了しましたら、プロモーションページの『 **獲得可能なギフト**』で、最初に使用したい入金不要ボーナスまたはフリースピンを選択してください。ボンズカジノのトップページ上部に表示されているプレゼントマーク『🎁』をクリックすると、プロモーションページを表示できますよ～(❁´◡`❁)利用したいボーナスを選択すると、 **[本人確認（KYC）](https://www.casinotsu.com/reviews/bons)** がまだ完了していない場合は、本人確認手続きのページが表示されますので、そちらを完了させてボーナスをGETです♪あとはお好きなゲームを選んで、出金を目指して思いっきり楽しんでくださいo((>ω< ))o💓",
       ],
     },
     {
       heading: "攻略法・注意点",
       paragraphs: [
-        "*   **ボーナス消化の戦略**: [賭け条件](https://www.casinotsu.com/bonuses) を効率的にクリアするために、貢献率の高いゲーム（一般的にスロット）を中心にプレイすることをおすすめします。ライブカジノやテーブルゲームは貢献率が低い場合があるため、規約をよく確認しましょう。</>,
+        "*   **ボーナス消化の戦略**: [賭け条件](https://www.casinotsu.com/bonuses) を効率的にクリアするために、貢献率の高いゲーム（一般的にスロット）を中心にプレイすることをおすすめします。ライブカジノやテーブルゲームは貢献率が低い場合があるため、規約をよく確認しましょう。",
         "*   **禁止ゲーム**: ボーナスによっては、特定のゲーム（例：テーブルゲームの一部、ジャックポットスロットなど）でのプレイが禁止されている場合があります。必ず利用規約で禁止ゲームリストを確認してください。",
         "*   **最大ベット制限**: ボーナスプレイ中は、1回のベット額に上限が設けられていることがあります。この制限を超えてベットすると、ボーナス剥奪の対象となる可能性があるため注意が必要です。",
         "*   **フリースピンの有効活用**: フリースピンで得た勝利金もボーナスとして扱われ、賭け条件が適用されます。少額からでも着実に賭け条件をクリアしていくことが重要です。",
@@ -189,7 +189,7 @@ export const bonsCasinoBonusContent: BonusPageContent = {
     },
   ],
 
-  faq: <a href="https://casinotsu.com/payment/bitcoin" target="_blank" rel="noopener noreferrer">
+  faq: [
     {
       question: "入金不要ボーナスはいくらもらえますか？",
       answer: "ジャパカジ経由で登録すると、5,000円の入金不要ボーナスがもらえます。",
@@ -220,7 +220,7 @@ export const bonsCasinoBonusContent: BonusPageContent = {
     },
     {
       question: "仮想通貨での入金は可能ですか？",
-      answer: "はい、[Bitcoin](https://www.casinotsu.com/crypto)やイーサリアムなどの主要な仮想通貨で入金・出金が可能です。</>,
+      answer: "はい、[Bitcoin](https://www.casinotsu.com/crypto)やイーサリアムなどの主要な仮想通貨で入金・出金が可能です。",
     },
     {
       question: "日本からアクセスしても問題ありませんか？",

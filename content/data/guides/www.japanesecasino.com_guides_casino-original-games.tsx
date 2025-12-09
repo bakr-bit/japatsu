@@ -66,7 +66,7 @@ export const whyYouNeverWinPoker: GuidePageContent = {
 リリースされるたびに話題となる **Shock社** の斬新なゲームは、**カジ旅** でプレイすることができます。 CasinoTsu が自信を持っておすすめいたします。
 
 
-![オリジナルゲーム｜YOLTED・スワイプ彼女](LINK_NEEDS_REPAIR)
+<img src="https://casinotsu.com/images/swipe-girlfriend.png" alt="オリジナルゲーム｜YOLTED・スワイプ彼女" />
 
 
 **「スワイピー」シリーズ** は、指一本で直感的にプレイできるのが特徴です。

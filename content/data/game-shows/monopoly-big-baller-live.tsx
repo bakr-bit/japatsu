@@ -4,7 +4,7 @@ import type { GameShowPageContent } from "@/components/templates/GameShowDetailT
 export const monopolyBigBallerLive: GameShowPageContent = {
   hero: {
     title: "Monopoly Big Baller Live（モノポリー・ビッグ・ボーラー・ライブ）：ゲームショーの世界へようこそ！",
-    description: <>ライブカジノ界のトッププロバイダー <a href="https://casinotsu.com/providers/evolution" target="_blank" rel="noopener noreferrer"><strong>Evolution Gaming</strong> から、2022年夏に登場したエキサイティングなゲームショー、それが **モノポリー・ビッグ・ボーラー・ライブ（Monopoly Big Baller Live）** です！ ✨ このゲームは、大人気ボードゲーム「モノポリー」の世界観と、Evolution社のヒットゲーム「メガボール」のビンゴ要素を融合させた、まったく新しい体験を提供します。一言で言えば、「メガボールのモノポリー版」とも言えるでしょう。果たして、どんなゲームなのか、その魅力を紐解いていきましょう！</>,
+    description: "ライブカジノ界のトッププロバイダー <a href="https://casinotsu.com/providers/evolution" target="_blank" rel="noopener noreferrer"><strong>Evolution Gaming</strong> から、2022年夏に登場したエキサイティングなゲームショー、それが **モノポリー・ビッグ・ボーラー・ライブ（Monopoly Big Baller Live）** です！ ✨ このゲームは、大人気ボードゲーム「モノポリー」の世界観と、Evolution社のヒットゲーム「メガボール」のビンゴ要素を融合させた、まったく新しい体験を提供します。一言で言えば、「メガボールのモノポリー版」とも言えるでしょう。果たして、どんなゲームなのか、その魅力を紐解いていきましょう！",
   },
 
   featuredCasinos: [
@@ -58,7 +58,7 @@ export const monopolyBigBallerLive: GameShowPageContent = {
       casino: "ベラジョンカジノ",
       casinoSlug: "vera-john",
       heading: "ベラジョンカジノ",
-      description: ["日本で絶大な人気を誇る CasinoTsu 推薦のカジノでもプレイ可能です！", "📢 **業界人気No.1！ CasinoTsu 推薦ベラジョンカジノをチェック！** [ベラジョンカジノの無料ボーナス情報](https://www.casinotsu.com/reviews/vera-john) など、詳細はこちらのレビューでご確認ください。</>],
+      description: ["日本で絶大な人気を誇る CasinoTsu 推薦のカジノでもプレイ可能です！", "📢 **業界人気No.1！ CasinoTsu 推薦ベラジョンカジノをチェック！** [ベラジョンカジノの無料ボーナス情報](https://www.casinotsu.com/reviews/vera-john) など、詳細はこちらのレビューでご確認ください。],
       betLimits: [],
     },
     {
@@ -195,7 +195,7 @@ export const monopolyBigBallerLive: GameShowPageContent = {
       paragraphs: [
         "**Evolution Gaming** は、ライブカジノソフトウェアの分野で世界をリードするプロバイダーです。2006年の設立以来、革新的なゲームと高品質なライブストリーミングで、オンラインカジノ業界に革命をもたらしました。CasinoTsuは、Evolution Gaming社の提供するゲームの品質と信頼性を常に高く評価しています。",
       ],
-      subsections: <a href="https://casinotsu.com/blackjack" target="_blank" rel="noopener noreferrer">
+      subsections: [
         {
           subheading: "",
           bullets: [
@@ -204,8 +204,8 @@ export const monopolyBigBallerLive: GameShowPageContent = {
             "モノポリーライブ (Monopoly Live)",
             "クレイジータイム (Crazy Time)",
             "ライトニングルーレット (Lightning Roulette)",
-            "[**ブラックジャック**](https://www.casinotsu.com/blackjack)</>,
-            <><a href="https://casinotsu.com/roulette" target="_blank" rel="noopener noreferrer"><strong>ルーレット</strong></>,
+            "[**ブラックジャック**](https://www.casinotsu.com/blackjack)",
+            <><a href="https://casinotsu.com/roulette" target="_blank" rel="noopener noreferrer"><strong>ルーレット</strong>",
             "**リリース日**: モノポリー・ビッグ・ボーラー・ライブは2022年夏にリリースされました。",
           ],
         },
@@ -233,13 +233,13 @@ export const monopolyBigBallerLive: GameShowPageContent = {
       paragraphs: [
         "モノポリー・ビッグ・ボーラー・ライブのペイアウトは、ビンゴラインの完成度や、ボーナスラウンドでのMr.モノポリーの進行によって大きく変動します。CasinoTsuは、正確な情報を提供するために、ペイアウトの詳細を常にチェックしています。",
       ],
-      subsections: <a href="https://casinotsu.com/bonuses/reload" target="_blank" rel="noopener noreferrer">
+      subsections: [
         {
           subheading: "",
           bullets: [
             "**ビンゴカード**: マルチプライヤーが付いた数字やラインが揃うと、配当が大きく跳ね上がります。",
             "**モノポリーボーナス**: ボーナスラウンドでは、サイコロの出目や止まるマス、GOの周回などによって、最大で£500,000（約7,000万円相当）という巨額の賞金を獲得できる可能性があります。",
-            "**注意点**: ゲームには履歴トラッカーや過去の[**マルチプライヤー**](https://www.casinotsu.com/bonuses) データは提供されません。また、ボーナスラウンドのマルチプライヤーは、他のEvolution社のゲームショーと比較して限定的に感じられる場合もあります。</>,
+            "**注意点**: ゲームには履歴トラッカーや過去の[**マルチプライヤー**](https://www.casinotsu.com/bonuses) データは提供されません。また、ボーナスラウンドのマルチプライヤーは、他のEvolution社のゲームショーと比較して限定的に感じられる場合もあります。",
           ],
         },
       ],
@@ -264,14 +264,14 @@ export const monopolyBigBallerLive: GameShowPageContent = {
       paragraphs: [
         "モノポリー・ビッグ・ボーラー・ライブで勝利の可能性を高めるための戦略をご紹介します。CasinoTsuは、プレイヤーの皆様がより戦略的にプレイできるよう、客観的な情報を提供します。ただし、これはあくまで推奨であり、必勝法ではないことをご理解ください。",
       ],
-      subsections: <a href="https://casinotsu.com/info/responsible-gambling" target="_blank" rel="noopener noreferrer">
+      subsections: [
         {
           subheading: "",
           bullets: [
             "**ボーナスカードの活用**: 「3ロls」と「5ロls」の両方のボーナスカードをプレイすることで、より大きな勝利のチャンスを掴むことができます。",
             "**カードの組み合わせ**: プレイヤーによっては、3枚のフリーカードと1枚のチャンスカードという組み合わせが推奨されています。これにより、ライン完成の頻度を高めつつ、マルチプライヤーの恩恵も受けることができます。CasinoTsuは、この組み合わせがリスクとリターンのバランスが良いと考えています。",
             "**ベット配分**: 全てのカード（最大4枚）をプレイすると当選確率が上がりますが、コストも増えます。資金管理を考慮し、リスクを分散させることが重要です。一般的には、メインのビンゴカードへのベットを、ボーナスカードへのベットに対して5:1の比率で配分することが提案されています。",
-            "**資金管理**: 1回のラウンドで、総資金の10%以上のベットをしないように心がけましょう。 CasinoTsuは、[**責任あるギャンブル**](https://www.casinotsu.com/bonuses) を最優先事項としています。</>,
+            "**資金管理**: 1回のラウンドで、総資金の10%以上のベットをしないように心がけましょう。 CasinoTsuは、[**責任あるギャンブル**](https://www.casinotsu.com/bonuses) を最優先事項としています。",
             "**注意点**: オンラインカジノには必ず勝てる戦略は存在しません。責任あるギャンブルを心がけ、失っても問題ない範囲の資金でプレイしてください。",
           ],
         },
@@ -282,14 +282,14 @@ export const monopolyBigBallerLive: GameShowPageContent = {
       paragraphs: [
         "モノポリー・ビッグ・ボーラー・ライブが気に入ったら、Evolution Gaming社の他のゲームショーもおすすめです。CasinoTsuは、これらのゲームも同様に高品質な体験を提供できると判断しています。",
       ],
-      subsections: <a href="https://casinotsu.com/game-shows/monopoly-live" target="_blank" rel="noopener noreferrer">
+      subsections: [
         {
           subheading: "",
           bullets: [
-            "[**モノポリーライブ（Monopoly Live）**](https://www.casinotsu.com/game-shows/monopoly-live): ボードゲーム「モノポリー」と「ドリームキャッチャー」が融合した、こちらも人気のゲームショーです。</>,
-            <><a href="https://casinotsu.com/game-shows/mega-ball" target="_blank" rel="noopener noreferrer"><strong>メガボール（Mega Ball）</strong>: ビンゴスタイルのゲームで、マルチプライヤーが当選確率を大きく左右します。</>,
-            <><a href="https://casinotsu.com/game-shows/dream-catcher" target="_blank" rel="noopener noreferrer"><strong>ドリームキャッチャー（Dream Catcher）</strong>: Evolution Gaming社初のマネーホイール型ゲームショーで、シンプルながらもエキサイティングな体験ができます。</>,
-            <><a href="https://casinotsu.com/game-shows/crazy-time" target="_blank" rel="noopener noreferrer"><strong>クレイジータイム（Crazy Time）</strong>: 複数のボーナスゲームと高倍率マルチプライヤーが特徴の、Evolution Gaming社の中でも特に人気の高いゲームショーです。</>,
+            "[**モノポリーライブ（Monopoly Live）**](https://www.casinotsu.com/game-shows/monopoly-live): ボードゲーム「モノポリー」と「ドリームキャッチャー」が融合した、こちらも人気のゲームショーです。",
+            <><a href="https://casinotsu.com/game-shows/mega-ball" target="_blank" rel="noopener noreferrer"><strong>メガボール（Mega Ball）</strong>: ビンゴスタイルのゲームで、マルチプライヤーが当選確率を大きく左右します。",
+            <><a href="https://casinotsu.com/game-shows/dream-catcher" target="_blank" rel="noopener noreferrer"><strong>ドリームキャッチャー（Dream Catcher）</strong>: Evolution Gaming社初のマネーホイール型ゲームショーで、シンプルながらもエキサイティングな体験ができます。",
+            <><a href="https://casinotsu.com/game-shows/crazy-time" target="_blank" rel="noopener noreferrer"><strong>クレイジータイム（Crazy Time）</strong>: 複数のボーナスゲームと高倍率マルチプライヤーが特徴の、Evolution Gaming社の中でも特に人気の高いゲームショーです。",
           ],
         },
       ],
@@ -303,7 +303,7 @@ export const monopolyBigBallerLive: GameShowPageContent = {
     },
     {
       question: "Q2: モノポリー・ビッグ・ボーラー・ライブは、どのオンラインカジノで遊べますか？",
-      answer: <>A2: Evolution Gaming社のゲームを提供しているオンラインカジノでプレイできる可能性が高いです。例えば、CasinoTsuが推薦する<a href="https://casinotsu.com/reviews/bitcasino-io" target="_blank" rel="noopener noreferrer"><strong>Bitcasino.io（ビットカジノ・アイオー）</strong> や<a href="https://casinotsu.com/reviews/vera-john" target="_blank" rel="noopener noreferrer"><strong>ベラジョンカジノ</strong> などで遊ぶことができます。</>,
+      answer: <>A2: Evolution Gaming社のゲームを提供しているオンラインカジノでプレイできる可能性が高いです。例えば、CasinoTsuが推薦する<a href="https://casinotsu.com/reviews/bitcasino-io" target="_blank" rel="noopener noreferrer"><strong>Bitcasino.io（ビットカジノ・アイオー）</strong> や<a href="https://casinotsu.com/reviews/vera-john" target="_blank" rel="noopener noreferrer"><strong>ベラジョンカジノ</strong> などで遊ぶことができます。",
     },
     {
       question: "Q3: RTP（還元率）はどのくらいですか？",

@@ -674,6 +674,9 @@ const data: SlotPageData = {
       ],
     },
     {
+      heading: "関連ゲーム",
+      relatedGames: [
+        {
           name: "Money Trainシリーズ",
           provider: "Relax Gaming",
           description: "特殊なボーナスラウンド（Money Cart Bonus Round）で高配当を狙う人気シリーズ。",

@@ -1078,12 +1078,15 @@ const data: SlotPageData = {
       ]
     },
     {
+      heading: "関連ゲーム",
+      relatedGames: [
+        {
           name: "Blood Suckers",
           href: "/slots/blood-suckers",
           provider: "NetEnt",
           description: "低ボラティリティで初心者にも人気。ヴァンパイア退治のボーナスゲームが特徴的です。"
         },
-        ],
+      ],
       notes: [
         "BetSoft社からは、他にも多くの人気スロットがリリースされています。例えば、「Ogre Empire」や「SugarPop!」など、ユニークなテーマとゲーム性を持つスロットが多いのが特徴です。"
       ]

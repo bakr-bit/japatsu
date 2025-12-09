@@ -6,7 +6,7 @@ export const shuffleCasinoExclusive: OfferPageContent = {
     title: "【CasinoTsu限定】シャッフルカジノの入金不要ボーナス＆初回入金ボーナス！",
     casino: "シャッフルカジノ",
     casinoSlug: "shuffle-casino",
-    description: <>【CasinoTsu限定】ライブカジノもスポーツも遊べる入金不要ボーナス20ドルと、初回入金ボーナス最大2,000ドルをゲット♪\n\n**こちらのボーナスは現在、有効期限切れとなっております。**\n\n<a href="https://gamblingtherapy.org/ja/" target="_blank" rel="noopener noreferrer">Gamblingtherapy.org/ja \| 利用規約に関する詳細につきましては、シャッフルカジノ公式サイトにてご確認くださいますようお願い申し上げます。 \| <Link href="/about/privacy-policy">利用規約が適用されます</Link></>,
+    description: "【CasinoTsu限定】ライブカジノもスポーツも遊べる入金不要ボーナス20ドルと、初回入金ボーナス最大2,000ドルをゲット♪\n\n**こちらのボーナスは現在、有効期限切れとなっております。**\n\n<a href="https://gamblingtherapy.org/ja/" target="_blank" rel="noopener noreferrer">Gamblingtherapy.org/ja \| 利用規約に関する詳細につきましては、シャッフルカジノ公式サイトにてご確認くださいますようお願い申し上げます。 \| <Link href="/about/privacy-policy">利用規約が適用されます</Link>",
     bannerImageUrl: "https://casinotsu.com/images/shuffle_1440x320-1.png",
     promotionalPeriod: {
       startDate: null,
@@ -35,14 +35,14 @@ export const shuffleCasinoExclusive: OfferPageContent = {
     { text: "シャッフルカジノの基本情報", url: "#casino-info<> },
   ],
 
-  intro: <a href="https://casinotsu.com/images/shuffle_960x495-1.png" target="_blank" rel="noopener noreferrer">
+  intro: [
     "## シャッフルカジノの入金不要ボーナス20ドル！💰",
     "
 ![シャッフル限定入金不要ボーナス：コンテントバナー](https://www.casinotsu.com/bonuses/no-deposit)
-</>,
+",
     "スポーツベットからオリジナルゲームまで、多種多様なゲームをお楽しみいただけるクリプトカジノ『 **シャッフルカジノ（Shuffle）**』🌟",
     "この度、CasinoTsuをご利用の皆様に、特別なキャンペーンをご用意いたしました。 CasinoTsuからシャッフルカジノにご登録いただくと、",
-    <>なんと！ 20ドルの<Link href="/bonuses/no-deposit">入金不要ボーナス</Link>を進呈いたします🥳💝 無料でボーナスを受け取れるこの機会を、ぜひご活用くださいᕦ(ò_óˇ)ᕤ</>,
+    <>なんと！ 20ドルの<Link href="/bonuses/no-deposit">入金不要ボーナス</Link>を進呈いたします🥳💝 無料でボーナスを受け取れるこの機会を、ぜひご活用くださいᕦ(ò_óˇ)ᕤ",
     "ボーナスの受け取りは大変簡単です。 CasinoTsu経由でシャッフルカジノにご登録後、Eメール認証と本人確認（レベル2）を完了していただく必要がございます💪🌸",
     "これらの手続き完了後、約3営業日以内にアカウントへUSDTでボーナスが付与されるとのことです！",
     "この入金不要ボーナスは、 **CasinoTsu経由でご登録いただいた場合にのみ** 進呈されます。ご登録がお済みでない方は、お早めにこちらからお手続きくださいませ😍👆",
@@ -50,9 +50,9 @@ export const shuffleCasinoExclusive: OfferPageContent = {
     "## 初回入金の2倍も貰える限定ウェルカムボーナスもゲット🎁",
     <>
 !<a href="https://casinotsu.com/images/shuffle_960x495.png" target="_blank" rel="noopener noreferrer">Shuffle限定オファー：コンテント・フィーチャーイメージ
-</>,
+",
     "シャッフルカジノのCasinoTsu限定ボーナスは、入金不要ボーナスだけではございませんo((⊙﹏⊙))o.！！",
-    <>入金不要ボーナスをお楽しみいただいた後には、さらにお得な **200％ <Link href="/bonuses/welcome-bonus">初回入金ボーナス</Link> 最大2,000ドル** をご用意しております(/≧▽≦)/</>,
+    <>入金不要ボーナスをお楽しみいただいた後には、さらにお得な **200％ <Link href="/bonuses/welcome-bonus">初回入金ボーナス</Link> 最大2,000ドル** をご用意しております(/≧▽≦)/",
     "200％ **ボーナス** ということは…。",
     "例えば、1,000ドルを入金された場合、最大で2,000ドルを受け取ることができ、 **合計3,000ドルからスタート** できる計算になります。これは、大変魅力的な **超高還元率オファー** です 💕",
     "この機会に、 **最大限の価値を持つ限定ボーナス** を獲得し、気になるゲームをお得にご満喫ください(๑•̀ㅂ•́)و✧",

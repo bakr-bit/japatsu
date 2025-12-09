@@ -101,14 +101,14 @@ export const sweetBonanzaCandyland: GameShowPageContent = {
       heading: "Sweet Bonanza CandyLandのレビュー：CasinoTsuの見解",
       paragraphs: [
         "🆕リリース間もないスロットを楽しもう🆕",
-        "[最新オンカジスロットをチェック★](https://www.casinotsu.com/)</>,
+        "[最新オンカジスロットをチェック★](https://www.casinotsu.com/)",
       ],
     },
     {
       heading: "Sweet Bonanza CandyLandが遊べるオンラインカジノ：CasinoTsu 推薦",
       paragraphs: [
         "Pragmatic Play社 の ゲームショー を提供している オンラインカジノ であれば、 Sweet Bonanza CandyLand はほぼ確実に遊べます。CasinoTsuが自信を持っておすすめするサイトをいくつかご紹介いたします。🍭",
-        "🤩CasinoTsu限定ボーナスも盛りだくさん！ [全てのお得なオファーを今すぐチェック！](https://www.casinotsu.com/bonuses)</>,
+        "🤩CasinoTsu限定ボーナスも盛りだくさん！ [全てのお得なオファーを今すぐチェック！](https://www.casinotsu.com/bonuses)",
       ],
     },
     {
@@ -176,9 +176,9 @@ export const sweetBonanzaCandyland: GameShowPageContent = {
           paragraphs: [
             "ベットリミットは 0.2ドル〜 3,000ドル と、幅広いプレイヤー層に対応しています。CasinoTsuは、この柔軟なベット範囲が多くのプレイヤーに支持される要因の一つだと考えています。",
             "🌶こちらも大人気スロットのライブカジノ版ゲームショー",
-            "[スーパーチリペッパー・エピックスピンズ（Extra Chilli Epic Spins）をチェック](https://www.casinotsu.com/slots)</>,
+            "[スーパーチリペッパー・エピックスピンズ（Extra Chilli Epic Spins）をチェック](https://www.casinotsu.com/slots)",
             "🎰無料で最新スロットや人気スロットをプレイ♡",
-            <><a href="https://casinotsu.com/free-spins" target="_blank" rel="noopener noreferrer">フリースピンがおすすめ！最新の一押しオファーを一緒にチェック♪</>,
+            <><a href="https://casinotsu.com/free-spins" target="_blank" rel="noopener noreferrer">フリースピンがおすすめ！最新の一押しオファーを一緒にチェック♪",
           ],
         },
       ],
@@ -218,7 +218,7 @@ export const sweetBonanzaCandyland: GameShowPageContent = {
           bullets: [
             "**過去の履歴**: ゲームには直近500回のスピン履歴が表示されます。これを参考に次のベットエリアを予測するプレイヤーもいますが、 **各スピンは独立した事象** であることを忘れないでください。CasinoTsuは、過去の履歴が未来の結果を保証するものではないことを強調します。",
             "**高ボラティリティの理解**: このゲームは高ボラティリティのため、一見すると「当たり」が少なく感じられるかもしれません。しかし、一度ボーナスゲームや高マルチプライヤーが出現すれば、大きな賞金を得られる可能性があります。そのため、資金管理を徹底し、長期的な視点でプレイすることが重要です。CasinoTsuは、この点をプレイヤーの皆様に十分ご理解いただきたいと考えております。",
-            "**責任あるギャンブル**: 高額賞金が狙える一方で、損失のリスクも伴います。ご自身の資金状況を把握し、楽しむ範囲でプレイすることを心がけましょう。CasinoTsuは、常に責任あるギャンブルを推奨いたします。[responsible gambling](https://www.casinotsu.com/bonuses)</>,
+            "**責任あるギャンブル**: 高額賞金が狙える一方で、損失のリスクも伴います。ご自身の資金状況を把握し、楽しむ範囲でプレイすることを心がけましょう。CasinoTsuは、常に責任あるギャンブルを推奨いたします。[responsible gambling](https://www.casinotsu.com/bonuses)",
           ]
         }
       ]

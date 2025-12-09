@@ -40,14 +40,14 @@ export const lightningStorm: GameShowPageContent = {
 
   casinoListings: [],
 
-  gameCategories: <a href="https://casinotsu.com/game-shows/lightning-roulette" target="_blank" rel="noopener noreferrer">
+  gameCategories: [
     {
       title: "特別なフィーチャー",
       heading: "ライトニングストームの特別なフィーチャー：5つのボーナスゲームを徹底解剖！",
       description: [
         "ライトニング・ストームの最大の魅力は、その多彩でユニークな5つのボーナスラウンドにあります⚡️ それぞれが独自のゲーム性と高い配当ポテンシャルを秘めています。CasinoTsuは、これらのフィーチャーを詳細に分析します。",
         "⚡ **マルチプライヤー機能がついた最大配当500倍のルーレットはこれ！**",
-        "CasinoTsu 推薦のゲームショー [「Lightning Roulette」のレビュー](https://www.casinotsu.com/bonuses) を見てみましょう！</>,
+        "CasinoTsu 推薦のゲームショー [「Lightning Roulette」のレビュー](https://www.casinotsu.com/bonuses) を見てみましょう！",
       ],
       subsections: [
         {
@@ -87,7 +87,7 @@ export const lightningStorm: GameShowPageContent = {
             "**プレイヤーは、3回の雷撃の後、提示されたマルチプライヤーを受け入れるか、あるいは拒否してさらに高いマルチプライヤーを狙うかの選択ができます。** この選択が、最終的な賞金額を大きく左右します。グローバルマルチプライヤーが適用されている場合、雷撃の威力はさらに増幅されます。プレイヤーは、運命の雷撃に全てを託し、この究極のボーナスに挑みます😭🙀✨ CasinoTsuは、この最終的な決断の重要性を強調します。",
             "ボナ坊: 【ハイクオリティな演出＆シンプルなボーナスゲーム✨】\n\n5つものボーナスゲームがありますが、どのゲームもルールが直感的に理解しやすいように工夫されています💪\n\nまた、演出のクオリティも非常に高く、見ているだけでも楽しめます🌟 モンスター・マッシュでは、最後に完成したフランケンシュタインが登場する演出もあり、ユニークな体験ができますよ🧟",
             "⚡ **最高262,144倍の勝利を手に出来るバカラはこれだ！**",
-            "CasinoTsu 推薦のゲームショー [「Lightning Baccarat」のレビュー](https://www.casinotsu.com/bonuses) を見てみましょう！</>,
+            "CasinoTsu 推薦のゲームショー [「Lightning Baccarat」のレビュー](https://www.casinotsu.com/bonuses) を見てみましょう！",
           ],
         },
       ],
@@ -106,7 +106,7 @@ export const lightningStorm: GameShowPageContent = {
         "**ゲームフィーチャー**: ・Hot Spot<br>・Monster Mash<br>・Battery Charger<br>・Fireball<br>・Lightning Storm",
         "**最大勝利金倍率**: 20,000倍",
         "**ボラティリティ**: 高",
-        "ボナ坊: 【エキサイティングなホイールゲーム🔥】\n\nベースゲームは、ドリームキャッチャーやクレイジータイムと同じ『ホイールゲーム』ですが、DigiWheel Technologyによるダイナミックな演出が特徴です。最大賞金倍率は20,000倍と爆発力満点＆ハイボラティリティで、一攫千金を狙うギャンブラーにおすすめのゲームショーとなっています。じょー♪\n\nライトニング・ストームは、ライブカジノNo.1を謳う [エルドアカジノ](https://www.casinotsu.com/reviews/eldoah) で遊べますよ(｡･∀･)ﾉﾞ🌟 CasinoTsu 推薦のカジノです。</>,
+        "ボナ坊: 【エキサイティングなホイールゲーム🔥】\n\nベースゲームは、ドリームキャッチャーやクレイジータイムと同じ『ホイールゲーム』ですが、DigiWheel Technologyによるダイナミックな演出が特徴です。最大賞金倍率は20,000倍と爆発力満点＆ハイボラティリティで、一攫千金を狙うギャンブラーにおすすめのゲームショーとなっています。じょー♪\n\nライトニング・ストームは、ライブカジノNo.1を謳う [エルドアカジノ](https://www.casinotsu.com/reviews/eldoah) で遊べますよ(｡･∀･)ﾉﾞ🌟 CasinoTsu 推薦のカジノです。",
       ],
     },
     {
@@ -158,7 +158,7 @@ export const lightningStorm: GameShowPageContent = {
         "**ベット（ボーナスゲーム）**: ライトニング・ストーム, **配当**: 最大20,000倍",
         "リーフベットは固定の配当（ベット額の2倍）ですが、ボーナスゲームの配当は、それぞれのボーナスラウンドの結果と適用されるマルチプライヤーによって大きく変動します✨ CasinoTsuは、これらの変動要因を注意深く追跡します。",
         "⚡ **マルチプライヤー機能がついた異色のブラックジャック！**",
-        "CasinoTsu 推薦のゲームショー [「Lightning Blackjack」のレビュー](https://www.casinotsu.com/bonuses) を見てみましょう！</>,
+        "CasinoTsu 推薦のゲームショー [「Lightning Blackjack」のレビュー](https://www.casinotsu.com/bonuses) を見てみましょう！",
       ],
       subsections: [
         {
@@ -236,9 +236,9 @@ export const lightningStorm: GameShowPageContent = {
           paragraphs: [
             "ボーナスゲームへの参加確率を高めたい場合、「**オール奇数**」や「**オール偶数**」といったベット方法が有効な場合があります。これらは、特定の範囲の数字をカバーするため、ボーナスセグメントに到達する確率を間接的に高める可能性があります。CasinoTsuは、これらのベットの可能性を検証します。",
             "スロ太郎: 僕のお気に入りは、ストームチェイザーとXチェイザーのダブルベット✨\n\nマルチプライヤーとライトニングストーム、両方狙えるのがいいね💪",
-            "また、お気に入りのベット方法を見つけたら、多くのカジノサイトで利用できる [リピート機能](https://www.casinotsu.com/bonuses) を活用すると、効率的にベットを続けることができます。CasinoTsuは、この機能の便利さを推奨します。</>,
+            "また、お気に入りのベット方法を見つけたら、多くのカジノサイトで利用できる [リピート機能](https://www.casinotsu.com/bonuses) を活用すると、効率的にベットを続けることができます。CasinoTsuは、この機能の便利さを推奨します。",
             "🎲 **3つのサイコロの合計値を当てるだけ！シックボーより簡単で初心者もOK**",
-            <>CasinoTsu 推薦のゲームショー <a href="https://casinotsu.com/game-shows/lightning-dice" target="_blank" rel="noopener noreferrer">「Lightning Dice」のレビュー を見てみましょう！</>,
+            <>CasinoTsu 推薦のゲームショー <a href="https://casinotsu.com/game-shows/lightning-dice" target="_blank" rel="noopener noreferrer">「Lightning Dice」のレビュー を見てみましょう！",
           ],
         },
       ],
@@ -272,15 +272,15 @@ export const lightningStorm: GameShowPageContent = {
       paragraphs: [
         "ライブゲームプレイ中に予期せぬ技術的な問題が発生した場合、**プロバイダー側で適切に処理** されます😮 CasinoTsuは、プレイヤーの皆様が安心してプレイできるよう、この点を確認しています。",
         "通常、問題が発生したラウンドは無効と判断されたり、状況に応じて賭け金が返金されたりします。もし問題が発生した場合は、落ち着いて **プレイしているカジノのカスタマーサポートに連絡** してください。迅速な対応により、問題の解決が図られます🙂",
-        "**💰新規登録時の強い味方といえば！これでカジノを選ぶのもあり？！** [初回入金ボーナス](https://www.casinotsu.com/bonuses) の最新ランキングや、出金までの流れを見てみましょう！</>,
+        "**💰新規登録時の強い味方といえば！これでカジノを選ぶのもあり？！** [初回入金ボーナス](https://www.casinotsu.com/bonuses) の最新ランキングや、出金までの流れを見てみましょう！",
       ],
     },
     {
       heading: "ライトニングストームが好きなプレイヤーにおすすめのゲーム",
-      paragraphs: ["Evolution社のホイールゲームがお好きなら、CasinoTsuは以下のタイトルもおすすめです。<>],
+      paragraphs: ["Evolution社のホイールゲームがお好きなら、CasinoTsuは以下のタイトルもおすすめです。"],
       bullets: [
-        "[**クレイジータイム (Crazy Time)**](https://www.casinotsu.com/game-shows/crazy-time)：こちらもEvolution社が提供する人気のホイールライブゲーム。ユニークな世界観と複数のボーナスゲームが特徴です。</>,
-        <><a href="https://casinotsu.com/game-shows/dream-catcher" target="_blank" rel="noopener noreferrer"><strong>ドリームキャッチャー (Dream Catcher)</strong>：ライトニング・ストームやクレイジータイムの源流とも言える、シンプルで分かりやすいホイールゲーム。初心者の方にもおすすめです。</>,
+        "[**クレイジータイム (Crazy Time)**](https://www.casinotsu.com/game-shows/crazy-time)：こちらもEvolution社が提供する人気のホイールライブゲーム。ユニークな世界観と複数のボーナスゲームが特徴です。",
+        <><a href="https://casinotsu.com/game-shows/dream-catcher" target="_blank" rel="noopener noreferrer"><strong>ドリームキャッチャー (Dream Catcher)</strong>：ライトニング・ストームやクレイジータイムの源流とも言える、シンプルで分かりやすいホイールゲーム。初心者の方にもおすすめです。",
       ],
     },
   ],
@@ -292,7 +292,7 @@ export const lightningStorm: GameShowPageContent = {
     },
     {
       question: "Lightning Stormは、どのカジノで遊べる？",
-      answer: <>オカ教授: Evolution社のゲームが提供されているオンラインカジノであれば、基本的にどのカジノでも遊べます。例えば、<a href="https://go.casinotsu.com/go/wonder-casino" target="_blank" rel="noopener noreferrer">ワンダーカジノ や <a href="https://go.casinotsu.com/go/eldoah-casino" target="_blank" rel="noopener noreferrer">エルドアカジノ などが挙げられます。ただし、提供状況はカジノによって異なる場合があります。CasinoTsuは、最新の情報を提供するよう努めます。\n\n**デモプレイについて**: ライトニング・ストームはライブカジノゲームのため、リアルマネーを賭けずにプレイできる無料デモモードは提供されていません。しかし、多くのカジノでは、ベットせずにゲームを視聴することができます。CasinoTsuは、この点も明確にお伝えします。</>,
+      answer: <>オカ教授: Evolution社のゲームが提供されているオンラインカジノであれば、基本的にどのカジノでも遊べます。例えば、<a href="https://go.casinotsu.com/go/wonder-casino" target="_blank" rel="noopener noreferrer">ワンダーカジノ や <a href="https://go.casinotsu.com/go/eldoah-casino" target="_blank" rel="noopener noreferrer">エルドアカジノ などが挙げられます。ただし、提供状況はカジノによって異なる場合があります。CasinoTsuは、最新の情報を提供するよう努めます。\n\n**デモプレイについて**: ライトニング・ストームはライブカジノゲームのため、リアルマネーを賭けずにプレイできる無料デモモードは提供されていません。しかし、多くのカジノでは、ベットせずにゲームを視聴することができます。CasinoTsuは、この点も明確にお伝えします。",
     },
   ],
 

@@ -36,7 +36,7 @@ export const bitstarzNoDepositSpins: BonusPageContent = {
         "今回は**入金不要フリースピン**をご提供いたします！🎰",
         "2021年9月のウェルカムパッケージリニューアル以降、入金不要フリースピンは新規登録者全員が対象となりましたが、CasinoTsuからご登録いただきますと、**通常より多くのフリースピン**をお楽しみいただけます。早速詳細を確認してまいりましょう。",
         "**👀 日本円でプレイしたい方は必見！**",
-        "[日本円で遊べるカジノサイトまとめました！](https://www.casinotsu.com/free-spins)</>,
+        "[日本円で遊べるカジノサイトまとめました！](https://www.casinotsu.com/free-spins)",
       ],
       cta: {
         text: "オファーへ",
@@ -77,7 +77,7 @@ export const bitstarzNoDepositSpins: BonusPageContent = {
           ],
         },
       ],
-      footer: <><a href="https://gamblingtherapy.org/ja/" target="_blank" rel="noopener noreferrer">Gamblingtherapy.org/ja | 新規プレイヤー限定：当サイトから登録で30FS,賭け条件40倍 【4xウェルカムボーナス+180FS】最低入金額¥2,000, 賭け条件40倍 | <a href="https://casinotsu.com/about/privacy-policy" target="_blank" rel="noopener noreferrer">利用規約が適用されます</>,
+      footer: "<a href="https://gamblingtherapy.org/ja/" target="_blank" rel="noopener noreferrer">Gamblingtherapy.org/ja | 新規プレイヤー限定：当サイトから登録で30FS,賭け条件40倍 【4xウェルカムボーナス+180FS】最低入金額¥2,000, 賭け条件40倍 | <a href="https://casinotsu.com/about/privacy-policy" target="_blank" rel="noopener noreferrer">利用規約が適用されます",
     },
     {
       heading: "オファー基本情報",
@@ -165,7 +165,7 @@ export const bitstarzNoDepositSpins: BonusPageContent = {
           ],
         },
       ],
-      footer: <>🔰賭け条件ってなに？って思った方はこちら\n<a href="https://casinotsu.com/guides/wagering-requirements \"賭け条件って何？へ\"" target="_blank" rel="noopener noreferrer">オンカジの賭け条件って？ わかりやすく解説！\n\n**🔰ボーナスってどれを選べばいいの？？って思った方はこちら！**\n[オンラインカジノの入金ボーナスおすすめ最強](https://casinotsu.com/bonuses \</>カジノボーナスの種類を知ろう！\")ガイドをチェック👩‍🏫",
+      footer: "🔰賭け条件ってなに？って思った方はこちら\n<a href="https://casinotsu.com/guides/wagering-requirements \"賭け条件って何？へ\"" target="_blank" rel="noopener noreferrer">オンカジの賭け条件って？ わかりやすく解説！\n\n**🔰ボーナスってどれを選べばいいの？？って思った方はこちら！**\n[オンラインカジノの入金ボーナスおすすめ最強](https://casinotsu.com/bonuses <>カジノボーナスの種類を知ろう！\")ガイドをチェック👩‍🏫",
     },
     {
       heading: "カジノ情報",

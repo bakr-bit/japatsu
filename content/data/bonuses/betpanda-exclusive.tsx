@@ -27,7 +27,7 @@ export const betpandaExclusiveBonus: BonusPageContent = {
     rows: [],
   },
 
-  detailedCasinos: <Link href="/reviews/betpanda">
+  detailedCasinos: [
     {
       rank: 1,
       casino: "ベットパンダ",
@@ -41,7 +41,7 @@ export const betpandaExclusiveBonus: BonusPageContent = {
         "もちろん、ベットパンダで通常提供されている「最大1BTCの初回入金ボーナス」も併せてお受け取りいただけます。",
         "それでは、CasinoTsu限定オファーの詳細について、詳しくご説明いたします。",
         "💫 仮想通貨で匿名プレイ！ベットパンダはこちら 💫",
-        "[ベットパンダのレビュー</Link>はこちら</>,
+        "[ベットパンダのレビュー</Link>はこちら",
       ],
       cta: {
         text: "オファー詳細はこちら",
@@ -68,10 +68,10 @@ export const betpandaExclusiveBonus: BonusPageContent = {
       paragraphs: [
         "限定フリースピンを獲得する手順をご案内いたします。",
         "まずはこちらのボタンからベットパンダへアクセスし、アカウント登録を開始してください。",
-        "[**👉 ベットパンダはこちらから🐼🌿**](https://www.casinotsu.com/free-spins)</>,
+        "[**👉 ベットパンダはこちらから🐼🌿**](https://www.casinotsu.com/free-spins)",
         "1.  ページ右上の「**アカウント登録**」ボタンをクリックすると、登録フォームが表示されます。",
         "2.  ベットパンダの登録には、**メールアドレス**と**パスワード**のみ必要となります。お名前やご住所の入力は不要です。\n    （※高額出金時には、KYC（本人確認）が必要となる場合があります。）",
-        <>3.  アカウント登録が完了しましたら、ご入金ください。ログイン後、ページ右上の「**入金**」ボタンをクリックして入金ページへお進みください。ベットパンダでは、13種類以上の仮想通貨でのご入金が可能です。\n    *   **主な対応仮想通貨:** <Link href="/payment/bitcoin">ビットコイン (BTC)</Link>, <Link href="/payment/ethereum">イーサリアム (ETH)</Link>, <Link href="/payment/usdt">テザー (USDT)</Link>, ライトコイン (LTC), ドージコイン (DOGE), バイナンスコイン (BNB) など。\n    *   また、クレジットカード（デビットカード含む）を利用して、MoonPayやGuardarianといった第三者パートナー経由で仮想通貨を購入し、そのままご入金いただくことも可能です。</>,
+        <>3.  アカウント登録が完了しましたら、ご入金ください。ログイン後、ページ右上の「**入金**」ボタンをクリックして入金ページへお進みください。ベットパンダでは、13種類以上の仮想通貨でのご入金が可能です。\n    *   **主な対応仮想通貨:** <Link href="/payment/bitcoin">ビットコイン (BTC)</Link>, <Link href="/payment/ethereum">イーサリアム (ETH)</Link>, <Link href="/payment/usdt">テザー (USDT)</Link>, ライトコイン (LTC), ドージコイン (DOGE), バイナンスコイン (BNB) など。\n    *   また、クレジットカード（デビットカード含む）を利用して、MoonPayやGuardarianといった第三者パートナー経由で仮想通貨を購入し、そのままご入金いただくことも可能です。",
         "4.  ご入金完了後、サイドメニューの「**プロモーション**」から「**ウェルカムオファー**」を選択します。表示されるオファーの中から「**ウェルカムボーナス**」を選択し、「**ボーナスを受け取る**」ボタンをクリックすることで、初回入金ボーナスおよびCasinoTsu限定フリースピンが有効化されます。",
       ],
     },
@@ -123,8 +123,8 @@ export const betpandaExclusiveBonus: BonusPageContent = {
         },
         {
           subheading: "注意点",
-          paragraphs: <Link href="/about/privacy-policy">
-            "*   **ライセンスについて**: ベットパンダはコスタリカライセンスを取得しています。プレイヤー保護の観点から、[利用規約</Link>やボーナス条件を十分に理解し、自己責任でプレイいただくことが重要です。</>,
+          paragraphs: [
+            "*   **ライセンスについて**: ベットパンダはコスタリカライセンスを取得しています。プレイヤー保護の観点から、[利用規約</Link>やボーナス条件を十分に理解し、自己責任でプレイいただくことが重要です。",
             "*   **賭け条件の確認**: 初回入金ボーナスの賭け条件（40倍程度）およびゲーム別貢献率については、必ず最新情報をカジノ公式サイトでご確認ください。",
             "*   **出金時のKYC**: 高額のご出金時には、本人確認書類のご提出をお願いする場合がございます。",
           ],
@@ -148,10 +148,10 @@ export const betpandaExclusiveBonus: BonusPageContent = {
     },
     {
       heading: "ベットパンダで遊べるゲーム",
-      paragraphs: <Link href="/blackjack">
+      paragraphs: [
         "ベットパンダでは、6,000タイトルを超える豊富なゲームをお楽しみいただけます。",
-        "*   **スロット**: 人気プロバイダーによる最新スロットからクラシックなスロットまで幅広く提供しています。\n*   **ライブカジノ**: 本格的なディーラーとの対戦が楽しめるライブカジノゲームも充実しています。\n*   **テーブルゲーム**: [ブラックジャック</Link>、<Link href="/roulette">ルーレット</Link>、<Link href="/baccarat">バカラ</Link>などの定番テーブルゲームもご利用いただけます。\n*   **Provably Fairゲーム**: プレイヤー自身がゲームの公平性を検証できる「Provably Fair」ゲームも提供しています。</>,
-        <>**ご注意**: プログレッシブ・ジャックポット・スロットは、初回入金ボーナスのお<Link href="/slots">スロット</Link>け条件には貢献しません。</>,
+        "*   **スロット**: 人気プロバイダーによる最新スロットからクラシックなスロットまで幅広く提供しています。\n*   **ライブカジノ**: 本格的なディーラーとの対戦が楽しめるライブカジノゲームも充実しています。\n*   **テーブルゲーム**: [ブラックジャック</Link>、<Link href="/roulette">ルーレット</Link>、<Link href="/baccarat">バカラ</Link>などの定番テーブルゲームもご利用いただけます。\n*   **Provably Fairゲーム**: プレイヤー自身がゲームの公平性を検証できる「Provably Fair」ゲームも提供しています。",
+        <>**ご注意**: プログレッシブ・ジャックポット・スロットは、初回入金ボーナスのお<Link href="/slots">スロット</Link>け条件には貢献しません。",
       ],
     },
     {
@@ -159,11 +159,11 @@ export const betpandaExclusiveBonus: BonusPageContent = {
       paragraphs: [
         "ベットパンダは仮想通貨での入出金に特化しており、迅速な取引が可能です。",
       ],
-      subsections: <Link href="/payment/bitcoin">
+      subsections: [
         {
           subheading: "入金方法",
           paragraphs: [
-            "*   **対応通貨**: 13～14種類の仮想通貨（[BTC</Link>, <Link href="/payment/ethereum">ETH</Link>, <Link href="/payment/usdt">USDT</Link>, LTC, DOGE, BNBなど）\n*   **クレジットカード購入**: MoonPayやGuardarianなどの第三者サービスを通じて、クレジットカードで仮想通貨を購入し、そのまま入金することも可能です。\n*   **最低入金額**: 20ユーロ</>,
+            "*   **対応通貨**: 13～14種類の仮想通貨（[BTC</Link>, <Link href="/payment/ethereum">ETH</Link>, <Link href="/payment/usdt">USDT</Link>, LTC, DOGE, BNBなど）\n*   **クレジットカード購入**: MoonPayやGuardarianなどの第三者サービスを通じて、クレジットカードで仮想通貨を購入し、そのまま入金することも可能です。\n*   **最低入金額**: 20ユーロ",
           ],
         },
         {
@@ -190,13 +190,13 @@ export const betpandaExclusiveBonus: BonusPageContent = {
     },
   ],
 
-  faq: <Link href="/bonuses/no-deposit">
+  faq: [
     {
       question: "ベットパンダのCasinoTsu限定フリースピンは、初回入金ボーナスと同時に利用可能ですか？",
       answer: "はい、CasinoTsu限定フリースピンは、通常獲得可能な初回入金ボーナスに追加で受け取ることが可能です。",
     },
     {
-      question: "ベットパンダには、[入金不要ボーナス</Link>はありますか？</>,
+      question: "ベットパンダには、[入金不要ボーナス</Link>はありますか？",
       answer: "現時点では、ベットパンダに入金不要ボーナスはありません。しかし、CasinoTsu限定の入金フリースピンや、魅力的な初回入金ボーナス、その他のプロモーションが豊富に用意されており、これらを活用することで大変お得にプレイできます。",
     },
     {

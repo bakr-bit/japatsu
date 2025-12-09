@@ -37,10 +37,10 @@ export const twoUpCasinoBonus: BonusPageContent = {
         "2024年6月にサービスを開始したばかりの最新オンラインカジノ「 **2upカジノ（2up）**」！",
         "この度、注目度の高い2upカジノが、CasinoTsu限定の特別な初回特典をご用意いたしました。🎊🥳",
         "CasinoTsu経由でご登録いただくと、通常の初回入金ボーナスが、還元率・最大ボーナス額ともに2倍に！**還元率200％の初回入金ボーナスが最大2,000ドル** まで獲得可能です。😲🎉💖",
-        "さらに、人気のゲームプロバイダーである [**Pragmatic Play**](https://www.casinotsu.com/free-spins) 社のスロットで利用できる、 **最大500回分のフリースピンボーナス** もプレゼントいたします！🎰🎁</>,
+        "さらに、人気のゲームプロバイダーである [**Pragmatic Play**](https://www.casinotsu.com/free-spins) 社のスロットで利用できる、 **最大500回分のフリースピンボーナス** もプレゼントいたします！🎰🎁",
         "これは見逃せませんね！(๑•̀ㅂ•́)و✧",
         "それでは、CasinoTsu限定の豪華ウェルカムオファーの詳細を早速確認していきましょう！😍🔥",
-        <>💫日本円でもプレイ可能◎ 最新の仮想通貨特化型カジノ！\n<a href="https://casinotsu.com/reviews/2up" target="_blank" rel="noopener noreferrer">2upカジノのレビュー はこちらから★</>,
+        <>💫日本円でもプレイ可能◎ 最新の仮想通貨特化型カジノ！\n<a href="https://casinotsu.com/reviews/2up" target="_blank" rel="noopener noreferrer">2upカジノのレビュー はこちらから★",
       ],
       cta: {
         text: "2upカジノでプレイする！",
@@ -85,7 +85,7 @@ export const twoUpCasinoBonus: BonusPageContent = {
             "*   **プレイ通貨:** 全てのフリースピンは「ドル」でプレイされるため、アカウント通貨の設定にご注意ください。",
             "*   **最大出金可能額:** 100ドル",
             "ウェルカムオファーにおけるフリースピンの内容は、入金額によって4段階に分かれています。(●’◡’●)👇",
-            "| | 入金額 | 獲得フリースピン回数 | 対象ゲーム | フリースピン最大賞金額 |\n| :--- | :--- | :--- | :--- | :--- |\n| **ティア1** | $20以上 | 50回分 | [Big Bass Bonanza](https://www.casinotsu.com/free-spins) | $100 |\n| **ティア2** | $50以上 | 100回分 | Greedy Wolf | $200 |\n| **ティア3** | $100以上 | 200回分 | The Dog House | $400 |\n| **ティア4** | $200以上 | 500回分 | The Great Chicken Escape | $1000 |</>,
+            "| | 入金額 | 獲得フリースピン回数 | 対象ゲーム | フリースピン最大賞金額 |\n| :--- | :--- | :--- | :--- | :--- |\n| **ティア1** | $20以上 | 50回分 | [Big Bass Bonanza](https://www.casinotsu.com/free-spins) | $100 |\n| **ティア2** | $50以上 | 100回分 | Greedy Wolf | $200 |\n| **ティア3** | $100以上 | 200回分 | The Dog House | $400 |\n| **ティア4** | $200以上 | 500回分 | The Great Chicken Escape | $1000 |",
             "**【重要】**💡\nフリースピンは「ドル」でプレイされるため、ご利用前にアカウントの通貨設定をドルに変更していただく必要があります。",
             "このウェルカムオファーは、1日あたりの獲得人数に制限がある場合がございます。ご入金前に、サポートへお問い合わせいただき、現在獲得可能かどうかをご確認いただくことを強くお勧めいたします。",
           ],
@@ -94,12 +94,12 @@ export const twoUpCasinoBonus: BonusPageContent = {
     },
     {
       heading: "2upカジノ限定ウェルカムオファーの獲得方法",
-      paragraphs: ["初回入金ボーナスとフリースピンの獲得手順を詳しく見ていきましょう👀🌟<>],
-      subsections: <a href="https://go.casinotsu.com/go/2up" target="_blank" rel="noopener noreferrer">
+      paragraphs: ["初回入金ボーナスとフリースピンの獲得手順を詳しく見ていきましょう👀🌟"],
+      subsections: [
         {
           subheading: "登録手順",
           paragraphs: [
-            "まず、CasinoTsuから2upカジノへアクセスしてください(｡･∀･)ﾉﾞ\n[**👉** **2upカジノ公式サイトはこちら！**](https://www.casinotsu.com/)</>,
+            "まず、CasinoTsuから2upカジノへアクセスしてください(｡･∀･)ﾉﾞ\n[**👉** **2upカジノ公式サイトはこちら！**](https://www.casinotsu.com/)",
             "① CasinoTsu経由でアクセスされた場合のみ、このホイールゲーム画面が表示されます。「 **今すぐスピン**」をクリックして、ホイールを回しましょう🎯",
             "② 必ず200％ボーナス最大2,000ドル＋500フリースピンが当たりますのでご安心ください🤣🤣 「 **今すぐ受け取る**」ボタンをクリックしてください。",
             "③ アカウント登録フォームが表示されますので、必要情報を入力してください。\n*   ユーザー名\n*   メールアドレス\n*   パスワード\n上記3項目を入力後、利用規約とプライバシーポリシーに同意するチェックボックスにチェックを入れ、「登録」ボタンをクリック✅ これでアカウント登録は完了です🥳",
@@ -110,7 +110,7 @@ export const twoUpCasinoBonus: BonusPageContent = {
           paragraphs: [
             "④ アカウント登録が完了したら、画面上部の「 **入金**」ボタンをクリックして、早速入金を行いましょう( •̀ ω •́ )✨",
             "「入金」ボタンをクリックした際に、メールアドレス認証がお済みでない場合は、認証画面が表示されます。そのまま手続きを進めてくださいね♪\n認証コードをメールで受け取り、認証画面に入力するだけなので、1分ほどで完了しますよ！",
-            "⑤ 入金が完了しましたら、ライブチャットサポートへ連絡し、初回入金ボーナス[の申請](https://www.casinotsu.com/bonuses)を行ってください。\nボーナスコードは不要です。「 **入金を完了しました。初回入金ボーナスと初回入金フリースピンを請求します。**」とお伝えいただき、サポートの指示に従ってください😊</>,
+            "⑤ 入金が完了しましたら、ライブチャットサポートへ連絡し、初回入金ボーナス[の申請](https://www.casinotsu.com/bonuses)を行ってください。\nボーナスコードは不要です。「 **入金を完了しました。初回入金ボーナスと初回入金フリースピンを請求します。**」とお伝えいただき、サポートの指示に従ってください😊",
             "⑥ フリースピンは、サポートによる申請および有効化が完了すると、「 **リワード** 」ページからプレイ可能になります(●ˇ∀ˇ●)🌸",
           ],
         },
@@ -120,7 +120,7 @@ export const twoUpCasinoBonus: BonusPageContent = {
       heading: "多彩なゲームラインナップとプロモーションが魅力の2upカジノ",
       paragraphs: [
         "2024年6月にオープンしたばかりの「 **新しいオンラインカジノ** 」である2upカジノですが、早くも **6,000種類以上のゲーム** を取り揃え、 **プロモーションやVIP特典も充実** していると話題のクリプトカジノです👀🔥",
-        "特に [**仮想通貨決済に特化したカジノ**](https://www.casinotsu.com/) でありながら、 **日本円でのプレイにも対応** している点が、 CasinoTsuでも高く評価されています！😍🌟</>,
+        "特に [**仮想通貨決済に特化したカジノ**](https://www.casinotsu.com/) でありながら、 **日本円でのプレイにも対応** している点が、 CasinoTsuでも高く評価されています！😍🌟",
       ],
       subsections: [
         {
@@ -128,7 +128,7 @@ export const twoUpCasinoBonus: BonusPageContent = {
           paragraphs: [
             "*   **総ゲーム数:** 6,000種類以上",
             "*   **カジノゲーム:** 5,000種類以上",
-            "*   **ゲームカテゴリ:** クラシックスロット、3Dスロット、ビデオスロット、[クラッシュゲーム](https://www.casinotsu.com/slots) など</>,
+            "*   **ゲームカテゴリ:** クラシックスロット、3Dスロット、ビデオスロット、[クラッシュゲーム](https://www.casinotsu.com/slots) など",
             "*   **オリジナルゲーム:** 「Dice」「Mines」「Plinko」といった2UPオリジナルゲームも提供",
             "*   **ハイローラー向け:** 2UPオリジナルゲームでは、最大100,000ドルのベットが可能",
             "*   **平均RTP:** プラットフォーム全体で96.2%",
@@ -141,8 +141,8 @@ export const twoUpCasinoBonus: BonusPageContent = {
             "*   **週次リーダーボード/レース:** 賞金総額5,000ドル（上位10名）",
             "*   **VIPクラブ:** XP（経験値）ベースの11～12段階のランク\n    *   **VIP特典:** 即時レーキバック、レベルアップボーナス、ウィークリー/マンスリーボーナス、リロードボーナス、ロスバックボーナス、フリースピン、フリーベット、優先出金（高ランク）、専属VIPホスト、XPマルチプライヤーなど",
             "*   **その他のプロモーション:** 「Pachinko Has Arrived」「Combo Odds Boost」「Goalless Draw Refund」「VIP Telegram Bonus Drops」「VIP Transfer」「Exclusive VIP Rewards」など",
-            "詳細にご興味のある方は、ぜひ [**2upカジノのレビュー**](https://www.casinotsu.com/free-spins) ページも併せてご覧ください( ⁎ᵕᴗᵕ⁎ )❤︎</>,
-            <>**😥使い慣れていない通貨で遊ぶのが不安…という方は！**\n<a href="https://casinotsu.com/payment/japanese-yen-casinos" target="_blank" rel="noopener noreferrer">日本円で遊べるおすすめオンラインカジノ をチェック★</>,
+            "詳細にご興味のある方は、ぜひ [**2upカジノのレビュー**](https://www.casinotsu.com/free-spins) ページも併せてご覧ください( ⁎ᵕᴗᵕ⁎ )❤︎",
+            <>**😥使い慣れていない通貨で遊ぶのが不安…という方は！**\n<a href="https://casinotsu.com/payment/japanese-yen-casinos" target="_blank" rel="noopener noreferrer">日本円で遊べるおすすめオンラインカジノ をチェック★",
           ],
         },
       ]
@@ -150,7 +150,7 @@ export const twoUpCasinoBonus: BonusPageContent = {
     {
       heading: "注目のウェルカムオファーでスタートダッシュを切りましょう💨",
       paragraphs: [
-        "2upカジノのCasinoTsu限定オファーについて、 [**賭け条件**](https://www.casinotsu.com/) は **一体型の35倍** と、やや厳しめではありますが、 **入金額の3倍の資金** でゲームを開始できる機会は非常に貴重です…(\\*✧×✧\\*)✨</>,
+        "2upカジノのCasinoTsu限定オファーについて、 [**賭け条件**](https://www.casinotsu.com/) は **一体型の35倍** と、やや厳しめではありますが、 **入金額の3倍の資金** でゲームを開始できる機会は非常に貴重です…(\\*✧×✧\\*)✨",
         "さらに！初回入金ボーナスには、 **勝利金の最大出金制限がなく**、 **有効期限も無し** という点は特筆すべき点です！😲😲😲💥\n（※一部情報源では、ボーナス資金からの最大出金可能額が2,000ドルとの記載もあり、要確認）",
         "これは、コツコツとベットを重ねることで、出金のチャンスが広がる可能性を秘めています！o((>ω< ))o",
         "サポートからの情報によりますと、このプレイヤーに有利な条件は「 **今後、予告なく変更される可能性がある** 」とのことです。",
@@ -170,9 +170,9 @@ export const twoUpCasinoBonus: BonusPageContent = {
     {
       heading: "対象ゲーム",
       paragraphs: [
-        "2upカジノでは、スロット、[ライブカジノ](https://www.casinotsu.com/slots)、テーブルゲーム、そしてオリジナルゲームまで、幅広いジャンルのゲームをお楽しみいただけます。</>,
+        "2upカジノでは、スロット、[ライブカジノ](https://www.casinotsu.com/slots)、テーブルゲーム、そしてオリジナルゲームまで、幅広いジャンルのゲームをお楽しみいただけます。",
         "*   **スロット:** ビデオスロット、クラシックスロット、3Dスロットなど、多彩なテーマと機能を備えた5,000種類以上のスロットをご用意しております。",
-        <>*   **ライブカジノ:** <a href="https://casinotsu.com/blackjack" target="_blank" rel="noopener noreferrer">ブラックジャック、ルーレット、<a href="https://casinotsu.com/baccarat" target="_blank" rel="noopener noreferrer">バカラなどの人気ゲームを、リアルタイムでディーラーと臨場感あふれる対戦をお楽しみいただけます。</>,
+        <>*   **ライブカジノ:** <a href="https://casinotsu.com/blackjack" target="_blank" rel="noopener noreferrer">ブラックジャック、ルーレット、<a href="https://casinotsu.com/baccarat" target="_blank" rel="noopener noreferrer">バカラなどの人気ゲームを、リアルタイムでディーラーと臨場感あふれる対戦をお楽しみいただけます。",
         "*   **テーブルゲーム:** 上記以外にも、様々な種類のテーブルゲームをご提供しております。",
         "*   **2UPオリジナル:** 「Dice」「Mines」「Plinko」といった2up限定のオリジナルゲームも用意されており、ハイローラー向けの最大100,000ドルのベットも可能です。",
         "*   **平均RTP:** プラットフォーム全体で96.2%と、プレイヤーにとって有利な設定となっております。",
@@ -193,14 +193,14 @@ export const twoUpCasinoBonus: BonusPageContent = {
           subheading: "入金方法",
           paragraphs: [
             "*   **仮想通貨:** 上記対応仮想通貨での入金が可能です。",
-            "*   **法定通貨:** Visa, Mastercard, Google Pay, Apple Pay, [銀行送金](LINK_NEEDS_REPAIR), Alipay, WeChat Pay, SEPA など。</>,
+            "*   **法定通貨:** Visa, Mastercard, Google Pay, Apple Pay, <a href="https://casinotsu.com/payment/bank-transfer" target="_blank" rel="noopener noreferrer">銀行送金</a>, Alipay, WeChat Pay, SEPA など。",
           ],
         },
         {
           subheading: "出金方法",
           paragraphs: [
             "*   **仮想通貨:** 対応仮想通貨での出金が可能です。",
-            "*   **法定通貨:** [銀行送金](LINK_NEEDS_REPAIR)など。</>,
+            "*   **法定通貨:** <a href="https://casinotsu.com/payment/bank-transfer" target="_blank" rel="noopener noreferrer">銀行送金</a>など。",
           ],
         },
         {
@@ -220,16 +220,16 @@ export const twoUpCasinoBonus: BonusPageContent = {
         "2upカジノは、モダンで洗練されたプラットフォームデザインを採用しており、ダークテーマとネオンのアクセントが特徴的です。",
         "*   **モバイル最適化:** スマートフォンやタブレット（iOS、Android）で快適にプレイできるよう、ウェブサイトはレスポンシブデザインに対応しております。",
         "*   **アプリ:** 専用のモバイルアプリは提供されておりませんが、ブラウザ経由で全ての機能にアクセス可能です。",
-        "*   **言語サポート:** [日本語](https://www.casinotsu.com/mobile)を含む16以上の言語に対応しており、世界中のプレイヤーが利用しやすい環境を整えております。</>,
+        "*   **言語サポート:** [日本語](https://www.casinotsu.com/mobile)を含む16以上の言語に対応しており、世界中のプレイヤーが利用しやすい環境を整えております。",
       ],
     },
     {
       heading: "攻略法・注意点",
-      subsections: <a href="https://casinotsu.com/customer-support" target="_blank" rel="noopener noreferrer">
+      subsections: [
         {
           subheading: "ボーナス活用法",
           paragraphs: [
-            "*   **賭け条件の消化:** ボーナス額と入金額の合計額の35倍の賭け条件をクリアする必要があります。ボーナスには有効期限がありませんが、出金上限額の有無（特にボーナス資金からの最大出金可能額）については、念のため[サポート](https://www.casinotsu.com/bonuses)へ確認することをお勧めいたします。</>,
+            "*   **賭け条件の消化:** ボーナス額と入金額の合計額の35倍の賭け条件をクリアする必要があります。ボーナスには有効期限がありませんが、出金上限額の有無（特にボーナス資金からの最大出金可能額）については、念のため[サポート](https://www.casinotsu.com/bonuses)へ確認することをお勧めいたします。",
             "*   **フリースピンの活用:** 入金額に応じて獲得できるフリースピンの回数と対象ゲームが異なります。有効期限（24時間）内に使い切るようにしましょう。また、フリースピンの賞金には最大100ドルの出金上限が設定されています。",
           ],
         },
@@ -260,7 +260,7 @@ export const twoUpCasinoBonus: BonusPageContent = {
       heading: "責任あるギャンブルについて",
       paragraphs: [
         "2upカジノは「AVERAGE」と評価されており、以下の責任あるギャンブルへの取り組みを行っています。",
-        "*   **強み:** 倫理的なマーケティング、[自己排除](https://www.casinotsu.com/responsible-gambling)、未成年者保護、アカウント履歴へのアクセス提供</>,
+        "*   **強み:** 倫理的なマーケティング、[自己排除](https://www.casinotsu.com/responsible-gambling)、未成年者保護、アカウント履歴へのアクセス提供",
         "*   **弱み:** リアリティチェック、予算計算ツール、自己評価、各種制限設定機能の欠如",
         "CasinoTsuは、プレイヤーの皆様が健全にカジノゲームをお楽しみいただけるよう、常に最新の情報提供と注意喚起に努めてまいります。",
       ],
@@ -277,14 +277,14 @@ export const twoUpCasinoBonus: BonusPageContent = {
     },
   ],
   
-  faq: <a href="https://casinotsu.com/customer-support" target="_blank" rel="noopener noreferrer">
+  faq: [
     {
       question: "2upカジノで、入金不要ボーナスはもらえますか？",
       answer: "現在、入金不要ボーナスは提供されておりません。CasinoTsu限定のウェルカムオファーをご利用ください。",
     },
     {
       question: "2upカジノの初回入金ボーナスの最大出金可能額は、いくらですか？",
-      answer: "初回入金ボーナス自体には、最大出金可能額の制限はありません。ただし、初回入金フリースピンから獲得した賞金には100ドルの最大出金可能額が設定されています。（※ボーナス資金からの最大出金可能額が2,000ドルとの情報もあるため、不明な点は[サポート](https://www.casinotsu.com/customer-support)にご確認ください。）</>,
+      answer: "初回入金ボーナス自体には、最大出金可能額の制限はありません。ただし、初回入金フリースピンから獲得した賞金には100ドルの最大出金可能額が設定されています。（※ボーナス資金からの最大出金可能額が2,000ドルとの情報もあるため、不明な点は[サポート](https://www.casinotsu.com/customer-support)にご確認ください。）",
     },
     {
       question: "2upカジノのウェルカムオファーは、入金したら自動的にもらえますか？",

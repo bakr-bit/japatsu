@@ -175,7 +175,7 @@ export const paiGowPokerGuide: PokerPageContent = {
       {
         heading: "入出金方法",
         description: [
-          "Duelbitsでは、[ビットコイン](LINK_NEEDS_REPAIR)、<a href="https://www.casinotsu.com/payment/ethereum" target="_blank" rel="noopener noreferrer">イーサリアム、ライトコインといった主要な仮想通貨を幅広く受け入れています。さらに、フィアット通貨で仮想通貨を購入できるオプションも提供しており、利便性を高めています。出金処理は非常に迅速で、ネットワーク状況にもよりますが、通常数分で完了します。また、多くの場合、KYC（本人確認）プロセスが不要である可能性があり、VPNの使用も許可されています。<a href="https://www.casinotsu.com/payment/crypto" target="_blank" rel="noopener noreferrer"><strong>仮想通貨での入出金</strong>は、その匿名性とスピードから多くのプレイヤーに支持されています。</>,
+          "Duelbitsでは、<a href="https://www.casinotsu.com/payment/bitcoin" target="_blank" rel="noopener noreferrer">ビットコイン</a>、<a href="https://www.casinotsu.com/payment/ethereum" target="_blank" rel="noopener noreferrer">イーサリアム、ライトコインといった主要な仮想通貨を幅広く受け入れています。さらに、フィアット通貨で仮想通貨を購入できるオプションも提供しており、利便性を高めています。出金処理は非常に迅速で、ネットワーク状況にもよりますが、通常数分で完了します。また、多くの場合、KYC（本人確認）プロセスが不要である可能性があり、VPNの使用も許可されています。<a href="https://www.casinotsu.com/payment/crypto" target="_blank" rel="noopener noreferrer"><strong>仮想通貨での入出金</strong>は、その匿名性とスピードから多くのプレイヤーに支持されています。</>,
         ],
         bullets: [
           "**対応通貨:** ビットコイン、イーサリアム、ライトコインなど多数",

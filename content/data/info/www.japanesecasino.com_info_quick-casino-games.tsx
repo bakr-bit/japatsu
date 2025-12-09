@@ -72,7 +72,7 @@ CasinoTsuが厳選した、短時間で楽しめるオンラインカジノゲ�
 
 | ランキング | ゲーム名 | 1ゲームの平均時間 | ゲームの種類 | RTP（推定） | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| 1 | **[スウィート・ボナンザ（Sweet Bonanza）](LINK_NEEDS_REPAIR)** | 5秒 | カジノスロット | 96.48% - 96.51% | ボーナス購入機能あり |
+| 1 | **<a href="https://www.casinotsu.com/slots/sweet-bonanza" target="_blank" rel="noopener noreferrer">スウィート・ボナンザ（Sweet Bonanza）</a>** | 5秒 | カジノスロット | 96.48% - 96.51% | ボーナス購入機能あり |
 | 2 | <strong><a href="https://www.casinotsu.com/crash-games/aviator" target="_blank" rel="noopener noreferrer">アビエーター（Aviator）</strong> | 20秒 | クラッシュゲーム | 97% | シンプルでスリリング |
 | 3 | <strong><a href="https://www.casinotsu.com/live-casino/evolution-super-speed-baccarat" target="_blank" rel="noopener noreferrer">スーパー・スピード・バカラ（Super Speed Baccarat）</strong> | 27秒 | ライブカジノ | 98.76% - 98.94% | 進行が速いバカラ |
 | 4 | <strong><a href="https://www.casinotsu.com/slots/starburst" target="_blank" rel="noopener noreferrer">スターバースト（Starburst）</strong> | 5秒 | カジノスロット | 96.09% | 低ボラティリティでリラックス |

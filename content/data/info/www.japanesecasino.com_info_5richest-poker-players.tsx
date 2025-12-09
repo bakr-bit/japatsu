@@ -39,9 +39,7 @@ export const richestPokerPlayers: InfoPageContent = {
 
 億万長者になることは容易ではありませんが、ある程度の成功は十分に可能です。ゲームの世界で富豪となる道も、決して平坦ではありません。プロフェッショナルポーカープレイヤーという道は、見かけ以上に真剣な職業なのです。なぜなら、彼らは莫大な金額を稼ぐことができるからです。<a href="https://www.casinotsu.com/info/poker-tournaments" target="_blank" rel="noopener noreferrer">ポーカートーナメントの賞金で、一体どれほどの収入が得られるのだろうか？ と疑問をお持ちの方のために、CasinoTsuが最も裕福なポーカープレイヤーTOP5をご紹介いたします。
 
-<a href="https://img.casinotsu.com/svg/jp/mascots/happy/casiko.svg" target="_blank" rel="noopener noreferrer">
-![Casiko Happy](LINK_NEEDS_REPAIR)
-](https://www.casinotsu.com/info/5richest-poker-players)
+<img src="https://img.casinotsu.com/svg/jp/mascots/happy/casiko.svg" alt="Casiko Happy" />
 
 累計トーナメント賞金を一番多く獲得している賞金王は誰かしら！？
 

@@ -252,7 +252,7 @@ Casinotsuに仲間入りした <a href="https://casinotsu.com/new-casinos" targe
   faq: <a href="https://casinotsu.com/games" target="_blank" rel="noopener noreferrer">
     {
       question: "このページで解説されている注意点は、ラスベガスのカジノだけに当てはまるのでしょうか？",
-      answer: "いいえ。 [カジノ全般](LINK_NEEDS_REPAIR) において同様のことが言えます。</>,
+      answer: "いいえ。 <a href="https://casinotsu.com/games" target="_blank" rel="noopener noreferrer">カジノ全般</a> において同様のことが言えます。</>,
     },
     {
       question: "オンラインカジノでも注意すべきところはありますか？",

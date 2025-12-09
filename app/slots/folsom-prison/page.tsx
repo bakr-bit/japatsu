@@ -727,6 +727,9 @@ const data: SlotPageData = {
       ],
     },
     {
+      heading: "10. 関連ゲーム",
+      relatedGames: [
+        {
           name: "Mental",
           href: "/slots/mental-ii",
           provider: "Nolimit City",

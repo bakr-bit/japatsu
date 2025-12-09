@@ -49,7 +49,7 @@ export const lowWageringBonuses: BonusPageContent = {
 
   rankings: {
     title: "【2025年最新】賭け条件（出金条件）の甘いオンラインカジノランキング！",
-    description: <>出金条件が緩いオンラインカジノは一体どこなのか？🤔 CasinoTsuが徹底分析いたしました！🎉 <strong><a href="https://casinotsu.com/bonuses/no-deposit" target="_blank" rel="noopener noreferrer">入金不要ボーナス</strong>、初回入金ボーナスなどの <strong><a href="https://casinotsu.com/bonuses/welcome-bonus" target="_blank" rel="noopener noreferrer">ウェルカムボーナス</strong>、そして出金のしやすさなどを総合的に評価し、CasinoTsu推薦のオンラインカジノ出金条件ランキングをまとめました💪✨</>,
+    description: "出金条件が緩いオンラインカジノは一体どこなのか？🤔 CasinoTsuが徹底分析いたしました！🎉 <strong><a href="https://casinotsu.com/bonuses/no-deposit" target="_blank" rel="noopener noreferrer">入金不要ボーナス</strong>、初回入金ボーナスなどの <strong><a href="https://casinotsu.com/bonuses/welcome-bonus" target="_blank" rel="noopener noreferrer">ウェルカムボーナス</strong>、そして出金のしやすさなどを総合的に評価し、CasinoTsu推薦のオンラインカジノ出金条件ランキングをまとめました💪✨",
     columns: ["ランキング", "オンラインカジノ", "登録ボーナス詳細", "賭け条件"],
     rows: [
       {
@@ -142,16 +142,16 @@ export const lowWageringBonuses: BonusPageContent = {
       casinoSlug: "mystino",
       heading: "🥇1位 CasinoTsu推薦！ミスティーノ",
       description: [
-        "[**ミスティーノ**](https://www.casinotsu.com/reviews/mystino) では、CasinoTsuから登録するだけで <strong><a href="https://casinotsu.com/bonuses/no-deposit" target="_blank" rel="noopener noreferrer">入金不要ボーナス</strong> が4,500円も貰え、 **賭け条件10倍** と出金条件が緩いのが魅力的です💓</>,
+        "[**ミスティーノ**](https://www.casinotsu.com/reviews/mystino) では、CasinoTsuから登録するだけで <strong><a href="https://casinotsu.com/bonuses/no-deposit" target="_blank" rel="noopener noreferrer">入金不要ボーナス</strong> が4,500円も貰え、 **賭け条件10倍** と出金条件が緩いのが魅力的です💓",
         "ボーナス金額も豪華なうえに、スロットだけでなくライブカジノもプレイできる嬉しい特典です😍",
-        <><strong><a href="https://casinotsu.com/payment/japanese-yen-casinos" target="_blank" rel="noopener noreferrer">日本円</strong> で受け取れるボーナスであり、日本円での入出金も可能なので、両替などの手間がかからない点もおすすめポイントです♪(´▽｀)</>,
+        <><strong><a href="https://casinotsu.com/payment/japanese-yen-casinos" target="_blank" rel="noopener noreferrer">日本円</strong> で受け取れるボーナスであり、日本円での入出金も可能なので、両替などの手間がかからない点もおすすめポイントです♪(´▽｀)",
         "**【注意事項】**",
         "*   賭け条件：10倍",
         "*   最大出金可能額：15,000円",
         "*   出金を希望する場合、登録後72時間以内に入金が必要です。",
         "*   最大ベット額：スロット900円、ライブカジノ3,500円",
         "7日間連続で進呈される入金特典フリースピンには別途入金が必要となり、対象ゲームも指定されています。しかし、フリースピンで得た賞金はそのままキャッシュにできるため、非常にお得な特典です💝",
-        <>**CasinoTsuからの登録限定で、入金不要ボーナスが4,500円にパワーアップ🔥** お得な <strong><a href="https://casinotsu.com/offers/mystino-exclusive" target="_blank" rel="noopener noreferrer">ミスティーノのオファー</strong> をお見逃しなく！！</>,
+        <>**CasinoTsuからの登録限定で、入金不要ボーナスが4,500円にパワーアップ🔥** お得な <strong><a href="https://casinotsu.com/offers/mystino-exclusive" target="_blank" rel="noopener noreferrer">ミスティーノのオファー</strong> をお見逃しなく！！",
         "プチ情報✏️\n\n賭け条件には **消化率** というものが設定されている場合があるわよ👀\n\n例えば、スロットでの「賭け条件消化率100%」は、ベット額全額がカウントされるという意味。しかし、「ライブカジノやテーブルゲームの消化率が10%」だと、ベット額の10%しかカウントされないの！\n\n勝利金を出金したいなら、消化率が高いスロットでプレイする方が、早く条件をクリアできる可能性が高いわよ🎰",
       ],
       cta: {
@@ -165,7 +165,7 @@ export const lowWageringBonuses: BonusPageContent = {
       casinoSlug: "konibet",
       heading: "🥈2位 CasinoTsu推薦！コニベット",
       description: [
-        "[**コニベット**](https://www.casinotsu.com/reviews/konibet) では、通常、登録でもらえる入金不要ボーナス（登録ボーナス）は20ドルですが、なんと今CasinoTsu限定で『 <a href="https://casinotsu.com/free-spins" target="_blank" rel="noopener noreferrer"><strong>フリースピンを無料</strong> **で50回分**』も進呈中ですヾ(≧▽≦*)o</>,
+        "[**コニベット**](https://www.casinotsu.com/reviews/konibet) では、通常、登録でもらえる入金不要ボーナス（登録ボーナス）は20ドルですが、なんと今CasinoTsu限定で『 <a href="https://casinotsu.com/free-spins" target="_blank" rel="noopener noreferrer"><strong>フリースピンを無料</strong> **で50回分**』も進呈中ですヾ(≧▽≦*)o",
         "このフリースピンから得た **勝利金は即出金可能** な、 **完全キャッシュスピン** です🎰💖",
         "さらに、入金不要ボーナスの賭け条件が **たったの5倍** と、オンラインカジノの中でも出金条件が非常に甘いと言えるでしょう♪",
         "コニベットで今すぐ登録しましょう✨",
@@ -176,7 +176,7 @@ export const lowWageringBonuses: BonusPageContent = {
         "*   入金不要フリースピン（出金条件なし）は、最大50ドルまで出金可能です。",
         "コニベットは、オンカジの中でも出金条件がかなり甘いカジノの一つと言えます(/≧▽≦)/",
         "😎 **CasinoTsu推薦！オンラインカジノで出金条件が低いおすすめカジノといえばここ！**",
-        <>出金条件が緩い <strong><a href="https://casinotsu.com/offers/konibet-exclusive" target="_blank" rel="noopener noreferrer">コニベットのオファー</strong> をお見逃しなく！！</>,
+        <>出金条件が緩い <strong><a href="https://casinotsu.com/offers/konibet-exclusive" target="_blank" rel="noopener noreferrer">コニベットのオファー</strong> をお見逃しなく！！",
       ],
       cta: {
         text: "👉 コニベットに登録🌟",
@@ -189,7 +189,7 @@ export const lowWageringBonuses: BonusPageContent = {
       casinoSlug: "eldoah-casino",
       heading: "🥉3位 CasinoTsu推薦！エルドアカジノ",
       description: [
-        "[**エルドアカジノ](https://www.casinotsu.com/reviews/eldoah)** では、 **2,000円分の <a href="https://casinotsu.com/bonuses/no-deposit" target="_blank" rel="noopener noreferrer">入金不要ボーナス** が用意されています！</>,
+        "[**エルドアカジノ](https://www.casinotsu.com/reviews/eldoah)** では、 **2,000円分の <a href="https://casinotsu.com/bonuses/no-deposit" target="_blank" rel="noopener noreferrer">入金不要ボーナス** が用意されています！",
         "この **オンカジの賭け条件はたったの1倍** 😍",
         "しかも、この賭け条件1倍の登録ボーナスは、カジノゲームとスポーツブックの両方で利用可能です⚽🎰",
         "以前はハイローラー向けのカジノというイメージでしたが、最近では初心者にも優しい、出金条件が緩いボーナスが採用されていますよ～♪",
@@ -198,7 +198,7 @@ export const lowWageringBonuses: BonusPageContent = {
         "*   使用期限は1ヶ月です。",
         "*   「スポーツ」で選択した場合、賭け条件1倍をクリアするまで「カジノゲーム」に変更できません。",
         "ボーナスがなくならないうちに、今すぐ登録してエルドアカジノを満喫しましょう♪(´▽｀)",
-        <>**賭け条件が1倍のオンカジ🤩🔥** お得なボーナスでお試しプレイ♪ <strong><a href="https://casinotsu.com/offers/eldoah-exclusive" target="_blank" rel="noopener noreferrer">エルドアカジノのオファー</strong> はこちらっ</>,
+        <>**賭け条件が1倍のオンカジ🤩🔥** お得なボーナスでお試しプレイ♪ <strong><a href="https://casinotsu.com/offers/eldoah-exclusive" target="_blank" rel="noopener noreferrer">エルドアカジノのオファー</strong> はこちらっ",
       ],
       cta: {
         text: "👉 エルドアカジノに今すぐ登録🌟",
@@ -207,18 +207,18 @@ export const lowWageringBonuses: BonusPageContent = {
     },
   ],
 
-  bonusTypeCategories: <a href="https://casinotsu.com/free-spins" target="_blank" rel="noopener noreferrer">
+  bonusTypeCategories: [
     {
       title: "出金条件が甘めなフリースピン",
-      description: "まず、 [**フリースピン](https://www.casinotsu.com/free-spins)** として提供されるボーナスです。これは、ゲーム内のフリースピンフィーチャー（スロットのボーナスゲーム）とは異なり、 **無料でプレイできるスピン** のこと。\n\n通常、フリースピン20回分の場合、その20回で **得られた勝利金に対して○○倍の賭け条件** が適用されます。\n\n出金条件が甘いカジノでは、 **賭け条件がなし～20倍程度** と設定されており、人気のスロットを無料で楽しめる魅力的な特典として提供されていますよ～。</>,
+      description: "まず、 [**フリースピン](https://www.casinotsu.com/free-spins)** として提供されるボーナスです。これは、ゲーム内のフリースピンフィーチャー（スロットのボーナスゲーム）とは異なり、 **無料でプレイできるスピン** のこと。\n\n通常、フリースピン20回分の場合、その20回で **得られた勝利金に対して○○倍の賭け条件** が適用されます。\n\n出金条件が甘いカジノでは、 **賭け条件がなし～20倍程度** と設定されており、人気のスロットを無料で楽しめる魅力的な特典として提供されていますよ～。",
     },
     {
       title: "出金の夢が広がるウェルカムボーナス",
-      description: <><strong><a href="https://casinotsu.com/bonuses/welcome-bonus" target="_blank" rel="noopener noreferrer">ウェルカムボーナス</strong> とは、新規登録後に初回入金すると、その入金額に応じて **入金額の100%** または **50%などの割合で入金ボーナス** として進呈されるタイプです。\n\n進呈されたボーナスによっては、 **入金額とボーナス額を合算** した金額に対して **賭け条件が適用** される「一体型」、またはボーナス額のみに適用される「分離型」があります。\n\n出金条件が甘いカジノでは、 **賭け条件1倍** といった、ほぼリアルマネー同然の条件が設定されている場合もあり、これは確実に出金できる可能性が高い狙い目のボーナスと言えます💕\n\n特に、高額になりやすい **初回入金ボーナス** は、2回目や3回目の入金ボーナスよりも豪華で出金条件が緩いことがほとんどです。そのため、オンカジの初回入金ボーナスは非常におすすめです💰🎁</>,
+      description: "<strong><a href="https://casinotsu.com/bonuses/welcome-bonus" target="_blank" rel="noopener noreferrer">ウェルカムボーナス</strong> とは、新規登録後に初回入金すると、その入金額に応じて **入金額の100%** または **50%などの割合で入金ボーナス** として進呈されるタイプです。\n\n進呈されたボーナスによっては、 **入金額とボーナス額を合算** した金額に対して **賭け条件が適用** される「一体型」、またはボーナス額のみに適用される「分離型」があります。\n\n出金条件が甘いカジノでは、 **賭け条件1倍** といった、ほぼリアルマネー同然の条件が設定されている場合もあり、これは確実に出金できる可能性が高い狙い目のボーナスと言えます💕\n\n特に、高額になりやすい **初回入金ボーナス** は、2回目や3回目の入金ボーナスよりも豪華で出金条件が緩いことがほとんどです。そのため、オンカジの初回入金ボーナスは非常におすすめです💰🎁",
     },
     {
       title: "お得の集合体！入金不要ボーナス",
-      description: <>こちらは、オンラインカジノに **登録するだけ**、または **申請するだけ** でもらえる <strong><a href="https://casinotsu.com/bonuses/no-deposit" target="_blank" rel="noopener noreferrer">入金不要ボーナス</strong> です。\n\nつまり、一切の自己資金を使わずに進呈されるため、ほぼ確実に現金化できるチャンスがありますが、さすがに賭け条件は1倍とはいかない場合がほとんど😅\n\n出金条件が甘いカジノでも、 **平均して10倍程度** が一般的です💡\n\nただし、出金する際には **出金可能額に上限** が設けられていることがほとんどなので、注意が必要です✅\n\nまた、入金不要ボーナスで得た勝利金を出金する前に、最低一度の入金が必要となるケースも多く見られます🤑\n\nオンラインカジノによっては、この最低入金が **初回入金ボーナスに関連している場合** もありますので、入金ボーナスの条件も併せて確認し、賢く勝利金ゲットを目指しましょう！</>,
+      description: "こちらは、オンラインカジノに **登録するだけ**、または **申請するだけ** でもらえる <strong><a href="https://casinotsu.com/bonuses/no-deposit" target="_blank" rel="noopener noreferrer">入金不要ボーナス</strong> です。\n\nつまり、一切の自己資金を使わずに進呈されるため、ほぼ確実に現金化できるチャンスがありますが、さすがに賭け条件は1倍とはいかない場合がほとんど😅\n\n出金条件が甘いカジノでも、 **平均して10倍程度** が一般的です💡\n\nただし、出金する際には **出金可能額に上限** が設けられていることがほとんどなので、注意が必要です✅\n\nまた、入金不要ボーナスで得た勝利金を出金する前に、最低一度の入金が必要となるケースも多く見られます🤑\n\nオンラインカジノによっては、この最低入金が **初回入金ボーナスに関連している場合** もありますので、入金ボーナスの条件も併せて確認し、賢く勝利金ゲットを目指しましょう！",
       casinos: [
         {
           casino: "エルドアカジノ",
@@ -255,9 +255,9 @@ export const lowWageringBonuses: BonusPageContent = {
         "「いたれりつくせりのオンラインカジノ、話がうますぎない？」と思われるかもしれません。しかし、オンカジ側から出金条件の甘いボーナスを提供すること自体には、一切不審な点や問題はありません。これは、収益の一部をプレイヤーに還元している、正当な企業努力です💪",
         "それよりも重要なのは、出金条件の甘いボーナスを提供しているカジノ自体が、各国の法規制に則って適正に運営されているかを確認することです💡",
         "確認すべき大事なポイントは、そのカジノが **信頼できるライセンス** を取得し、第三者機関による監査を受けているかどうか✅",
-        "さらに、これらのオンラインカジノでは、「 **[乱数生成器（RNG](https://www.casinotsu.com/)）**」と呼ばれるアルゴリズムによって、ゲームの結果に一切の恣意性が生じないよう、 **公平なプレイが保証** されています。</>,
+        "さらに、これらのオンラインカジノでは、「 **[乱数生成器（RNG](https://www.casinotsu.com/)）**」と呼ばれるアルゴリズムによって、ゲームの結果に一切の恣意性が生じないよう、 **公平なプレイが保証** されています。",
         "オンラインカジノでのプレイが合法かどうかは、お住まいの国の法律によって異なる場合があるわよ💡\n\nプレイする前に、ご自身の国の法律をしっかり確認し、自己責任で楽しむようにしましょうね。",
-        <>また、無料で遊べるからこそ、「 <a href="https://casinotsu.com/info/responsible-gambling" target="_blank" rel="noopener noreferrer"><strong>責任あるギャンブル</strong>」の意識を常に持つことが大切です。節度を守ってプレイしましょう。</>,
+        <>また、無料で遊べるからこそ、「 <a href="https://casinotsu.com/info/responsible-gambling" target="_blank" rel="noopener noreferrer"><strong>責任あるギャンブル</strong>」の意識を常に持つことが大切です。節度を守ってプレイしましょう。",
       ],
     },
     {
@@ -265,7 +265,7 @@ export const lowWageringBonuses: BonusPageContent = {
       paragraphs: [
         "オンカジの出金条件とは、賭け条件、ベット要件とも呼ばれますが、要は **ボーナスを現金化するための条件** のことです💡",
         "ボーナスは、受け取った時点では「ボーナスマネー」であり、現金（リアルマネー）とは区別される **バーチャルな資金** です。多くのカジノでは、アカウント内でボーナスマネーとリアルマネーの残高が分かれており、この「分離型」の場合、賭け条件の消化状況が分かりやすく表示されます。",
-        "🍣 **分離型と一体型ってなに？どっちがいいの？**\n\n[出金条件](https://www.casinotsu.com/) やボーナスの種類について詳しく解説しています！</>,
+        "🍣 **分離型と一体型ってなに？どっちがいいの？**\n\n[出金条件](https://www.casinotsu.com/) やボーナスの種類について詳しく解説しています！",
       ],
       subsections: [
         {
@@ -275,7 +275,7 @@ export const lowWageringBonuses: BonusPageContent = {
             "**業界の標準的な賭け条件は35倍程度** と言われています。しかし、近年、カジノ間の競争が激化するにつれて、 **賭け条件は低下する傾向** にあります。",
             "究極のケースとしては、この記事の冒頭で触れた「賭け条件0倍」、つまり **リアルマネーとほぼ同等のボーナス** です。これは、ほとんど現金と変わらないため、極端な例ですが、その他にも賭け条件1倍のボーナスや、通常のボーナスでも10倍、20倍といったケースが増えています♪(´▽｀)",
             "一昔前までは、40倍～70倍程度が相場であり、プレイヤーに出金させることをあまり意図していないような条件設定も見られました。そうした時代と比較すると、オンラインカジノ側の市場理解も深まってきたと言えるでしょう😇ww",
-            "**🎁現金も同然！最強とされるボーナスとは？！** [出金条件なし](https://www.casinotsu.com/bonuses) ボーナスはもらわなきゃ損！</>,
+            "**🎁現金も同然！最強とされるボーナスとは？！** [出金条件なし](https://www.casinotsu.com/bonuses) ボーナスはもらわなきゃ損！",
           ],
         },
       ],
@@ -307,7 +307,7 @@ export const lowWageringBonuses: BonusPageContent = {
         "決してそんなことはないぞい！\n\n「ここぞ！」という特別なボーナス以外では、40倍以上の賭け条件が設定されていることも多く、オンラインカジノは出金条件が甘いボーナスだけでなく、バランスよく様々なオファーを提供しておる。\n\n賭け条件1倍や条件なし！といった破格の待遇は、いつでもどこでも見つけられるものではないのじゃ！",
         "だ・け・ど！ もちろんCasinoTsuは他とは違います💕",
         "最新カジノから、人気の老舗カジノまで、必見のボーナスをたくさん紹介していますよ～ッq(≧▽≦q)",
-        "CasinoTsu経由限定で貰える、甘～い **[限定オファー](https://www.casinotsu.com/bonuses)** も多数掲載中🔥🎁</>,
+        "CasinoTsu経由限定で貰える、甘～い **[限定オファー](https://www.casinotsu.com/bonuses)** も多数掲載中🔥🎁",
         "今だけの限定特典がほとんどなので、ぜひ見逃さないでくださいね！",
       ],
     },

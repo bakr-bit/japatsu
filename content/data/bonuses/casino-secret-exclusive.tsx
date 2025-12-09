@@ -40,7 +40,7 @@ export const casinoSecretBonus: BonusPageContent = {
         "① CasinoTsuからカジノシークレットの公式サイトへジャンプ。",
         "
 ![カジノシークレット｜アカウント登録](https://www.casinotsu.com/reviews/casino-secret)
-</>,
+",
         "② メアド を入力して「次へ」をクリック。",
         "### カジノシークレットのアカウント登録手順",
         "1.  **公式サイトへのアクセス：** まずは、CasinoTsuのリンクからカジノシークレットの公式サイトにアクセスします。",

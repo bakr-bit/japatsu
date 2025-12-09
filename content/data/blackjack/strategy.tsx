@@ -47,7 +47,7 @@ CasinoTsuは、オンラインカジノのアフィリエイトサイトとし�
 | カジノ名 | 評価 | 特徴 | リンク |
 |---|---|---|---|
 | **Bons.com** | 
-![評価点 4.5](LINK_NEEDS_REPAIR)
+![評価点 4.5](https://casinotsu.com/images/stars/4.5.svg)
  | マインクラフトチックなデザインながら、現代的なプレイ体験を提供。 | <Link href="/blackjack/strategy">今すぐプレイ！</Link> / <Link href="/reviews/bons">詳細を見る</Link> |
 | **Mystino** | 
 !<a href="https://casinotsu.com/images/stars/4.5.svg" target="_blank" rel="noopener noreferrer">評価点 4.5

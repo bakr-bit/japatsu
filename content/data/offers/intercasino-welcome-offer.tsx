@@ -95,7 +95,7 @@ export const interCasinoExclusive: OfferPageContent = {
       "このウェルカムキャッシュバックには、**賭け条件が一切ございません**！",
       "
 ![インターカジノ｜ウェルカムキャッシュバック2](https://www.casinotsu.com/reviews/intercasino)
-</>,
+",
       "👆 クレジットが貯まりましたら【**インターショップ**】にて**キャッシュバックアイテム（$5〜$50）と交換**し、**総額500ドル**を目指しましょう。**入金可能**な限り、クレジットは貯まり続けます。",
       "新規登録後、**1ヶ月間はアーリーディール**として**交換レートがアップ**いたしますので、初回入金後は積極的にプレイして、お得なキャッシュバックを最大限にご活用くださいませヾ(≧▽≦*)o",
       "### ウェルカムキャッシュバックの利用条件",
@@ -115,7 +115,7 @@ export const interCasinoExclusive: OfferPageContent = {
 
   targetGames: {
     heading: "フリースピン対象スロット：ムーンプリンセス100",
-    description: <>今回プレゼントされるフリースピンは、日本のプレイヤー様から絶大な支持を得ているスロットゲーム <a href="https://casinotsu.com/slots/moon-princess-100" target="_blank" rel="noopener noreferrer">ムーンプリンセス100（Moon Princess100） にてご利用いただけます。このスロットは、数々の名機を生み出していることで知られる <a href="https://casinotsu.com/providers/play-n-go" target="_blank" rel="noopener noreferrer">Play’nGO社 によって開発されました。</>,
+    description: "今回プレゼントされるフリースピンは、日本のプレイヤー様から絶大な支持を得ているスロットゲーム <a href="https://casinotsu.com/slots/moon-princess-100" target="_blank" rel="noopener noreferrer">ムーンプリンセス100（Moon Princess100） にてご利用いただけます。このスロットは、数々の名機を生み出していることで知られる <a href="https://casinotsu.com/providers/play-n-go" target="_blank" rel="noopener noreferrer">Play’nGO社 によって開発されました。",
     eligibleGames: ["ムーンプリンセス100"],
     gameDetails: {
       name: "ムーンプリンセス100のゲーム概要",
@@ -174,7 +174,7 @@ export const interCasinoExclusive: OfferPageContent = {
     heading: "まとめ",
     paragraphs: [
       "インターカジノでは、ジャパカジ限定の**入金不要フリースピン150回分**と、大変お得な**ウェルカムキャッシュバック**という、2つの魅力的なウェルカムオファーをご提供しております。",
-      "入金不要フリースピンでは、バージョンアップした人気スロット「**[ムーンプリンセス100](https://www.casinotsu.com/reviews/intercasino)**」を**30ドル相当分**も無料でプレイできるチャンスです！</>,
+      "入金不要フリースピンでは、バージョンアップした人気スロット「**[ムーンプリンセス100](https://www.casinotsu.com/reviews/intercasino)**」を**30ドル相当分**も無料でプレイできるチャンスです！",
       "さらに、**賭け条件ナシ**のウェルカムキャッシュバックは、プレイすればするほどクレジットが貯まり、皆様に平等に還元される嬉しいシステムでございます。",
       "まだインターカジノにご登録がお済みでない方は、この絶好の機会をぜひお見逃しなく〜♪"
     ],

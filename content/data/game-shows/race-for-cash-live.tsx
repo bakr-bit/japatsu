@@ -4,7 +4,7 @@ import type { GameShowPageContent } from "@/components/templates/GameShowDetailT
 export const raceForCashLive: GameShowPageContent = {
   hero: {
     title: "レース・フォー・キャッシュ・ライブのゲームレビュー｜2025年",
-    description: <>CasinoTsuは、プレイヤーの皆様に信頼できる情報をお届けするため、常に最新の情報収集を心がけております。今回は、ユニークなゲーム性と、同じゲームを「 **シングルプレイ用**」と「 **ライブゲーム用**」の2種類で提供することで知られる <a href="https://casinotsu.com/providers/quik-gaming" target="_blank" rel="noopener noreferrer">Quik Gaming 社より登場したレースゲーム、🏎 **レース・フォー・キャッシュ・ライブ（Race for Cash Live）** について、詳細なレビューをお届けいたします。シングルプレイ版もございますので、お好みに合わせてお楽しみください。\n\nネオン輝く都会の夜を疾走するような、モダンで洗練された雰囲気が特徴です😎。\n\nこのゲームがどのような体験を提供するのか、CasinoTsuが詳しく検証してまいりましょう。</>,
+    description: "CasinoTsuは、プレイヤーの皆様に信頼できる情報をお届けするため、常に最新の情報収集を心がけております。今回は、ユニークなゲーム性と、同じゲームを「 **シングルプレイ用**」と「 **ライブゲーム用**」の2種類で提供することで知られる <a href="https://casinotsu.com/providers/quik-gaming" target="_blank" rel="noopener noreferrer">Quik Gaming 社より登場したレースゲーム、🏎 **レース・フォー・キャッシュ・ライブ（Race for Cash Live）** について、詳細なレビューをお届けいたします。シングルプレイ版もございますので、お好みに合わせてお楽しみください。\n\nネオン輝く都会の夜を疾走するような、モダンで洗練された雰囲気が特徴です😎。\n\nこのゲームがどのような体験を提供するのか、CasinoTsuが詳しく検証してまいりましょう。",
     lastUpdated: "2025-01-01",
   },
 
@@ -31,14 +31,14 @@ export const raceForCashLive: GameShowPageContent = {
 
   casinoListings: [],
 
-  gameCategories: <a href="https://casinotsu.com/live-casino" target="_blank" rel="noopener noreferrer">
+  gameCategories: [
     {
       title: "遊び方とペイアウト",
       heading: "レース・フォー・キャッシュ・ライブの遊び方とペイアウトについて",
       description: [
         "画像：レース・フォー・キャッシュ・ライブ｜ベット",
         "「レース・フォー・キャッシュ・ライブ」は、競馬や競輪のようなレース形式のゲームです。 **お客様がベットしたレーサーが1位でゴールした場合、配当を獲得** できます♫",
-        "このゲームは、 **[ライブカジノ](https://www.casinotsu.com/live-casino) のスタイル** で提供されており、実際のディーラーや進行役がゲームを盛り上げます。</>,
+        "このゲームは、 **[ライブカジノ](https://www.casinotsu.com/live-casino) のスタイル** で提供されており、実際のディーラーや進行役がゲームを盛り上げます。",
         "レーサーやペイアウトについて、さらに詳しく見ていきましょう💪。",
       ],
       subsections: [
@@ -75,17 +75,17 @@ export const raceForCashLive: GameShowPageContent = {
         {
           subheading: "【レース・フォー・キャッシュ・ライブのRTP（還元率）】",
           gameName: "",
-          paragraphs: <Link href="/research/casino-payout-reports">
-            "「レース・フォー・キャッシュ・ライブ」の **[RTP（還元率）</Link>** は、ゲームモードによって異なります✨。</>,
+          paragraphs: [
+            "「レース・フォー・キャッシュ・ライブ」の **[RTP（還元率）</Link>** は、ゲームモードによって異なります✨。",
           ],
           bullets: [
             "**通常ゲーム時:** 95.75％",
             "**トーナメントサイドベット時:** 96.38％",
             "**ボーナスゲーム時:** 94.00％",
           ],
-          features: <a href="https://casinotsu.com/slots/high-rtp" target="_blank" rel="noopener noreferrer">
+          features: [
             "😤 **CasinoTsuの提言：どうせ遊ぶなら、高RTPで勝てる可能性のあるゲームで楽しみたいものです！**",
-            "[勝てるスロットTOP10！人気の高RTP機種特集ページ](https://www.casinotsu.com/slots) をぜひご確認ください。</>,
+            "[勝てるスロットTOP10！人気の高RTP機種特集ページ](https://www.casinotsu.com/slots) をぜひご確認ください。",
           ],
         },
         {
@@ -95,19 +95,19 @@ export const raceForCashLive: GameShowPageContent = {
             "**ボラティリティは低め** です❗️。",
             "レーサーが10名いるため、単純計算での的中確率は10%となりますが、低ボラティリティ設計のため、 **比較的安定したゲーム展開** が期待できます。",
           ],
-          features: <Link href="/slots/low-volatility">
+          features: [
             "🤓 **CasinoTsuの注目ポイント：少ない資金で堅実に成功を狙うプレイヤーの皆様へ**",
-            "[おすすめ人気ローボラティリティースロット</Link> をお好みのあなたはこちら</>,
+            "[おすすめ人気ローボラティリティースロット</Link> をお好みのあなたはこちら",
           ],
         },
         {
           subheading: "【最大配当倍率】",
           gameName: "",
-          paragraphs: <Link href="/slots">
+          paragraphs: [
             "「レース・フォー・キャッシュ・ライブ」における **最大配当は400倍** です！",
             "これは、 **トーナメントサイドベット** で獲得可能な配当となります🎁。",
             "**通常ゲームでは、3倍から20倍** の範囲で配当が得られます。",
-            "[**スロット**</Link> と比較すると控えめな数字ではありますが、テーブルゲームと比較すると高めの配当倍率と言えるでしょう🤑。</>,
+            "[**スロット**</Link> と比較すると控えめな数字ではありますが、テーブルゲームと比較すると高めの配当倍率と言えるでしょう🤑。",
             "**ゲームスピードは遅め**\n元々ゲームスピードが速くないことに加え、ライブゲームであるため、進行は比較的ゆったりとしています。よりスピーディーなプレイをご希望のお客様には、シングルプレイ版の「 **Race for Cash Single Player**」を推奨いたします。",
           ],
         },
@@ -159,9 +159,9 @@ export const raceForCashLive: GameShowPageContent = {
     {
       title: "グラフィックとサウンド",
       heading: "レース・フォー・キャッシュ・ライブのグラフィックとサウンド",
-      description: <Link href="/mobile">
+      description: [
         "**グラフィック**: ネオン街をイメージした都会的でおしゃれなデザインです。ボール抽選マシンは実写で映し出されます。",
-            "**モバイル対応**: 👍 対応しています。 [モバイル</Link> でも快適にプレイできます。</>,
+            "**モバイル対応**: 👍 対応しています。 [モバイル</Link> でも快適にプレイできます。",
         "**サウンド**: 落ち着いた、洗練された雰囲気のBGMと効果音です。",
         "画像：レース・フォー・キャッシュ・ライブ｜レースの様子",
       ],
@@ -209,22 +209,22 @@ export const raceForCashLive: GameShowPageContent = {
       heading: "プレイ中にトラブルが発生した場合",
       paragraphs: [
         "ゲームプレイ中に誤ってブラウザを閉じてしまうなど、予期せぬ事態が発生してもご安心ください。ゲームは進行しており、 **結果についてはゲーム履歴で確認可能** です。",
-        "万が一、ソフトウェア側やカジノ側で問題が発生した場合は、速やかに [カスタマーサポート](https://www.casinotsu.com/customer-support) へご連絡ください。</>,
+        "万が一、ソフトウェア側やカジノ側で問題が発生した場合は、速やかに [カスタマーサポート](https://www.casinotsu.com/customer-support) へご連絡ください。",
       ],
     },
     {
       heading: "レース・フォー・キャッシュ・ライブがお好きな方へおすすめのゲーム",
       paragraphs: [
-        "⚔ **CasinoTsuの洞察：同じゲームでも、ライブゲームとシングルプレイ版という二刀流で提供する姿勢は、プレイヤーの多様なニーズに応える[Quik Gaming](https://www.casinotsu.com/)社の特徴と言えます。**</>,
-        <><a href="https://casinotsu.com/providers/quik-gaming" target="_blank" rel="noopener noreferrer">Quik Gaming（クイックゲーミング）社のレビューをチェック！</>,
+        "⚔ **CasinoTsuの洞察：同じゲームでも、ライブゲームとシングルプレイ版という二刀流で提供する姿勢は、プレイヤーの多様なニーズに応える[Quik Gaming](https://www.casinotsu.com/)社の特徴と言えます。**",
+        <><a href="https://casinotsu.com/providers/quik-gaming" target="_blank" rel="noopener noreferrer">Quik Gaming（クイックゲーミング）社のレビューをチェック！",
       ],
       subsections: [
         {
           subheading: "",
           bullets: [
             "**レース・フォー・キャッシュ・シングルプレイ:** ライブゲームではありませんので、ご自身のペースでスムーズにプレイしたい方におすすめです👍。",
-            "**スーパーブロックス:** [ルーレット](https://www.casinotsu.com/roulette) のようなゲーム性を持っています🎡。</>,
-            <>**ホイール・オブ・ファイア:** 同じ <a href="https://casinotsu.com/providers/quik-gaming" target="_blank" rel="noopener noreferrer">Quik Gaming 社が提供するマネーホイールゲームです！</>,
+            "**スーパーブロックス:** [ルーレット](https://www.casinotsu.com/roulette) のようなゲーム性を持っています🎡。",
+            <>**ホイール・オブ・ファイア:** 同じ <a href="https://casinotsu.com/providers/quik-gaming" target="_blank" rel="noopener noreferrer">Quik Gaming 社が提供するマネーホイールゲームです！",
           ],
         },
       ],
@@ -252,8 +252,8 @@ export const raceForCashLive: GameShowPageContent = {
 
   summary: {
     heading: "レース・フォー・キャッシュ・ライブ | 総評・レビューまとめ",
-    paragraphs: <Link href="/live-casino">
-      "「レース・フォー・キャッシュ・ライブ」は、配当倍率決定後にレースが始まるというユニークなゲーム性を持っています。レースの主役は車ではなくボールですが、 **[ライブカジノ</Link> ならではの臨場感があり、観戦だけでも十分にお楽しみいただけます** 😆。</>,
+    paragraphs: [
+      "「レース・フォー・キャッシュ・ライブ」は、配当倍率決定後にレースが始まるというユニークなゲーム性を持っています。レースの主役は車ではなくボールですが、 **[ライブカジノ</Link> ならではの臨場感があり、観戦だけでも十分にお楽しみいただけます** 😆。",
       "ボーナスゲームの演出も、プレイヤーを飽きさせない工夫が凝らされています😁。",
       "CasinoTsuはこのゲームに興味を持たれたお客様に、ぜひ一度プレイしてみることをお勧めいたします♪",
       "**このゲームは、JSおよびHTML5テクノロジーによって開発されており、様々なデバイスで快適なプレイ環境を提供します。** また、デモバージョンも用意されていますので、実際のお金でプレイする前に、ゲームの感触を試してみるのも良いでしょう。",

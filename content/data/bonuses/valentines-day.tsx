@@ -15,19 +15,19 @@ export const valentinesDayPromotions: BonusPageContent = {
       casinoSlug: "duelbits",
       heading: "デュエルビッツ｜愛をこめたバレンタイン企画（2月14日 ～ 2月20日）",
       description: [
-        "今年のバレンタイン、暗号資産に特化したオンラインカジノ、[デュエルビッツ](https://www.casinotsu.com/) では、豪華なイベントが豊富にご用意されております(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧</>,
+        "今年のバレンタイン、暗号資産に特化したオンラインカジノ、[デュエルビッツ](https://www.casinotsu.com/) では、豪華なイベントが豊富にご用意されております(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧",
         "数々のイベントの中から、ご自身に合ったオファーを見つけて、存分にお楽しみください。",
         "**・キューピッドのハートハント（2月14日 ～ 2月18日）**",
         "期間中、デュエルビッツのサイト内に隠された10個のハートを発見された方には、ハート1個につき10ドル、すなわち最高100ドル獲得のチャンスがございます。😍💖",
         "ボーナスを受け取るには、ハート1つにつき対象スロットで100ドル以上のプレイが必要となります。🥳🎰 期間中は、積極的にプレイしてボーナス100ドル獲得を目指しましょう。o((>ω< ))o✨",
         "**・ライブブラックジャック・ギブアウェイ（2月14日 ～ 2月18日）**",
-        <>バレンタイン期間中、デュエルビッツの<a href="https://casinotsu.com/live-casino/live-blackjack" target="_blank" rel="noopener noreferrer">ライブブラックジャック テーブルでプレイされた方の中から、ランダムに「ラッキーハンド（ボーナス）」が当選いたします。賞金総額はなんと15,000ドルです。😳💥</>,
-        <>プレイしているだけでボーナスが当たる、大変お得な機会です。😎 <a href="https://casinotsu.com/blackjack" target="_blank" rel="noopener noreferrer">ブラックジャック をお好きなプレイヤー様は、ぜひご参加ください。💪🔥</>,
+        <>バレンタイン期間中、デュエルビッツの<a href="https://casinotsu.com/live-casino/live-blackjack" target="_blank" rel="noopener noreferrer">ライブブラックジャック テーブルでプレイされた方の中から、ランダムに「ラッキーハンド（ボーナス）」が当選いたします。賞金総額はなんと15,000ドルです。😳💥",
+        <>プレイしているだけでボーナスが当たる、大変お得な機会です。😎 <a href="https://casinotsu.com/blackjack" target="_blank" rel="noopener noreferrer">ブラックジャック をお好きなプレイヤー様は、ぜひご参加ください。💪🔥",
         "**・バレンタイン限定100％入金ボーナス（2月14日 ～ 2月18日）**",
         "デュエルビッツでは、バレンタイン期間限定で還元率100％の太っ腹な入金ボーナスもご提供しております。🥳🎉 ボーナスの最大額は100ドルです。💰",
         "初回入金時以外に、このような豪華な入金ボーナスを獲得できる機会は稀少です。(*✧×✧*) 入金をご検討中でしたら、今が絶好の機会です。",
         "デュエルビッツでは、その他にも賞金総額50,000ドルのバレンタイン限定トーナメントや、2月17日限定のレーキバック15％キャンペーンなど、ここではご紹介しきれないほどのスペシャルなプロモーションが予定されております。😎🌟 興味を持たれた方は、ぜひアクセスしてみてください。👇(●ˇ∀ˇ●)🤎",
-        <>**✨ジャパカジ限定『賭け条件無しの激あつフリスピ』もお見逃しなく！**\n\n<a href="https://casinotsu.com/offers/duelbits-exclusive" target="_blank" rel="noopener noreferrer">デュエルビッツの限定フリースピン最大500回の詳細 をご確認ください。</>,
+        <>**✨ジャパカジ限定『賭け条件無しの激あつフリスピ』もお見逃しなく！**\n\n<a href="https://casinotsu.com/offers/duelbits-exclusive" target="_blank" rel="noopener noreferrer">デュエルビッツの限定フリースピン最大500回の詳細 をご確認ください。",
       ],
       cta: {
         text: "デュエルビッツにアクセスする",
@@ -40,12 +40,12 @@ export const valentinesDayPromotions: BonusPageContent = {
       casinoSlug: "mystino",
       heading: "ミスティーノ｜LOVE & WIN バレンタイン抽選会（2月10日 ～ 2月16日）",
       description: [
-        "多くの方に愛される[ミスティーノ](https://www.casinotsu.com/reviews/mystino) では、バレンタインにふさわしいイベント「LOVE & WIN バレンタイン抽選会」が開催されております。(❁´◡`❁)</>,
+        "多くの方に愛される[ミスティーノ](https://www.casinotsu.com/reviews/mystino) では、バレンタインにふさわしいイベント「LOVE & WIN バレンタイン抽選会」が開催されております。(❁´◡`❁)",
         "キャンペーン期間中（2月10日 ～ 2月16日）に、7,500円または50ドル以上を入金しベットするだけで、抽選会にご参加いただけます。",
         "総額245,000円のボーナスが10名様に当たるチャンスです。😊🌟 しかも、賞金は賭け条件なしのリアルマネーでございます。😍❗❗",
         "この抽選会は、お一人様1回のみエントリー可能となっておりますので、高額な入金やベットの必要はございません。( •̀ ω •́ )✧",
         "抽選日は2月17日です。皆様のご当選を心よりお祈り申し上げます。(●ˇ∀ˇ●)🤞🍀✨",
-        <>🐰 **ミスティーノに登録するだけで入金不要ボーナス4500円♪**\n\n<a href="https://casinotsu.com/offers/mystino-exclusive" target="_blank" rel="noopener noreferrer">ミスティーノの オファー、ジャパカジ限定登録ボーナスの詳細もご確認ください。</>,
+        <>🐰 **ミスティーノに登録するだけで入金不要ボーナス4500円♪**\n\n<a href="https://casinotsu.com/offers/mystino-exclusive" target="_blank" rel="noopener noreferrer">ミスティーノの オファー、ジャパカジ限定登録ボーナスの詳細もご確認ください。",
       ],
       cta: {
         text: "バレンタイン抽選会に参加する",
@@ -58,7 +58,7 @@ export const valentinesDayPromotions: BonusPageContent = {
       casinoSlug: "konibet",
       heading: "コニベット｜PLAY’n GO 2025ぼっちキャンペーン（2月12日 ～ 2月26日）",
       description: [
-        "常にユニークなプロモーションで楽しませてくれる[コニベット](https://www.casinotsu.com/reviews/konibet) 😂 今年のバレンタインも期待を裏切りません。</>,
+        "常にユニークなプロモーションで楽しませてくれる[コニベット](https://www.casinotsu.com/reviews/konibet) 😂 今年のバレンタインも期待を裏切りません。",
         "この「PLAY’n GO 2025ぼっちキャンペーン」は、期間中（2月12日 ～ 2月26日）に、最低ベット額0.5ドル以上で対象ゲームをプレイし、「各ゲーム1ラウンドあたりの最高勝利倍率の合計値」を競うトーナメントです。😎🔥",
         "皆様が「少し分かりにくい」と感じられるかもしれませんが、ご安心ください。🙆‍♀️🌸",
         "このキャンペーンでは、勝利金額やベット額ではなく、各対象ゲームで「どれだけ高配当倍率の賞金を獲得できたか」を競います。😤✨",
@@ -69,7 +69,7 @@ export const valentinesDayPromotions: BonusPageContent = {
         "賞金総額は6,125ドル。😎😤 上位50名が賞金を獲得できます。1位の賞金は2,500ドルです。(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧",
         "残念ながら賞金を獲得できなかった参加者にも、抽選で100名様に20回のフリースピンが当たるチャンスがございます。( •̀ ω •́ )✧",
         "バレンタインに予定がない皆様は、ぜひ上位入賞を目指してプレイされてはいかがでしょうか。😎🔥",
-        <>😍 **ジャパカジ経由で追加のキャッシュスピン50回ゲット！**\n\n<a href="https://casinotsu.com/offers/konibet-exclusive" target="_blank" rel="noopener noreferrer">コニベットのオファー！ジャパカジ限定入金不要ボーナスもご確認ください。</>,
+        <>😍 **ジャパカジ経由で追加のキャッシュスピン50回ゲット！**\n\n<a href="https://casinotsu.com/offers/konibet-exclusive" target="_blank" rel="noopener noreferrer">コニベットのオファー！ジャパカジ限定入金不要ボーナスもご確認ください。",
       ],
       cta: {
         text: "ぼっちキャンペーンに参加 💪",
@@ -102,7 +102,7 @@ export const valentinesDayPromotions: BonusPageContent = {
         "**バレンタイントーナメント💖（2月10日 ～ 2月16日）**",
         "賞金総額10,000ユーロの「バレンタイントーナメント」が開催されます。**参加方法** は非常にシンプルです。(❁´◡`❁)👇",
         "① 開催期間中（2月10日 ～ 2月16日）に、トーナメント参加チケット（1ユーロ）をご購入ください。",
-        "② 対象ゲーム、[Nolimit City](https://www.casinotsu.com/providers/nolimit-city) 社の神話を元にしたスロット「Thor」をプレイしてください。🎰🌟</>,
+        "② 対象ゲーム、[Nolimit City](https://www.casinotsu.com/providers/nolimit-city) 社の神話を元にしたスロット「Thor」をプレイしてください。🎰🌟",
         "③ ランキング1位～400位までのプレイヤーが、総額10,000ユーロの賞金、もしくはフリースピンの豪華賞品を獲得できます。😎💰✨",
         "さらに、2月10日 ～ 2月13日の期間中は、無料でチケットを獲得できるチャンスもございます。🤩🔥",
         "獲得方法は、「バレンタインデー特設カテゴリー」のゲームを100スピン以上プレイするだけです。1日につき1枚、無料のトーナメントチケットを獲得できます！💖",
@@ -112,7 +112,7 @@ export const valentinesDayPromotions: BonusPageContent = {
         "**バレンタイン賞金ドロップ💰（1月24日～2月16日）**",
         "ラッキーニッキーでは、トーナメント以外にもバレンタイン限定の特別イベント「ワズダン バレンタインドロップ」が開催されております。(*✧×✧*)✨",
         "この「ワズダン バレンタインドロップ」への参加に、登録手続きなどは一切必要ございません。😤",
-        <>開催期間中（1月24日～2月16日）にラッキーニッキーにログインし、<a href="https://casinotsu.com/providers/wazdan" target="_blank" rel="noopener noreferrer">Wazdan 社の対象スロットをプレイするだけで、ランダムに現金のプレゼントを獲得できます。🎁💖</>,
+        <>開催期間中（1月24日～2月16日）にラッキーニッキーにログインし、<a href="https://casinotsu.com/providers/wazdan" target="_blank" rel="noopener noreferrer">Wazdan 社の対象スロットをプレイするだけで、ランダムに現金のプレゼントを獲得できます。🎁💖",
         "獲得した現金には、もちろん賭け条件はございませんので、そのまま出金も可能です。o((>ω< ))o💰🌸",
         "今年のバレンタインは、お気に入りのスロットを楽しみながら、ラッキーニッキーからチョコレートよりも嬉しいプレゼントをたくさん獲得しましょう。(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧",
         "ラッキーニッキーでは、ジャパカジ経由でご登録いただくと、無料のボーナス6,000円分をプレゼントしております。🥳🎉 この機会に、ぜひボーナスを獲得してお得にバレンタインイベントをお楽しみください。🍫🍭🧁✨",
@@ -155,7 +155,7 @@ export const valentinesDayPromotions: BonusPageContent = {
       paragraphs: [
         "バレンタインデーは、冬の最後のイベントとして、プレゼント交換なども行われる機会です。そのため、オンラインカジノにとっても、バレンタインはキャンペーンを積極的に展開したい時期となります。",
         "注目すべきオファーには、期間が短いものから、バレンタインデーをテーマにした甘い雰囲気のものまで、様々な種類がございます。(๑•̀ㅂ•́)و✧",
-        "まずは、一般的な[オンラインカジノでもらえるボーナス](https://www.casinotsu.com/bonuses) との違いを事前に確認し、あなたに最適な「バレンタイン期間限定お宝オファー」を見つけましょう。</>,
+        "まずは、一般的な[オンラインカジノでもらえるボーナス](https://www.casinotsu.com/bonuses) との違いを事前に確認し、あなたに最適な「バレンタイン期間限定お宝オファー」を見つけましょう。",
       ],
       subsections: [
         {
@@ -173,21 +173,21 @@ export const valentinesDayPromotions: BonusPageContent = {
         "バレンタインデーのようなプレゼント交換イベントの時期には、オンラインカジノも便乗してバレンタインデーオファーを多く提供します。🎁💝",
         "ここでは、現在最も人気のあるバレンタインデーオファーの特徴や種類をご紹介いたします。٩( ᐛ )و",
       ],
-      subsections: <a href="https://casinotsu.com/free-spins" target="_blank" rel="noopener noreferrer">
+      subsections: [
         {
           subheading: "バレンタインオファーのフリースピン",
           paragraphs: [
-            "すでにオンラインカジノのアカウントをお持ちの方にはお馴染みの「[フリースピン](https://www.casinotsu.com/free-spins)」♬</>,
-            <><a href="https://casinotsu.com/guides/high-roller" target="_blank" rel="noopener noreferrer">ハイローラー や <a href="https://casinotsu.com/bonuses/vip" target="_blank" rel="noopener noreferrer">VIP 会員の皆様には、限定オファーの一つとしてフリースピンが進呈されることがよくあります。🎁</>,
+            "すでにオンラインカジノのアカウントをお持ちの方にはお馴染みの「[フリースピン](https://www.casinotsu.com/free-spins)」♬",
+            <><a href="https://casinotsu.com/guides/high-roller" target="_blank" rel="noopener noreferrer">ハイローラー や <a href="https://casinotsu.com/bonuses/vip" target="_blank" rel="noopener noreferrer">VIP 会員の皆様には、限定オファーの一つとしてフリースピンが進呈されることがよくあります。🎁",
             "その他にも、ログインするだけで獲得できたり、トーナメントの賞品として、あるいはロイヤリティプログラムの一環としてステータスが上がった際に進呈されるなど、様々な方法でゲットできる嬉しいオファーとなっています。🎰(´▽`ʃ♡ƪ)",
             "バレンタインのキャンペーン期間中には、チョコレートの代わりにフリースピンがプレゼントされることもあります。💝😍",
-            <>🆓 **無料でスロットを楽しめるボーナス？！**\n\n<a href="https://casinotsu.com/free-spins" target="_blank" rel="noopener noreferrer">オンラインカジノのフリースピン でスロットを無料プレイしましょう。</>,
+            <>🆓 **無料でスロットを楽しめるボーナス？！**\n\n<a href="https://casinotsu.com/free-spins" target="_blank" rel="noopener noreferrer">オンラインカジノのフリースピン でスロットを無料プレイしましょう。",
           ],
         },
         {
           subheading: "バレンタイン期間限定のウェルカムボーナス",
           paragraphs: [
-            "オンラインカジノでは、バレンタインオファーとして、期間限定で[ウェルカムボーナス](https://www.casinotsu.com/bonuses/welcome-bonus) がアップグレードされることがあります。🤩</>,
+            "オンラインカジノでは、バレンタインオファーとして、期間限定で[ウェルカムボーナス](https://www.casinotsu.com/bonuses/welcome-bonus) がアップグレードされることがあります。🤩",
             "イベントの時期に合わせて、新規登録および初回入金を行うと、「普段よりもお得な豪華ボーナスがもらえる」といった特典が用意されることがあります。(❤´艸｀❤)",
             "常に最新情報をチェックしていれば、貴重なオファーに出会えるかもしれません。👀",
             "ジャパカジのオファー欄でも、注目すべきオファーを見つけ次第ご紹介してまいりますので、どうぞご期待ください。٩( ‘ω’ )و",
@@ -196,7 +196,7 @@ export const valentinesDayPromotions: BonusPageContent = {
         {
           subheading: "バレンタイン期間限定の入金不要ボーナス",
           paragraphs: [
-            "アカウントに新規登録するだけで[入金不要ボーナス](https://www.casinotsu.com/bonuses/no-deposit) がもらえるのであれば、多くの方が登録されることでしょう。🔥✨</>,
+            "アカウントに新規登録するだけで[入金不要ボーナス](https://www.casinotsu.com/bonuses/no-deposit) がもらえるのであれば、多くの方が登録されることでしょう。🔥✨",
             "バレンタインデー期間限定でプレゼントされる可能性があるものとしては、ニュースレターなどで「先着〇〇名様まで！」といった告知が行われることが考えられます。📩",
             "「しまった！」と思われた方、今すぐキャンペーンメールの受信設定をONにすることをおすすめいたします！？",
             "**具体的な入金不要ボーナス額（例）：**\n\n*   Goat Spins Casino: $50\n*   Casino Extreme: $250\n*   Casino Brango: $250\n*   MrO Casino: $150\n*   Eternal Slots Casino: $120",
@@ -206,10 +206,10 @@ export const valentinesDayPromotions: BonusPageContent = {
         {
           subheading: "バレンタインオファーの賭け条件なしボーナス",
           paragraphs: [
-            "オンラインカジノのバレンタインデーオファーの中でも、特に人気が高いのが、この賭け条件が1倍、または[出金条件なし](https://www.casinotsu.com/) のボーナスです。💕</>,
+            "オンラインカジノのバレンタインデーオファーの中でも、特に人気が高いのが、この賭け条件が1倍、または[出金条件なし](https://www.casinotsu.com/) のボーナスです。💕",
             "バレンタインデーをテーマにしたスロットは、それほど多くないかもしれませんが、通常人気のあるスロットも対象ゲームとなることがあります？！",
             "賭け条件のないボーナスであれば、勝利金を即座に出金できるため、絶対に見逃したくない特典です。(๑>◡<๑)💕",
-            <>🔰 **賭け条件についてご不明な点がある方はこちら**\n\n<a href="https://casinotsu.com/guides/wagering-requirements" target="_blank" rel="noopener noreferrer">出金条件・賭け条件 に関する詳細をご確認ください。</>,
+            <>🔰 **賭け条件についてご不明な点がある方はこちら**\n\n<a href="https://casinotsu.com/guides/wagering-requirements" target="_blank" rel="noopener noreferrer">出金条件・賭け条件 に関する詳細をご確認ください。",
           ],
         },
       ],
@@ -221,26 +221,26 @@ export const valentinesDayPromotions: BonusPageContent = {
         "オンラインカジノのバレンタインスロットは、日本にはない新鮮なデザインが魅力的に映ることが多く、個人的にも高評価です😍✨",
         "皆様は、どのスロットがお好みでしょうか？",
       ],
-      subsections: <a href="https://casinotsu.com/providers/red-tiger" target="_blank" rel="noopener noreferrer">
+      subsections: [
         {
           subheading: "1. ラッキーバレンタイン（Lucky Valentine）- RTP 95.08%",
           paragraphs: [
-            "| **基本情報** | **内容** |\n| :---------- | :------ |\n| ゲーム開発会社 | [**Red Tiger**](https://www.casinotsu.com/providers/red-tiger) |\n| リリース日 | 2017年1月30日 |\n| ペイライン | 20 |\n| ボラティリティ | 高 |\n| 最大配当倍率 | 800倍 |</>,
-            <>「<a href="https://casinotsu.com/slots/lucky-valentine" target="_blank" rel="noopener noreferrer"><strong>ラッキー・バレンタイン</strong>」の舞台は、愛とロマンスの都、パリです。💕（いつか訪れたいものです😮‍💨）</>,
+            "| **基本情報** | **内容** |\n| :---------- | :------ |\n| ゲーム開発会社 | [**Red Tiger**](https://www.casinotsu.com/providers/red-tiger) |\n| リリース日 | 2017年1月30日 |\n| ペイライン | 20 |\n| ボラティリティ | 高 |\n| 最大配当倍率 | 800倍 |",
+            <>「<a href="https://casinotsu.com/slots/lucky-valentine" target="_blank" rel="noopener noreferrer"><strong>ラッキー・バレンタイン</strong>」の舞台は、愛とロマンスの都、パリです。💕（いつか訪れたいものです😮‍💨）",
             "いたずら好きのキューピッドが、様々なイベントを仕掛けてくる様子は、まるで恋をしているかのようです。😮‍💨",
             "エッフェル塔のスキャッターシンボルを3つ集めると、ボーナスラウンドが発動します。グラフィックデザインは非常に魅力的で、性別を問わずお楽しみいただけるため、**おすすめ度ナンバーワン** です🌟",
-            <>📢 **業界人気堂々のNo1！**\n\n<a href="https://casinotsu.com/reviews/vera-john" target="_blank" rel="noopener noreferrer">ベラジョンカジノのVIPプログラム について、詳細はこちらでご確認ください。</>,
-            <>**👇スロットの質と量なら間違いないカジノで👇**\n\n<a href="https://go.casinotsu.com/vera-john" target="_blank" rel="noopener noreferrer">**👉 ベラジョンカジノでプレイする** 🍫</>,
+            <>📢 **業界人気堂々のNo1！**\n\n<a href="https://casinotsu.com/reviews/vera-john" target="_blank" rel="noopener noreferrer">ベラジョンカジノのVIPプログラム について、詳細はこちらでご確認ください。",
+            <>**👇スロットの質と量なら間違いないカジノで👇**\n\n<a href="https://go.casinotsu.com/vera-john" target="_blank" rel="noopener noreferrer">**👉 ベラジョンカジノでプレイする** 🍫",
           ],
         },
         {
           subheading: "2. バレンタインフォーチュン（Valentine’s Fortune）- RTP 96.30%",
           paragraphs: [
-            "| **基本情報** | **内容** |\n| :---------- | :------ |\n| ゲーム開発会社 | [**Spinomenal**](https://www.casinotsu.com/providers/spinomenal) |\n| リリース日 | 2021年2月8日 |\n| ペイライン | 100 |\n| ボラティリティ | 中～高 |\n| 最大配当倍率 | 3,000倍 |</>,
+            "| **基本情報** | **内容** |\n| :---------- | :------ |\n| ゲーム開発会社 | [**Spinomenal**](https://www.casinotsu.com/providers/spinomenal) |\n| リリース日 | 2021年2月8日 |\n| ペイライン | 100 |\n| ボラティリティ | 中～高 |\n| 最大配当倍率 | 3,000倍 |",
             "プレゼント、ハートの錠前、バラのスキャッターといったシンボルのデザインは、どれもハイセンスで、大人のバレンタインデーを演出します😍",
             "このスロットは、季節を問わずプレイできるでしょう。(๑>◡<๑)",
             "天使のWILDシンボルが6つ揃うと、3,000倍の勝利金が獲得できます！",
-            <>🐰 **まだアカウント登録がお済みでない方は、この機会にぜひ！**\n\n<a href="https://casinotsu.com/reviews/mystino" target="_blank" rel="noopener noreferrer">ミスティーノでValentine’s Fortuneをプレイしましょう💕</>,
+            <>🐰 **まだアカウント登録がお済みでない方は、この機会にぜひ！**\n\n<a href="https://casinotsu.com/reviews/mystino" target="_blank" rel="noopener noreferrer">ミスティーノでValentine’s Fortuneをプレイしましょう💕",
           ],
         },
         {
@@ -268,7 +268,7 @@ export const valentinesDayPromotions: BonusPageContent = {
             "| **基本情報** | **内容** |\n| :---------- | :------ |\n| ゲーム開発会社 | Wazdan |\n| リリース日 | 2020年8月26日 |\n| ペイライン | 2403 |\n| ボラティリティ | 低／中／高（*ゲーム内で設定可能） |\n| 最大配当倍率 | 9,500倍 |",
             "「THE・チョコレート」というデザインから、2月14日のために作られたようなゲームです🍫✨",
             "シンボルが3つ以上揃うと、リールを覆うチョコレートが溶け、右のチューブに溜まっていきます。チョコレートが満タンになると「チョコスピンボーナス（フリースピン）」が発動する演出は、バレンタイン前日の製菓作りにおけるワクワク感を彷彿とさせます😻",
-            "🎮 **カジノゲームをプレイしながらRPGを楽しめる**\n\n[カジ旅に登録してChoco Reelsをプレイしましょう！](https://www.casinotsu.com/reviews/casitabi)</>,
+            "🎮 **カジノゲームをプレイしながらRPGを楽しめる**\n\n[カジ旅に登録してChoco Reelsをプレイしましょう！](https://www.casinotsu.com/reviews/casitabi)",
           ],
         },
       ],
@@ -280,24 +280,24 @@ export const valentinesDayPromotions: BonusPageContent = {
         "そう、恋人たちが愛（LOVE）を表現する日がバレンタインデーです👩💝🧑",
         "この時期にオンラインカジノでバレンタイン気分を満喫するなら、以下のようなスロットと時間を共有するのはいかがでしょうか。",
       ],
-      subsections: <a href="https://casinotsu.com/providers/play-n-go" target="_blank" rel="noopener noreferrer">
+      subsections: [
         {
           subheading: "1. ムーンプリンセス・パワー・オブ・ラブ（Moon Princess Power of Love）- RTP 94.2%",
           paragraphs: [
-            "| **基本情報** | **内容** |\n| :---------- | :------ |\n| ゲーム開発会社 | [**Play’n Go**](LINK_NEEDS_REPAIR) |\n| リリース日 | 2024年1月15日 |\n| ペイライン | クラスター式 |\n| ボラティリティ | 高 |\n| 最大配当倍率 | 15,000倍 |</>,
-            <>伝説的な人気スロット「<a href="https://casinotsu.com/slots/moon-princess" target="_blank" rel="noopener noreferrer">ムーンプリンセス」シリーズに、史上初の男性キャラクターが登場し、「<a href="https://casinotsu.com/slots/moon-princess-power-of-love" target="_blank" rel="noopener noreferrer">ムーンプリンセス・パワー・オブ・ラブ」が新作としてリリースされました🤵</>,
+            "| **基本情報** | **内容** |\n| :---------- | :------ |\n| ゲーム開発会社 | <a href="https://casinotsu.com/providers/play-n-go" target="_blank" rel="noopener noreferrer"><strong>Play'n Go</strong></a> |\n| リリース日 | 2024年1月15日 |\n| ペイライン | クラスター式 |\n| ボラティリティ | 高 |\n| 最大配当倍率 | 15,000倍 |",
+            <>伝説的な人気スロット「<a href="https://casinotsu.com/slots/moon-princess" target="_blank" rel="noopener noreferrer">ムーンプリンセス」シリーズに、史上初の男性キャラクターが登場し、「<a href="https://casinotsu.com/slots/moon-princess-power-of-love" target="_blank" rel="noopener noreferrer">ムーンプリンセス・パワー・オブ・ラブ」が新作としてリリースされました🤵",
             "タキシード仮面のような王子様たちと共に、愛の力でさらに爆発的なパワーアップを目指しましょう⤴⤴",
-            <>日本のオンラインカジノ界で注目のバレンタイン<a href="https://casinotsu.com/slots/new-slots" target="_blank" rel="noopener noreferrer">新作スロット で、LOVEを感じながら真実の愛を狙いましょう😍💕</>,
-            <>🌙 **ムーンプリンセス・パワー・オブ・ラブでプレイするならこちら♪**\n\n<a href="https://casinotsu.com/reviews/k8" target="_blank" rel="noopener noreferrer">K8カジノでMoon Princess Power of Loveをプレイ</>,
+            <>日本のオンラインカジノ界で注目のバレンタイン<a href="https://casinotsu.com/slots/new-slots" target="_blank" rel="noopener noreferrer">新作スロット で、LOVEを感じながら真実の愛を狙いましょう😍💕",
+            <>🌙 **ムーンプリンセス・パワー・オブ・ラブでプレイするならこちら♪**\n\n<a href="https://casinotsu.com/reviews/k8" target="_blank" rel="noopener noreferrer">K8カジノでMoon Princess Power of Loveをプレイ",
           ],
         },
         {
           subheading: "2. スロット彼女・天音（SlotGF Amane）- RTP 96.95%",
           paragraphs: [
-            "| **基本情報** | **内容** |\n| :---------- | :------ |\n| ゲーム開発会社 | [**Yolted**](https://www.casinotsu.com/providers/yolted) |\n| リリース日 | 2020年1月20日 |\n| ペイライン | 5 |\n| ボラティリティ | 高 |\n| 最大配当倍率 | 1,000倍 |</>,
-            <>バレンタインデーは、皆様のマドンナ「<a href="https://casinotsu.com/slots/slot-gf-amane" target="_blank" rel="noopener noreferrer">スロット彼女 天音」で決まりです👍👍</>,
-            <><a href="https://casinotsu.com/reviews/casitabi" target="_blank" rel="noopener noreferrer">カジ旅 や <a href="https://casinotsu.com/reviews/casino-me" target="_blank" rel="noopener noreferrer">カジノミー 限定でプレイできるこのスロットでは、プレイ中にスピンを停止して時間が経過すると、画面右で微笑んでいるヒロイン「あまね（天音）ちゃん」が拗ねてしまいます。怒らせないように注意しましょう😂💕</>,
-            <>**🛫カジ旅の新しい姉妹カジノが登場！**\n\n<a href="https://casinotsu.com/reviews/casino-sky" target="_blank" rel="noopener noreferrer">カジノスカイに登録するだけで入金不要ボーナス7777円がもらえます</>,
+            "| **基本情報** | **内容** |\n| :---------- | :------ |\n| ゲーム開発会社 | [**Yolted**](https://www.casinotsu.com/providers/yolted) |\n| リリース日 | 2020年1月20日 |\n| ペイライン | 5 |\n| ボラティリティ | 高 |\n| 最大配当倍率 | 1,000倍 |",
+            <>バレンタインデーは、皆様のマドンナ「<a href="https://casinotsu.com/slots/slot-gf-amane" target="_blank" rel="noopener noreferrer">スロット彼女 天音」で決まりです👍👍",
+            <><a href="https://casinotsu.com/reviews/casitabi" target="_blank" rel="noopener noreferrer">カジ旅 や <a href="https://casinotsu.com/reviews/casino-me" target="_blank" rel="noopener noreferrer">カジノミー 限定でプレイできるこのスロットでは、プレイ中にスピンを停止して時間が経過すると、画面右で微笑んでいるヒロイン「あまね（天音）ちゃん」が拗ねてしまいます。怒らせないように注意しましょう😂💕",
+            <>**🛫カジ旅の新しい姉妹カジノが登場！**\n\n<a href="https://casinotsu.com/reviews/casino-sky" target="_blank" rel="noopener noreferrer">カジノスカイに登録するだけで入金不要ボーナス7777円がもらえます",
           ],
         },
         {
@@ -306,27 +306,27 @@ export const valentinesDayPromotions: BonusPageContent = {
             "| **基本情報** | **内容** |\n| :---------- | :------ |\n| ゲーム開発会社 | Play’n Go |\n| リリース日 | 2022年1月20日 |\n| ペイライン | 5 |\n| ボラティリティ | 中 |\n| 最大配当倍率 | 1,008倍 |",
             "クラシックなジョーカーシリーズに、LOVE要素をふんだんに盛り込んだ人気スロット「ラブ・ジョーカー」🦹‍♂️🙌",
             "ラブ・リスピンでは、スピン中にハートシンボルが出現すると、愛の力で配当アップのチャンスがあります💖 「ホールド＆ウィン」機能により、スピン中に少なくとも1つのハートシンボルが着地する限り、リスピンは継続します(´▽`ʃ♡ƪ)",
-            "😍 **ジャパカジ経由で追加のキャッシュスピン50回ゲット！**\n\n[コニベット（konibet）でラブ・ジョーカーをプレイ♡](https://www.casinotsu.com/reviews/konibet)</>,
+            "😍 **ジャパカジ経由で追加のキャッシュスピン50回ゲット！**\n\n[コニベット（konibet）でラブ・ジョーカーをプレイ♡](https://www.casinotsu.com/reviews/konibet)",
           ],
         },
         {
           subheading: "4. マジックメイドカフェ（Magic Maid Cafe）- RTP 95.97%",
           paragraphs: [
-            "| **基本情報** | **内容** |\n| :---------- | :------ |\n| ゲーム開発会社 | [**Netent**](https://www.casinotsu.com/providers/netent) |\n| リリース日 | 2019年10月9日 |\n| ペイライン | 20 |\n| ボラティリティ | 中〜高 |\n| 最大配当倍率 | 2,300倍 |</>,
+            "| **基本情報** | **内容** |\n| :---------- | :------ |\n| ゲーム開発会社 | [**Netent**](https://www.casinotsu.com/providers/netent) |\n| リリース日 | 2019年10月9日 |\n| ペイライン | 20 |\n| ボラティリティ | 中〜高 |\n| 最大配当倍率 | 2,300倍 |",
             "甘いもの好きの皆様にはたまらないシンボルたちです💕😆",
-            <>もしバレンタインデーを一人で過ごすとしても、可愛い萌えキュンなメイドさんが愛情たっぷりのスイーツで出迎えてくれる「<a href="https://casinotsu.com/slots/magic-maid-cafe" target="_blank" rel="noopener noreferrer">マジックメイドカフェ」があれば心配いりません😉✨</>,
-            <>**👾入金不要ボーナス4,500円＋フリースピン20回分の超お得なオファーを見逃すなっ！** <a href="https://casinotsu.com/reviews/bons" target="_blank" rel="noopener noreferrer">ボンズカジノでマジックメイドカフェをプレイ♪</>,
+            <>もしバレンタインデーを一人で過ごすとしても、可愛い萌えキュンなメイドさんが愛情たっぷりのスイーツで出迎えてくれる「<a href="https://casinotsu.com/slots/magic-maid-cafe" target="_blank" rel="noopener noreferrer">マジックメイドカフェ」があれば心配いりません😉✨",
+            <>**👾入金不要ボーナス4,500円＋フリースピン20回分の超お得なオファーを見逃すなっ！** <a href="https://casinotsu.com/reviews/bons" target="_blank" rel="noopener noreferrer">ボンズカジノでマジックメイドカフェをプレイ♪",
           ],
         },
         {
           subheading: "5. スウィートピア・ロワイヤル（Sweetopia Royale）-RTP96.1% ～ 94%",
           paragraphs: [
-            "| **基本情報** | **内容** |\n| :---------- | :------ |\n| ゲーム開発会社 | **[Relax Gaming](https://www.casinotsu.com/providers/relax-gaming)** |\n| リリース日 | 2024年2月27日 |\n| ペイライン | クラスター式 |\n| ボラティリティ | 中～高 |\n| 最大配当倍率 | 5,000倍 |</>,
+            "| **基本情報** | **内容** |\n| :---------- | :------ |\n| ゲーム開発会社 | **[Relax Gaming](https://www.casinotsu.com/providers/relax-gaming)** |\n| リリース日 | 2024年2月27日 |\n| ペイライン | クラスター式 |\n| ボラティリティ | 中～高 |\n| 最大配当倍率 | 5,000倍 |",
             "バレンタインの魅力といえば、恋人から贈られる甘～いスイーツですよね(❁´◡`❁)🍭🧁 Relax Gaming社の「スウィートピア・ロワイヤル」では、この季節にぴったりのラブリーでキュートなスイーツをお楽しみいただけます💖",
             "ケーキ🍰やキャンディー🍭がシンボルの可愛らしいスロットですが、それだけではありません😤🔥",
             "ゲーム中には、3つの特別なシンボルで勝利金をさらに増やすイベントが発生したり、突然大きな勝利の塊が降ってくる「スイートサプライズ」など、楽しい特別機能やイベントが満載で、お腹いっぱい楽しめます(●ˇ∀ˇ●)🍰✨",
             "中～高ボラティリティにより、適度なスリルを味わえるのもおすすめポイントです🥳🎉",
-            <>**🧁スウィートピア・ロワイヤルをプレイするならこのカジノ♪**\n\n<a href="https://casinotsu.com/reviews/mystino" target="_blank" rel="noopener noreferrer">幅広い層に人気のカジノ「ミスティーノ」のレビューページはこちらです。</>,
+            <>**🧁スウィートピア・ロワイヤルをプレイするならこのカジノ♪**\n\n<a href="https://casinotsu.com/reviews/mystino" target="_blank" rel="noopener noreferrer">幅広い層に人気のカジノ「ミスティーノ」のレビューページはこちらです。",
           ],
         },
       ],
@@ -336,13 +336,13 @@ export const valentinesDayPromotions: BonusPageContent = {
       paragraphs: [
         "今シーズンのおすすめスロットをご紹介しましたが、オンラインカジノには他にもバレンタインデーをテーマにしたスロットが多数ございます🤩🎰",
         "今回は全てをご紹介できませんでしたが、人気ゲームは他にもたくさんありますので、こちらもぜひチェックしてみてください👀",
-        "*   **Valentine Monchy** – [**Habanero**](https://www.casinotsu.com/slots) 社\n*   **Valentine Collection** – Spinomenal社\n*   **Heart’s Desire** – <a href="https://casinotsu.com/providers/betsoft" target="_blank" rel="noopener noreferrer"><strong>Betsoft</strong> 社\n*   **Cupid**– <a href="https://casinotsu.com/providers/endorphina" target="_blank" rel="noopener noreferrer"><strong>Endorphina</strong> 社\n*   **Wild Love** – Endorphina\n*   **Eternal Love** (Golden Euro Casino promo)\n*   **Sweet 16** (Springbok Casino)\n*   **Coins of Zeus** (Vegas Crest Casino promo)\n*   **Crystal Clash** (RitzSlots)\n*   **Love is in the Fair**</>,
+        "*   **Valentine Monchy** – [**Habanero**](https://www.casinotsu.com/slots) 社\n*   **Valentine Collection** – Spinomenal社\n*   **Heart’s Desire** – <a href="https://casinotsu.com/providers/betsoft" target="_blank" rel="noopener noreferrer"><strong>Betsoft</strong> 社\n*   **Cupid**– <a href="https://casinotsu.com/providers/endorphina" target="_blank" rel="noopener noreferrer"><strong>Endorphina</strong> 社\n*   **Wild Love** – Endorphina\n*   **Eternal Love** (Golden Euro Casino promo)\n*   **Sweet 16** (Springbok Casino)\n*   **Coins of Zeus** (Vegas Crest Casino promo)\n*   **Crystal Clash** (RitzSlots)\n*   **Love is in the Fair**",
       ],
     },
     {
       heading: "オンラインカジノのバレンタインは、チョコより勝利をゲットしちゃえ🍫",
       paragraphs: [
-        "今年のオンラインカジノは、昨年以上にバレンタイン[オファー](https://www.casinotsu.com/) が豊富です🍫✨</>,
+        "今年のオンラインカジノは、昨年以上にバレンタイン[オファー](https://www.casinotsu.com/) が豊富です🍫✨",
         "美味しいチョコレートも魅力的ですが、この時期限定の特別な甘いキャンペーンやバレンタインデースロットで勝利を目指すのも、素敵な過ごし方ですね🐰💝",
         "バレンタインデーを自宅で過ごす方も、そうでない方も！オンラインカジノの世界で、バレンタインの特別オファーを存分にお楽しみください💖",
         "ハッピーバレンタイン(❤´艸｀❤)",

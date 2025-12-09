@@ -70,7 +70,7 @@ CasinoTsu が本記事で紹介するギャンブル関連の統計データは�
 
 数年前までの米国ではその数はかなり異なり、 **オンラインカジノ** でプレイしていると答えたのは **わずか3％** でした。しかし2018年、米国のオンラインギャンブル市場の収益は3,065億ドルにまで達し、この数字は数年間で急増加しています。近年のデータでは、**アメリカのギャンブル市場全体の年間収益は600億ドルをはるかに超える** と推定されており、その規模は計り知れません。
 
-以前、CasinoTsu は **[国別でギャンブルの損失額のランキング](LINK_NEEDS_REPAIR)を紹介** しましたが、あれから変動はあったのか、最新の世界の成人一人頭のギャンブル損失額を発表します！
+以前、CasinoTsu は **<a href="https://casinotsu.com/info/biggest-gambling-countries#loss-ranking-by-country" target="_blank" rel="noopener noreferrer">国別でギャンブルの損失額のランキング</a>を紹介** しましたが、あれから変動はあったのか、最新の世界の成人一人頭のギャンブル損失額を発表します！
 
 **👀ホットなオンカジニュースをCasinoTsuからお届け** <a href="https://casinotsu.com/news" target="_blank" rel="noopener noreferrer">最新オンラインカジノ情報はここからキャッチ！
       `,

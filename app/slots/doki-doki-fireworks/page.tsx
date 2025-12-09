@@ -702,6 +702,9 @@ const data: SlotPageData = {
       ],
     },
     {
+      heading: "関連ゲーム",
+      relatedGames: [
+        {
           name: "ムーンプリンセス (Play'n GO)",
           href: "/slots/moon-princess",
           provider: "Play'n GO",
@@ -713,7 +716,7 @@ const data: SlotPageData = {
           provider: "JTG",
           description: "ビキニ姿の女性が登場する、日本のパチスロファンにも人気のスロット。",
         },
-        ],
+      ],
     },
     {
       heading: "11. まとめ",

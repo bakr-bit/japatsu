@@ -96,7 +96,7 @@ export const offers: BonusPageContent = {
     {
       heading: "2025年の市場トレンドと注目のオファー",
       paragraphs: [
-        "2025年のオンラインカジノ市場は、競争の激化と共に、より太っ腹で魅力的なオファーが増加すると予想されます。特に、モバイルデバイスでのプレイを最優先した「モバイルファースト」のボーナス提供が拡大し、モバイル限定のボーナスが登場する可能性もあります。また、仮想通貨（クリプト）を利用したプレイや出金への注目も高まっており、これに対応した[**ボーナス**](https://www.casinotsu.com/bonuses)も増えていくでしょう。一方で、出金前の本人確認（KYC）手続きは、より厳格化される傾向にあります。ボーナスコードの入力が不要で、即座に利用できるボーナスも増加し、よりスムーズな体験が期待できます。</>,
+        "2025年のオンラインカジノ市場は、競争の激化と共に、より太っ腹で魅力的なオファーが増加すると予想されます。特に、モバイルデバイスでのプレイを最優先した「モバイルファースト」のボーナス提供が拡大し、モバイル限定のボーナスが登場する可能性もあります。また、仮想通貨（クリプト）を利用したプレイや出金への注目も高まっており、これに対応した[**ボーナス**](https://www.casinotsu.com/bonuses)も増えていくでしょう。一方で、出金前の本人確認（KYC）手続きは、より厳格化される傾向にあります。ボーナスコードの入力が不要で、即座に利用できるボーナスも増加し、よりスムーズな体験が期待できます。",
       ],
     },
     {
@@ -117,8 +117,8 @@ export const offers: BonusPageContent = {
         {
           subheading: "ボーナスはどのように機能するのか？",
           paragraphs: [
-            "ボーナスには様々な種類がありますが、ここでは代表的な「[**入金不要ボーナス**](https://www.casinotsu.com/bonuses/no-deposit)」（No Deposit Bonus）と「フリースピン」の仕組みを解説します。</>,
-            <>*   **入金不要ボーナス（No Deposit Bonus）**:\n    *   カジノに登録するだけで、入金せずに受け取れるボーナスマネーです。\n    *   少額（例: $5～$50、または日本円で数百円～数千円相当）であることが多いですが、カジノによっては$100を超える高額なボーナスが提供されることもあります。\n    *   **注意点**: 通常、<a href="https://www.casinotsu.com/bonuses/wagering-calculator" target="_blank" rel="noopener noreferrer"><strong>賭け条件</strong>（後述）が設定されており、ボーナス額の数倍～数十倍を賭ける必要があります。また、最大出金可能額が$100～$200程度に制限されていることが一般的です。\n    *   **例**: $50の入金不要ボーナスで賭け条件が30倍の場合、$50 x 30 = $1,500を賭ける必要があります。</>,
+            "ボーナスには様々な種類がありますが、ここでは代表的な「[**入金不要ボーナス**](https://www.casinotsu.com/bonuses/no-deposit)」（No Deposit Bonus）と「フリースピン」の仕組みを解説します。",
+            <>*   **入金不要ボーナス（No Deposit Bonus）**:\n    *   カジノに登録するだけで、入金せずに受け取れるボーナスマネーです。\n    *   少額（例: $5～$50、または日本円で数百円～数千円相当）であることが多いですが、カジノによっては$100を超える高額なボーナスが提供されることもあります。\n    *   **注意点**: 通常、<a href="https://www.casinotsu.com/bonuses/wagering-calculator" target="_blank" rel="noopener noreferrer"><strong>賭け条件</strong>（後述）が設定されており、ボーナス額の数倍～数十倍を賭ける必要があります。また、最大出金可能額が$100～$200程度に制限されていることが一般的です。\n    *   **例**: $50の入金不要ボーナスで賭け条件が30倍の場合、$50 x 30 = $1,500を賭ける必要があります。",
             "*   **フリースピン（Free Spins）**:\n    *   特定のスロットゲームを無料でプレイできる権利です。\n    *   回数（例: 20回、50回、最大500回）や、1スピンあたりのベット額が指定されています。\n    *   **注意点**: フリースピンで得た勝利金には、通常、賭け条件が適用されます。また、プレイできるゲームが限定されている場合が多いです。\n    *   **例**: 100回のフリースピン（1スピン=$0.1）で、$20の勝利金を得た場合、賭け条件が20倍なら、$20 x 20 = $400を賭ける必要があります。",
           ],
         },
@@ -141,10 +141,10 @@ export const offers: BonusPageContent = {
         {
           subheading: "新しいオンラインカジノのオファーを狙う",
           paragraphs: [
-            "例えばCasinoTsuで紹介する[**最新カジノ**](https://www.casinotsu.com/)は、日本市場に進出したばかりで、日本人プレイヤーがまだ少ない可能性があります。こうした新カジノに登録し、「登録ボーナスは受け取ったものの、あまりプレイしていない」という方もいるでしょう。</>,
+            "例えばCasinoTsuで紹介する[**最新カジノ**](https://www.casinotsu.com/)は、日本市場に進出したばかりで、日本人プレイヤーがまだ少ない可能性があります。こうした新カジノに登録し、「登録ボーナスは受け取ったものの、あまりプレイしていない」という方もいるでしょう。",
             "このような **新カジノが日本人限定キャンペーンやトーナメントを開催** したら、まさに **狙い目** です！最新オンカジボーナスをゲットする絶好のチャンスとなります。",
             "さらに、 **CasinoTsuと限定コラボ** キャンペーンとなれば、参加者はさらに少なくなり、より美味しい思いができる可能性が高まります。これは **超お得なカジノキャンペーン** ですので、見つけたら見逃さずに挑戦しましょう！",
-            <>カジノの知名度が上がり、日本人プレイヤーが増えれば賞品獲得の可能性は下がりますが、それでも日本人限定キャンペーンやトーナメントは、 **通常の全プレイヤー対象キャンペーンよりも有利** であることは間違いありません。もちろん、<a href="https://www.casinotsu.com/guides/high-roller \"ハイローラーって？\"" target="_blank" rel="noopener noreferrer"><strong>ハイローラープレイヤー</strong>のように資金力がある方は、ほとんどのトーナメントで有利になりますが、一般プレイヤーでもチャンスは十分にあります。</>,
+            <>カジノの知名度が上がり、日本人プレイヤーが増えれば賞品獲得の可能性は下がりますが、それでも日本人限定キャンペーンやトーナメントは、 **通常の全プレイヤー対象キャンペーンよりも有利** であることは間違いありません。もちろん、<a href="https://www.casinotsu.com/guides/high-roller \"ハイローラーって？\"" target="_blank" rel="noopener noreferrer"><strong>ハイローラープレイヤー</strong>のように資金力がある方は、ほとんどのトーナメントで有利になりますが、一般プレイヤーでもチャンスは十分にあります。",
             "日本語サイトをオープンして間もないカジノの日本限定キャンペーンでは、 **参加者が数十人程度** ということも珍しくありません。テレビや雑誌の懸賞と比較すると、オンラインカジノのキャンペーンやトーナメントは、 **当選確率が何千倍も高い** と言えるでしょう。",
             "**【まとめ】**\n✅ 新しいオンラインカジノのキャンペーン参加者は少ない可能性大！\n✅ 日本限定ならさらに要チェック★",
           ],
@@ -156,9 +156,9 @@ export const offers: BonusPageContent = {
             "実は、日本人プレイヤーはヨーロピアンプレイヤーに比べて **資金力** がある傾向があります。ヨーロピアンプレイヤーの数は日本人より圧倒的に多いですが、一人ひとりの資金力は日本人ほどではない、というのが、かつてオンラインカジノのサポートとして働き、他国のプレイヤーの様子も見てきた経験から感じることです。ヨーロピアンプレイヤーは、娯楽として気軽にプレイする感覚が強いようです。",
             "そのため、全プレイヤー対象のトーナメントでも、日本人プレイヤーが本気を出して参加すれば、 **上位に食い込む可能性は十分にあります**。",
             "**【まとめ】**\n✅ 全マーケット対象でも、恐れる必要はありません！",
-            "⇓ 賭け条件5倍の入金不要ボーナスが貰える、 **[ワンダーカジノ](https://www.casinotsu.com/reviews/wonder-casino)** ！！⇓</>,
-            <><a href="https://go.casinotsu.com/go/wonder-casino" target="_blank" rel="noopener noreferrer">👉 **ワンダーカジノ公式サイトへ！**</>,
-            <>🔰ボーナスって？？って思った方はこちら 様々な <a href="https://www.casinotsu.com/bonuses" target="_blank" rel="noopener noreferrer">オンラインカジノでもらえるボーナス の種類を見てみましょう！</>,
+            "⇓ 賭け条件5倍の入金不要ボーナスが貰える、 **[ワンダーカジノ](https://www.casinotsu.com/reviews/wonder-casino)** ！！⇓",
+            <><a href="https://go.casinotsu.com/go/wonder-casino" target="_blank" rel="noopener noreferrer">👉 **ワンダーカジノ公式サイトへ！**",
+            <>🔰ボーナスって？？って思った方はこちら 様々な <a href="https://www.casinotsu.com/bonuses" target="_blank" rel="noopener noreferrer">オンラインカジノでもらえるボーナス の種類を見てみましょう！",
           ],
         },
       ],
@@ -170,16 +170,16 @@ export const offers: BonusPageContent = {
         "Rさんは、 **「トーナメントで1位になりました〜♪」** と教えてくれました。どのキャンペーンか、詳細を尋ねたところ、なんとそれは **24時間限定のトーナメント** だったとのこと。参加者も少なかったのでしょう。",
         "このトーナメントは、$1,000の賞金が15位までの日本人プレイヤーで山分けされるものでしたが、 **参加者が15人に満たなかった** そうです！つまり、参加した全員が賞品を獲得できたという、非常に美味しいキャンペーンでした。私も参加すればよかったと後悔しています…。",
         "Rさんは、オンラインカジノが大好きで、キャンペーン前日からデモプレイで **「どういう順番でスロットを回せば良いか」** という戦略を事前に練っていたそうです。素晴らしいですね！そしてキャンペーン当日、スロットの調子も非常に良かったとのこと。改めて、Rさん、おめでとうございます！🎉",
-        "[**インターネットカジノ**](https://www.casinotsu.com/slots) のキャンペーンやトーナメントに参加したことがない方も、ぜひ狙い目のカジノを見つけて一度参加してみてはいかがでしょうか？ もちろん、<a href="https://www.casinotsu.com/bonuses/no-deposit" target="_blank" rel="noopener noreferrer"><strong>未入金ボーナス</strong> があるカジノも多数ありますので、そういったキャンペーンをフル活用しましょう。</>,
+        "[**インターネットカジノ**](https://www.casinotsu.com/slots) のキャンペーンやトーナメントに参加したことがない方も、ぜひ狙い目のカジノを見つけて一度参加してみてはいかがでしょうか？ もちろん、<a href="https://www.casinotsu.com/bonuses/no-deposit" target="_blank" rel="noopener noreferrer"><strong>未入金ボーナス</strong> があるカジノも多数ありますので、そういったキャンペーンをフル活用しましょう。",
       ],
     },
     {
       heading: "ボーナスを最大限に活用するための戦略と注意点",
-      subsections: <a href="https://www.casinotsu.com/tools/rtp-comparison" target="_blank" rel="noopener noreferrer">
+      subsections: [
         {
           subheading: "① 高いRTP（還元率）のゲームを選ぶ",
           paragraphs: [
-            "ボーナスを利用する際は、[**RTP**](https://www.casinotsu.com/bonuses)（Return to Player）が高いゲームを選ぶことが重要です。RTPはプレイヤーに還元される金額の割合を示しており、一般的に96%以上のゲームが推奨されます。RTPが高いゲームほど、長期的に見てプレイヤーが損失を被るリスクが低くなります。</>,
+            "ボーナスを利用する際は、[**RTP**](https://www.casinotsu.com/bonuses)（Return to Player）が高いゲームを選ぶことが重要です。RTPはプレイヤーに還元される金額の割合を示しており、一般的に96%以上のゲームが推奨されます。RTPが高いゲームほど、長期的に見てプレイヤーが損失を被るリスクが低くなります。",
           ],
         },
         {
@@ -198,7 +198,7 @@ export const offers: BonusPageContent = {
         {
           subheading: "④ 限定オファーや高キャッシュアウトのオファーを探す",
           paragraphs: [
-            "CasinoTsuのようなサイトが提供する[**限定オファー**](https://www.casinotsu.com/)には、賭け条件が低かったり、最大出金可能額が高く設定されている場合があります。これらの特別なオファーを見つけることで、より有利にボーナスを活用できます。</>,
+            "CasinoTsuのようなサイトが提供する[**限定オファー**](https://www.casinotsu.com/)には、賭け条件が低かったり、最大出金可能額が高く設定されている場合があります。これらの特別なオファーを見つけることで、より有利にボーナスを活用できます。",
           ],
         },
         {
@@ -217,12 +217,12 @@ export const offers: BonusPageContent = {
     },
     {
       heading: "信頼性と安全性について",
-      subsections: <a href="https://www.casinotsu.com/info/casino-license" target="_blank" rel="noopener noreferrer">
+      subsections: [
         {
           subheading: "信頼できるオファーの見分け方",
           paragraphs: [
             "「あまりにも美味しすぎる」と感じるオファーには注意が必要です。例えば、法外に高いボーナス額や、極端に低い賭け条件などを謳う場合は、詐欺的なオファーである可能性があります。",
-            "**信頼できるカジノオファーの条件**:\n*   **ライセンス**: イギリスギャンブル委員会（UKGC）、マルタゲーミングオーソリティ（MGA）、キュラソー eGaming、カナワキゲーミングコミッションなど、信頼できる第三者機関によって発行されたライセンスを保有しているカジノであること。[**カジノライセンス**](https://www.casinotsu.com/bonuses) に関する詳細もご確認ください。\n*   **明確な規約**: ボーナスの賭け条件、最大出金可能額、対象ゲームなどが明確に記載されていること。\n*   **評判**: 他のプレイヤーからのレビューや評価が高いこと。</>,
+            "**信頼できるカジノオファーの条件**:\n*   **ライセンス**: イギリスギャンブル委員会（UKGC）、マルタゲーミングオーソリティ（MGA）、キュラソー eGaming、カナワキゲーミングコミッションなど、信頼できる第三者機関によって発行されたライセンスを保有しているカジノであること。[**カジノライセンス**](https://www.casinotsu.com/bonuses) に関する詳細もご確認ください。\n*   **明確な規約**: ボーナスの賭け条件、最大出金可能額、対象ゲームなどが明確に記載されていること。\n*   **評判**: 他のプレイヤーからのレビューや評価が高いこと。",
           ],
         },
         {
@@ -241,23 +241,23 @@ export const offers: BonusPageContent = {
     },
     {
       heading: "入出金方法とモバイル対応",
-      subsections: <a href="https://www.casinotsu.com/payment/muchbetter" target="_blank" rel="noopener noreferrer">
+      subsections: [
         {
           subheading: "サポートされている支払い方法",
           paragraphs: [
-            "最新のカジノでは、クレジットカード（Visa, Mastercard）、電子ウォレット（[**MuchBetter**](LINK_NEEDS_REPAIR), Venus Point）、銀行送金、そして近年ではビットコインなどの暗号資産（仮想通貨）にも対応しています。<a href="https://www.casinotsu.com/crypto" target="_blank" rel="noopener noreferrer"><strong>仮想通貨（クリプト）</strong>でのプレイや入出金は、ますます一般的になっています。</>,
+            "最新のカジノでは、クレジットカード（Visa, Mastercard）、電子ウォレット（<a href="https://casinotsu.com/payment/muchbetter" target="_blank" rel="noopener noreferrer"><strong>MuchBetter</strong></a>, Venus Point）、銀行送金、そして近年ではビットコインなどの暗号資産（仮想通貨）にも対応しています。<a href="https://www.casinotsu.com/crypto" target="_blank" rel="noopener noreferrer"><strong>仮想通貨（クリプト）</strong>でのプレイや入出金は、ますます一般的になっています。",
           ],
         },
         {
           subheading: "モバイルでのプレイ",
           paragraphs: [
-            "ほとんどのオンラインカジノは、スマートフォンやタブレットから快適にプレイできるよう、モバイルフレンドリーなウェブサイトを提供しています。[**カジノアプリ**](https://www.casinotsu.com/)がない場合でも、ブラウザからアクセスすれば、PC版と遜色なくゲームを楽しめます。</>,
+            "ほとんどのオンラインカジノは、スマートフォンやタブレットから快適にプレイできるよう、モバイルフレンドリーなウェブサイトを提供しています。[**カジノアプリ**](https://www.casinotsu.com/)がない場合でも、ブラウザからアクセスすれば、PC版と遜色なくゲームを楽しめます。",
           ],
         },
         {
           subheading: "顧客サポート",
           paragraphs: [
-            "問題が発生した場合に備え、日本語でのカスタマーサポートが充実しているかも重要なポイントです。ライブチャット、メール、電話など、複数の連絡手段があると安心です。[**カスタマーサポート**](https://www.casinotsu.com/customer-support)についての詳細も確認しておきましょう。</>,
+            "問題が発生した場合に備え、日本語でのカスタマーサポートが充実しているかも重要なポイントです。ライブチャット、メール、電話など、複数の連絡手段があると安心です。[**カスタマーサポート**](https://www.casinotsu.com/customer-support)についての詳細も確認しておきましょう。",
           ],
         },
       ],
@@ -274,7 +274,7 @@ export const offers: BonusPageContent = {
         {
           subheading: "賭け条件のベンチマーク",
           paragraphs: [
-            "一般的に、入金不要ボーナスの賭け条件は30倍～40倍が標準的とされています。これより低い（例: 20倍以下）場合は非常にお得なオファーと言えます。一方、50倍以上になると、賭け条件をクリアするのが難しくなります。初回入金ボーナスでは、賭け条件が30倍～40倍程度が一般的です。[**ローワー peringボーナス**](https://www.casinotsu.com/bonuses/no-deposit)や<a href="https://www.casinotsu.com/bonuses/no-wagering" target="_blank" rel="noopener noreferrer"><strong>ノーワー peringボーナス</strong>は、プレイヤーにとって非常に有利です。</>,
+            "一般的に、入金不要ボーナスの賭け条件は30倍～40倍が標準的とされています。これより低い（例: 20倍以下）場合は非常にお得なオファーと言えます。一方、50倍以上になると、賭け条件をクリアするのが難しくなります。初回入金ボーナスでは、賭け条件が30倍～40倍程度が一般的です。[**ローワー peringボーナス**](https://www.casinotsu.com/bonuses/no-deposit)や<a href="https://www.casinotsu.com/bonuses/no-wagering" target="_blank" rel="noopener noreferrer"><strong>ノーワー peringボーナス</strong>は、プレイヤーにとって非常に有利です。",
           ],
         },
         {
@@ -287,13 +287,13 @@ export const offers: BonusPageContent = {
         {
           subheading: "VIPプログラムの特典",
           paragraphs: [
-            "多くのカジノでは、プレイヤーのベット額に応じてランクが上がる[**VIPプログラム**](https://www.casinotsu.com/bonuses/vip)を提供しています。高ランクになると、限定ボーナス、キャッシュバック率の向上、専属アカウントマネージャーのサポートなどの特典が受けられます。</>,
-            <>⇓ こちらから <strong><a href="https://www.casinotsu.com/reviews/vera-john" target="_blank" rel="noopener noreferrer">ベラジョンカジノ</strong> のボーナス獲得！⇓</>,
-            <><a href="https://go.casinotsu.com/go/vera-john" target="_blank" rel="noopener noreferrer">👉 **ベラジョンでプレイ♪**</>,
+            "多くのカジノでは、プレイヤーのベット額に応じてランクが上がる[**VIPプログラム**](https://www.casinotsu.com/bonuses/vip)を提供しています。高ランクになると、限定ボーナス、キャッシュバック率の向上、専属アカウントマネージャーのサポートなどの特典が受けられます。",
+            <>⇓ こちらから <strong><a href="https://www.casinotsu.com/reviews/vera-john" target="_blank" rel="noopener noreferrer">ベラジョンカジノ</strong> のボーナス獲得！⇓",
+            <><a href="https://go.casinotsu.com/go/vera-john" target="_blank" rel="noopener noreferrer">👉 **ベラジョンでプレイ♪**",
             "🆓 **入金不要！登録するだけ！請求するだけ！**",
-            <>お得な <a href="https://www.casinotsu.com/free-spins" target="_blank" rel="noopener noreferrer"><strong>入金不要フリースピン</strong> 集！！</>,
+            <>お得な <a href="https://www.casinotsu.com/free-spins" target="_blank" rel="noopener noreferrer"><strong>入金不要フリースピン</strong> 集！！",
             "当サイトはクッキーを使用しています。",
-            <>続行することにより、お客様は当サイトの <a href="https://www.casinotsu.com/about/cookie-policy" target="_blank" rel="noopener noreferrer">Cookie Policy</a> クッキーポリシー.に同意したとみなされます。</>,
+            <>続行することにより、お客様は当サイトの <a href="https://www.casinotsu.com/about/cookie-policy" target="_blank" rel="noopener noreferrer">Cookie Policy</a> クッキーポリシー.に同意したとみなされます。",
           ],
         },
       ],

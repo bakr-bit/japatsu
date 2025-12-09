@@ -66,7 +66,7 @@ export const freeBlackjackGames: BlackjackPageContent = {
 
 アメリカン・ブラックジャックと並んで人気が高いゲームですが、プレイヤーのアクションにいくつか制限があるのが特徴です。 CasinoTsu が注目するポイントです。
 
-**👉 2UPで遊んでみる！** [https://go.casinotsu.com/go/2up](LINK_NEEDS_REPAIR)
+**👉 2UPで遊んでみる！** [こちらから](https://go.casinotsu.com/go/2up)
 
 **💫新星クリプトカジノで、ブラックジャックをプレイ！**
 

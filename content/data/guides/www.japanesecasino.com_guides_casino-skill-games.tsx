@@ -86,7 +86,7 @@ export const casinoSkillGames: GuidePageContent = {
       heading: "Max Quest／マックス・クエスト 💥",
       content: `
 
-![マックスクエスト](LINK_NEEDS_REPAIR)
+<img src="https://www.casinotsu.com/images/max-quest.jpg" alt="マックスクエスト" />
 
 
 以前、当サイトでもリリース前にお知らせしたこのゲーム。 <a href="https://www.casinotsu.com/providers/betsoft" target="_blank" rel="noopener noreferrer">Betsoft が自信を持ってリリースした作品で、プロモーションにもかなり力を入れており、当サイトのスタッフも新作発表パーティーに参加したほどです。当時はスロットのような感覚でおりましたが、実際はスキルゲームでした。

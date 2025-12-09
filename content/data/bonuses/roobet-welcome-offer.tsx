@@ -19,21 +19,21 @@ export const roobetWelcomeOfferContent: BonusPageContent = {
   bonusTypeCategories: [],
   casinoTypeCategories: [],
 
-  educational: <Link href="/crypto">
+  educational: [
     {
       heading: "ウェルカムキャッシュバックで最初の7日間は安心！",
       paragraphs: [
-        "最近CasinoTsuの仲間入りをした **[仮想通貨特化型カジノ</Link>**「 <strong><Link href="/reviews/roobet">ルーベット</Link></strong>」✨</>,
-        <>アメリカの有名なラッパー、スヌープ・ドッグや世界最大の格闘技団体 **UFC** が公式アンバサダーを務める、 <strong><Link href="/reviews/roobet">注目度の高いオンラインカジノ</Link></strong> です！</>,
+        "最近CasinoTsuの仲間入りをした **[仮想通貨特化型カジノ</Link>**「 <strong><Link href="/reviews/roobet">ルーベット</Link></strong>」✨",
+        <>アメリカの有名なラッパー、スヌープ・ドッグや世界最大の格闘技団体 **UFC** が公式アンバサダーを務める、 <strong><Link href="/reviews/roobet">注目度の高いオンラインカジノ</Link></strong> です！",
         "CasinoTsu経由でルーベットに新規登録・ご入金いただいたお客様には、 **最初の7日間における全ての損失額に対してキャッシュバックが保証** される **ウェルカムオファー** の特典をご提供しております。💖🎁",
         "**本オファーは現在休止中となっております。**",
         "これにより、初心者の方でも安心してプレイを始められますね♪",
-        <>**💰新規登録時の強力な味方！これでカジノを選ぶのも良いかもしれません？！** <Link href="/bonuses/welcome-bonus">初回入金ボーナスのおすすめランキング</Link> や、出金までの流れをご確認ください！</>,
+        <>**💰新規登録時の強力な味方！これでカジノを選ぶのも良いかもしれません？！** <Link href="/bonuses/welcome-bonus">初回入金ボーナスのおすすめランキング</Link> や、出金までの流れをご確認ください！",
       ],
     },
     {
       heading: "【7日間キャッシュバックの利用規約】",
-      paragraphs: <Link href="/live-casino">
+      paragraphs: [
         "**本オファーは現在休止中となっております。**",
         "*   7日間キャッシュバックは、2023年12月19日以前に登録されていない全ての新規ユーザーが、登録後7日間で賭けた全てのベットに適用されます。",
         "*   対象となるお客様は、最初の7日間、ルーベットのゲームにおける全ての純損失額の20%を受け取ることができます。",
@@ -46,19 +46,19 @@ export const roobetWelcomeOfferContent: BonusPageContent = {
         "*   最低キャッシュバック額は1USドルです。",
         "*   早期にキャッシュアウトされたスポーツベットは、勝利としてカウントされます。",
         "*   Rooスピン、フリーベット、その他の無料プレイは、本プロモーションの対象外となります。",
-        "*   [ライブカジノゲーム</Link>でのプレイは、本プロモーションの対象外となります。</>,
+        "*   [ライブカジノゲーム</Link>でのプレイは、本プロモーションの対象外となります。",
         "*   キャッシュバックは1営業日に1回支払われます。",
         "純損失の計算は、損失額 – 利益額 – その他ボーナス額 = 純損失額となります。",
       ],
     },
     {
       heading: "プロモーションコードによる追加特典",
-      subsections: <Link href="/bonuses/no-deposit">
+      subsections: [
         {
           subheading: "",
           paragraphs: [
             "ルーベットでは、特定のプロモーションコードを入力することで、さらに魅力的な特典を受け取ることが可能です。",
-            "*   **プロモーションコード「CSGOBETTINGS」**: このコードをご利用いただくと、**5ドルのフリーベット** が提供されます。このフリーベットはスポーツまたはeスポーツのベッティングにご利用いただけます。さらに、このコードを使用すると、[ノーデポジットボーナス</Link>（入金不要ボーナス）も獲得できる場合があります（※提供状況は変動する可能性があります）。</>,
+            "*   **プロモーションコード「CSGOBETTINGS」**: このコードをご利用いただくと、**5ドルのフリーベット** が提供されます。このフリーベットはスポーツまたはeスポーツのベッティングにご利用いただけます。さらに、このコードを使用すると、[ノーデポジットボーナス</Link>（入金不要ボーナス）も獲得できる場合があります（※提供状況は変動する可能性があります）。",
             "*   **プロモーションコード「CORGBONUS」**: こちらのコードもご利用可能で、同様に特典が付与される可能性があります。",
             "これらのプロモーションコードは、登録時の指定されたフィールドに入力することで有効になります。 CasinoTsu では、常に最新のプロモーションコードをチェックしております。チェック、ダブルチェック、そして CasinoTsu チェック。",
           ],
@@ -67,14 +67,14 @@ export const roobetWelcomeOfferContent: BonusPageContent = {
     },
     {
       heading: "ウェルカムパッケージに含まれるその他のボーナス",
-      paragraphs: <Link href="/reviews/roobet">
+      paragraphs: [
         "ルーベットのウェルカムオファーは、キャッシュバックだけではありません。新規プレイヤーは、登録と入金後に以下の特典も享受できます。",
         "*   **フリースピン**: 特定のスロットゲームでご利用いただけるフリースピンが付与されます。これらのフリースピンには通常 **10倍の賭け条件** が適用されます。",
         "*   **$5フリーベット**: スポーツまたはeスポーツのベッティングにご利用いただけるフリーベットです。こちらも **10倍の賭け条件** が適用されます。",
         "*   **インスタント RooWards VIPアクセス**: 通常、VIPプログラムへのアクセスには$1000の賭け条件が設定されていますが、このウェルカムオファーをご利用いただくと、この条件を回避して即座にVIPアクセスが可能になります。",
         "*   **ウィークリーラッフルへの自動エントリー**: ベットを行うたびに、自動的に賞金総額$100,000以上のウィークリーラッフルに参加できます。",
         "🤘 **世界のラッパー ‘スヌープ・ドッグ’ や UFC が公式アンバサダーを務める新カジノ**",
-        "[ルーベット（RooBet）のレビューページ</Link> で詳細をご確認ください♪</>,
+        "[ルーベット（RooBet）のレビューページ</Link> で詳細をご確認ください♪",
       ],
     },
     {
@@ -107,24 +107,24 @@ export const roobetWelcomeOfferContent: BonusPageContent = {
         },
         {
           subheading: "③ 初回入金",
-          paragraphs: <Link href="/payment">
+          paragraphs: [
             "あとは **10ドル以上を初回入金し、プレイを開始** してください～🎉",
             "7日間の大変お得な期間中は、お好きなスロットゲームに没頭してくださいね~\\\\(≧▽≦)/~",
-            "**👛オンラインカジノに不可欠な安全な入出金方法は？** 人気の [オンカジ入金・出金方法</Link> を総まとめいたしました！</>,
+            "**👛オンラインカジノに不可欠な安全な入出金方法は？** 人気の [オンカジ入金・出金方法</Link> を総まとめいたしました！",
           ],
         },
       ],
     },
     {
       heading: "毎日楽しめる、ワクワクの7日間ウェルカムウィーク！",
-      paragraphs: <Link href="/bonuses/crypto">
-        "ルーベットは、海外でも **公式アンバサダーで一躍有名** になった **[仮想通貨カジノでボーナスが魅力的なオンラインカジノ</Link>** です。</>,
+      paragraphs: [
+        "ルーベットは、海外でも **公式アンバサダーで一躍有名** になった **[仮想通貨カジノでボーナスが魅力的なオンラインカジノ</Link>** です。",
         "ウェルカムオファーにおいても、オンラインカジノを始める皆様をしっかりとサポートする姿勢 💪💖 を貫いております。",
-        <><Link href="/bonuses/no-deposit">登録ボーナス</Link> はございませんが、7日間連続で負けても安心なバックアップ体制が魅力です(´▽\\`ʃ♡ƪ)</>,
+        <><Link href="/bonuses/no-deposit">登録ボーナス</Link> はございませんが、7日間連続で負けても安心なバックアップ体制が魅力です(´▽\\`ʃ♡ƪ)",
         "7日間のウェルカムウィーク終了後も、Roowards（ルーワーズ）と呼ばれるリワードシステムでは、レーキバックやキャッシュバックが還元されます。",
-        <>賭け条件が煩雑なプレイヤーや、 <strong><Link href="/guides/high-roller">ハイローラー</Link></strong> の方におすすめのカジノです⤴⤴💰</>,
+        <>賭け条件が煩雑なプレイヤーや、 <strong><Link href="/guides/high-roller">ハイローラー</Link></strong> の方におすすめのカジノです⤴⤴💰",
         "豪華なウェルカムウィークを、ぜひお見逃しなく～🎉",
-        <>**🌟CasinoTsuスタッフ独自の視点で自信を持って推薦！** CasinoTsu一押しの <Link href="/reviews">カジノレビュー</Link> をぜひチェックしてください！</>,
+        <>**🌟CasinoTsuスタッフ独自の視点で自信を持って推薦！** CasinoTsu一押しの <Link href="/reviews">カジノレビュー</Link> をぜひチェックしてください！",
       ],
     },
     {
@@ -143,21 +143,21 @@ export const roobetWelcomeOfferContent: BonusPageContent = {
     },
     {
       heading: "提供ゲームについて",
-      paragraphs: ["ルーベットは、カジノゲームからスポーツベッティングまで、幅広いエンターテイメントを提供しております。<>],
-      subsections: <Link href="/slots">
+      paragraphs: ["ルーベットは、カジノゲームからスポーツベッティングまで、幅広いエンターテイメントを提供しております。"],
+      subsections: [
         {
           subheading: "スロットゲーム",
           paragraphs: [
-            "*   **ゲーム数**: 4,000種類以上の[スロット</Link>ゲームを提供しております。</>,
+            "*   **ゲーム数**: 4,000種類以上の[スロット</Link>ゲームを提供しております。",
             "*   **人気タイトル**: 「Sweet Bonanza」、「Gates of Olympus」、「Wanted Dead or Alive」、「Sugar Rush」など、世界的に人気のあるゲームが多数揃っています。",
             "*   **ルーベットオリジナルゲーム**: 「Crash」、「Dice」、「Mines」といった、ルーベット独自のユニークなゲームもお楽しみいただけます。",
           ],
         },
         {
           subheading: "ライブカジノ",
-          paragraphs: <Link href="/live-casino/live-blackjack">
+          paragraphs: [
             "*   ディーラーが進行する臨場感あふれるゲーム体験を提供しております。",
-            "*   **ゲームの種類**: [ブラックジャック</Link>、<Link href="/live-casino/live-baccarat">バカラ</Link>、<Link href="/live-casino/live-roulette">ルーレット</Link>、そして多様な<Link href="/game-shows">ゲームショー</Link>などがプレイ可能です。</>,
+            "*   **ゲームの種類**: [ブラックジャック</Link>、<Link href="/live-casino/live-baccarat">バカラ</Link>、<Link href="/live-casino/live-roulette">ルーレット</Link>、そして多様な<Link href="/game-shows">ゲームショー</Link>などがプレイ可能です。",
           ],
         },
         {
@@ -169,29 +169,29 @@ export const roobetWelcomeOfferContent: BonusPageContent = {
         },
         {
           subheading: "テーブルゲーム",
-          paragraphs: <Link href="/blackjack">
+          paragraphs: [
             "*   定番のテーブルゲームも充実しております。",
-            "*   **種類**: 様々なバージョンの[ブラックジャック</Link>、<Link href="/roulette">ルーレット</Link>、<Link href="/baccarat">バカラ</Link>がプレイ可能です。</>,
+            "*   **種類**: 様々なバージョンの[ブラックジャック</Link>、<Link href="/roulette">ルーレット</Link>、<Link href="/baccarat">バカラ</Link>がプレイ可能です。",
           ],
         },
       ],
     },
     {
       heading: "入出金方法の詳細",
-      paragraphs: ["ルーベットでは、仮想通貨を中心に、多様な決済方法に対応しております。<>],
-      subsections: <Link href="/payment/astropay">
+      paragraphs: ["ルーベットでは、仮想通貨を中心に、多様な決済方法に対応しております。"],
+      subsections: [
         {
           subheading: "入金方法",
           paragraphs: [
             "*   **仮想通貨**: BTC、ETH、LTC、USDT、DOGE、XRP、TRX、USDC、SOL、BNBなど、主要な仮想通貨に対応しております。",
-            "*   **その他**: [AstroPay</Link>、<Link href="/payment/ezeebill">UPI</Link>、<Link href="/payment/ezeebill">Skrill</Link>、MoonPay（Visa/Mastercard対応）、<Link href="/payment/ezeebill">Jeton</Link>、<Link href="/payment/ezeebill">GCash</Link>、<Link href="/payment/ezeebill">Interac</Link>、<Link href="/payment/bank-transfer">オンラインバンキング</Link>など。</>,
+            "*   **その他**: [AstroPay</Link>、<Link href="/payment/ezeebill">UPI</Link>、<Link href="/payment/ezeebill">Skrill</Link>、MoonPay（Visa/Mastercard対応）、<Link href="/payment/ezeebill">Jeton</Link>、<Link href="/payment/ezeebill">GCash</Link>、<Link href="/payment/ezeebill">Interac</Link>、<Link href="/payment/bank-transfer">オンラインバンキング</Link>など。",
           ],
         },
         {
           subheading: "出金方法",
-          paragraphs: <Link href="/payment/tiger-pay">
+          paragraphs: [
             "*   仮想通貨での出金が可能です。",
-            "*   **その他**: [Tiger Pay</Link>での出金にも対応しております。</>,
+            "*   **その他**: [Tiger Pay</Link>での出金にも対応しております。",
           ],
         },
         {
@@ -220,41 +220,41 @@ export const roobetWelcomeOfferContent: BonusPageContent = {
         },
         {
           subheading: "セキュリティ対策",
-          paragraphs: <Link href="/responsible-gambling/self-exclusion-tools">
+          paragraphs: [
             "*   **ライセンス**: ルーベットは **キュラソーライセンス** を取得しており、合法的に運営されております。",
             "*   **SSL暗号化**: サイト全体でSSL暗号化技術を使用しており、お客様の個人情報や取引データを保護しております。",
             "*   **仮想通貨トランザクション**: 直接的な仮想通貨ウォレットとの連携により、セキュリティを強化しております。",
-            "*   **責任あるギャンブル**: プレイヤーの皆様が安全に楽しめるよう、[自己制限機能</Link>などの責任あるギャンブルツールを提供しております。</>,
+            "*   **責任あるギャンブル**: プレイヤーの皆様が安全に楽しめるよう、[自己制限機能</Link>などの責任あるギャンブルツールを提供しております。",
           ],
         },
       ],
     },
     {
       heading: "攻略法・注意点",
-      subsections: <Link href="/bonuses/no-deposit">
+      subsections: [
         {
           subheading: "ボーナス活用法",
           paragraphs: [
-            "*   **プロモーションコードの活用**: 「CSGOBETTINGS」などのコードをご利用いただき、フリーベットや[ノーデポジットボーナス</Link>を獲得しましょう。</>,
-            <>*   **キャッシュバックの最大化**: 7日間のキャッシュバック期間中は、損失を恐れずに積極的にプレイし、最大200ドルのキャッシュバックを目指しましょう。ただし、<Link href="/live-casino">ライブカジノ</Link>は対象外となりますのでご注意ください。</>,
+            "*   **プロモーションコードの活用**: 「CSGOBETTINGS」などのコードをご利用いただき、フリーベットや[ノーデポジットボーナス</Link>を獲得しましょう。",
+            <>*   **キャッシュバックの最大化**: 7日間のキャッシュバック期間中は、損失を恐れずに積極的にプレイし、最大200ドルのキャッシュバックを目指しましょう。ただし、<Link href="/live-casino">ライブカジノ</Link>は対象外となりますのでご注意ください。",
             "*   **RooWardsの活用**: VIPプログラムへの早期アクセスをご検討いただき、レーキバックやキャッシュバックなどの継続的な特典を最大限に活用しましょう。",
           ],
         },
         {
           subheading: "賭け条件クリア戦略",
-          paragraphs: <Link href="/slots">
-            "*   **フリースピン**: 10倍の賭け条件が設定されています。[スロットゲーム</Link>で効率的に賭け条件を消化しましょう。</>,
+          paragraphs: [
+            "*   **フリースピン**: 10倍の賭け条件が設定されています。[スロットゲーム</Link>で効率的に賭け条件を消化しましょう。",
             "*   **フリーベット**: スポーツ・eスポーツベッティングで10倍の賭け条件が設定されています。オッズを考慮しながら戦略的にベットしましょう。",
             "*   **ゲーム貢献率の確認**: スロットゲームは通常100%貢献いたしますが、テーブルゲームやライブカジノは除外される場合があるため、プレイ前に必ずご確認ください。",
           ],
         },
         {
           subheading: "注意事項",
-          paragraphs: <Link href="/live-casino">
+          paragraphs: [
             "*   **オファー休止中**: 現在、7日間のウェルカムキャッシュバックオファーは休止中です。再開時期については未定ですので、公式サイトにて最新情報をご確認ください。",
             "*   **地域制限**: 一部のゲームには地域制限が設けられています。「Region Restricted」と表示されているゲームは、お住まいの地域ではプレイできない場合がございます。",
             "*   **プロモーション有効期限**: プロモーションは2025年まで有効ですが、予告なく変更される可能性がございます。",
-            "*   **禁止ゲーム**: [ライブカジノゲーム</Link>は、7日間のキャッシュバックプロモーションの対象外となります。</>,
+            "*   **禁止ゲーム**: [ライブカジノゲーム</Link>は、7日間のキャッシュバックプロモーションの対象外となります。",
           ],
         },
       ],
@@ -268,7 +268,7 @@ export const roobetWelcomeOfferContent: BonusPageContent = {
     },
     {
       question: "ルーベットの入金方法は仮想通貨のみですか？",
-      answer: <>ルーベットは仮想通貨に特化したカジノですが、電子マネーでの入金・出金も可能です。 仮想通貨以外では、<Link href="/payment/astropay">AstroPay</Link>、<Link href="/payment/payz">Payz</Link>、<Link href="/payment/muchbetter">MuchBetter</Link>、<Link href="/payment/ezeebill">Jeton</Link>、<Link href="/payment/ezeebill">GCash</Link>、<Link href="/payment/ezeebill">Interac</Link>、<Link href="/payment/bank-transfer">オンラインバンキング</Link>など、多様な決済方法に対応しております。(出金は<Link href="/payment/tiger-pay">Tiger Pay</Link>のみ可能)</>,
+      answer: <>ルーベットは仮想通貨に特化したカジノですが、電子マネーでの入金・出金も可能です。 仮想通貨以外では、<Link href="/payment/astropay">AstroPay</Link>、<Link href="/payment/payz">Payz</Link>、<Link href="/payment/muchbetter">MuchBetter</Link>、<Link href="/payment/ezeebill">Jeton</Link>、<Link href="/payment/ezeebill">GCash</Link>、<Link href="/payment/ezeebill">Interac</Link>、<Link href="/payment/bank-transfer">オンラインバンキング</Link>など、多様な決済方法に対応しております。(出金は<Link href="/payment/tiger-pay">Tiger Pay</Link>のみ可能)",
     },
     {
       question: "プロモーションコードはどのように使用しますか？",

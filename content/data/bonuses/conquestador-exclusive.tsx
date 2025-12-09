@@ -36,16 +36,16 @@ export const conquestadorBonus: BonusPageContent = {
       casinoSlug: "conquestador",
       heading: "CasinoTsu限定🎁 無料ボーナス＆登録フリースピンの詳細",
       description: [
-        "[Gamblingtherapy.org/ja](https://www.casinotsu.com/free-spins) | 【CasinoTsu限定】入金不要ボーナス40ドル（賭け条件30倍）、登録フリースピン25回（『The Dog House』、賭け条件20倍）、【ウェルカムボーナス】初回〜5回目入金ボーナス合計で最大¥395,000（賭け条件20〜30倍）、入金フリースピン最大合計200回（『Midas Golden Touch』、20回×10セット、賭け条件30倍） | <a href="https://go.casinotsu.com/go/conquestador_terms?referrer_path=%2Foffers%2Fconquestador-exclusive" target="_blank" rel="noopener noreferrer">利用規約が適用されます</>,
+        "[Gamblingtherapy.org/ja](https://www.casinotsu.com/free-spins) | 【CasinoTsu限定】入金不要ボーナス40ドル（賭け条件30倍）、登録フリースピン25回（『The Dog House』、賭け条件20倍）、【ウェルカムボーナス】初回〜5回目入金ボーナス合計で最大¥395,000（賭け条件20〜30倍）、入金フリースピン最大合計200回（『Midas Golden Touch』、20回×10セット、賭け条件30倍） | <a href="https://go.casinotsu.com/go/conquestador_terms?referrer_path=%2Foffers%2Fconquestador-exclusive" target="_blank" rel="noopener noreferrer">利用規約が適用されます",
         <>
 !<a href="https://www.casinotsu.com/wp-content/uploads/Conquestador_960x495.png" target="_blank" rel="noopener noreferrer">Conquestador限定オファー：コンテント・フィーチャーイメージ
-</>,
-        <>すでに大変豪華なウェルカムボーナスが用意されている <strong><a href="https://casinotsu.com/reviews/conquestador" target="_blank" rel="noopener noreferrer">コンクエスタドール</strong> ですが、🌟 CasinoTsuでは、さらにお得な限定プロモーションをご用意いたしました。</>,
+",
+        <>すでに大変豪華なウェルカムボーナスが用意されている <strong><a href="https://casinotsu.com/reviews/conquestador" target="_blank" rel="noopener noreferrer">コンクエスタドール</strong> ですが、🌟 CasinoTsuでは、さらにお得な限定プロモーションをご用意いたしました。",
         "**CasinoTsu限定プロモーション（代替案）：**",
         "なお、現在Conquestador Casinoでは、入金不要ボーナスの提供状況について変更が生じている可能性がございます。以前ご案内しておりました40ドルの入金不要ボーナスについては、提供状況を最新情報でご確認くださいますようお願い申し上げます。",
-        <>もし40ドルの入金不要ボーナスが現在提供されていない場合でも、日本のプレイヤー様向けに代替プロモーションが存在する可能性がございます。例えば、登録時にコード「GC20」をご使用いただくことで、『Rich Wilde Tome of Madness』で20回のフリースピンを獲得できるという情報がございます。これらのフリースピンの賭け条件は勝利金の30倍、1スピンあたりの最小ベット額は12.5円となります。このプロモーションのご利用にあたっては、<a href="https://casinotsu.com/about/contact" target="_blank" rel="noopener noreferrer">カスタマーサポート へのご連絡が必要となる場合がございます。詳細につきましては、Conquestadorのカスタマーサポート、またはCasinoTsuの最新情報にてご確認ください。</>,
-        <>今回、CasinoTsu限定で、ご登録いただくだけで **<a href="https://casinotsu.com/bonuses/no-deposit" target="_blank" rel="noopener noreferrer">入金不要ボーナス 40ドル** および **<a href="https://casinotsu.com/free-spins" target="_blank" rel="noopener noreferrer">登録スピン 25回分** を、CasinoTsu読者の皆様のためにご用意することができました！🎉</>,
-        <>無料で獲得できる登録ボーナスは40ドル（4000円相当）にものぼり、さらに、今大変人気のある <strong><a href="https://casinotsu.com/providers/pragmatic-play" target="_blank" rel="noopener noreferrer">Pragmatic Play</strong> 社がリリースしたスロット『 **The Dog House**』を無料でプレイできるチャンスもございます！ヽ(✿ﾟ▽ﾟ)ノ</>,
+        <>もし40ドルの入金不要ボーナスが現在提供されていない場合でも、日本のプレイヤー様向けに代替プロモーションが存在する可能性がございます。例えば、登録時にコード「GC20」をご使用いただくことで、『Rich Wilde Tome of Madness』で20回のフリースピンを獲得できるという情報がございます。これらのフリースピンの賭け条件は勝利金の30倍、1スピンあたりの最小ベット額は12.5円となります。このプロモーションのご利用にあたっては、<a href="https://casinotsu.com/about/contact" target="_blank" rel="noopener noreferrer">カスタマーサポート へのご連絡が必要となる場合がございます。詳細につきましては、Conquestadorのカスタマーサポート、またはCasinoTsuの最新情報にてご確認ください。",
+        <>今回、CasinoTsu限定で、ご登録いただくだけで **<a href="https://casinotsu.com/bonuses/no-deposit" target="_blank" rel="noopener noreferrer">入金不要ボーナス 40ドル** および **<a href="https://casinotsu.com/free-spins" target="_blank" rel="noopener noreferrer">登録スピン 25回分** を、CasinoTsu読者の皆様のためにご用意することができました！🎉",
+        <>無料で獲得できる登録ボーナスは40ドル（4000円相当）にものぼり、さらに、今大変人気のある <strong><a href="https://casinotsu.com/providers/pragmatic-play" target="_blank" rel="noopener noreferrer">Pragmatic Play</strong> 社がリリースしたスロット『 **The Dog House**』を無料でプレイできるチャンスもございます！ヽ(✿ﾟ▽ﾟ)ノ",
         "**ご登録の際には、ボーナスコード『JAPACASI』を忘れずに入力** してください。",
         "この機会にぜひご登録いただき、コンクエスタドールカジノの太っ腹な特典をご体験ください。😆💖",
         "人気スロットのお得なスピンとボーナスマネーで、ぜひお楽しみくださいませ。💝",
@@ -81,35 +81,35 @@ export const conquestadorBonus: BonusPageContent = {
         "    *   **有効期限:** 10日",
         "    *   **賭け条件:** 20倍",
         "*   **新規登録時にボーナスコード『JAPACASI』を忘れずに入力** してください。",
-        "*   ボーナスのご利用にあたり、プロモーションページより各 **[ボーナス](https://www.casinotsu.com/bonuses/no-deposit)** を有効化する**必要がございます**。</>,
+        "*   ボーナスのご利用にあたり、プロモーションページより各 **[ボーナス](https://www.casinotsu.com/bonuses/no-deposit)** を有効化する**必要がございます**。",
         "*   ボーナスを有効化する前に、メールアドレスと携帯電話番号の認証が必要です。",
         "*   コンクエスタドールの一般利用規約が適用されます。",
-        <>🔰 **賭け条件についてご不明な点がございましたら、こちらをご覧ください。** <a href="https://casinotsu.com/guides/wagering-requirements" target="_blank" rel="noopener noreferrer">出金条件・賭け条件とはなにかを大解剖！</>,
+        <>🔰 **賭け条件についてご不明な点がございましたら、こちらをご覧ください。** <a href="https://casinotsu.com/guides/wagering-requirements" target="_blank" rel="noopener noreferrer">出金条件・賭け条件とはなにかを大解剖！",
       ],
     },
     {
       heading: "コンクエスタドール｜限定ボーナスの獲得方法",
       paragraphs: [
-        "登録だけで獲得可能なこの **[CasinoTsu限定ボーナス](https://www.casinotsu.com/bonuses)** の獲得方法は、大変シンプルです。😊✨</>,
+        "登録だけで獲得可能なこの **[CasinoTsu限定ボーナス](https://www.casinotsu.com/bonuses)** の獲得方法は、大変シンプルです。😊✨",
         "手順を追って、ご説明いたします。",
         <>1.  まず、CasinoTsu経由でコンクエスタドールの登録ページへアクセスしてください。\n
 !<a href="https://www.casinotsu.com/wp-content/uploads/conquestador-registration1.png" target="_blank" rel="noopener noreferrer">コンクエスタドール｜登録ボーナス・獲得方法
-</>,
+",
         <>2.  **メールアドレスと任意のパスワード** を入力し、「次へ」をクリックしてください。\n
 !<a href="https://www.casinotsu.com/wp-content/uploads/conquestador-registration2.png" target="_blank" rel="noopener noreferrer">コンクエスタドール｜登録ボーナス・獲得方法2
-</>,
+",
         <>3.  **氏名、生年月日、携帯番号** を入力し、「次へ」をクリックしてください。\n
 !<a href="https://www.casinotsu.com/wp-content/uploads/conquestador-registration3.png" target="_blank" rel="noopener noreferrer">コンクエスタドール｜登録ボーナス・獲得方法3
-</>,
-        <>4.  **国（Japan）、住所、通貨（ <a href="https://casinotsu.com/payment/japanese-yen-casinos" target="_blank" rel="noopener noreferrer">日本円 はJPY）、そしてボーナスコード『JAPACASI』を忘れずに入力** してください。❗❗ プライバシーポリシーへの同意、およびプロモーションメールの受信をご希望の場合はチェック✅を入れて、「送信」をクリックしてください。</>,
+",
+        <>4.  **国（Japan）、住所、通貨（ <a href="https://casinotsu.com/payment/japanese-yen-casinos" target="_blank" rel="noopener noreferrer">日本円 はJPY）、そしてボーナスコード『JAPACASI』を忘れずに入力** してください。❗❗ プライバシーポリシーへの同意、およびプロモーションメールの受信をご希望の場合はチェック✅を入れて、「送信」をクリックしてください。",
         "5.  メールアドレスの認証画面が表示されますので、**ご登録のメールアドレスにて確認と入力** を行えば、登録は完了です。🎉",
         <>6.  次に、プロフィールページにて **携帯電話番号の認証** を完了させてください。\n
 !<a href="https://www.casinotsu.com/wp-content/uploads/Conquestador-exclusive-bonus-how-claim.jpg" target="_blank" rel="noopener noreferrer">コンクエスタドール｜限定オファー・獲得方法
-</>,
+",
         "7.  アカウントの **プロモーションページ** にて、入金不要ボーナスと登録スピン25回分が **自動的に付与** されていることをご確認ください。確認後、**【有効にする】ボタンをクリック** することで、ボーナスを獲得いただけます。🎉😍",
         <>
 !<a href="https://img.casinotsu.com/svg/jp/mascots/happy/cocomo.svg" target="_blank" rel="noopener noreferrer">Cocomo Happy
-\n**ココモ**\nこのCasinoTsu限定ボーナスをご申請いただく際は、**ボーナスコード『JAPACASI』のご入力** と、ボーナスを **『有効にする』ボタンのクリック** を、何卒お忘れなきようお願い申し上げます。</>,
+\n**ココモ**\nこのCasinoTsu限定ボーナスをご申請いただく際は、**ボーナスコード『JAPACASI』のご入力** と、ボーナスを **『有効にする』ボタンのクリック** を、何卒お忘れなきようお願い申し上げます。",
       ],
     },
     {
@@ -118,16 +118,16 @@ export const conquestadorBonus: BonusPageContent = {
         "*   **ウェブサイトURL**: conquestador.com",
         "*   **設立年**: 2018年",
         "*   **ライセンス**: マルタゲーミングオーソリティ（MGA）およびオンタリオ州（iGO）ライセンスを取得・規制されています。",
-        "*   **安全性**: Casino.guruによりますと、「平均以下の安全指数」との評価があり、[ボーナス](https://www.casinotsu.com/bonuses) 請求時に問題が発生する可能性について警告がなされております。</>,
+        "*   **安全性**: Casino.guruによりますと、「平均以下の安全指数」との評価があり、[ボーナス](https://www.casinotsu.com/bonuses) 請求時に問題が発生する可能性について警告がなされております。",
       ],
     },
     {
       heading: "利用規約・条件",
-      subsections: <a href="https://casinotsu.com/guides/wagering-requirements" target="_blank" rel="noopener noreferrer">
+      subsections: [
         {
           subheading: "賭け条件詳細",
           paragraphs: [
-            "*   **入金不要ボーナス**: [賭け条件](https://www.casinotsu.com/bonuses/no-deposit) 30倍。ボーナス額の30倍を賭ける必要がございます。</>,
+            "*   **入金不要ボーナス**: [賭け条件](https://www.casinotsu.com/bonuses/no-deposit) 30倍。ボーナス額の30倍を賭ける必要がございます。",
             "*   **登録フリースピン**: 賭け条件20倍。フリースピンで獲得された勝利金の20倍を賭ける必要がございます。",
           ],
         },
@@ -156,7 +156,7 @@ export const conquestadorBonus: BonusPageContent = {
           subheading: "その他のプロモーション",
           paragraphs: [
             "*   **誕生日特典**: お誕生日に合わせた特別なサプライズボーナスをご用意しております。",
-            "*   **トーナメント**: 様々な[トーナメント](https://www.casinotsu.com/bonuses) にご参加いただき、賞金を獲得するチャンスがございます。</>,
+            "*   **トーナメント**: 様々な[トーナメント](https://www.casinotsu.com/bonuses) にご参加いただき、賞金を獲得するチャンスがございます。",
             "*   **キャッシュバック**: レベルに応じたキャッシュバックボーナスを提供しており、VIPプログラムを通じて最大20%のキャッシュバックが可能です。",
             "*   **友達紹介プログラム**: ご友人をご紹介いただいた場合、ご紹介者様には50%のキャッシュバックが提供される特典がございます。",
             "*   **スポーツベッティングプロモーション**: スポーツやeスポーツのベッティング向けのキャッシュバック、ベットブースト、ウィークリートーナメントなども開催されております。",
@@ -166,14 +166,14 @@ export const conquestadorBonus: BonusPageContent = {
     },
     {
       heading: "カジノの特徴・機能",
-      subsections: <a href="https://casinotsu.com/slots/megaways" target="_blank" rel="noopener noreferrer">
+      subsections: [
         {
           subheading: "ゲームセレクション",
           paragraphs: [
             "コンクエスタドールは、非常に幅広いゲームセレクションを誇ります。",
-            "*   **スロット**: 人気のスロットはもちろん、[メガウェイズ](https://www.casinotsu.com/slots)、<a href="https://casinotsu.com/slots/bonus-buy" target="_blank" rel="noopener noreferrer">ボーナスバイ、<a href="https://casinotsu.com/slots/hold-and-win" target="_blank" rel="noopener noreferrer">ホールド＆ウィン などの最新機種も多数取り揃えております。</>,
-            <>*   **ライブカジノ**: リアルディーラーが進行する<a href="https://casinotsu.com/live-casino" target="_blank" rel="noopener noreferrer">ライブカジノ では、<a href="https://casinotsu.com/blackjack" target="_blank" rel="noopener noreferrer">ブラックジャック、<a href="https://casinotsu.com/roulette" target="_blank" rel="noopener noreferrer">ルーレット、<a href="https://casinotsu.com/baccarat" target="_blank" rel="noopener noreferrer">バカラ といった定番ゲームに加え、『クレイジータイム』や『モノポリーライブ』などの人気ゲームショーもお楽しみいただけます。</>,
-            <>*   **クラッシュゲーム**: 『<a href="https://casinotsu.com/crash-games/aviator" target="_blank" rel="noopener noreferrer">アビエーター 』のような人気のクラッシュスタイルゲームも提供しております。</>,
+            "*   **スロット**: 人気のスロットはもちろん、[メガウェイズ](https://www.casinotsu.com/slots)、<a href="https://casinotsu.com/slots/bonus-buy" target="_blank" rel="noopener noreferrer">ボーナスバイ、<a href="https://casinotsu.com/slots/hold-and-win" target="_blank" rel="noopener noreferrer">ホールド＆ウィン などの最新機種も多数取り揃えております。",
+            <>*   **ライブカジノ**: リアルディーラーが進行する<a href="https://casinotsu.com/live-casino" target="_blank" rel="noopener noreferrer">ライブカジノ では、<a href="https://casinotsu.com/blackjack" target="_blank" rel="noopener noreferrer">ブラックジャック、<a href="https://casinotsu.com/roulette" target="_blank" rel="noopener noreferrer">ルーレット、<a href="https://casinotsu.com/baccarat" target="_blank" rel="noopener noreferrer">バカラ といった定番ゲームに加え、『クレイジータイム』や『モノポリーライブ』などの人気ゲームショーもお楽しみいただけます。",
+            <>*   **クラッシュゲーム**: 『<a href="https://casinotsu.com/crash-games/aviator" target="_blank" rel="noopener noreferrer">アビエーター 』のような人気のクラッシュスタイルゲームも提供しております。",
           ],
         },
         {
@@ -188,9 +188,9 @@ export const conquestadorBonus: BonusPageContent = {
           subheading: "入出金方法",
           paragraphs: [
             "コンクエスタドールでは、多様な決済方法に対応しております。",
-            "*   **入金オプション**: クレジット/デビットカード（Visa、Mastercard）、電子ウォレット（ecoPayz、iWalletなど）、銀行振込、[仮想通貨](https://www.casinotsu.com/payment)（ビットコインなど）など、幅広い選択肢がございます。</>,
+            "*   **入金オプション**: クレジット/デビットカード（Visa、Mastercard）、電子ウォレット（ecoPayz、iWalletなど）、銀行振込、[仮想通貨](https://www.casinotsu.com/payment)（ビットコインなど）など、幅広い選択肢がございます。",
             "*   **出金オプション**: 入金方法と同様に、様々な方法での出金が可能です。",
-            <>*   **手数料**: 各決済方法の手数料につきましては、カジノの<a href="https://casinotsu.com/payment" target="_blank" rel="noopener noreferrer">支払い ページまたは<a href="https://casinotsu.com/about/contact" target="_blank" rel="noopener noreferrer">カスタマーサポート にてご確認ください。</>,
+            <>*   **手数料**: 各決済方法の手数料につきましては、カジノの<a href="https://casinotsu.com/payment" target="_blank" rel="noopener noreferrer">支払い ページまたは<a href="https://casinotsu.com/about/contact" target="_blank" rel="noopener noreferrer">カスタマーサポート にてご確認ください。",
             "*   **処理時間**: 入金は即時反映される場合がほとんどですが、出金は通常、数時間から数営業日かかることがございます。",
           ],
         },
@@ -207,7 +207,7 @@ export const conquestadorBonus: BonusPageContent = {
     {
       heading: "プレイヤーからの評判",
       paragraphs: [
-        "*   **ポジティブな意見**: スポーツベッティングの充実度、ライブカジノの多様性、豊富なスロットプロバイダー、新規プレイヤー向けの[ボーナス](https://www.casinotsu.com/bonuses) などが高く評価されております。</>,
+        "*   **ポジティブな意見**: スポーツベッティングの充実度、ライブカジノの多様性、豊富なスロットプロバイダー、新規プレイヤー向けの[ボーナス](https://www.casinotsu.com/bonuses) などが高く評価されております。",
         "*   **懸念点**: 一部のプレイヤーからは、国によるアクセス制限の問題や、ボーナスの請求に関する潜在的なトラブルについて言及されております。",
         "*   **全体的な評価**: 積極的なプロモーションで知られておりますが、利用規約をよく確認することが推奨されております。",
       ],
@@ -215,17 +215,17 @@ export const conquestadorBonus: BonusPageContent = {
     {
       heading: "まとめ｜業界トップクラスの超豪華オファー🎁💕",
       paragraphs: [
-        "入金不要ボーナスとして40ドルをご提供し、さらに追加で **[フリースピン](https://www.casinotsu.com/bonuses/no-deposit)** まで進呈するオンラインカジノは、**誠に稀有** です。😎</>,
-        <>なぜなら、通常40ドルだけでも、非常に高額な <strong><a href="https://casinotsu.com/bonuses/no-deposit" target="_blank" rel="noopener noreferrer">登録ボーナス</strong> と言えるからです。ヾ(•ω•`)o</>,
-        <>さらに！ コンクエスタドールは、これだけでも大変太っ腹ですが、実は **<a href="https://casinotsu.com/bonuses/welcome-bonus" target="_blank" rel="noopener noreferrer">ウェルカムボーナス も非常に豪華** です。💰🔥</>,
-        <>CasinoTsu限定ボーナスでお得にプレイを始められた後も、 <strong><a href="https://casinotsu.com/reviews/conquestador" target="_blank" rel="noopener noreferrer">初回入金から5回目入金まで続くウェルカムボーナス</strong> で、さらに長くお楽しみいただけます。CasinoTsuは、コンクエスタドールを **絶対にお勧めするオンラインカジノ** の一つです。(´▽`ʃ♡ƪ)</>,
+        "入金不要ボーナスとして40ドルをご提供し、さらに追加で **[フリースピン](https://www.casinotsu.com/bonuses/no-deposit)** まで進呈するオンラインカジノは、**誠に稀有** です。😎",
+        <>なぜなら、通常40ドルだけでも、非常に高額な <strong><a href="https://casinotsu.com/bonuses/no-deposit" target="_blank" rel="noopener noreferrer">登録ボーナス</strong> と言えるからです。ヾ(•ω•`)o",
+        <>さらに！ コンクエスタドールは、これだけでも大変太っ腹ですが、実は **<a href="https://casinotsu.com/bonuses/welcome-bonus" target="_blank" rel="noopener noreferrer">ウェルカムボーナス も非常に豪華** です。💰🔥",
+        <>CasinoTsu限定ボーナスでお得にプレイを始められた後も、 <strong><a href="https://casinotsu.com/reviews/conquestador" target="_blank" rel="noopener noreferrer">初回入金から5回目入金まで続くウェルカムボーナス</strong> で、さらに長くお楽しみいただけます。CasinoTsuは、コンクエスタドールを **絶対にお勧めするオンラインカジノ** の一つです。(´▽`ʃ♡ƪ)",
         "何度もお楽しみいただけるボーナスを多数ご用意しております🎁 **今すぐご登録いただき、ボーナスを最大限に有効活用** してくださいませ。♪",
       ],
     },
     {
       heading: "国別制限について",
       paragraphs: [
-        "コンクエスタドールカジノは、アメリカ合衆国など、一部の国からのアクセスを制限しております。もし、ご自身がお住まいの国からのアクセスが誤ってブロックされていると思われた場合は、[カスタマーサポート](https://www.casinotsu.com/customer-support) にご連絡ください。</>,
+        "コンクエスタドールカジノは、アメリカ合衆国など、一部の国からのアクセスを制限しております。もし、ご自身がお住まいの国からのアクセスが誤ってブロックされていると思われた場合は、[カスタマーサポート](https://www.casinotsu.com/customer-support) にご連絡ください。",
       ],
     },
   ],
