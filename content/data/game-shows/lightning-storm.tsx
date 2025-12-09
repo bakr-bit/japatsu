@@ -279,7 +279,7 @@ export const lightningStorm: GameShowPageContent = {
       heading: "ライトニングストームが好きなプレイヤーにおすすめのゲーム",
       paragraphs: ["Evolution社のホイールゲームがお好きなら、CasinoTsuは以下のタイトルもおすすめです。<>],
       bullets: [
-        "[**クレイジータイム (Crazy Time)**](LINK_NEEDS_REPAIR)：こちらもEvolution社が提供する人気のホイールライブゲーム。ユニークな世界観と複数のボーナスゲームが特徴です。</>,
+        "[**クレイジータイム (Crazy Time)**](https://www.casinotsu.com/game-shows/crazy-time)：こちらもEvolution社が提供する人気のホイールライブゲーム。ユニークな世界観と複数のボーナスゲームが特徴です。</>,
         <><a href="https://casinotsu.com/game-shows/dream-catcher" target="_blank" rel="noopener noreferrer"><strong>ドリームキャッチャー (Dream Catcher)</strong>：ライトニング・ストームやクレイジータイムの源流とも言える、シンプルで分かりやすいホイールゲーム。初心者の方にもおすすめです。</>,
       ],
     },

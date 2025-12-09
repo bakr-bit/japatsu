@@ -122,7 +122,7 @@ export const pokerSplitHoldemGuide: PokerPageContent = {
       {
         heading: "その他のプレイ場所",
         paragraphs: [
-          "スプリット・ホールデムは、PokerStars以外にも、「ディーラーズチョイス」形式のゲームや、友人との[ホームゲーム](LINK_NEEDS_REPAIR)などでプレイされることがあります。</>,
+          "スプリット・ホールデムは、PokerStars以外にも、「ディーラーズチョイス」形式のゲームや、友人との[ホームゲーム](https://www.casinotsu.com/reviews/pokerstars)などでプレイされることがあります。</>,
         ],
       },
     ],

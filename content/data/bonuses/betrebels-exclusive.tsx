@@ -38,7 +38,7 @@ export const betrebelsExclusiveBonus: BonusPageContent = {
         ],
       },
       additionalParagraphs: <a href="https://casinotsu.com/reviews/betrebels" target="_blank" rel="noopener noreferrer">
-        "[CasinoTsuからアクセス](LINK_NEEDS_REPAIR) いただきご登録いただくだけで、獲得できる最大ボーナス額が$600に、入金額に対するパーセンテージも150%へと大幅にアップいたします🤩🔥</>,
+        "[CasinoTsuからアクセス](https://www.casinotsu.com/) いただきご登録いただくだけで、獲得できる最大ボーナス額が$600に、入金額に対するパーセンテージも150%へと大幅にアップいたします🤩🔥</>,
       ],
       exampleBox: {
         content: "**💡例えば💡、$400を入金された場合…👀？**<br>**【通常ボーナスの場合】**<br>$400 × 100% = $400<br>獲得可能額 = **$200** (最大獲得可能金額のため)<br>**【CasinoTsu経由でご登録の場合】**<br>$400 × 150% = $600<br>獲得可能額 = **$600** 🎉🎉🎉",
@@ -191,7 +191,7 @@ export const betrebelsExclusiveBonus: BonusPageContent = {
         methods: <a href="https://casinotsu.com/payment/bitcoin" target="_blank" rel="noopener noreferrer">
           { type: "電子ウォレット", value: "Neteller, Skrill, EcoPayz, Jeton, Mifinity, Vega Wallet" },
           { type: "クレジットカード", value: "Visa, Mastercard (※一部利用できない場合がございます)" },
-          { type: "仮想通貨", value: "[Bitcoin](LINK_NEEDS_REPAIR), <a href="https://casinotsu.com/payment/ethereum" target="_blank" rel="noopener noreferrer">Ethereum, Litecoin, Ripple, Tether, Dogecoin, Bitcoin Cash</> },
+          { type: "仮想通貨", value: "[Bitcoin](https://www.casinotsu.com/crypto), <a href="https://casinotsu.com/payment/ethereum" target="_blank" rel="noopener noreferrer">Ethereum, Litecoin, Ripple, Tether, Dogecoin, Bitcoin Cash</> },
           { type: "その他", value: "Paysafe Card, Neosurf, MuchBetter, Trustly, PIX, iWallet, Google Pay, Apple Pay" },
         ],
         details: [
@@ -219,7 +219,7 @@ export const betrebelsExclusiveBonus: BonusPageContent = {
       heading: "いつでもどこでもベットレベルズ！",
       description: "ベットレベルズ様は、スマートフォンやタブレットなどのモバイルデバイスに完全対応しております。特別なアプリのダウンロードは不要で、お使いのデバイスのウェブブラウザから直接アクセスして、PC版と同様の機能をお楽しみいただけます。",
       features: <a href="https://casinotsu.com/casino-apps" target="_blank" rel="noopener noreferrer">
-        "**モバイルでのゲーム体験:** サイトはレスポンシブデザインを採用しており、画面サイズに合わせて自動的に表示が最適化されます。[カジノアプリ](LINK_NEEDS_REPAIR) のように、スロット、ライブカジノ、テーブルゲームはもちろん、スポーツベットも快適にプレイいただけます。</>,
+        "**モバイルでのゲーム体験:** サイトはレスポンシブデザインを採用しており、画面サイズに合わせて自動的に表示が最適化されます。[カジノアプリ](https://www.casinotsu.com/mobile) のように、スロット、ライブカジノ、テーブルゲームはもちろん、スポーツベットも快適にプレイいただけます。</>,
         "**アカウント管理:** 入出金、ボーナスの確認、アカウント設定の変更なども、モバイルから簡単に行えます。",
         "**利便性:** 通勤中や外出先など、いつでもどこでもお気に入りのゲームにアクセスできるため、非常に便利です。",
       ],

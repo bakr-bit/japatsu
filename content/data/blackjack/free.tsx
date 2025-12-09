@@ -68,7 +68,7 @@ export const freeBlackjackGames: BlackjackPageContent = {
       rank: 1,
       heading: "Blackjack MH（Play'n Go）",
       content: `
-オーソドックスなブラックジャックでございます。MHはMulti Hand（マルチハンド）を意味し、3つのベットプレイスがございます。大手プロバイダー[**Play'n Go**](LINK_NEEDS_REPAIR)のゲームですので、品質は確かでございます。人気のオンラインカジノ、<a href="https://casinotsu.com/reviews/live-casino-house" target="_blank" rel="noopener noreferrer"><strong>ライブカジノハウス</strong>でお楽しみいただけます。無料でもプレイ可能ですが、初回入金時には**お得なボーナスが最大77,777円**も進呈されます。無料プレイで慣れてきましたら、初回入金ボーナスをご利用いただき、さらにお得に遊んでみるのもよろしいかと存じます。
+オーソドックスなブラックジャックでございます。MHはMulti Hand（マルチハンド）を意味し、3つのベットプレイスがございます。大手プロバイダー[**Play'n Go**](https://www.casinotsu.com/providers/play-n-go)のゲームですので、品質は確かでございます。人気のオンラインカジノ、<a href="https://casinotsu.com/reviews/live-casino-house" target="_blank" rel="noopener noreferrer"><strong>ライブカジノハウス</strong>でお楽しみいただけます。無料でもプレイ可能ですが、初回入金時には**お得なボーナスが最大77,777円**も進呈されます。無料プレイで慣れてきましたら、初回入金ボーナスをご利用いただき、さらにお得に遊んでみるのもよろしいかと存じます。
 
 ライブカジノゲームプロバイダーの数が圧倒的に豊富でございます！<a href="https://casinotsu.com/reviews/live-casino-house" target="_blank" rel="noopener noreferrer">ライブカジノハウスのお気に入りテーブルで遊んじゃおう❤︎
       `

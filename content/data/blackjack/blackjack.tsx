@@ -143,7 +143,7 @@ IR整備法により、日本におけるカジノ合法化が着実に進んで
 
 「では、日本のランドカジノが合法になったら、オンラインカジノも合法になるのか？」と思われた方もいらっしゃるかもしれませんが、そうではありません。IR整備法には、複合観光施設区域に関するランドカジノの取り決めのみが含まれており、オンラインカジノについては言及されていません。
 
-むしろ、関連する施策案として【 [IR推進会議取りまとめ](LINK_NEEDS_REPAIR)（P25）】にある「オンラインカジノの禁止」や、【 <a href="https://www.kantei.go.jp/jp/singi/ir_promotion/siryou/pdf/siryou4.pdf" target="_blank" rel="noopener noreferrer">特定複合観光施設区域整備推進会議取りまとめ（P44）】にある、「オンラインゲームは不可」といった内容が見られます。
+むしろ、関連する施策案として【 [IR推進会議取りまとめ](https://www.kantei.go.jp/jp/singi/ir_promotion/siryou/pdf/siryou3.pdf)（P25）】にある「オンラインカジノの禁止」や、【 <a href="https://www.kantei.go.jp/jp/singi/ir_promotion/siryou/pdf/siryou4.pdf" target="_blank" rel="noopener noreferrer">特定複合観光施設区域整備推進会議取りまとめ（P44）】にある、「オンラインゲームは不可」といった内容が見られます。
 
 ここでいう <a href="https://casinotsu.com/" target="_blank" rel="noopener noreferrer">オンラインカジノ とは、日本国内で運営されるものを指します。
 

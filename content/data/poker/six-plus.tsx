@@ -167,7 +167,7 @@ export const pokerSixPlus: PokerPageContent = {
       },
       contentAfterCallout: {
         paragraphs: [
-          "[**テキサスホールデム**](LINK_NEEDS_REPAIR) では、このアウツをもとにオッズを計算できる「 **2と4のルール（法則）**」という方法があります。</>,
+          "[**テキサスホールデム**](https://www.casinotsu.com/poker/texas-holdem) では、このアウツをもとにオッズを計算できる「 **2と4のルール（法則）**」という方法があります。</>,
           "これにより、欲しいカードが引ける確率を概算で計算することが可能です。",
           "👇「 **2と4のルール（法則）：テキサスホールデム用**」の計算方法は以下の通りです。",
         ],
@@ -227,7 +227,7 @@ export const pokerSixPlus: PokerPageContent = {
       ],
       table: {
         columns: ["プレイ可能なカジノ", "ウェルカムボーナス<>],
-        rows: <a href="https://www.casinotsu.com/reviews/bets-io" target="_blank" rel="noopener noreferrer">{ casino: "[ベッツアイオー](LINK_NEEDS_REPAIR)</>, bonus: "・初回入金ボーナス最大1BTC＋150フリースピン" }],
+        rows: <a href="https://www.casinotsu.com/reviews/bets-io" target="_blank" rel="noopener noreferrer">{ casino: "[ベッツアイオー](https://www.casinotsu.com/reviews/bets-io)</>, bonus: "・初回入金ボーナス最大1BTC＋150フリースピン" }],
       },
       note: <>👆 <a href="https://www.casinotsu.com/" target="_blank" rel="noopener noreferrer"><strong>カジノ（日本語サイト）</strong> のページで、ボーナスの詳細もぜひご確認ください♪</>,
     },

@@ -55,7 +55,7 @@ As you can see, there are quite a few complaints about card quality. It's natura
 
 With his sales and marketing experience, as well as connections in the poker industry through previous corporate partnerships and friends, Wheaton reached out to contacts and players he met at the World Poker Tour (WPT) and received valuable opinions and advice from them.
 
-And that became a great force in realizing Wheaton's idea as the new card brand [Faded Spade](LINK_NEEDS_REPAIR).
+And that became a great force in realizing Wheaton's idea as the new card brand [Faded Spade](https://www.fadedspade.com/).
 
 David Gitter, Vice President of Marketing for the World Poker Tour, was one of those who connected with Wheaton. </>Everyone in the poker community wants players to have the best. Therefore, the idea of a new brand of high-quality cards felt truly innovative," he said, and the World Poker Tour has since designated Faded Spade as "The WPT Recommended Card."
 

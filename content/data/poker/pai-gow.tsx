@@ -105,7 +105,7 @@ export const paiGowPokerGuide: PokerPageContent = {
       alt: "パイ・ゴウ｜デモ",
     },
     paragraphs: [
-      "オンライン・パイ・ゴウで勝利を掴むための鍵は、「**7枚のカードをどのように2つのハンドに分けるか**」に尽きます。基本戦略としては、少なくとも一方のハンドがディーラーのハンドよりも強くなるように配置することです。これにより、負けを回避することができます。上級者の中には、2枚カードのローハンドを可能な限り強く作ることを目指すプレイヤーもいますが、その際も5枚カードのハイハンドよりも役が弱くならないよう、[パイ・ゴウのルール](LINK_NEEDS_REPAIR)を遵守する必要があります。</>,
+      "オンライン・パイ・ゴウで勝利を掴むための鍵は、「**7枚のカードをどのように2つのハンドに分けるか**」に尽きます。基本戦略としては、少なくとも一方のハンドがディーラーのハンドよりも強くなるように配置することです。これにより、負けを回避することができます。上級者の中には、2枚カードのローハンドを可能な限り強く作ることを目指すプレイヤーもいますが、その際も5枚カードのハイハンドよりも役が弱くならないよう、[パイ・ゴウのルール](https://www.casinotsu.com/guides/strategy)を遵守する必要があります。</>,
       "しかし、5枚カードのハイハンドでストレート以上の役ができた場合は、それを優先的にキープするのが賢明でしょう。なぜなら、そのような役は高い確率で勝利につながるからです。",
     ],
   },
@@ -226,7 +226,7 @@ export const paiGowPokerGuide: PokerPageContent = {
   faq: <a href="https://www.casinotsu.com/info/story-of-cards" target="_blank" rel="noopener noreferrer">
     {
       question: "パイ・ゴウとはどのようなゲームですか？",
-      answer: "パイ・ゴウ・ポーカーは、アメリカの影響を受けた中国のドミノゲーム「牌九（パイ・ゴウ）」です。[カードゲームの歴史](LINK_NEEDS_REPAIR)に興味のある方には特に面白いかもしれません。</>,
+      answer: "パイ・ゴウ・ポーカーは、アメリカの影響を受けた中国のドミノゲーム「牌九（パイ・ゴウ）」です。[カードゲームの歴史](https://www.casinotsu.com/guides/card-game-history)に興味のある方には特に面白いかもしれません。</>,
       character: "oka-kyoju",
       characterName: "Oka Kyoju",
       avatarUrl: "https://img.casinotsu.com/svg/jp/mascots/happy/oka-kyoju.svg",

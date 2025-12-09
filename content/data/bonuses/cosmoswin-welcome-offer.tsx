@@ -42,7 +42,7 @@ export const cosmoswinCashbackBonus: BonusPageContent = {
         {
           subheading: "Cosmoswinとは？ 信頼できる仮想通貨カジノ 💎",
           paragraphs: [
-            "Cosmoswinは2018年または2019年（情報源により若干の差異あり）に設立された、仮想通貨に特化したオンラインカジノです。ライセンスはキュラソー政府発行のマスターライセンス「1668/JAZ」を取得しており、信頼性の高い運営を行っております。CasinoTsuは、[ライセンスの有無](LINK_NEEDS_REPAIR)を常にチェック、ダブルチェック、そして CasinoTsu チェック！しています。</>,
+            "Cosmoswinは2018年または2019年（情報源により若干の差異あり）に設立された、仮想通貨に特化したオンラインカジノです。ライセンスはキュラソー政府発行のマスターライセンス「1668/JAZ」を取得しており、信頼性の高い運営を行っております。CasinoTsuは、[ライセンスの有無](https://www.casinotsu.com/)を常にチェック、ダブルチェック、そして CasinoTsu チェック！しています。</>,
             "カジノ運営会社はFinal Enterprises N.V.です。",
             <>提供されるゲーム数は、約2,500〜4,000種類以上（情報源により変動あり）と非常に豊富で、1x2 Gaming、Amatic、Betsoft、<a href="https://casinotsu.com/game-shows" target="_blank" rel="noopener noreferrer">Evolution Gaming、Netent、Pragmatic Playなど30社以上の有名プロバイダーが名を連ねています。</>,
             <>カジノゲームは、<a href="https://casinotsu.com/live-casino" target="_blank" rel="noopener noreferrer">ライブカジノ、テーブルゲーム（<a href="https://casinotsu.com/blackjack" target="_blank" rel="noopener noreferrer">ブラックジャック、<a href="https://casinotsu.com/poker" target="_blank" rel="noopener noreferrer">ポーカー、<a href="https://casinotsu.com/baccarat" target="_blank" rel="noopener noreferrer">バカラ、<a href="https://casinotsu.com/roulette" target="_blank" rel="noopener noreferrer">ルーレット）、TVショーゲーム、そしてCosmoswin独自の「Space」カテゴリーゲームなどが楽しめます。また、一部ゲームでは「Provably Fair（証明可能公正）」機能も利用可能です。</>,

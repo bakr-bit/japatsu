@@ -286,7 +286,7 @@ export const monopolyBigBallerLive: GameShowPageContent = {
         {
           subheading: "",
           bullets: [
-            "[**モノポリーライブ（Monopoly Live）**](LINK_NEEDS_REPAIR): ボードゲーム「モノポリー」と「ドリームキャッチャー」が融合した、こちらも人気のゲームショーです。</>,
+            "[**モノポリーライブ（Monopoly Live）**](https://www.casinotsu.com/game-shows/monopoly-live): ボードゲーム「モノポリー」と「ドリームキャッチャー」が融合した、こちらも人気のゲームショーです。</>,
             <><a href="https://casinotsu.com/game-shows/mega-ball" target="_blank" rel="noopener noreferrer"><strong>メガボール（Mega Ball）</strong>: ビンゴスタイルのゲームで、マルチプライヤーが当選確率を大きく左右します。</>,
             <><a href="https://casinotsu.com/game-shows/dream-catcher" target="_blank" rel="noopener noreferrer"><strong>ドリームキャッチャー（Dream Catcher）</strong>: Evolution Gaming社初のマネーホイール型ゲームショーで、シンプルながらもエキサイティングな体験ができます。</>,
             <><a href="https://casinotsu.com/game-shows/crazy-time" target="_blank" rel="noopener noreferrer"><strong>クレイジータイム（Crazy Time）</strong>: 複数のボーナスゲームと高倍率マルチプライヤーが特徴の、Evolution Gaming社の中でも特に人気の高いゲームショーです。</>,

@@ -143,7 +143,7 @@ CasinoTsu は、カジノゲームをより深く楽しむために役立つ、�
 | **Tipping/Toking (チップ/トーキング)** | ディーラーにチップ（心付け）を渡すこと。 |
 | **Tilt (ティルト)** | 欲求不満や精神的な動揺により、無謀なプレイをしてしまう状態。 |
 
-⇓ CasinoTsu 推薦：[パリマッチ](LINK_NEEDS_REPAIR) でバカラを存分に楽しみましょう♪⇓
+⇓ CasinoTsu 推薦：[パリマッチ](https://www.casinotsu.com/reviews/parimatch) でバカラを存分に楽しみましょう♪⇓
 
 <a href="https://go.casinotsu.com/go/parimatch" target="_blank" rel="noopener noreferrer"><strong>👉 パリマッチに登録！</strong>
 

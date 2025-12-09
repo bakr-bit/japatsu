@@ -44,7 +44,7 @@ CasinoTsu が推薦する質の高いオンラインカジノでは、アカウ�
 
 オンラインカジノに慣れている方でも見落としがちですが、カジノサイトが提示する利用規約は非常に重要です。
 
-利用規約には、カジノの運営会社情報、取得している [ライセンス](LINK_NEEDS_REPAIR)、 <a href="https://casinotsu.com/payment" target="_blank" rel="noopener noreferrer">決済手段、禁止行為などが明記されています。また、対応国や <a href="https://casinotsu.com/bonuses" target="_blank" rel="noopener noreferrer">ボーナス に関する規定も記載されています。
+利用規約には、カジノの運営会社情報、取得している [ライセンス](https://www.casinotsu.com/guides/licenses)、 <a href="https://casinotsu.com/payment" target="_blank" rel="noopener noreferrer">決済手段、禁止行為などが明記されています。また、対応国や <a href="https://casinotsu.com/bonuses" target="_blank" rel="noopener noreferrer">ボーナス に関する規定も記載されています。
 
 ご自身の居住国からアカウント開設が可能か、どのような行為が禁止されており、アカウント凍結につながる可能性があるかといった情報は、アカウント管理において特に把握しておくべきでしょう。また、一つのオンラインカジノ内で複数のアカウントを作成することは禁止されています。
 

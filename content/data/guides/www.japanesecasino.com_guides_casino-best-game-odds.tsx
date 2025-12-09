@@ -69,7 +69,7 @@ CasinoTsu では、皆様にオンラインカジノでおすすめの、すな�
       heading: "オンカジは勝ちやすいギャンブル？",
       content: `
 
-![高勝率ゲーム｜勝てるゲーム・オンラインカジノ](LINK_NEEDS_REPAIR)
+![高勝率ゲーム｜勝てるゲーム・オンラインカジノ](https://www.casinotsu.com/)
 
 
 実は、オンラインカジノは他のギャンブルと比較して、勝ちやすいギャンブルと言われております。その理由は、単に勝率が高いというよりも、「還元率」に秘密があります。オンラインカジノでは、<a href="https://casinotsu.com/guides/house-edge" target="_blank" rel="noopener noreferrer">ハウスエッジ が低いゲームが多いことから、勝ちやすいとされるのです。

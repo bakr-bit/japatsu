@@ -85,7 +85,7 @@ CasinoTsuが厳選した、ハイローラー向けのオファーが充実し�
 
 | **カジノ** | **VIPオファー** | **ボーナス** | **最低入金額** | **賭け条件** | **出金** |
 |---|---|---|---|---|---|
-| **[K8カジノ](LINK_NEEDS_REPAIR)** | ・専属サポーター<br>・カスタマイズサービス<br>・リベートボーナス<br>・日替わりボーナス<br>・毎日キャッシュバック<br>・昇格ボーナス<br>・週替わりボーナス<br>・月替わりボーナス<br>・誕生日ボーナス<br>・VIP限定特別ツアー<br>・豪華ホテルルーム | 最大¥3,000,000（初回入金ボーナス） | ¥1,000 | 20倍 | 最速クラス |
+| **[K8カジノ](https://www.casinotsu.com/reviews/k8)** | ・専属サポーター<br>・カスタマイズサービス<br>・リベートボーナス<br>・日替わりボーナス<br>・毎日キャッシュバック<br>・昇格ボーナス<br>・週替わりボーナス<br>・月替わりボーナス<br>・誕生日ボーナス<br>・VIP限定特別ツアー<br>・豪華ホテルルーム | 最大¥3,000,000（初回入金ボーナス） | ¥1,000 | 20倍 | 最速クラス |
 | <a href="https://casinotsu.com/reviews/eldoah" target="_blank" rel="noopener noreferrer"><strong>エルドアカジノ</strong> | ・高いキャッシュバック率<br>・高いキャッシュバック上限<br>・出金優先対応 | 最大¥100,000（初回入金ボーナス） | ¥1,000 | 1倍 | 迅速 |
 | <a href="https://casinotsu.com/reviews/bitcasino-io" target="_blank" rel="noopener noreferrer"><strong>ビットカジノ・アイオー</strong> | ・専属マネージャー<br>・特別イベントへの招待<br>・豪華キャンペーン | 仮想通貨での入金ボーナスあり | 要確認 | カジノによる | 迅速、仮想通貨対応 |
 | <a href="https://casinotsu.com/reviews/live-casino-house" target="_blank" rel="noopener noreferrer"><strong>ライブカジノハウス</strong> | ・専用サポート<br>・限定プロモ<br>・レベルアップボーナス<br>・リベートボーナス<br>・出金優先対応<br>・出金上限の引き上げ<br>・バースデーボーナス | 最大¥50,000（初回入金ボーナス） | ¥1,000 | 20倍 | 迅速 |

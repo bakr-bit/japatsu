@@ -27,7 +27,7 @@ export const bonsCasinoBonusContent: BonusPageContent = {
         rank: "1",
         casino: "ボンズカジノ（Bons Casino）",
         casinoSlug: "bons",
-        bonusDetails: "**入金不要ボーナス5,000円** ＋ **[Moon Princess](LINK_NEEDS_REPAIR)** の **フリースピン20回分**。ボーナスコード「 **japacasi**」</>,
+        bonusDetails: "**入金不要ボーナス5,000円** ＋ **[Moon Princess](https://www.casinotsu.com/slots/moon-princess)** の **フリースピン20回分**。ボーナスコード「 **japacasi**」</>,
         offerLink: "https://casinotsu.com/bonuses/welcome-bonus",
         wagering: "入金不要ボーナス：40倍\nフリースピン勝利金：20倍",
       },
@@ -58,11 +58,11 @@ export const bonsCasinoBonusContent: BonusPageContent = {
   bonusTypeCategories: <a href="https://casinotsu.com/slots/moon-princess" target="_blank" rel="noopener noreferrer">
     {
       title: "ボンズカジノの入金不要ボーナス＆フリースピン利用規約",
-      description: "CasinoTsu では、提供された情報を責任を持って皆様にお届けします。チェック、ダブルチェック、そして CasinoTsu チェック済みの情報です。\n\n**規約一覧:**\n* 入金不要ボーナスの出金条件は **40倍** です。これは、ボーナス額の40倍にあたる金額を賭ける必要があることを意味します。\n* 入金不要ボーナスの出金上限額は **12,000円** です。このボーナスから得た勝利金を引き出せる最大金額となります。\n* フリースピンから得た勝利金にかかる出金条件は **20倍** です。\n* フリースピンの対象スロットは **[Moon Princess](LINK_NEEDS_REPAIR)** で、スピンバリューは **32円** です。\n* フリースピンを獲得するには、ボーナスコード「 **japacasi**」を登録時に入力する必要があります。\n* ボーナス、フリースピンの受け取りには <strong><a href="https://casinotsu.com/guides/document-verification" target="_blank" rel="noopener noreferrer">本人確認（KYC）</strong> と **電話番号認証** が必須です。\n* ボーナス、フリースピンの有効期限は **30日間** です。\n* ボンズカジノの **一般利用規約** が適用されます。\n\n**カジ子メモ:** ボーナスは、カジノ、ライブカジノ、スポーツベットで利用可能とのことです。ゲームによって賭け条件消化率が異なりますので、プレイ前にボーナス利用規約のページでご確認くださいませ🌸</>,
+      description: "CasinoTsu では、提供された情報を責任を持って皆様にお届けします。チェック、ダブルチェック、そして CasinoTsu チェック済みの情報です。\n\n**規約一覧:**\n* 入金不要ボーナスの出金条件は **40倍** です。これは、ボーナス額の40倍にあたる金額を賭ける必要があることを意味します。\n* 入金不要ボーナスの出金上限額は **12,000円** です。このボーナスから得た勝利金を引き出せる最大金額となります。\n* フリースピンから得た勝利金にかかる出金条件は **20倍** です。\n* フリースピンの対象スロットは **[Moon Princess](https://www.casinotsu.com/slots/moon-princess)** で、スピンバリューは **32円** です。\n* フリースピンを獲得するには、ボーナスコード「 **japacasi**」を登録時に入力する必要があります。\n* ボーナス、フリースピンの受け取りには <strong><a href="https://casinotsu.com/guides/document-verification" target="_blank" rel="noopener noreferrer">本人確認（KYC）</strong> と **電話番号認証** が必須です。\n* ボーナス、フリースピンの有効期限は **30日間** です。\n* ボンズカジノの **一般利用規約** が適用されます。\n\n**カジ子メモ:** ボーナスは、カジノ、ライブカジノ、スポーツベットで利用可能とのことです。ゲームによって賭け条件消化率が異なりますので、プレイ前にボーナス利用規約のページでご確認くださいませ🌸</>,
       table: {
         columns: ["項目", "詳細<>],
         rows: <a href="https://casinotsu.com/slots/moon-princess" target="_blank" rel="noopener noreferrer">
-          ["**対象ゲーム**", "**[Moon Princess](LINK_NEEDS_REPAIR)**</>],
+          ["**対象ゲーム**", "**[Moon Princess](https://www.casinotsu.com/slots/moon-princess)**</>],
           ["**回数**", "**20回**"],
           ["**スピンバリュー**", "**32円**"],
           ["**出金条件**", "**20倍**"],
@@ -108,7 +108,7 @@ export const bonsCasinoBonusContent: BonusPageContent = {
         "**注意**: 銀行送金は、処理に時間がかかったり、問題が発生する可能性があるため、あまり推奨されておりません。CasinoTsu は、安全で迅速な決済を重視しています。",
       ],
       casinos: <a href="https://casinotsu.com/payment/bitcoin" target="_blank" rel="noopener noreferrer">
-        { casino: "仮想通貨", casinoSlug: "crypto", bonus: "[Bitcoin](LINK_NEEDS_REPAIR)、イーサリアムなど、主要な仮想通貨での入出金が可能です。</> },
+        { casino: "仮想通貨", casinoSlug: "crypto", bonus: "[Bitcoin](https://www.casinotsu.com/crypto)、イーサリアムなど、主要な仮想通貨での入出金が可能です。</> },
         { casino: "推奨電子ウォレット", casinoSlug: "ewallet", bonus: <><a href="https://casinotsu.com/payment/payz" target="_blank" rel="noopener noreferrer">Payz, <a href="https://casinotsu.com/payment/vega-wallet" target="_blank" rel="noopener noreferrer">Vega Wallet, <a href="https://casinotsu.com/payment/iwallet" target="_blank" rel="noopener noreferrer">iWallet, <a href="https://casinotsu.com/payment/muchbetter" target="_blank" rel="noopener noreferrer">MuchBetter, Jeton, <a href="https://casinotsu.com/payment/tiger-pay" target="_blank" rel="noopener noreferrer">Tiger Pay などの主要な電子ウォレットが利用できます。</> },
       ],
     },
@@ -220,7 +220,7 @@ export const bonsCasinoBonusContent: BonusPageContent = {
     },
     {
       question: "仮想通貨での入金は可能ですか？",
-      answer: "はい、[Bitcoin](LINK_NEEDS_REPAIR)やイーサリアムなどの主要な仮想通貨で入金・出金が可能です。</>,
+      answer: "はい、[Bitcoin](https://www.casinotsu.com/crypto)やイーサリアムなどの主要な仮想通貨で入金・出金が可能です。</>,
     },
     {
       question: "日本からアクセスしても問題ありませんか？",

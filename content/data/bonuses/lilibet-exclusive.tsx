@@ -63,7 +63,7 @@ export const lilibetExclusiveOffer: BonusPageContent = {
         {
           subheading: "入金不要ボーナス詳細｜CasinoTsu経由のご登録で獲得！",
           paragraphs: [
-            "こちらは、 **CasinoTsuのリンクから [リリベット](LINK_NEEDS_REPAIR) へアクセスしご登録** いただきますと、通常のご登録では付与されない <a href="https://casinotsu.com/bonuses/no-deposit" target="_blank" rel="noopener noreferrer">入金不要ボーナス として2,000円をお受け取りいただけるものです 🎁</>,
+            "こちらは、 **CasinoTsuのリンクから [リリベット](https://www.casinotsu.com/) へアクセスしご登録** いただきますと、通常のご登録では付与されない <a href="https://casinotsu.com/bonuses/no-deposit" target="_blank" rel="noopener noreferrer">入金不要ボーナス として2,000円をお受け取りいただけるものです 🎁</>,
             <>＼ **<a href="https://casinotsu.com/guides/wagering-requirements" target="_blank" rel="noopener noreferrer">賭け条件 は、なんと！1倍** ❗️👏素晴らしいですね〜！💕／</>,
             "有効期限は進呈日より3日間ございます。リリベットでぜひお好みのゲームを見つけ、存分にお楽しみください★(^_−)",
             "##### 【入金不要ボーナス 利用規約】",

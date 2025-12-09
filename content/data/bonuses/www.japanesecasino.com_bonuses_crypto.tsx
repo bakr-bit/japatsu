@@ -403,7 +403,7 @@ export const cryptoBonuses: BonusPageContent = {
     {
       heading: "仮想通貨ボーナスで始めるオンカジライフ♪",
       paragraphs: [
-        "[**仮想通貨のまま遊べるオンラインカジノ**](LINK_NEEDS_REPAIR) は、以前と比較してかなり増えてきました。それに伴い、<a href="https://casinotsu.com/bonuses" target="_blank" rel="noopener noreferrer">カジノボーナス **のバリエーション**も豊富になっています。普段から仮想通貨で遊んでいる方も、これから仮想通貨アカウントを持つ方も、仮想通貨対応カジノを選択肢の一つとして検討してみてはいかがでしょうか。</>,
+        "[**仮想通貨のまま遊べるオンラインカジノ**](https://www.casinotsu.com/) は、以前と比較してかなり増えてきました。それに伴い、<a href="https://casinotsu.com/bonuses" target="_blank" rel="noopener noreferrer">カジノボーナス **のバリエーション**も豊富になっています。普段から仮想通貨で遊んでいる方も、これから仮想通貨アカウントを持つ方も、仮想通貨対応カジノを選択肢の一つとして検討してみてはいかがでしょうか。</>,
       ],
       subsections: [
         {

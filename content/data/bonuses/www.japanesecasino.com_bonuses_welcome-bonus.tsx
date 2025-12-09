@@ -232,7 +232,7 @@ export const welcomeBonuses: BonusPageContent = {
         {
           subheading: "クラッシュゲーム（Aviatorなど）",
           paragraphs: [
-            "近年人気を集めている[クラッシュゲーム](LINK_NEEDS_REPAIR) （Aviatorなど）は、シンプルなメカニクスと高いペイアウトポテンシャルが魅力です。これらのゲームが初回入金ボーナスでプレイ可能かどうかは、各カジノの規約をご確認ください。</>,
+            "近年人気を集めている[クラッシュゲーム](https://www.casinotsu.com/crash-games) （Aviatorなど）は、シンプルなメカニクスと高いペイアウトポテンシャルが魅力です。これらのゲームが初回入金ボーナスでプレイ可能かどうかは、各カジノの規約をご確認ください。</>,
           ],
         },
         {
@@ -286,7 +286,7 @@ export const welcomeBonuses: BonusPageContent = {
         {
           subheading: "即日出金の可能性",
           paragraphs: [
-            "一部のカジノでは、迅速な出金処理を提供しており、最短で即日、または数時間以内に出金が完了する場合があります。これは、プレイヤーにとって非常に魅力的なサービスです。CasinoTsuでは、[即日出金可能なカジノ](LINK_NEEDS_REPAIR) も紹介しています。</>,
+            "一部のカジノでは、迅速な出金処理を提供しており、最短で即日、または数時間以内に出金が完了する場合があります。これは、プレイヤーにとって非常に魅力的なサービスです。CasinoTsuでは、[即日出金可能なカジノ](https://www.casinotsu.com/) も紹介しています。</>,
           ],
         },
         {

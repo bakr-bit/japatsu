@@ -112,7 +112,7 @@ export const bonsCasinoExclusive: OfferPageContent = {
       { label: "賭け条件 (ボーナス)", value: "40倍" },
       { label: "出金上限額 (ボーナス)", value: "¥12,000" },
       { label: "フリースピン", value: "20回" },
-      { label: "対象スロット (フリースピン)", value: "[Moon Princess](LINK_NEEDS_REPAIR)</> },
+      { label: "対象スロット (フリースピン)", value: "[Moon Princess](https://www.casinotsu.com/slots/moon-princess)</> },
       { label: "スピンバリュー", value: "¥32" },
       { label: "賭け条件 (フリースピン勝利金)", value: "20倍" },
       { label: "有効期限", value: "30日間" },

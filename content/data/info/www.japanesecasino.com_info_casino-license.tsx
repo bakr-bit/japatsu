@@ -66,7 +66,7 @@ CasinoTsu は、プレイヤーの皆様が安心してオンラインカジノ�
 
 🆕 **安全な運営体制の新カジノが続々登場！**
 
-CasinoTsu に仲間入りした [新規オンラインカジノ](LINK_NEEDS_REPAIR) もぜひチェックしてみてください！
+CasinoTsu に仲間入りした [新規オンラインカジノ](https://www.casinotsu.com/) もぜひチェックしてみてください！
 
 ### ライセンスの重要性：プレイヤーのための自己防衛
 
@@ -342,7 +342,7 @@ MGAライセンス（マルタ政府）のケースを例に、ライセンス�
 ゲームを開発するソフトウェア会社にも、定期的に厳しいチェックが行われます。もちろん、調査は一度きりではなく、定期的に複数回実施されます。
 
 <a href="https://casinotsu.com/images/different-online-casino-providers-1024x364.png" target="_blank" rel="noopener noreferrer">
-![オンラインカジノ｜プロバイダー](LINK_NEEDS_REPAIR)
+![オンラインカジノ｜プロバイダー](https://www.casinotsu.com/)
 ](https://casinotsu.com/providers)
 
 #### 3. 第三者監査機関による定期的なチェック

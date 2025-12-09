@@ -177,7 +177,7 @@ export const vipBonuses: BonusPageContent = {
         {
           subheading: "ハイローラーになる",
           paragraphs: [
-            "多額の入金や高額ベットを行う [**ハイローラー**](LINK_NEEDS_REPAIR) になることは、VIPレベルを上げるための有効な手段の一つです✨</>,
+            "多額の入金や高額ベットを行う [**ハイローラー**](https://www.casinotsu.com/guides/high-roller) になることは、VIPレベルを上げるための有効な手段の一つです✨</>,
             <>例えば、 <a href="https://casinotsu.com/reviews/eldoah" target="_blank" rel="noopener noreferrer"><strong>エルドアカジノ</strong> では、「即時昇格プラン」が明記されており、一定額以上の入金を行うことで、すぐにVIPへ昇格することが可能です♪</>,
             <>**CasinoTsu 推薦：最短1日で最上位VIPレベルになれるカジノとは！？** <a href="https://casinotsu.com/reviews/wonder-casino" target="_blank" rel="noopener noreferrer">ワンダーカジノに登録 して特別待遇を受けましょう♡</>,
           ],
@@ -257,7 +257,7 @@ export const vipBonuses: BonusPageContent = {
         {
           subheading: "出金上限",
           paragraphs: [
-            "[**ハイローラー**](LINK_NEEDS_REPAIR) にとって、出金上限は非常に重要なチェックポイントです。</>,
+            "[**ハイローラー**](https://www.casinotsu.com/guides/high-roller) にとって、出金上限は非常に重要なチェックポイントです。</>,
             "せっかく高額な勝利を得ても、出金上限によってスムーズに出金できないのは残念なことです😭",
           ],
         },
@@ -346,7 +346,7 @@ export const vipBonuses: BonusPageContent = {
     },
     {
       question: "VIPランクアップのコツは何ですか？",
-      answer: "一つのオンラインカジノで継続的にプレイすることが重要です。また、 **複数の通貨（日本円、仮想通貨など）を使い分ける** ことで、より効率的にベット額を積み上げられる場合があります。 **[無料ゲーム](LINK_NEEDS_REPAIR)** トライアルを活用し、ご自身に有利なゲームを見つけることも有効でしょう。</>,
+      answer: "一つのオンラインカジノで継続的にプレイすることが重要です。また、 **複数の通貨（日本円、仮想通貨など）を使い分ける** ことで、より効率的にベット額を積み上げられる場合があります。 **[無料ゲーム](https://www.casinotsu.com/free-games)** トライアルを活用し、ご自身に有利なゲームを見つけることも有効でしょう。</>,
     },
   ],
 

@@ -71,7 +71,7 @@ PokerStars Pokerは、多様なゲームとトーナメントを提供してい�
 *   **ユニークなゲーム形式**:
     *   **Zoom Poker**: 迅速なフォールドと即座の新しい相手との対戦が可能な、ユニークなファストフォールド形式です。
     *   **Spin & Goトーナメント**: わずかな参加費で高額賞金が狙える、人気のポットリミットオマハ形式のトーナメントです。
-*   **豊富なゲームバリアント**: [テキサスホールデム](LINK_NEEDS_REPAIR)だけでなく、<a href="https://casinotsu.com/poker/omaha-hold-em" target="_blank" rel="noopener noreferrer">オマハ、<a href="https://casinotsu.com/poker/7-card-stud" target="_blank" rel="noopener noreferrer">スタッド、ラズ、HORSE、ドローゲームなど、様々なポーカーバリアントが楽しめます。
+*   **豊富なゲームバリアント**: [テキサスホールデム](https://www.casinotsu.com/poker/texas-holdem)だけでなく、<a href="https://casinotsu.com/poker/omaha-hold-em" target="_blank" rel="noopener noreferrer">オマハ、<a href="https://casinotsu.com/poker/7-card-stud" target="_blank" rel="noopener noreferrer">スタッド、ラズ、HORSE、ドローゲームなど、様々なポーカーバリアントが楽しめます。
 *   **プレイヤー数**: 常に多くのプレイヤーが参加しており、様々な種類のゲームで賑わっています。
 *   **トーナメントシリーズ**:
     *   **PASCOOP (Pennsylvania Championship of Online Poker)**: ペンシルベニア州限定の大型オンラインポーカーシリーズ。

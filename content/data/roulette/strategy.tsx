@@ -17,7 +17,7 @@ export const rouletteStrategy: RoulettePageContent = {
     "callouts<>: <a href="https://go.casinotsu.com/go/mystino:mystino?referrer_path=%2Froulette%2Fstrategy" target="_blank" rel="noopener noreferrer">
       {
         "heading": "おすすめの練習場所",
-        "description": "無料デモで戦略を試すなら [Mystino](LINK_NEEDS_REPAIR) が便利です。</>
+        "description": "無料デモで戦略を試すなら [Mystino](https://www.casinotsu.com/reviews/mystino) が便利です。</>
       }
     ]
   },

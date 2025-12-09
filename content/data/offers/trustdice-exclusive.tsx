@@ -32,7 +32,7 @@ export const trustdiceExclusive: OfferPageContent = {
   ],
 
   intro: <a href="https://casinotsu.com/crypto" target="_blank" rel="noopener noreferrer">
-    "2018年に設立されたトラストダイス（Trust Dice）は、 [**仮想通貨カジノ**](LINK_NEEDS_REPAIR) の中でも急速に人気を集めております。✨</>,
+    "2018年に設立されたトラストダイス（Trust Dice）は、 [**仮想通貨カジノ**](https://www.casinotsu.com/crypto) の中でも急速に人気を集めております。✨</>,
     "仮想通貨でのプレイはもちろん、独自の仮想通貨 **TXTトークンを活用したマイニング機能** を備えた、次世代の投資型カジノとしても注目されています。(≧▽≦)",
     <>そのような魅力溢れる <a href="https://casinotsu.com/reviews/trustdice" target="_blank" rel="noopener noreferrer"><strong>トラストダイス</strong> から、ジャパカジユーザー様限定の特別な <a href="https://casinotsu.com/bonuses/no-deposit" target="_blank" rel="noopener noreferrer"><strong>入金不要ボーナス</strong> を獲得いたしました！🎉💖</>,
     "このボーナスについて、詳しくご案内させていただきます。",

@@ -150,7 +150,7 @@ export const freePokerGamesGuide: PokerPageContent = {
     heading: "無料オンラインポーカーは安全？",
     introduction: <a href="https://casinotsu.com/info/responsible-gambling" target="_blank" rel="noopener noreferrer">
       "「無料」という言葉を聞くと、何か裏があるのではないかとご心配になる方もいらっしゃるかもしれません。ここでは、無料オンラインポーカーの安全性や、カジノ側が無料ゲームを提供する理由について解説いたします。",
-      "もちろん、無料であっても[**責任あるギャンブルポリシー**](LINK_NEEDS_REPAIR) は遵守してプレイするように心がけましょう⛑️</>,
+      "もちろん、無料であっても[**責任あるギャンブルポリシー**](https://www.casinotsu.com/responsible-gambling) は遵守してプレイするように心がけましょう⛑️</>,
     ],
     subsections: [
       {
@@ -261,7 +261,7 @@ export const freePokerGamesGuide: PokerPageContent = {
     heading: "法的側面と税金について",
     paragraphs: [
       "日本の法律では、海外で合法的に運営されているオンラインカジノサイトを利用すること自体は、直接的な禁止措置が取られておりません。しかし、オンラインギャンブルに関する明確な法整備がされていないため、法的なグレーゾーンとされています。",
-      "**税金について:** オンラインカジノで得た賞金は、日本の所得税法に基づき「一時所得」として課税対象となる可能性があります。ただし、海外のサイトを利用した場合の摘発や課税は限定的であるのが現状です。高額な賞金を得られた場合は、税務署にご相談されることをおすすめします。[税金に関する詳細](LINK_NEEDS_REPAIR)もご確認ください。</>,
+      "**税金について:** オンラインカジノで得た賞金は、日本の所得税法に基づき「一時所得」として課税対象となる可能性があります。ただし、海外のサイトを利用した場合の摘発や課税は限定的であるのが現状です。高額な賞金を得られた場合は、税務署にご相談されることをおすすめします。[税金に関する詳細](https://www.casinotsu.com/)もご確認ください。</>,
       "**年齢制限:** 日本国内での合法的なギャンブルの年齢は20歳以上ですが、一部の海外オンラインカジノでは18歳以上から利用できる場合がございます。",
     ],
   },
@@ -270,7 +270,7 @@ export const freePokerGamesGuide: PokerPageContent = {
     heading: "サイト選定のポイント",
     introduction: "オンラインポーカーサイトをお選びになる際は、以下の点を考慮しましょう。CasinoTsuがチェック、ダブルチェック、そしてCasinoTsuチェックで厳選したポイントです。",
     points: <a href="https://casinotsu.com/info/casino-license" target="_blank" rel="noopener noreferrer">
-      "**運営会社とライセンス:** 信頼できる運営会社が、正規のゲーミングライセンス（例: マルタ、キュラソーなど）を取得しているかご確認ください。[カジノライセンス](LINK_NEEDS_REPAIR)について詳しく解説しています。</>,
+      "**運営会社とライセンス:** 信頼できる運営会社が、正規のゲーミングライセンス（例: マルタ、キュラソーなど）を取得しているかご確認ください。[カジノライセンス](https://www.casinotsu.com/guides/licenses)について詳しく解説しています。</>,
       <>**ゲームの多様性:** <a href="https://casinotsu.com/poker/texas-hold-em" target="_blank" rel="noopener noreferrer">テキサスホールデム以外にも、ポットリミット・オマハ（PLO）など、様々な種類のポーカーゲームが提供されているかチェックしましょう。</>,
       <>**モバイルアプリ:** スマートフォンやタブレットから快適にプレイできる、使いやすいモバイルアプリが提供されているか確認しましょう。<a href="https://casinotsu.com/mobile" target="_blank" rel="noopener noreferrer">モバイルカジノもおすすめです。</>,
       <>**ボーナス:** レーキバック率（固定・変動）、初回入金ボーナス、トーナメントチケットなど、ご自身に合ったボーナスプログラムがあるか確認しましょう。（例：GGPokerの「Fish Buffet」のようなダイナミックなプログラムも魅力的です。）<a href="https://casinotsu.com/bonuses" target="_blank" rel="noopener noreferrer">ボーナスに関する情報も豊富です。</>,

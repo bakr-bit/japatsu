@@ -67,7 +67,7 @@ export const liveCraps: LiveCasinoPageContent = {
       heading: "ライブカジノが人気の理由",
       content: `
 
-![ライブクラップス｜ライブディーラー・オンラインカジノ](LINK_NEEDS_REPAIR)
+![ライブクラップス｜ライブディーラー・オンラインカジノ](https://www.casinotsu.com/)
 
 
 皆でワイワイ遊べるクラップス（Craps）🙌。

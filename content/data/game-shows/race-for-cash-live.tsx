@@ -215,7 +215,7 @@ export const raceForCashLive: GameShowPageContent = {
     {
       heading: "レース・フォー・キャッシュ・ライブがお好きな方へおすすめのゲーム",
       paragraphs: [
-        "⚔ **CasinoTsuの洞察：同じゲームでも、ライブゲームとシングルプレイ版という二刀流で提供する姿勢は、プレイヤーの多様なニーズに応える[Quik Gaming](LINK_NEEDS_REPAIR)社の特徴と言えます。**</>,
+        "⚔ **CasinoTsuの洞察：同じゲームでも、ライブゲームとシングルプレイ版という二刀流で提供する姿勢は、プレイヤーの多様なニーズに応える[Quik Gaming](https://www.casinotsu.com/)社の特徴と言えます。**</>,
         <><a href="https://casinotsu.com/providers/quik-gaming" target="_blank" rel="noopener noreferrer">Quik Gaming（クイックゲーミング）社のレビューをチェック！</>,
       ],
       subsections: [

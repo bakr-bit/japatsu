@@ -84,7 +84,7 @@ CasinoTsu より、オンラインカジノ無料版に関する徹底解説記�
 
 ### 1. くいかじ無料版
 
-**[クイーンカジノ](LINK_NEEDS_REPAIR)**（通称： **くいかじ**）無料版は、アカウント登録するだけで様々なオンラインカジノゲームをお試しでプレイすることが可能💫
+**[クイーンカジノ](https://www.casinotsu.com/reviews/queen-casino)**（通称： **くいかじ**）無料版は、アカウント登録するだけで様々なオンラインカジノゲームをお試しでプレイすることが可能💫
 
 無料でありながらゲームラインナップが豊富で、オンラインスロットだけでも400種類以上！ <a href="https://casinotsu.com/slots" target="_blank" rel="noopener noreferrer"><strong>パチンコ＆パチスロも無料</strong> でお楽しみいただけます🎰
 

@@ -60,7 +60,7 @@ export const parimatchExclusiveBonus: BonusPageContent = {
     {
       heading: "2. オファー基本情報：ジャパカジ限定！スロット専用無料ボーナス！",
       paragraphs: [
-        "30年以上の歴史を持つ企業が運営する、日本人プレイヤー向けのオンラインカジノサイト、[パリマッチ](LINK_NEEDS_REPAIR) をご紹介します。</>,
+        "30年以上の歴史を持つ企業が運営する、日本人プレイヤー向けのオンラインカジノサイト、[パリマッチ](https://www.casinotsu.com/) をご紹介します。</>,
         <>ジャパカジの読者の皆様のために、特別な<a href="https://www.casinotsu.com/bonuses/no-deposit" target="_blank" rel="noopener noreferrer"><strong>入金不要ボーナス</strong> をご用意いただきました！🥳</>,
         "ジャパカジ経由でのご登録、および電話番号認証・メールアドレス認証を完了された方には、**カジノスロット**専用の無料ボーナスとして、**5,250円分** をプレゼントいたします。🎁",
         "この機会に、パリマッチが提供する豊富なゲームラインナップを無料で体験いただけます。早速、詳細をご確認ください。🌟",

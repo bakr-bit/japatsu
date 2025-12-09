@@ -70,7 +70,7 @@ export const pokerSideBets: GuidePageContent = {
 サイドベットは、各ポーカーゲームのベットタイム中に、メインベットとは別に選択して賭けることができます。具体的な手順につきましては、以下の通りでございます。
 
 1.  **オンラインカジノに登録・入金する**：まず初めに、お好みのオンラインカジノに新規登録いただき、ご希望の金額を入金してください。
-2.  **ポーカーゲームを選択する**：ライブカジノセクションへ進み、対象となるポーカーゲーム（[テキサスホールデム](LINK_NEEDS_REPAIR)、<a href="https://casinotsu.com/live-casino" target="_blank" rel="noopener noreferrer">カジノホールデムなど）をお選びください。
+2.  **ポーカーゲームを選択する**：ライブカジノセクションへ進み、対象となるポーカーゲーム（[テキサスホールデム](https://www.casinotsu.com/poker/texas-holdem)、<a href="https://casinotsu.com/live-casino" target="_blank" rel="noopener noreferrer">カジノホールデムなど）をお選びください。
 3.  **ベットタイム中にサイドベットを選択する**：ゲームが開始される前のベットタイム中に、メインベットエリアの横に表示されるサイドベットのエリアに、チップを配置して賭けます。
 4.  **ゲームを開始する**：ベットが確定いたしましたら、ゲームが進行いたします。
       `

@@ -226,7 +226,7 @@ export const pokerRules: PokerPageContent = {
           ],
           additionalParagraphs: <a href="https://casinotsu.com/poker/texas-hold-em" target="_blank" rel="noopener noreferrer">
             "圧倒的な人気を誇るのはノーリミットであり、ポーカーの見どころの一つでもあるオールインを好きなタイミングで行えます。",
-            "ちなみにポーカーといえば、 [テキサスホールデム](LINK_NEEDS_REPAIR)！近年、最も耳にする機会が多いのではないでしょうか。 **テキサスホールデムでは、ほとんどの場合ノーリミット** が採用されています♪</>,
+            "ちなみにポーカーといえば、 [テキサスホールデム](https://www.casinotsu.com/poker/texas-holdem)！近年、最も耳にする機会が多いのではないでしょうか。 **テキサスホールデムでは、ほとんどの場合ノーリミット** が採用されています♪</>,
             "ポットリミットは、計算が複雑なため、オンラインカジノでは自動計算されますが、ランドカジノではプレイヤー自身が常にベットできる上限額を把握しておく必要があります。そのため、初心者の方にはあまり推奨できません。",
             "ハイローラーの方々は、ノーリミットでスリリングな駆け引きを楽しむことが多いでしょう。ルールを習得したばかりの初心者の方は、まずベット額が制限されているリミットで、ポーカーの基本的な戦略やゲームの流れを学ぶことから始めるのがおすすめです。",
           ],
@@ -495,7 +495,7 @@ export const pokerRules: PokerPageContent = {
     },
     {
       question: "ポーカーをプレイするのにおすすめのオンラインカジノはどこですか？",
-      answer: "ポーカーをプレイするのであれば、[PokerStars](LINK_NEEDS_REPAIR)がおすすめです。</>,
+      answer: "ポーカーをプレイするのであれば、[PokerStars](https://www.casinotsu.com/reviews/pokerstars)がおすすめです。</>,
       asker: {
         name: "Casiko",
         avatarUrl: "https://casinotsu.com/images/svg/jp/mascots/happy/casiko.svg",

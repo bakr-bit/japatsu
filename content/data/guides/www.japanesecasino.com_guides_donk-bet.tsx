@@ -54,7 +54,7 @@ export const donkBetPokerStrategy: GuidePageContent = {
 
 ポーカーでは、ゲームの主導権を握るプレイヤーがチェックするのを待ってからベットするのが基本です。ドンクベットは、熟練度の低いプレイヤーが行うアクションとされ、ロバのように間抜けなプレイという意味で名付けられました。
 
-**🐟 初心者脱却！** [フィッシュを避けるための秘訣](LINK_NEEDS_REPAIR) をチェックしましょう。
+**🐟 初心者脱却！** [フィッシュを避けるための秘訣](https://www.casinotsu.com/poker/beginner-tips) をチェックしましょう。
 
 ### ドンクベットの具体例
 

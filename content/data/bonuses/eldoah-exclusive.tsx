@@ -124,7 +124,7 @@ export const eldoahCasinoBonus: BonusPageContent = {
   faq: <a href="https://casinotsu.com/info/privacy-policy" target="_blank" rel="noopener noreferrer">
     {
       question: "エルドアカジノの入金不要ボーナスを受け取る上での注意点はありますか？",
-      answer: "はい、ございます。入金不要ボーナスは、CasinoTsu（カジノツウ）経由で登録し、登録時にプロモーションコード欄へ **「japacasi3000」** を入力された場合にのみ進呈されます。また、ボーナスで得た勝利金を出金するには、1,000円以上の入金と [本人確認（KYC）](LINK_NEEDS_REPAIR) が必要となります。</>,
+      answer: "はい、ございます。入金不要ボーナスは、CasinoTsu（カジノツウ）経由で登録し、登録時にプロモーションコード欄へ **「japacasi3000」** を入力された場合にのみ進呈されます。また、ボーナスで得た勝利金を出金するには、1,000円以上の入金と [本人確認（KYC）](https://www.casinotsu.com/guides/kyc) が必要となります。</>,
     },
     {
       question: "エルドアカジノの入金不要ボーナスのおすすめポイントは何ですか？",

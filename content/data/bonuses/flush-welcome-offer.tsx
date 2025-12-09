@@ -67,7 +67,7 @@ export const flushCasinoWelcomeBonus: BonusPageContent = {
     {
       heading: "初回入金ボーナスでお得にフラッシュ♪",
       paragraphs: [
-        "**[仮想通貨カジノ](LINK_NEEDS_REPAIR)** は、少し難しそう…と感じられるかもしれませんが、\nフラッシュカジノでは、入金方法として **アップルペイ** や **グーグルペイ**、 **クレジットカード** から **仮想通貨** を購入して開始することも可能です♪</>,
+        "**[仮想通貨カジノ](https://www.casinotsu.com/crypto)** は、少し難しそう…と感じられるかもしれませんが、\nフラッシュカジノでは、入金方法として **アップルペイ** や **グーグルペイ**、 **クレジットカード** から **仮想通貨** を購入して開始することも可能です♪</>,
         <>今回の初回入金ボーナス以外にも、 **ポイントがリセットされない <a href="https://casinotsu.com/bonuses/vip" target="_blank" rel="noopener noreferrer">VIPプログラム** や、 **豊富なゲーム数、そしてオリジナルゲーム** など、お得で楽しい要素が満載です🤩</>,
         "きっと、長くお楽しみいただけるカジノとなるはずです🎰 どうぞお見逃しなく~\\(≧▽≦)/~",
         <>**💰いつかはもらいたい豪華なVIPボーナスの正体とは？**\n<a href="https://casinotsu.com/bonuses/vip" target="_blank" rel="noopener noreferrer">一番お得な好待遇カジノのVIPボーナスをまとめて一挙公開！</>,
@@ -235,7 +235,7 @@ export const flushCasinoWelcomeBonus: BonusPageContent = {
     {
         heading: "クッキーポリシー",
         paragraphs: [
-            "当サイトはクッキーを使用しています。\n続行することにより、お客様は当サイトの [クッキーポリシー](LINK_NEEDS_REPAIR) に同意したものとみなされます。</>,
+            "当サイトはクッキーを使用しています。\n続行することにより、お客様は当サイトの [クッキーポリシー](https://www.casinotsu.com/cookie-policy) に同意したものとみなされます。</>,
         ]
     }
   ],

@@ -41,7 +41,7 @@ export const sideBetCity: GameShowPageContent = {
             "全て負ける（ALL LOSE）: RTP 96.29%, ハウスエッジ 3.71%",
           ],
           paragraphs: [
-            "注：RTP（Return To Player）はプレイヤーへの理論上の還元率、ハウスエッジはカジノ側の控除率を示します。 CasinoTsu は、これらの数値を[正確にお伝えすること](LINK_NEEDS_REPAIR) をお約束します。</>,
+            "注：RTP（Return To Player）はプレイヤーへの理論上の還元率、ハウスエッジはカジノ側の控除率を示します。 CasinoTsu は、これらの数値を[正確にお伝えすること](https://www.casinotsu.com/) をお約束します。</>,
           ],
         },
         {
@@ -58,7 +58,7 @@ export const sideBetCity: GameShowPageContent = {
         {
           subheading: "カードのシャッフル",
           paragraphs: [
-            "カードは各ラウンドの終了後に必ずシャッフルされます。これにより、毎回公平なゲームプレイが保証されています。 CasinoTsu は、この[公平性](LINK_NEEDS_REPAIR) を重視しています。</>,
+            "カードは各ラウンドの終了後に必ずシャッフルされます。これにより、毎回公平なゲームプレイが保証されています。 CasinoTsu は、この[公平性](https://www.casinotsu.com/) を重視しています。</>,
           ],
         },
       ],
@@ -72,7 +72,7 @@ export const sideBetCity: GameShowPageContent = {
         {
           subheading: "Bitcoinカジノでのプレイ",
           paragraphs: [
-            "このゲームは、[ビットコイン](LINK_NEEDS_REPAIR) などの仮想通貨を利用できるカジノでも提供されています。仮想通貨カジノは、迅速な入出金や、より匿名性の高いプレイを求めるプレイヤーに人気があります。 CasinoTsu は、多様な<a href="https://casinotsu.com/payment" target="_blank" rel="noopener noreferrer">決済方法 に対応するカジノもご紹介しております。</>,
+            "このゲームは、[ビットコイン](https://www.casinotsu.com/crypto) などの仮想通貨を利用できるカジノでも提供されています。仮想通貨カジノは、迅速な入出金や、より匿名性の高いプレイを求めるプレイヤーに人気があります。 CasinoTsu は、多様な<a href="https://casinotsu.com/payment" target="_blank" rel="noopener noreferrer">決済方法 に対応するカジノもご紹介しております。</>,
           ],
         },
       ],
@@ -179,7 +179,7 @@ export const sideBetCity: GameShowPageContent = {
         {
           subheading: "BGMと効果音",
           paragraphs: [
-            "BGMも80年代を意識したサウンドトラックが使用されており、ゲームの雰囲気を一層盛り上げます。ディーラーの軽快なおしゃべりも、まるで当時のテレビ番組のようなエンターテイメント性を提供しますが、言語は主に英語です。 CasinoTsu は、[多言語対応](LINK_NEEDS_REPAIR) も期待したいところですが、現状でも十分なエンターテイメント性があると評価しています。</>,
+            "BGMも80年代を意識したサウンドトラックが使用されており、ゲームの雰囲気を一層盛り上げます。ディーラーの軽快なおしゃべりも、まるで当時のテレビ番組のようなエンターテイメント性を提供しますが、言語は主に英語です。 CasinoTsu は、[多言語対応](https://www.casinotsu.com/) も期待したいところですが、現状でも十分なエンターテイメント性があると評価しています。</>,
           ],
         },
       ],
@@ -200,7 +200,7 @@ export const sideBetCity: GameShowPageContent = {
         {
           subheading: "スマートフォン・タブレットでの動作",
           paragraphs: [
-            "サイド・ベット・シティは、エボリューションゲーミングの最新技術によって開発されているため、デスクトップ、スマートフォン、タブレットなど、あらゆるデバイスで快適にプレイできます。[モバイルカジノ](LINK_NEEDS_REPAIR) は、現代のプレイヤーにとって不可欠です。 CasinoTsu は、プレイヤーが場所を選ばずにゲームを楽しめることを高く評価しています。</>,
+            "サイド・ベット・シティは、エボリューションゲーミングの最新技術によって開発されているため、デスクトップ、スマートフォン、タブレットなど、あらゆるデバイスで快適にプレイできます。[モバイルカジノ](https://www.casinotsu.com/mobile) は、現代のプレイヤーにとって不可欠です。 CasinoTsu は、プレイヤーが場所を選ばずにゲームを楽しめることを高く評価しています。</>,
           ],
         },
         {
@@ -214,7 +214,7 @@ export const sideBetCity: GameShowPageContent = {
     {
       heading: "戦略・攻略法",
       paragraphs: [
-        "CasinoTsu は、ゲームをより楽しむための[戦略](LINK_NEEDS_REPAIR) や攻略法についても、正確な情報を提供することに努めます。</>,
+        "CasinoTsu は、ゲームをより楽しむための[戦略](https://www.casinotsu.com/) や攻略法についても、正確な情報を提供することに努めます。</>,
       ],
       subsections: [
         {
@@ -222,7 +222,7 @@ export const sideBetCity: GameShowPageContent = {
           bullets: [
             "**3カードハンドを狙う:** 3カードハンドのRTPは96.69%と、4つのベットオプションの中で最も高いため、最も有利な賭け方と言えます。 CasinoTsu は、この有利なベットを優先することをお勧めします。",
             "**ALL LOSEベットの活用:** ALL LOSEベットのRTPも96.29%と比較的高いので、リスク分散のために組み合わせるのも良いでしょう。",
-            "**複数ハンドへの同時ベット:** 複数のハンドに同時にベットすることは可能ですが、それぞれのベット額が初期投資額をカバーできるか慎重に検討する必要があります。特に、1:1の配当（ペアなど）は頻繁に発生するわけではないため、[資金管理](LINK_NEEDS_REPAIR) が重要になります。 CasinoTsu は、<a href="https://casinotsu.com/responsible-gambling" target="_blank" rel="noopener noreferrer">責任あるギャンブル の観点から、慎重なベットを推奨いたします。</>,
+            "**複数ハンドへの同時ベット:** 複数のハンドに同時にベットすることは可能ですが、それぞれのベット額が初期投資額をカバーできるか慎重に検討する必要があります。特に、1:1の配当（ペアなど）は頻繁に発生するわけではないため、[資金管理](https://www.casinotsu.com/) が重要になります。 CasinoTsu は、<a href="https://casinotsu.com/responsible-gambling" target="_blank" rel="noopener noreferrer">責任あるギャンブル の観点から、慎重なベットを推奨いたします。</>,
           ],
         },
         {
@@ -282,7 +282,7 @@ export const sideBetCity: GameShowPageContent = {
     },
     {
       question: "どのベットが最も有利ですか？",
-      answer: "RTP（返還率）が最も高いのは3カードハンド（96.69%）です。ALL LOSEベットも比較的高いRTPを持っています。 CasinoTsu は、[RTP](LINK_NEEDS_REPAIR) を考慮したベット選択を推奨いたします。</>,
+      answer: "RTP（返還率）が最も高いのは3カードハンド（96.69%）です。ALL LOSEベットも比較的高いRTPを持っています。 CasinoTsu は、[RTP](https://www.casinotsu.com/guides/rtp) を考慮したベット選択を推奨いたします。</>,
     },
     {
       question: "サイドベットはありますか？",
